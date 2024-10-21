@@ -2,8 +2,12 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 // components
-import Footer from "./components/Footer";
+import SearchBar from "./components/SearchBar";
 import Table from "./components/Table";
+import Footer from "./components/Footer";
+
+// lessons
+import HomePage from "./pages/HomePage";
 import Lesson1 from "./pages/Lesson1";
 import Lesson2 from "./pages/Lesson2";
 import Lesson3 from "./pages/Lesson3";
@@ -32,8 +36,10 @@ function App() {
   return (
     <Router>
       <div>
+        <SearchBar />
         <Table />
         <Routes>
+          <Route path="/" element={<HomePage />} />
           <Route path="/lesson1" element={<Lesson1 />} />
           <Route path="/lesson2" element={<Lesson2 />} />
           <Route path="/lesson3" element={<Lesson3 />} />

@@ -4,6 +4,7 @@ function Table() {
   return (
     <nav>
       <ul>
+        <li><Link to="/">Home</Link></li>
         <li><Link to="/lesson1">Lesson 1: New Friends</Link></li>
         <li><Link to="/lesson2">Lesson 2: Shopping</Link></li>
         <li><Link to="/lesson3">Lesson 3: Making a Date</Link></li>
