@@ -63,10 +63,37 @@ function Header() {
     };
   }, []);
 
+  const handleResultClick = () => {
+    setIsVisible(false);
+    // setQuery('');
+  };
+
+  // Header Scroll
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      const header = document.querySelector(".header");
+      if (currentScrollY > lastScrollY) {
+        header.classList.add("scroll-hidden");
+      } else {
+        header.classList.remove("scroll-hidden");
+      }
+      lastScrollY = currentScrollY;
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <nav className="header">
+    <header className="header">
       <div className="header-title">
-        <h1>Genki Notes</h1>
+        <Link to="/">
+          <h1>Genki Notes</h1>
+        </Link>
       </div>
       <div className="searchbar" ref={searchRef}>
         <input
@@ -83,8 +110,10 @@ function Header() {
                 <Link
                   to={`${item.path}#${item.sectionId}`}
                   className="search-item"
+                  key={index}
+                  onClick={handleResultClick}
                 >
-                  <li key={index}>{item.sectionTitle}</li>
+                  <li>{item.sectionTitle}</li>
                 </Link>
               ))
             ) : (
@@ -95,7 +124,7 @@ function Header() {
       </div>
       <img className="icon icon-info" src={iconInfo} alt="info-icon" />
       <img className="icon icon-github" src={iconGithub} alt="icon-github" />
-    </nav>
+    </header>
   );
 }
 

@@ -1,0 +1,128 @@
+.sidebar {
+  position: fixed;
+  left: 0;
+  width: 250px;
+  height: 100vh;
+  background-color: #f8f9fa;
+  overflow-y: auto;
+  border-right: 1px solid #e0e0e0;
+  transition: left 0.3s ease;
+}
+
+.sidebar.visible {
+  left: 0;
+}
+
+.sidebar h2 {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #333;
+  padding-left: 2rem;
+  padding-right: 1rem;
+}
+
+.sidebar-toggle {
+  display: none;
+}
+
+.sidebar-toggle:hover {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 60%;
+    height: 100vh;
+    left: -100%;
+  }
+
+  .sidebar.visible {
+    top: 0;
+    left: 0;
+  }
+
+  .sidebar-toggle {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 20px;
+    background-color: #808080;
+    z-index: 10;
+    cursor: pointer;
+    border: none;
+    opacity: 0.6;
+  }
+
+  .sidebar-toggle:hover {
+    opacity: 1;
+  }
+
+  .hamburger-icon {
+    position: fixed;
+    left: 12em;
+    top: 1em;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* background-color: #000; */
+  }
+
+  .hamburger-icon::before,
+  .hamburger-icon::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+  }
+}
+
+
+/* Table of contents styles */
+.toc ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.toc button {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  text-align: left;
+  width: 100%;
+  padding: 10px 1em 10px 2em;
+  cursor: pointer;
+  color: #007bff;
+}
+
+.toc button:hover {
+  background-color: #f0f0f0;
+}
+
+/* Nested list for dropdowns */
+.nested {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.nested li {
+  margin: 5px 0;
+}
+
+.nested li a {
+  color: #333;
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.nested li a:hover {
+  background-color: #e0e0e0;
+  border-radius: 5px;
+}
