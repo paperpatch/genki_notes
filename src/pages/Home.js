@@ -1,4 +1,4 @@
-function HomePage() {
+function Home() {
   return (
     <div>
       <h1>Welcome to Genki Notes</h1>
@@ -7,4 +7,4 @@ function HomePage() {
   );
 }
 
-export default HomePage;
+export default Home;

@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #f8f8f8;
+}
+
+.header-title h1 {
+  font-size: 2rem;
+}
+
+.searchbar input {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.header-info {
+  font-size: 1.5rem;
+}
