@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import lessons from "../../assets/data/lessons";
+import { iconGithub, iconInfo } from "../../assets/images/icons";
 import "./Header.css";
 
 function Header() {
@@ -26,6 +27,12 @@ function Header() {
   const handleSearch = (e) => {
     setQuery(e.target.value.toLowerCase());
     setIsVisible(true);
+  };
+
+  const handleSearchBarClick = () => {
+    if (!isVisible && query.trim()) {
+      setIsVisible(true);
+    }
   };
 
   const filteredContent = allContent.filter(
@@ -66,17 +73,19 @@ function Header() {
           type="text"
           placeholder="Search lessons..."
           value={query}
+          onClick={handleSearchBarClick}
           onChange={handleSearch}
         />
         {query && isVisible && (
           <ul>
             {filteredContent.length > 0 ? (
               filteredContent.map((item, index) => (
-                <li key={index}>
-                  <Link to={`${item.path}#${item.sectionId}`}>
-                    {item.sectionTitle}
-                  </Link>
-                </li>
+                <Link
+                  to={`${item.path}#${item.sectionId}`}
+                  className="search-item"
+                >
+                  <li key={index}>{item.sectionTitle}</li>
+                </Link>
               ))
             ) : (
               <p>No results found</p>
@@ -84,9 +93,8 @@ function Header() {
           </ul>
         )}
       </div>
-      <div className="header-info">
-        <span className="info-icon">INFORMATION</span>
-      </div>
+      <img className="icon icon-info" src={iconInfo} alt="info-icon" />
+      <img className="icon icon-github" src={iconGithub} alt="icon-github" />
     </nav>
   );
 }

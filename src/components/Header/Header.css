@@ -45,7 +45,37 @@
   background-color: #f1f1f1;
 }
 
+.search-item {
+  display: block;
+  padding: 0px;
+  text-decoration: none;
+  color: black;
+  background-color: transparent;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.search-item:hover {
+  background-color: #f0f0f0;
+  color: #007bff;
+  cursor: pointer;
+}
+
 .header-info {
   font-size: 1.5rem;
   cursor: pointer;
+}
+
+.icon {
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+.icon-info {
+  width: 37px;
+  height: 37px;
+}
+
+.icon-github {
+  width: 40px;
+  height: 40px;
 }
