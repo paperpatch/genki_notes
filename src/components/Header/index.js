@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import lessons from "../../assets/data/lessons";
-import { iconGithub, iconInfo } from "../../assets/images/icons";
+import { iconGithub, iconGear } from "../../assets/images/icons";
 import "./Header.css";
 
 function Header() {
@@ -122,8 +122,14 @@ function Header() {
           </ul>
         )}
       </div>
-      <img className="icon icon-info" src={iconInfo} alt="info-icon" />
-      <img className="icon icon-github" src={iconGithub} alt="icon-github" />
+      <a
+        href="https://www.github.com/paperpatch/genki_notes"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img className="icon icon-github" src={iconGithub} alt="icon-github" />
+      </a>
+      <img className="icon icon-gear" src={iconGear} alt="info-gear" />
     </header>
   );
 }

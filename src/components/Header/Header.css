@@ -24,7 +24,7 @@
 .searchbar {
   position: relative;
   flex: 1;
-  margin-left: 20px;
+  margin-left: 5em;
   margin-right: 5rem;
 }
 
@@ -44,11 +44,7 @@
   padding: 0;
   margin: 0;
   border: 1px solid #ddd;
-  z-index: 100;
-}
-
-.searchbar a {
-  z-index: 100;
+  z-index: 999;
 }
 
 .searchbar li {
@@ -80,7 +76,7 @@
   cursor: pointer;
 }
 
-.icon-info {
+.icon-gear {
   width: 37px;
   height: 37px;
 }
@@ -116,6 +112,10 @@
     margin: 0.5rem 0;
   }
 
+  .searchbar ul {
+    width: 90%;
+  }
+
   .icon {
     position: absolute;
     top: 3px;
@@ -124,7 +124,7 @@
     height: 30px;
   }
 
-  .icon-info {
+  .icon-github {
     right: 3em;
   }
 }

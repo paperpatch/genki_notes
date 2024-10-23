@@ -49,7 +49,6 @@
     height: 100vh;
     width: 20px;
     background-color: #808080;
-    z-index: 10;
     cursor: pointer;
     border: none;
     opacity: 0.6;
@@ -57,27 +56,6 @@
 
   .sidebar-toggle:hover {
     opacity: 1;
-  }
-
-  .hamburger-icon {
-    position: fixed;
-    left: 12em;
-    top: 1em;
-    width: 25px;
-    height: 25px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    /* background-color: #000; */
-  }
-
-  .hamburger-icon::before,
-  .hamburger-icon::after {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 2px;
-    background-color: #000;
   }
 }
 
