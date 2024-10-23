@@ -1,0 +1,158 @@
+/* Basic Modal Styling */
+.settings-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.settings-modal h2 {
+  margin-top: 0;
+}
+
+.setting {
+  margin-bottom: 1rem;
+}
+
+.setting label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.settings-modal select,
+.settings-modal input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.settings-modal button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.settings-modal button:hover {
+  background-color: #0056b3;
+}
+
+/* Dark Mode Slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/* Font Size Controls */
+.font-size-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.font-size-value {
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+/* Font Sizes */
+html.font-size--2 {
+  font-size: 12px;
+}
+
+html.font-size--1 {
+  font-size: 14px;
+}
+
+html.font-size-0 {
+  font-size: 16px; /* Regular */
+}
+
+html.font-size-1 {
+  font-size: 18px;
+}
+
+html.font-size-2 {
+  font-size: 20px;
+}
+
+/* Font Family */
+html.arial {
+  font-family: 'arial', 'arial' !important;
+}
+
+html.times {
+  font-family: 'times', 'times' !important;
+}
+
+html.courier {
+  font-family: 'courier', 'courier' !important;
+}
+
+html.comicsansms {
+  font-family: 'comic sans ms', 'comic sans ms' !important;
+}
+
+html.impact {
+  font-family: 'impact', 'impact' !important;
+}

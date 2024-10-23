@@ -71,14 +71,32 @@
   cursor: pointer;
 }
 
+/* Dark Mode for Search Bar */
+
+body.dark-mode .searchbar {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode .searchbar input {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode .search-item:hover {
+  background-color: #333;
+}
+
+/* Icons */
+
 .icon {
   margin: 0.5rem;
   cursor: pointer;
 }
 
 .icon-gear {
-  width: 37px;
-  height: 37px;
+  width: 40px;
+  height: 40px;
 }
 
 .icon-github {
