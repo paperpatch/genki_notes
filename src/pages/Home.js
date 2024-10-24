@@ -1,3 +1,5 @@
+import "./Pages.css";
+
 function Home() {
   return (
     <div>

@@ -1,15 +1,15 @@
 /* Basic Modal Styling */
 .settings-modal {
   position: fixed;
-  top: 50%;
-  left: 50%;
+  top: 17em;
+  right: -140px;
   transform: translate(-50%, -50%);
   width: 300px;
   background-color: #fff;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
+  z-index: 100;
 }
 
 .settings-modal h2 {
@@ -46,6 +46,14 @@
 
 .settings-modal button:hover {
   background-color: #0056b3;
+}
+
+/* Dark Mode CSS */
+
+body.dark-mode .settings-modal  {
+  background-color: #1b1b1c;
+  color: #e0e0e0;
+  border: 1px solid #323236;
 }
 
 /* Dark Mode Slider */

@@ -24,7 +24,7 @@
 .searchbar {
   position: relative;
   flex: 1;
-  margin-left: 5em;
+  margin-left: 7em;
   margin-right: 5rem;
 }
 
@@ -39,7 +39,7 @@
   width: 100%;
   max-height: 200px;
   overflow-y: auto;
-  background-color: white;
+  background-color: #ddd;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -73,18 +73,18 @@
 
 /* Dark Mode for Search Bar */
 
-body.dark-mode .searchbar {
-  background-color: #121212;
-  color: #e0e0e0;
+body.dark-mode .header {
+  background-color: #111112;
 }
 
-body.dark-mode .searchbar input {
-  background-color: #121212;
+body.dark-mode .searchbar,
+body.dark-mode .searchbar input,
+body.dark-mode .search-item:hover,
+body.dark-mode .searchbar ul,
+body.dark-mode .searchbar li
+{
+  background-color: #3a3d42;
   color: #e0e0e0;
-}
-
-body.dark-mode .search-item:hover {
-  background-color: #333;
 }
 
 /* Icons */

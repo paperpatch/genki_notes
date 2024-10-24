@@ -14,7 +14,7 @@ body.dark-mode {
 }
 
 body.dark-mode a {
-  color: #bb86fc;
+  color: #e0e0e0;
 }
 
 code {
@@ -33,7 +33,7 @@ ul {
 .content {
   flex-grow: 1;
   padding: 20px;
-  margin-left: 255px;
+  margin-left: 300px;
   background-color: #ffffff;
 }
 
