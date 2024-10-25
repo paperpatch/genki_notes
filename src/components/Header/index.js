@@ -1,7 +1,12 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import lessons from "../../assets/data/lessons";
-import { iconGithub, iconGear } from "../../assets/images/icons";
+import {
+  iconGear,
+  iconGithub,
+  iconGearDark,
+  iconGithubDark,
+} from "../../assets/images/icons";
 import "./Header.css";
 import SettingsModal from "../Settings";
 
@@ -10,6 +15,7 @@ function Header() {
   const [allContent, setAllContent] = useState([]);
   const [isVisible, setIsVisible] = useState(false);
   const [isSettingsModalVisible, setIsSettingsModalVisible] = useState(false);
+  const [darkMode, setDarkMode] = useState(false);
   const searchRef = useRef(null);
 
   // Searchbar
@@ -96,19 +102,21 @@ function Header() {
   };
 
   const handleSettingsChange = (settings) => {
-    localStorage.setItem('settings', JSON.stringify(settings));
+    localStorage.setItem("settings", JSON.stringify(settings));
+    setDarkMode(settings.darkMode);
   };
 
   useEffect(() => {
-    const savedSettings = JSON.parse(localStorage.getItem('settings'));
-    if(savedSettings) {
+    const savedSettings = JSON.parse(localStorage.getItem("settings"));
+    if (savedSettings) {
       if (savedSettings.darkMode) {
-        document.body.classList.add('dark-mode');
+        document.body.classList.add("dark-mode");
       }
       document.documentElement.classList.add(savedSettings.fontSize);
       document.documentElement.classList.add(savedSettings.fontFamily);
+      setDarkMode(savedSettings.darkMode);
     }
-  })
+  }, []);
 
   return (
     <header className="header">
@@ -149,11 +157,15 @@ function Header() {
         target="_blank"
         rel="noreferrer"
       >
-        <img className="icon icon-github" src={iconGithub} alt="icon-github" />
+        <img
+          className="icon icon-github"
+          src={darkMode ? iconGithubDark : iconGithub}
+          alt="icon-github"
+        />
       </a>
       <img
         className="icon icon-gear"
-        src={iconGear}
+        src={darkMode ? iconGearDark : iconGear}
         alt="settings-gear"
         onClick={toggleSettingsModal}
       />

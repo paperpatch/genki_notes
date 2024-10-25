@@ -21,18 +21,6 @@
   padding-right: 1rem;
 }
 
-/* Dark Mode */
-
-body.dark-mode .sidebar {
-  background-color: #111112;
-}
-
-body.dark-mode .sidebar h2,
-body.dark-mode .sidebar button,
-body.dark-mode .sidebar a {
-  color: #ffffff;
-}
-
 .sidebar-toggle {
   display: none;
 }

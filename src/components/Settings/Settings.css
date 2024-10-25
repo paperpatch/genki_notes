@@ -48,15 +48,7 @@
   background-color: #0056b3;
 }
 
-/* Dark Mode CSS */
-
-body.dark-mode .settings-modal  {
-  background-color: #1b1b1c;
-  color: #e0e0e0;
-  border: 1px solid #323236;
-}
-
-/* Dark Mode Slider */
+/* Slider for Dark Mode */
 .switch {
   position: relative;
   display: inline-block;
@@ -163,4 +155,46 @@ html.comicsansms {
 
 html.impact {
   font-family: 'impact', 'impact' !important;
+}
+
+/* Dark Mode for Body */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Dark Mode for Settings */
+
+body.dark-mode .settings-modal  {
+  background-color: #1b1b1c;
+  color: #e0e0e0;
+  border: 1px solid #323236;
+}
+
+/* Dark Mode for Search Bar */
+
+body.dark-mode .header {
+  background-color: #111112;
+}
+
+body.dark-mode .searchbar,
+body.dark-mode .searchbar input,
+body.dark-mode .search-item:hover,
+body.dark-mode .searchbar ul,
+body.dark-mode .searchbar li
+{
+  background-color: #3a3d42;
+  color: #e0e0e0;
+}
+
+/* Dark Mode for Sidebar */
+
+body.dark-mode .sidebar {
+  background-color: #111112;
+}
+
+body.dark-mode .sidebar h2,
+body.dark-mode .sidebar button,
+body.dark-mode .sidebar a {
+  color: #ffffff;
 }
