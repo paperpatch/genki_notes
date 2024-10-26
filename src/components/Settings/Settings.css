@@ -117,23 +117,23 @@ input:checked + .slider:before {
 
 /* Font Sizes */
 html.font-size--2 {
-  font-size: 12px;
-}
-
-html.font-size--1 {
   font-size: 14px;
 }
 
+html.font-size--1 {
+  font-size: 16px;
+}
+
 html.font-size-0 {
-  font-size: 16px; /* Regular */
+  font-size: 18px; /* Regular */
 }
 
 html.font-size-1 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 html.font-size-2 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 /* Font Family */
@@ -197,4 +197,11 @@ body.dark-mode .sidebar h2,
 body.dark-mode .sidebar button,
 body.dark-mode .sidebar a {
   color: #ffffff;
+}
+
+/* Dark Mode for Content */
+
+body.dark-mode .content {
+  background-color: #111112;
+  color: #e0e0e0
 }
