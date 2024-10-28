@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./Sidebar.css";
+import Footer from "../Footer";
 
 function Table() {
   const [genkiOneOpen, setGenkiOneOpen] = useState(true);
@@ -128,7 +129,7 @@ function Table() {
               <ul className="nested">
                 <li>
                   <Link to="/lesson13">
-                    Lesson 13: Looking for a Part-time Job
+                    Lesson 13: Looking for a Part-time Job fds afds afd safds afdsa fdsa fds
                   </Link>
                 </li>
                 <li>
@@ -165,6 +166,7 @@ function Table() {
             )}
           </li>
         </ul>
+        <Footer />
       </nav>
     </>
   );
