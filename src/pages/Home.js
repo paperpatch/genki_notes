@@ -6,8 +6,7 @@ function Home() {
       <h1>Welcome to Genki Notes</h1>
       <p>
         This website serves as a personal summary and review of the{" "}
-        <strong>Genki I</strong>
-        and <strong>Genki II</strong> textbooks, which are widely recognized as
+        <strong>Genki I</strong> and <strong>Genki II</strong> textbooks, which are widely recognized as
         core resources for learning Japanese. These summaries provide a
         streamlined reference to the foundational grammar, vocabulary, and key
         phrases covered in the textbooks, offering a convenient way to refresh
