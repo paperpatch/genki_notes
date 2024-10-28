@@ -129,7 +129,7 @@ function Table() {
               <ul className="nested">
                 <li>
                   <Link to="/lesson13">
-                    Lesson 13: Looking for a Part-time Job fds afds afd safds afdsa fdsa fds
+                    Lesson 13: Looking for a Part-time Job
                   </Link>
                 </li>
                 <li>
