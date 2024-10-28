@@ -71,22 +71,6 @@
   cursor: pointer;
 }
 
-/* Dark Mode for Search Bar */
-
-body.dark-mode .header {
-  background-color: #111112;
-}
-
-body.dark-mode .searchbar,
-body.dark-mode .searchbar input,
-body.dark-mode .search-item:hover,
-body.dark-mode .searchbar ul,
-body.dark-mode .searchbar li
-{
-  background-color: #3a3d42;
-  color: #e0e0e0;
-}
-
 /* Icons */
 
 .icon {
