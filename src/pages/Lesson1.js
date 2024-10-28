@@ -32,8 +32,8 @@ function Lesson1() {
           1.3 Noun<sub>1</sub> の Noun<sub>2</sub>
         </h3>
         <p>の (pronounced no) is a particle that connects two noun.</p>
-        <p>Can use <i>の</i> like the posessive (Example: Takeshi's).</p>
-        <p>Can also mean "of X", or "of the "Y".</p>
+        <p>Can use の like the posessive (Example: Takeshi's).</p>
+        <p>Can also mean "of X", or "of the Y".</p>
         <p>Similar to Chinese 的.</p>
       </section>
     </div>
