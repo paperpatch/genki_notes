@@ -17,6 +17,7 @@ function Header() {
   const [isSettingsModalVisible, setIsSettingsModalVisible] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
   const searchRef = useRef(null);
+  const settingsModalRef = useRef(null);
 
   // Searchbar
   useEffect(() => {
@@ -54,11 +55,18 @@ function Header() {
       if (searchRef.current && !searchRef.current.contains(e.target)) {
         setIsVisible(false);
       }
+      if (
+        settingsModalRef.current &&
+        !settingsModalRef.current.contains(e.target)
+      ) {
+        setIsSettingsModalVisible(false);
+      }
     };
 
     const handleEscapePress = (e) => {
       if (e.key === "Escape") {
         setIsVisible(false);
+        setIsSettingsModalVisible(false);
       }
     };
 
@@ -169,11 +177,15 @@ function Header() {
         alt="settings-gear"
         onClick={toggleSettingsModal}
       />
-      <SettingsModal
-        isVisible={isSettingsModalVisible}
-        onClose={toggleSettingsModal}
-        onSettingsChange={handleSettingsChange}
-      />
+      {isSettingsModalVisible && (
+        <div ref={settingsModalRef}>
+          <SettingsModal
+            isVisible={isSettingsModalVisible}
+            onClose={toggleSettingsModal}
+            onSettingsChange={handleSettingsChange}
+          />
+        </div>
+      )}
     </header>
   );
 }
