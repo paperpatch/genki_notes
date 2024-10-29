@@ -45,7 +45,9 @@ function Lesson2() {
         <h3>2.4: だれの Noun</h3>
         <p>How to ask who something belongs to</p>
         <p>だれ = Who</p>
-        <p>だれの = Whose (with the posessive term <em>no</em>)</p>
+        <p>
+          だれの = Whose (with the posessive term <em>no</em>)
+        </p>
         <p>Example:</p>
         <p>
           これは だれの かばんですか <br />
@@ -64,7 +66,7 @@ function Lesson2() {
       </section>
 
       <section id="section6">
-        <h3>2.5: Noun じゃないです</h3>
+        <h3>2.6: Noun じゃないです</h3>
         <p>
           To negate a statement, you replace <em>desu</em> with{" "}
           <em>ja nai desu</em>
@@ -75,11 +77,38 @@ function Lesson2() {
           conversations).
         </p>
         <p>
-          じゃ is a contraction of <em>de wa</em>, so you might find the more
-          formal terms in the following:
+          <strong>じゃ</strong> is a contraction of <em>de wa</em>, so you might
+          find the more formal terms in the following:
         </p>
-        <p>A は X じゃありません。 (more formal speech style)</p>
-        <p>A は X でわありません。 (formal for writing)</p>
+        <p>
+          A は X じゃありません。 (more formal speech style) <br />A は X
+          でわありません。 (formal for writing)
+        </p>
+      </section>
+
+      <section id="section7">
+        <h3>2.7: ~ね / ~よ</h3>
+        <p>
+          Statements often end with sentence enders with the tags <em>ne</em> or{" "}
+          <em>yo</em>
+        </p>
+        <p>
+          You use <strong>ね</strong> (ne) if you are seeking the listener's
+          confirmation or agreement.
+        </p>
+        <p>
+          A は X です<strong>ね</strong>。(A is X right?) <br />B は Y です
+          <strong>ね</strong>。(B is Y isn't it?)
+        </p>
+        <p>
+          If you want to tell the listener that you are confident and the
+          listener to believe it, you can use よ (yo).
+        </p>
+        <p>
+          A は X じゃないです<strong>よ</strong>。 (Let me assure you. A is not
+          X.) <br />B は Y ですよ。 (B is Y, I tell you.)
+        </p>
+        <p></p>
       </section>
     </div>
   );
