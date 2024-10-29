@@ -1,0 +1,39 @@
+table {
+  text-align: left;
+  border-collapse: collapse;
+  border: 3px solid #ED7014;
+  padding: 10px;
+  margin-top: 0;
+  margin-left: 2em;
+  width: 90%;
+}
+
+.table-header {
+  color: #ED7014;
+  padding-left: 10px;
+}
+
+th {
+  vertical-align: middle;
+  padding: 6px 1.5em 6px;
+  border: none;
+}
+
+td {
+  vertical-align: middle;
+  padding: 6px 1.5em 6px;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  table {
+    margin-left: 0;
+  }
+  th {
+    padding: 5px 1em 5px;
+  }
+
+  td {
+    padding: 5px 1em 5px;
+  }
+}
