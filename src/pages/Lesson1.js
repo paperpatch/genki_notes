@@ -1,19 +1,12 @@
-import React, { useEffect } from "react";
+import React from "react";
+import { useSmoothScrollToSection } from "../utils/Helpers";
 
 function Lesson1() {
-  useEffect(() => {
-    const hash = window.location.hash;
-    if (hash) {
-      const element = document.getElementById(hash.substring(1));
-      if (element) {
-        element.scrollIntoView({ behavior: "smooth", block: "start" });
-      }
-    }
-  }, []);
+  useSmoothScrollToSection();
 
   return (
     <div>
-      <h2>Lesson 1: New Friends</h2>
+      <h2>Lesson 1: あたらしいともだち (New Friends)</h2>
       <section id="section1">
         <h3>1.1: X は Y です</h3>
         <p>です (noun) = It is...</p>
