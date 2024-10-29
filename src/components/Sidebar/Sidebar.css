@@ -3,7 +3,6 @@
   flex-direction: column;
   position: relative;
   left: 0;
-  height: 100%;
   min-width: 300px;
   max-width: 300px;
   min-height: calc(100vh - 100px);
@@ -35,7 +34,7 @@
 @media (max-width: 768px) {
   .sidebar {
     width: 60%;
-    height: 100vh;
+    min-height: 100%;
     left: -100%;
   }
 
