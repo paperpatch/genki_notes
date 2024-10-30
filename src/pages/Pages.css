@@ -1,4 +1,4 @@
-table {
+.table-list {
   text-align: left;
   border-collapse: collapse;
   border: 3px solid #ED7014;
@@ -13,27 +13,53 @@ table {
   padding-left: 10px;
 }
 
-th {
+.table-list th {
   vertical-align: middle;
   padding: 6px 1.5em 6px;
   border: none;
 }
 
-td {
+.table-list td {
   vertical-align: middle;
   padding: 6px 1.5em 6px;
   border: none;
+}
+
+.table-short {
+  table-layout: fixed;
+  text-align: left;
+  padding: 5px;
+  margin-top: 0;
+  margin-left: 2em;
+  width: 90%;
+}
+
+.indent {
+  margin-left: 1em;
+}
+
+.tab {
+  margin-left: 3em;
+}
+
+.text-orange {
+  color: #ED7014;
+  font-weight: 600;
 }
 
 @media (max-width: 768px) {
-  table {
+  .table-list {
     margin-left: 0;
   }
-  th {
+  .table-list th {
     padding: 5px 1em 5px;
   }
 
-  td {
+  .table-list td {
     padding: 5px 1em 5px;
+  }
+
+  .tab {
+    margin-left: 2em;
   }
 }
