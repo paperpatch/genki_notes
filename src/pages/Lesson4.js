@@ -13,7 +13,7 @@ function Lesson4() {
           <p>があります / います means "there is / are X".</p>
           <p>Use があります for non-living things.</p>
           <p>Use います for living things.</p>
-          <p>It's accompanied by the particle が, isntead of は.e</p>
+          <p>It's accompanied by the particle が, instead of は.</p>
           <p className="tab">
             テレビがありません。
             <br />I don't have a TV.
@@ -21,10 +21,71 @@ function Lesson4() {
         </div>
       </section>
 
-      <section id="section2">
+      <section id="section2" className="location-words">
         <h3>4.2: Describing Where Things Are</h3>
         <div className="indent">
-          <p></p>
+          <p>Describe the location of an item relative to another item.</p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  Location Words
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowSpan="9">X は Y の</td>
+                <td>みぎ</td>
+                <td rowSpan="9">です。</td>
+                <td rowSpan="9">X は</td>
+                <td>to the right of</td>
+                <td rowSpan="9">Y.</td>
+              </tr>
+              <tr>
+                <td>ひだり</td>
+                <td>to the left of</td>
+              </tr>
+              <tr>
+                <td>まえ</td>
+                <td>in front of</td>
+              </tr>
+              <tr>
+                <td>うし</td>
+                <td>behind</td>
+              </tr>
+              <tr>
+                <td>なか</td>
+                <td>inside</td>
+              </tr>
+              <tr>
+                <td>うえ</td>
+                <td>on/above</td>
+              </tr>
+              <tr>
+                <td>した</td>
+                <td>under/beneath</td>
+              </tr>
+              <tr>
+                <td>ちかく</td>
+                <td>near</td>
+              </tr>
+              <tr>
+                <td>となり</td>
+                <td>next to</td>
+              </tr>
+              <tr>
+                <td colSpan="6">
+                  X は Y と Z の あいだです。X is between Y and Z
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            銀行は図書館の隣です
+            <br />
+            The bank is next to the library.
+          </p>
         </div>
       </section>
 
