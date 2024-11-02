@@ -82,7 +82,7 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            銀行は図書館の隣です
+            銀行は図書館の隣です。
             <br />
             The bank is next to the library.
           </p>
@@ -92,7 +92,42 @@ function Lesson4() {
       <section id="section3">
         <h3>4.3: Past Tense of です</h3>
         <div className="indent">
-          <p></p>
+          <p>The past tense of です (it is) becomes じゃないです (it was).</p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  です
+                </th>
+              </tr>
+              <tr>
+                <th> </th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Present</strong>
+                </td>
+                <td>~ です</td>
+                <td>~ じゃないです</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Past</strong>
+                </td>
+                <td>~ でした</td>
+                <td>~ じゃなかったです</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            あれは日本の映画じゃなかったです。
+            <br />
+            That was not a Japanese movie.
+          </p>
         </div>
       </section>
 
