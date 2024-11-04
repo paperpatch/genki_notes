@@ -134,7 +134,42 @@ function Lesson4() {
       <section id="section4">
         <h3>4.4: Past Tense of Verbs</h3>
         <div className="indent">
-          <p></p>
+          <p>Past tense forms of verbs end with ました.</p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  Verbs
+                </th>
+              </tr>
+              <tr>
+                <th> </th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>Present</strong>
+                </td>
+                <td>~ ます</td>
+                <td>~ ません</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Past</strong>
+                </td>
+                <td>~ ました</td>
+                <td>~ ませんでした</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            メリーさんはく時頃家に帰りました。
+            <br />
+            Mary returned home at about nine.
+          </p>
         </div>
       </section>
 
