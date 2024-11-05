@@ -176,7 +176,38 @@ function Lesson4() {
       <section id="section5">
         <h3>4.5: も</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can also use も when two or more people perform the same
+            activity. You can also use it when someone buys, sees, or eats two
+            or more things.
+          </p>
+          <p className="tab">
+            私は昨日京都に行きました。
+            <br />I went to Kyoto yesterday.
+          </p>
+          <p className="tab">
+            山下先生も昨日京都に行きました。
+            <br />
+            Professor Yamashita went to Kyoto yesterday, too.
+          </p>
+          <p>
+            You replace は or を with も, but with other particles such as に
+            and で, you keep them and follow them up with も.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>は / が / を</td>
+                <td>→</td>
+                <td>も</td>
+              </tr>
+              <tr>
+              <td>に / で / etc.</td>
+                <td>→</td>
+                <td>にも / でも / etc.</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
