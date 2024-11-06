@@ -202,7 +202,7 @@ function Lesson4() {
                 <td>も</td>
               </tr>
               <tr>
-              <td>に / で / etc.</td>
+                <td>に / で / etc.</td>
                 <td>→</td>
                 <td>にも / でも / etc.</td>
               </tr>
@@ -214,7 +214,29 @@ function Lesson4() {
       <section id="section6">
         <h3>4.6: 一時間</h3>
         <div className="indent">
-          <p></p>
+          <p>The duration of an activity is expressed with a bare noun.</p>
+          <p className="tab">
+            メリーさんはそこで たけしさんを<strong>一時間</strong>に待ちました。
+            <br />
+            Mary waited for Takeshi there for an hour.
+          </p>
+          <p>Use ぐらい after ~時間 for an approximate measurement.</p>
+          <p className="tab">
+            私は昨日 日本語を<strong>三時間ぐらい</strong>勉強しました。
+            <br />I studied Japanese for about three hours yesterday.
+          </p>
+          <p>
+            To say one hour an a half, you can add 半 immediately after ~時間.
+          </p>
+          <p className="tab">
+            昨日<strong>七時間半</strong>寝ました。
+            <br />
+            (I) slept for seven and a half hours last night.
+          </p>
+          <p>
+            You can combine 半 and ぐらい, where ぐらい comes last, as in
+            一時間半ぐらい.
+          </p>
         </div>
       </section>
 
