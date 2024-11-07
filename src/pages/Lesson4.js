@@ -82,7 +82,7 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            銀行は図書館の隣です。
+            銀行は図書館の<span class="underline-orange">となり</span>です。
             <br />
             The bank is next to the library.
           </p>
@@ -186,7 +186,8 @@ function Lesson4() {
             <br />I went to Kyoto yesterday.
           </p>
           <p className="tab">
-            山下先生も昨日京都に行きました。
+            山下先生<span class="underline-orange">も</span>
+            昨日京都に行きました。
             <br />
             Professor Yamashita went to Kyoto yesterday, too.
           </p>
@@ -216,20 +217,22 @@ function Lesson4() {
         <div className="indent">
           <p>The duration of an activity is expressed with a bare noun.</p>
           <p className="tab">
-            メリーさんはそこで たけしさんを<strong>一時間</strong>に待ちました。
+            メリーさんはそこで たけしさんを
+            <span class="underline-orange">一時間</span>に待ちました。
             <br />
             Mary waited for Takeshi there for an hour.
           </p>
           <p>Use ぐらい after ~時間 for an approximate measurement.</p>
           <p className="tab">
-            私は昨日 日本語を<strong>三時間ぐらい</strong>勉強しました。
+            私は昨日 日本語を<span class="underline-orange">三時間ぐらい</span>
+            勉強しました。
             <br />I studied Japanese for about three hours yesterday.
           </p>
           <p>
             To say one hour an a half, you can add 半 immediately after ~時間.
           </p>
           <p className="tab">
-            昨日<strong>七時間半</strong>寝ました。
+            昨日<span class="underline-orange">七時間半</span>寝ました。
             <br />
             (I) slept for seven and a half hours last night.
           </p>
@@ -252,14 +255,19 @@ function Lesson4() {
             <tbody>
               <tr>
                 <td rowSpan="2">京都で</td>
-                <td>写真を<span class="underline-orange">たくさん</span></td>
+                <td>
+                  写真を<span class="underline-orange">たくさん</span>
+                </td>
                 <td rowSpan="2">撮りました。</td>
               </tr>
               <tr>
-                <td><span class="underline-orange">たくさん</span>写真を</td>
+                <td>
+                  <span class="underline-orange">たくさん</span>写真を
+                </td>
               </tr>
             </tbody>
           </table>
+          <p>You can also use both these orders in ある and いる sentences.</p>
         </div>
       </section>
 

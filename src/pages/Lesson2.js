@@ -10,7 +10,7 @@ function Lesson2() {
       <section id="section1">
         <h3>2.1: これ / それ / あれ / どれ</h3>
         <div className="indent">
-          <p >これ = this</p>
+          <p>これ = this</p>
           <p>それ = that</p>
           <p>あれ = that one over there</p>
           <p>どれ = which one</p>
@@ -57,7 +57,8 @@ function Lesson2() {
           </p>
           <p>Example:</p>
           <p className="tab">
-            これは だれの かばんですか <br />
+            これは <span class="underline-orange">だれの</span> かばんですか{" "}
+            <br />
             Kore wa dare no kaban desu ka.
           </p>
         </div>
@@ -71,7 +72,10 @@ function Lesson2() {
             In Japanese, you can only put <em>mo</em> directly after the item.
           </p>
           <p className="tab">A は X です。 (A is X.)</p>
-          <p className="tab">B も X です。 (B too is X.)</p>
+          <p className="tab">
+            B <span class="underline-orange">も</span> X です。 (B{" "}
+            <span class="underline-orange">too</span> is X.)
+          </p>
         </div>
       </section>
 
@@ -92,8 +96,10 @@ function Lesson2() {
             might find the more formal terms in the following:
           </p>
           <p className="tab">
-            A は X じゃありません。 (more formal speech style) <br />A は X
-            でわありません。 (formal for writing)
+            A は X <span class="underline-orange">じゃありません</span>。 (more
+            formal speech style) <br />A は X
+            <span class="underline-orange">でわありません</span>。 (formal for
+            writing)
           </p>
         </div>
       </section>

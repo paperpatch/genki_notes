@@ -159,23 +159,23 @@ function Lesson3() {
             or affected by, the event.
           </p>
           <p className="tab">
-            コーヒー<strong>を</strong>飲みます。
+            コーヒー<span class="underline-orange">を</span>飲みます。
             <br />I drink coffee.
           </p>
           <p>で indicates where event described by the verb takes place.</p>
           <p className="tab">
-            図書館<strong>で</strong>本を読みます。
+            図書館<span class="underline-orange">で</span>本を読みます。
             <br />I will read books in the library.
           </p>
           <p>に has many meanings, but usually means:</p>
           <p className="indent">(1) Goal of movement</p>
           <p className="tab">
-            今日学校に行きません。
+            今日学校<span class="underline-orange">に</span>行きません。
             <br />I will not go to school today.
           </p>
           <p className="indent">(2) Time (at which an event takes place)</p>
           <p className="tab">
-            日曜日に京都に行きます。
+            日曜日<span class="underline-orange">に</span>京都に行きます。
             <br />I will go to Kyoto on Sunday.
           </p>
           <p>
@@ -183,7 +183,7 @@ function Lesson3() {
             movement, but not with time reference.{" "}
           </p>
           <p className="tab">
-            家へ帰ります。
+            家<span class="underline-orange">へ</span>帰ります。
             <br />I will return home.
           </p>
         </div>
@@ -194,7 +194,7 @@ function Lesson3() {
         <div className="indent">
           <p>Use に for days of week and numerical time expressions.</p>
           <p className="tab">
-            日曜日に行きます。
+            <span class="underline-orange">日曜日に</span>行きます。
             <br />I will go on Sunday.
           </p>
           <p>
@@ -202,7 +202,7 @@ function Lesson3() {
             "tomorrow"
           </p>
           <p className="tab">
-            明日来ます。
+            <span class="underline-orange">明日</span>来ます。
             <br />I will come tomorrow.
           </p>
         </div>
@@ -232,7 +232,7 @@ function Lesson3() {
           <p>時々 (sometimes)</p>
           <p>全然 (never)</p>
           <p className="tab">
-            私は時々図書館に行きます。
+            私は<span class="underline-orange">時々</span>図書館に行きます。
             <br />I sometimes go to the library.
           </p>
         </div>
@@ -276,7 +276,8 @@ function Lesson3() {
             The particle は puts forward the item that you want to talk about.
           </p>
           <p className="tab">
-            メアリさん, 週末<strong>は</strong>大抵 何をしますか。
+            メアリさん, <span class="underline-orange">週末は</span>大抵
+            何をしますか。
             <br />
             Mary, what do you usually do on the weekend?
           </p>
@@ -284,7 +285,7 @@ function Lesson3() {
             Paraphrased: Let's talk about weekends, what do you do on weekends?
           </p>
           <p className="tab">
-            今日<strong>は</strong>京都に行きます。
+            <span class="underline-orange">今日は</span>京都に行きます。
             <br />
             I'm going to Kyoto today.
           </p>

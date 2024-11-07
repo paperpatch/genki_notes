@@ -20,7 +20,10 @@ function Lesson1() {
         <h3>1.2 : Question Sentences</h3>
         <div className="indent">
           <p>To ask a question, add a ka to です ={">"} ですか?.</p>
-          <p>なんですか (nan desu ka) = what is it?</p>
+          <p>
+            <span class="underline-orange">なん</span>ですか (nan desu ka) =
+            what is it?
+          </p>
         </div>
       </section>
 
