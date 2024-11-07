@@ -7,14 +7,11 @@
   position: sticky;
   top: 0;
   transition: opacity 0.3s ease;
+  z-index: 100;
 }
 
 .header a {
   text-decoration: none;
-}
-
-.header.scroll-hidden {
-  opacity: 0;
 }
 
 .header-title h1 {

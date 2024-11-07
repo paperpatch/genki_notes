@@ -84,26 +84,6 @@ function Header() {
     // setQuery('');
   };
 
-  // Header Scroll
-  useEffect(() => {
-    let lastScrollY = window.scrollY;
-
-    const handleScroll = () => {
-      const currentScrollY = window.scrollY;
-      const header = document.querySelector(".header");
-      if (currentScrollY > lastScrollY) {
-        header.classList.add("scroll-hidden");
-      } else {
-        header.classList.remove("scroll-hidden");
-      }
-      lastScrollY = currentScrollY;
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
-
   // Settings Modal
   const toggleSettingsModal = () => {
     setIsSettingsModalVisible(!isSettingsModalVisible);
