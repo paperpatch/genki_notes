@@ -243,7 +243,23 @@ function Lesson4() {
       <section id="section7">
         <h3>4.7: たくさん</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If you want to add a quantity word to the direct object of a
+            sentence, you can either place it before the noun, or after the
+            particle を.
+          </p>
+          <table className="table-short table-mini">
+            <tbody>
+              <tr>
+                <td rowSpan="2">京都で</td>
+                <td>写真を<span class="underline-orange">たくさん</span></td>
+                <td rowSpan="2">撮りました。</td>
+              </tr>
+              <tr>
+                <td><span class="underline-orange">たくさん</span>写真を</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
