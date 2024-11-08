@@ -272,9 +272,32 @@ function Lesson4() {
       </section>
 
       <section id="section8">
-        <h3>4.7: と</h3>
+        <h3>4.8: と</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The particle has two functions. One is to connect two nouns A and B.
+          </p>
+          <p className="tab">
+            日本語
+            <span class="underline-orange">と</span>英語を話します。
+            <br />I speak Japanese <span class="underline-orange">
+              and
+            </span>{" "}
+            English.
+          </p>
+          <p>
+            The other meaning of と is "together with". It describes <i>with</i>{" "}
+            whom you do something.
+          </p>
+          <p className="tab">
+            メリーさんはソラさん
+            <span class="underline-orange">と</span>韓国に行きます。
+            <br />
+            Mary will go to Korea <span class="underline-orange">
+              with
+            </span>{" "}
+            Sora.
+          </p>
         </div>
       </section>
     </div>
