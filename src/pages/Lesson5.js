@@ -89,47 +89,49 @@ function Lesson5() {
             this syllable change and we say かっこ
             <span className="underline-orange">よ</span>くないです.
           </p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  [Present] (irregular)
+                </th>
+              </tr>
+              <tr>
+                <th></th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>いい</td>
+                <td>いいです</td>
+                <td>
+                  <span className="underline-orange">よ</span>くないです
+                  <br />
+                  (or <span className="underline-orange">よ</span>くありません)
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            If you want to say things like "very hot", and "a littlehot", you
+            can add "degree adverbs" like すごく (extremely), とても (very) and
+            ちょっと (a little; slightly) before adjectives.
+          </p>
+          <p className="tab">
+            沖縄の海は<span className="underline-orange">とても</span>
+            きれいです。
+            <br />
+            The sea is very beautiful in Okinawa.
+          </p>
+          <p className="tab">
+            この部屋は<span className="underline-orange">ちょっと</span>
+            暑いです。
+            <br />
+            This room is a little hot.
+          </p>
         </div>
-        <table className="table-list">
-          <thead>
-            <tr>
-              <th colSpan="3" className="table-header">
-                [Present] (irregular)
-              </th>
-            </tr>
-            <tr>
-              <th></th>
-              <th>affirmative</th>
-              <th>negative</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>いい</td>
-              <td>いいです</td>
-              <td>
-                <span className="underline-orange">よ</span>くないです
-                <br />
-                (or <span className="underline-orange">よ</span>くありません)
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p>
-          If you want to say things like "very hot", and "a littlehot", you can
-          add "degree adverbs" like すごく (extremely), とても (very) and
-          ちょっと (a little; slightly) before adjectives.
-        </p>
-        <p className="tab">
-          沖縄の海は<span className="underline-orange">とても</span>きれいです。
-          <br />
-          The sea is very beautiful in Okinawa.
-        </p>
-        <p className="tab">
-          この部屋は<span className="underline-orange">ちょっと</span>暑いです。
-          <br />
-          This room is a little hot.
-        </p>
       </section>
 
       <section id="section2">
