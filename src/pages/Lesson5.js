@@ -10,8 +10,126 @@ function Lesson5() {
       <section id="section1">
         <h3>5.1: Adjectives (Present Tense)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Add です to both い-adjectives and な-adjectives for affirmative
+            present tense sentences.
+          </p>
+          <p>
+            In negative sentences, you replace the last い of an い-adjective
+            with くない. な-adjectives are just like nouns and you only need to
+            change です to じゃないです.
+          </p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  [Present]
+                </th>
+              </tr>
+              <tr>
+                <th></th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>い-adjectives</strong>
+                  <br />
+                  <span className="text-orange">e.g.</span> さむい
+                </td>
+                <td>
+                  さむい<span className="underline-orange">です</span>
+                  <br />
+                  It is cold.
+                </td>
+                <td>
+                  さむ<span className="underline-orange">くないです</span>
+                  <br />
+                  It is not cold.
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>な-adjectives</strong>
+                  <br />
+                  <span className="text-orange">e.g.</span> 元気 (な)
+                </td>
+                <td>
+                  元気<span className="underline-orange">です</span>
+                  <br />
+                  She is healthy.
+                </td>
+                <td>
+                  元気<span className="underline-orange">じゃないです</span>
+                  <br />
+                  She is not healthy.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            A: その本は面白いですか。
+            <br />
+            Is that book interesting?
+          </p>
+          <p className="tab">
+            B: いいえ, あまりおもしろくないです。
+            <br />
+            No, it is not very interesting.
+          </p>
+          <p>
+            One irregularity worth noticing is the adjective いい (good). The
+            first syllable of いい is changed to よ in all forms except the
+            dictionary form.
+          </p>
+          <p>
+            Compound adjectives like かっこいい that are built with いい follow
+            this syllable change and we say かっこ
+            <span className="underline-orange">よ</span>くないです.
+          </p>
         </div>
+        <table className="table-list">
+          <thead>
+            <tr>
+              <th colSpan="3" className="table-header">
+                [Present] (irregular)
+              </th>
+            </tr>
+            <tr>
+              <th></th>
+              <th>affirmative</th>
+              <th>negative</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>いい</td>
+              <td>いいです</td>
+              <td>
+                <span className="underline-orange">よ</span>くないです
+                <br />
+                (or <span className="underline-orange">よ</span>くありません)
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          If you want to say things like "very hot", and "a littlehot", you can
+          add "degree adverbs" like すごく (extremely), とても (very) and
+          ちょっと (a little; slightly) before adjectives.
+        </p>
+        <p className="tab">
+          沖縄の海は<span className="underline-orange">とても</span>きれいです。
+          <br />
+          The sea is very beautiful in Okinawa.
+        </p>
+        <p className="tab">
+          この部屋は<span className="underline-orange">ちょっと</span>暑いです。
+          <br />
+          This room is a little hot.
+        </p>
       </section>
 
       <section id="section2">
