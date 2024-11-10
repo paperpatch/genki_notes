@@ -137,7 +137,91 @@ function Lesson5() {
       <section id="section2">
         <h3>5.2: Adjectives (Past Tense)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            With い-adjectives, you change the last い to かったです in the
+            affirmative. In the negative, you only need to cdhange the present
+            tense くない to くなかったです.
+          </p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  [Past]
+                </th>
+              </tr>
+              <tr>
+                <th></th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <strong>い-adjectives</strong>
+                  <br />
+                  <span className="text-orange">e.g.</span> さむ
+                </td>
+                <td>
+                  さむい<span className="underline-orange">かったです</span>
+                  <br />
+                  It was cold.
+                </td>
+                <td>
+                  さむ<span className="underline-orange">くなかったです</span>
+                  <br />
+                  It was not cold.
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>な-adjectives</strong>
+                  <br />
+                  <span className="text-orange">e.g.</span> 元気 (な)
+                </td>
+                <td>
+                  元気<span className="underline-orange">でした</span>
+                  <br />
+                  She was healthy.
+                </td>
+                <td>
+                  元気<span className="underline-orange">じゃなかったです</span>
+                  <br />
+                  She was not healthy.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The い-adjective いい (good) is again irregular. Its first syllable
+            is changed to よ.
+          </p>
+          <table className="table-list">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  [Past] (irregular)
+                </th>
+              </tr>
+              <tr>
+                <th></th>
+                <th>affirmative</th>
+                <th>negative</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>いい</td>
+                <td>よかったです</td>
+                <td>
+                  <span className="underline-orange">よ</span>くなかったです
+                  <br />
+                  (or <span className="underline-orange">よ</span>
+                  くありませんでした)
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
