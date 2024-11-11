@@ -5,7 +5,149 @@ function Lesson6() {
       <section id="section1">
         <h3>6.1: Te-form</h3>
         <div className="indent">
-          <p></p>
+          <p>Te-forms are very important. Among its uses:</p>
+          <ul>
+            <li>making requests ("..., please.")</li>
+            <li>
+              forming a sentence that describes two events or activities. ("I
+              did this and did that.")
+            </li>
+            <li>giving and asking permission ("You may.../May I...?")</li>
+            <li>stating that something is foridden ("You must not...")</li>
+          </ul>
+          <p>
+            Te-forms conjugation paradigm is complex. There are separate rules
+            for ru-, u-, and irregular verbs. Furthermore, the rule for u-verbs
+            is divided into five sub-rules.
+          </p>
+          <table className="table-expand">
+            <tbody>
+              <tr>
+                <th rowSpan="1" className="table-header">
+                  Ru-verbs
+                </th>
+                <td>る</td>
+                <td>→</td>
+                <td>て</td>
+                <td></td>
+                <td>食べる</td>
+                <td>→</td>
+                <td>食べて</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-orange"></td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <th rowSpan="14" className="table-header">
+                  U-verbs with final
+                </th>
+                <td>う</td>
+                <td rowSpan="3">→</td>
+                <td rowSpan="3">って</td>
+                <td rowSpan="3"></td>
+                <td>会う</td>
+                <td rowSpan="3">→</td>
+                <td>会って</td>
+              </tr>
+              <tr>
+                <td>つ</td>
+                <td>待つ</td>
+                <td>待って</td>
+              </tr>
+              <tr>
+                <td>る</td>
+                <td>とる</td>
+                <td>とって</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-orange"></td>
+              </tr>
+              <tr>
+                <td>む</td>
+                <td rowSpan="3">→</td>
+                <td rowSpan="3">んで</td>
+                <td rowSpan="3"></td>
+                <td>読む</td>
+                <td rowSpan="3">→</td>
+                <td>読んで</td>
+              </tr>
+              <tr>
+                <td>ぶ</td>
+                <td>遊ぶ</td>
+                <td>遊んで</td>
+              </tr>
+              <tr>
+                <td>ぬ</td>
+                <td>死ぬ</td>
+                <td>死んで</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-orange"></td>
+              </tr>
+              <tr>
+                <td>く</td>
+                <td>→</td>
+                <td>いて</td>
+                <td rowSpan="2"></td>
+                <td>書く</td>
+                <td rowSpan="2">→</td>
+                <td>書いて</td>
+              </tr>
+              <tr>
+                <td colSpan="3">(Exception)</td>
+                <td>行く</td>
+                <td>行って</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-orange"></td>
+              </tr>
+              <tr>
+                <td>ぐ</td>
+                <td>→</td>
+                <td>いで</td>
+                <td></td>
+                <td>泳ぐ</td>
+                <td>→</td>
+                <td>泳いで</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-orange"></td>
+              </tr>
+              <tr>
+                <td>す</td>
+                <td>→</td>
+                <td>して</td>
+                <td></td>
+                <td>話す</td>
+                <td>→</td>
+                <td>話して</td>
+              </tr>
+            </tbody>
+            <tr>
+              <td colSpan="9" className="horizontal-line-orange"></td>
+            </tr>
+            <tbody>
+              <tr>
+                <th rowSpan="2" className="table-header">
+                  Irregular verbs
+                </th>
+                <td>する</td>
+                <td rowSpan="2"></td>
+                <td rowSpan="2"></td>
+                <td rowSpan="2"></td>
+                <td>する</td>
+                <td rowSpan="2">→</td>
+                <td>して</td>
+              </tr>
+              <tr>
+                <td>くる</td>
+                <td>くる</td>
+                <td>きて</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
