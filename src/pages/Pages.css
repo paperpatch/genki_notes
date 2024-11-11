@@ -25,6 +25,16 @@
   border: none;
 }
 
+.table-expand {
+  table-layout: auto;
+  text-align: left;
+  border-collapse: collapse;
+  border: 3px solid #ED7014;
+  margin-top: 0;
+  margin-left: 2em;
+  width: 90%;
+}
+
 .table-short {
   table-layout: auto;
   text-align: center;
@@ -51,6 +61,13 @@
   font-weight: 600;
 }
 
+.horizontal-line-orange {
+  height: 1px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #ED7014;
+}
+
 .underline-orange {
   position: relative;
   display: inline;
@@ -64,6 +81,10 @@
   bottom: -4px;
   height: 2px;
   background-color: #ED7014;
+}
+
+ul {
+  list-style-type: circle;
 }
 
 @media (max-width: 768px) {
