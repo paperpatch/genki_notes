@@ -326,7 +326,20 @@ function Lesson5() {
       <section id="section6">
         <h3>5.6: Counting</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            When we count items in Japanese, we use different number words for
+            different kinds of items, like counting people or counting books.
+          </p>
+          <p className="tab">
+            リーさんは Tシャツを三枚買いました。
+            <br />
+            Lee bought three T-shirts.
+          </p>
+          <p>
+            The number word, 三枚 (san mai), is made up of the numeral 三 and
+            the "counter" 枚. This counter is used for sheets of paper and other
+            flat objects.
+          </p>
         </div>
       </section>
     </div>
