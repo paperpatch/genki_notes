@@ -310,7 +310,16 @@ function Lesson5() {
       <section id="section5">
         <h3>5.5: ~ましょう / ~ましょうか</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Take a long form of a verb and replace the ます ending with ましょう
+            or ましょうか and you will get the Japanese expression for
+            "let's...", which you can use to suggest a plan of action.
+          </p>
+          <p className="tab">
+            一緒に図書館で勉強しましょう。
+            <br />
+            Let's study in the library together.
+          </p>
         </div>
       </section>
 
