@@ -239,12 +239,16 @@ function Lesson5() {
               <tr>
                 <td>い-adjectives:</td>
                 <td>おもしろい映画</td>
-                <td><i>an interesting movie</i></td>
+                <td>
+                  <i>an interesting movie</i>
+                </td>
               </tr>
               <tr>
                 <td>な-adjectives:</td>
                 <td>きれいな写真</td>
-                <td><i>a beautiful picture</i></td>
+                <td>
+                  <i>a beautiful picture</i>
+                </td>
               </tr>
             </tbody>
           </table>
@@ -254,7 +258,52 @@ function Lesson5() {
       <section id="section4">
         <h3>5.4: 好き (な) / きらい (な)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Some Japanese adjectives are like verbs in English, and they take a
+            subject and an object. For example, 好き (な) (to be fond of; to
+            like), and きらい (な) (to be disgusted with; to dislike) are
+            examples. You can make 私は will be the subject and the object of
+            your affection will be Y が.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td rowSpan="2">X は Y が</td>
+                <td>好き</td>
+                <td rowSpan="2">です。</td>
+              </tr>
+              <tr>
+                <td>きらい</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            If you like ro dislike something (or somebody) a lot, you can use
+            the intensidifed forms of 好きです and きらいです, by adjusting to
+            大好きです (like a lot) and 大きらいです (hate), which are more
+            often used than the degree modifier とても.
+          </p>
+          <p className="tab">
+            たけしさんはコーヒーが大好きです。
+            <br />
+            Takeshi likes coffee a lot.
+          </p>
+          <p>
+            If you want to be neutral and say that you neither like or dislike
+            something, you can say the following:
+          </p>
+          <p className="tab">
+            好きでもきらいでもないです。
+            <br />I neither like nor dislike (it).
+          </p>
+          <p>
+            You can use 好きな and きらいな as modifiers of nouns. For example:
+          </p>
+          <p className="tab">
+            これは<span className="underline-orange">私の好な</span>本です。
+            <br />
+            This is <span className="underline-orange">my favorite</span> book.
+          </p>
         </div>
       </section>
 
