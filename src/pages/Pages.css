@@ -13,6 +13,10 @@
   padding-left: 10px;
 }
 
+.table-subheader {
+  padding-left: 10px;
+}
+
 .table-list th {
   vertical-align: middle;
   padding: 6px 1.5em 6px;
@@ -30,8 +34,7 @@
   text-align: left;
   border-collapse: collapse;
   border: 3px solid #ED7014;
-  margin-top: 0;
-  margin-left: 2em;
+  margin: 8px 12px;
   width: 90%;
 }
 
@@ -61,10 +64,13 @@
   font-weight: 600;
 }
 
+.horizontal-line-wrapper {
+  padding: 0 1em;
+}
+
 .horizontal-line-orange {
   height: 1px;
-  width: 90%;
-  margin: 0 auto;
+  width: 100%;
   background-color: #ED7014;
 }
 
@@ -83,7 +89,7 @@
   background-color: #ED7014;
 }
 
-ul {
+.bullet {
   list-style-type: circle;
 }
 

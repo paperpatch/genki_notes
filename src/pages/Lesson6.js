@@ -6,7 +6,7 @@ function Lesson6() {
         <h3>6.1: Te-form</h3>
         <div className="indent">
           <p>Te-forms are very important. Among its uses:</p>
-          <ul>
+          <ul className="bullet">
             <li>making requests ("..., please.")</li>
             <li>
               forming a sentence that describes two events or activities. ("I
@@ -23,7 +23,7 @@ function Lesson6() {
           <table className="table-expand">
             <tbody>
               <tr>
-                <th rowSpan="1" className="table-header">
+                <th rowSpan="1" className="table-subheader">
                   Ru-verbs
                 </th>
                 <td>る</td>
@@ -35,12 +35,14 @@ function Lesson6() {
                 <td>食べて</td>
               </tr>
               <tr>
-                <td colSpan="9" className="horizontal-line-orange"></td>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
               </tr>
             </tbody>
             <tbody>
               <tr>
-                <th rowSpan="14" className="table-header">
+                <th rowSpan="14" className="table-subheader">
                   U-verbs with final
                 </th>
                 <td>う</td>
@@ -62,7 +64,9 @@ function Lesson6() {
                 <td>とって</td>
               </tr>
               <tr>
-                <td colSpan="9" className="horizontal-line-orange"></td>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
               </tr>
               <tr>
                 <td>む</td>
@@ -84,7 +88,9 @@ function Lesson6() {
                 <td>死んで</td>
               </tr>
               <tr>
-                <td colSpan="9" className="horizontal-line-orange"></td>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
               </tr>
               <tr>
                 <td>く</td>
@@ -101,7 +107,9 @@ function Lesson6() {
                 <td>行って</td>
               </tr>
               <tr>
-                <td colSpan="9" className="horizontal-line-orange"></td>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
               </tr>
               <tr>
                 <td>ぐ</td>
@@ -113,7 +121,9 @@ function Lesson6() {
                 <td>泳いで</td>
               </tr>
               <tr>
-                <td colSpan="9" className="horizontal-line-orange"></td>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
               </tr>
               <tr>
                 <td>す</td>
@@ -126,11 +136,13 @@ function Lesson6() {
               </tr>
             </tbody>
             <tr>
-              <td colSpan="9" className="horizontal-line-orange"></td>
+              <td colSpan="9" className="horizontal-line-wrapper">
+                <div className="horizontal-line-orange"></div>
+              </td>
             </tr>
             <tbody>
               <tr>
-                <th rowSpan="2" className="table-header">
+                <th rowSpan="2" className="table-subheader">
                   Irregular verbs
                 </th>
                 <td>する</td>
