@@ -228,7 +228,26 @@ function Lesson5() {
       <section id="section3">
         <h3>5.3: Adjectives (Noun Modification)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use い- and な-adjectives to modify nouns. Place the
+            dictionary form of an い-adjective before the noun you want to
+            modify. With な-adjectives, place the missing な of the
+            corresponding noun before です.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>い-adjectives:</td>
+                <td>おもしろい映画</td>
+                <td><i>an interesting movie</i></td>
+              </tr>
+              <tr>
+                <td>な-adjectives:</td>
+                <td>きれいな写真</td>
+                <td><i>a beautiful picture</i></td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
