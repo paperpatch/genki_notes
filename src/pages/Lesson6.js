@@ -1,4 +1,9 @@
+import React from "react";
+import { useSmoothScrollToSection } from "../utils/Helpers";
+
 function Lesson6() {
+  useSmoothScrollToSection();
+
   return (
     <div>
       <h2>Lesson 6: ロバートさんの一日 A Day in Robert's Life</h2>
@@ -166,7 +171,15 @@ function Lesson6() {
       <section id="section2">
         <h3>6.2: ~てください</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use a verbal <i>te</i>-form together with ください to amke a polite
+            request to another person "please do ... for me."
+          </p>
+          <p className="tab">
+            教科書を読んでください。
+            <br />
+            Please read the textbook.
+          </p>
         </div>
       </section>
 
