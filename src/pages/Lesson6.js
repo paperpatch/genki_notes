@@ -186,7 +186,35 @@ function Lesson6() {
       <section id="section3">
         <h3>6.3: Describing Two Activities</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use a <i>te</i>-form to combine two or more verbs, as in "I
+            did this and then I did that". Note that two verbs cannot be joined
+            by と, which only connects nouns.
+          </p>
+          <p className="tab">
+            図書館に行って，本を帰ります。
+            <br />I will go to the library and check out the books.
+          </p>
+          <p className="tab">
+            今日は，六時に起きて，勉強しました。
+            <br />
+            Today I got up at six and studied.
+          </p>
+          <p>
+            The <i>te</i>-form of a verb can also be used to connect a verb more
+            "loosely" with the rest of a sentence. I can describe the manner in
+            which the action described by the second verb is performed. It also
+            can describe the situation for which an apology is made.
+          </p>
+          <p className="tab">
+            バスに乗って，会社に行きます。
+            <br />I go to work by bus. (I take a bus to work.)
+          </p>
+          <p className="tab">
+            教科書を忘れて，すみません。
+            <br />I am sorry for not bringing in the textbook. (I left the book
+            at home, and I am sorry.)
+          </p>
         </div>
       </section>
 
