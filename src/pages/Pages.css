@@ -59,6 +59,10 @@
   margin-left: 3em;
 }
 
+.text-black {
+  color: black;
+}
+
 .text-orange {
   color: #ED7014;
   font-weight: 600;
