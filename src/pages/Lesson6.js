@@ -271,7 +271,25 @@ function Lesson6() {
       <section id="section6">
         <h3>6.6: ~から</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            A sentence that ends with から (because) explains the reason or
+            cause of a situation.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-orange">(situation)</span>。{" "}
+                  <span className="text-orange">(explanation)</span> から。
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            私は今晩勉強します。明日はテストがありますから。
+            <br />I will study this evening. (Because) we will have an exam
+            tomorrow.
+          </p>
         </div>
       </section>
 

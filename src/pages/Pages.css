@@ -48,7 +48,7 @@
 }
 
 .table-mini {
-  width: 60%;
+  width: auto;
 }
 
 .indent {
@@ -103,10 +103,6 @@
 
   .table-list td {
     padding: 5px 1em 5px;
-  }
-
-  .table-mini {
-    width: 90%;
   }
 
   .tab {
