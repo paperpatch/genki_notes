@@ -275,7 +275,158 @@ function Lesson7() {
       <section id="section3">
         <h3>7.3: メリーさんは髪が長いです</h3>
         <div className="indent">
-          <p></p>
+          <p>Normally, we would describe someone who has long hair with:</p>
+          <p className="tab">
+            トムさんの髪は長いです。
+            <br />
+            <i>Tom's hair is long.</i>
+          </p>
+          <p>It is more natural in Japanese to say:</p>
+          <p className="tab">
+            トムさんは髪<span className="underline-orange">が</span>長いです。
+            <br />
+            <i>Tom has long hair. (= As for Tom, he has long hair.)</i>
+          </p>
+          <p>
+            This also applies to descriptions of a person's physical attributes
+            in general.
+          </p>
+          <table className="table-list table-mini">
+            <thead>
+              <tr>
+                <th colSpan="3" className="table-header">
+                  体の部分
+                  <span className="text-black">
+                    {" "}
+                    (からだのぶぶん) Parts of the Body
+                  </span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  かみ (髪)
+                  <br />
+                  Hair
+                </td>
+                <td>
+                  まゆげ (眉毛)
+                  <br />
+                  Eyebrow
+                </td>
+                <td>
+                  め (目)
+                  <br />
+                  Eye
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  みみ (耳)
+                  <br />
+                  Ear
+                </td>
+                <td>
+                  はな (鼻)
+                  <br />
+                  Nose
+                </td>
+                <td>
+                  くち (口)
+                  <br />
+                  Mouth
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  は (歯)
+                  <br />
+                  Teeth
+                </td>
+                <td>
+                  くび (首)
+                  <br />
+                  Neck
+                </td>
+                <td>
+                  て (手)
+                  <br />
+                  Hand
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  ゆび (指)
+                  <br />
+                  Finger
+                </td>
+                <td>
+                  あたま (頭)
+                  <br />
+                  Head
+                </td>
+                <td>
+                  かお (顔)
+                  <br />
+                  Face
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  かた (肩)
+                  <br />
+                  Shoulder
+                </td>
+                <td>
+                  むね (胸)
+                  <br />
+                  Chest
+                </td>
+                <td>
+                  せなか (背中)
+                  <br />
+                  Back
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  おなか (お腹)
+                  <br />
+                  Belly
+                </td>
+                <td>
+                  おしり (お尻)
+                  <br />
+                  Butt
+                </td>
+                <td>
+                  あし (足)
+                  <br />
+                  Foot
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            In idiomatic collocations (words that naturally go together), we
+            have:
+          </p>
+          <p className="tab">
+            背が高い。(se ga takai)
+            <br />
+            <i>is tall</i>
+          </p>
+          <p className="tab">
+            背が低い。(se ga hikui)
+            <br />
+            <i>is short</i>
+          </p>
+          <p className="tab">
+            頭がいい。(atamagaii)
+            <br />
+            <i>is bright/smart</i>
+          </p>
         </div>
       </section>
 
