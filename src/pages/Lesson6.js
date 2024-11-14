@@ -250,7 +250,21 @@ function Lesson6() {
       <section id="section5">
         <h3>6.5: ~てはいけません</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            A verbal <i>te</i>-form plus はいけません means "you must not do
+            ...", a strong prohibition statement, as in rules and regulations.
+          </p>
+          <p className="tab">
+            ここで写真を撮ってはいけません。
+            <br />
+            You must not take pictures here.
+          </p>
+          <p>
+            If somebody asks for permission but you want to deny it, you could
+            use てはいけません but the setence will come off as harsh unless you
+            are in a place of authority. There are softer ways of saying "please
+            don't" in lesson 8.
+          </p>
         </div>
       </section>
 
