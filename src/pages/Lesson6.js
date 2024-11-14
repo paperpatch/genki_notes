@@ -221,7 +221,29 @@ function Lesson6() {
       <section id="section4">
         <h3>6.4: ~てもいいです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            A verbal <i>te</i>-form plus もいいです means "you may do...", which
+            describes an activity that is permitted. To ask for permission, you
+            can turn it into a questino sentence, ~てもいいですか
+          </p>
+          <p>
+            The polite and graceful way to grant permission is to say どうぞ.
+          </p>
+          <p className="tab">
+            教科書を見てもいいですよ。
+            <br />
+            You may use the textbook.
+          </p>
+          <p className="tab">
+            A: トイレに行ってもいいですか。
+            <br />
+            May I go to the bathroom?
+          </p>
+          <p className="tab">
+            B: はい，いいですよ。/どうぞ。
+            <br />
+            You may./Please.
+          </p>
         </div>
       </section>
 
