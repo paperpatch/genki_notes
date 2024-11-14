@@ -296,7 +296,15 @@ function Lesson6() {
       <section id="section7">
         <h3>6.7: ~ましょうか (Offering Assistance)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            In Lesson 5, ましょうか means "Let's ...". ~ましょうか is also used
+            in the sense of "let me do ...", as in offering assistance.
+          </p>
+          <p className="tab">
+            荷物を持ちましょうか。
+            <br />
+            Shall I carry your bag?
+          </p>
         </div>
       </section>
     </div>
