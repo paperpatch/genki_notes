@@ -47,6 +47,10 @@
   width: 90%;
 }
 
+.table-short td {
+  padding: 6px 10px 6px 10px;
+}
+
 .table-mini {
   width: auto;
 }

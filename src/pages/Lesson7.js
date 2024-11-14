@@ -105,7 +105,170 @@ function Lesson7() {
       <section id="section2">
         <h3>7.2: ~ている (Result of a Change)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Verbs in the second group describe changes from one state to
+            another. For example, if you get married 結婚する, your status
+            changes from being single to being married. The verb て.いる
+            describes the <i>result of a change</i>.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>change verbs ている = result of a change</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            山下先生は結婚しています。
+            <br />
+            Professor Yamashita is married.
+          </p>
+          <p>
+            Examples of verbs that are commonly used in the ~ている framework:
+          </p>
+          <table className="table-short table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  持つ
+                  <br />
+                  (もつ)
+                </td>
+                <td>→</td>
+                <td>
+                  持っている
+                  <br />
+                  (has)
+                </td>
+                <td>
+                  ソラさんはお金をたくさん持っています。
+                  <br />
+                  <i>Sora has a lot of money.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  知る
+                  <br />
+                  (しる)
+                </td>
+                <td>→</td>
+                <td>
+                  知っている
+                  <br />
+                  (knows)
+                </td>
+                <td>
+                  山下先生は母を知っています。
+                  <br />
+                  <i>Professor Yamashita knows my mother.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  太る
+                  <br />
+                  (ふとる)
+                </td>
+                <td>→</td>
+                <td>
+                  太るっている
+                  <br />
+                  (is overweight)
+                </td>
+                <td>
+                  トムさんはちょうと太っています。
+                  <br />
+                  <i>Tom is a little overweight.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>やせる</td>
+                <td>→</td>
+                <td>
+                  やせるている
+                  <br />
+                  (is thin)
+                </td>
+                <td>
+                  私の弟はとてもやせています。
+                  <br />
+                  <i>My younger brother is very thin.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  着る
+                  <br />
+                  (きる)
+                </td>
+                <td>→</td>
+                <td>
+                  着っている
+                  <br />
+                  (wears)
+                </td>
+                <td>
+                  メアリーさんはTシャツを着ています。
+                  <br />
+                  <i>Mary is wearing/wears a T-shirt.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  起きる
+                  <br />
+                  (おきる)
+                </td>
+                <td>→</td>
+                <td>
+                  起きている
+                  <br />
+                  (is awake)
+                </td>
+                <td>
+                  お父さんは起きています。
+                  <br />
+                  <i>Dad is up and awake.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  住む
+                  <br />
+                  (すむ)
+                </td>
+                <td>→</td>
+                <td>
+                  住んでいる
+                  <br />
+                  (lives in)
+                </td>
+                <td>
+                  家族は東京に住んでいます。
+                  <br />
+                  <i>My family lives in Tokyo.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Verbs like 行く and 来る belong to the change class. They indicate
+            the result of prior movements, not movements that are currently in
+            progress.
+          </p>
+          <p className="tab">
+            中国に行っています。
+            <br />
+            <i>Somebody has gone to/is in China.</i> (Not:{" "}
+            <i>She is going to China</i>)
+          </p>
+          <p className="tab">
+            うちに来ています。
+            <br />
+            <i>Somebody has come over to visit.</i> (Not:{" "}
+            <i>Somebody is coming over</i>)
+          </p>
         </div>
       </section>
 
