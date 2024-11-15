@@ -433,7 +433,49 @@ function Lesson7() {
       <section id="section4">
         <h3>7.4: Adjective/Noun Te-forms for Joining Sentences</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The <i>te</i>-form of an い-adjective is formed by substituting くて
+            for the final い. The <i>te</i>-form of a な-adjective and a noun +
+            です sequence is formed by adding で to the base or the noun.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>い-adjectives:</td>
+                <td>安い</td>
+                <td>→</td>
+                <td>安くて</td>
+              </tr>
+              <tr>
+                <td className="text-right">(irregular)</td>
+                <td>いい</td>
+                <td>→</td>
+                <td>よくて</td>
+              </tr>
+              <tr>
+                <td>な-adjectives:</td>
+                <td>元気 (な)</td>
+                <td>→</td>
+                <td>元気で</td>
+              </tr>
+              <tr>
+                <td>noun + です:</td>
+                <td>安い</td>
+                <td>→</td>
+                <td>安くて</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            あの店の食べ物は<span className="underline-orange">安くて</span>
+            、おいしいです
+            <br />
+            <i>
+              The food at that restaurant is{" "}
+              <span className="underline-orange">inexpensive</span>{" "}
+              <span className="underline-orange">and</span> delicious.
+            </i>
+          </p>
         </div>
       </section>
 

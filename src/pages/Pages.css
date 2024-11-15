@@ -63,6 +63,10 @@
   margin-left: 3em;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .text-black {
   color: black;
 }
