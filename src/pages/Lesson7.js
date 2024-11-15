@@ -468,12 +468,21 @@ function Lesson7() {
           </table>
           <p className="tab">
             あの店の食べ物は<span className="underline-orange">安くて</span>
-            、おいしいです
+            、おいしいです。
             <br />
             <i>
               The food at that restaurant is{" "}
               <span className="underline-orange">inexpensive</span>{" "}
               <span className="underline-orange">and</span> delicious.
+            </i>
+          </p>
+          <p className="tab">
+            ホテルは<span className="underline-orange">きれいで</span>
+            、よかったです。
+            <br />
+            <i>
+              The hotel was <span className="underline-orange">clean</span>,{" "}
+              <span className="underline-orange">and</span> we were happy.
             </i>
           </p>
         </div>
