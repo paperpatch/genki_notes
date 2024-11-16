@@ -33,7 +33,7 @@ import Lesson23 from "./pages/Lesson23";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div>
         <Header />
         <div className="app-container">
@@ -64,6 +64,7 @@ function App() {
               <Route path="/lesson21" element={<Lesson21 />} />
               <Route path="/lesson22" element={<Lesson22 />} />
               <Route path="/lesson23" element={<Lesson23 />} />
+              <Route path="*" element={<Home />} />
             </Routes>
           </div>
         </div>

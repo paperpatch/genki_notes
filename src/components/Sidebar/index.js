@@ -9,6 +9,7 @@ function Table() {
   const [isSidebarVisible, setIsSidebarVisible] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const sidebarRef = useRef(null);
+  const toggleButtonRef = useRef(null);
   const location = useLocation();
 
   const toggleGenkiOne = () => setGenkiOneOpen(!genkiOneOpen);
@@ -30,10 +31,9 @@ function Table() {
   }, []);
 
   // Toggle sidebar visibility for mobile
-  const toggleSidebar = () => {
-    if (isMobile) {
-      setIsSidebarVisible(!isSidebarVisible);
-    }
+  const toggleSidebar = (event) => {
+    event.stopPropagation();
+    setIsSidebarVisible(!isSidebarVisible);
   };
 
   // Handle click outside to close the sidebar
@@ -42,7 +42,8 @@ function Table() {
       if (
         isSidebarVisible && // Sidebar is open
         sidebarRef.current && // Reference exist
-        !sidebarRef.current.contains(event.target) // Click is outside sidebar
+        !sidebarRef.current.contains(event.target) && // Click is outside sidebar
+        !toggleButtonRef.current.contains(event.target) // Click is not on the toggle button
       ) {
         setIsSidebarVisible(false); // Close sidebar
       }
@@ -68,7 +69,11 @@ function Table() {
   return (
     <>
       {isMobile && (
-        <button className="sidebar-toggle" onClick={toggleSidebar}></button>
+        <button
+          ref={toggleButtonRef}
+          className="sidebar-toggle"
+          onClick={toggleSidebar}
+        ></button>
       )}
       <nav
         ref={sidebarRef}

@@ -41,7 +41,7 @@
   padding: 0;
   margin: 0;
   border: 1px solid #ddd;
-  z-index: 999;
+  z-index: 300;
 }
 
 .searchbar li {
@@ -66,6 +66,10 @@
   background-color: #f0f0f0;
   color: #007bff;
   cursor: pointer;
+}
+
+[id] {
+  scroll-margin-top: 120px;
 }
 
 /* Icons */
