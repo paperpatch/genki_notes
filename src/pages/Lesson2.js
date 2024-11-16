@@ -57,7 +57,7 @@ function Lesson2() {
           </p>
           <p>Example:</p>
           <p className="tab">
-            これは <span class="underline-orange">だれの</span> かばんですか{" "}
+            これは <span className="underline-orange">だれの</span> かばんですか{" "}
             <br />
             Kore wa dare no kaban desu ka.
           </p>
@@ -73,8 +73,8 @@ function Lesson2() {
           </p>
           <p className="tab">A は X です。 (A is X.)</p>
           <p className="tab">
-            B <span class="underline-orange">も</span> X です。 (B{" "}
-            <span class="underline-orange">too</span> is X.)
+            B <span className="underline-orange">も</span> X です。 (B{" "}
+            <span className="underline-orange">too</span> is X.)
           </p>
         </div>
       </section>
@@ -98,7 +98,7 @@ function Lesson2() {
           <p className="tab">
             A は X <span class="underline-orange">じゃありません</span>。 (more
             formal speech style) <br />A は X
-            <span class="underline-orange">でわありません</span>。 (formal for
+            <span className="underline-orange">でわありません</span>。 (formal for
             writing)
           </p>
         </div>

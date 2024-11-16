@@ -82,7 +82,7 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            銀行は図書館の<span class="underline-orange">となり</span>です。
+            銀行は図書館の<span className="underline-orange">となり</span>です。
             <br />
             The bank is next to the library.
           </p>
@@ -186,7 +186,7 @@ function Lesson4() {
             <br />I went to Kyoto yesterday.
           </p>
           <p className="tab">
-            山下先生<span class="underline-orange">も</span>
+            山下先生<span className="underline-orange">も</span>
             昨日京都に行きました。
             <br />
             Professor Yamashita went to Kyoto yesterday, too.
@@ -218,13 +218,13 @@ function Lesson4() {
           <p>The duration of an activity is expressed with a bare noun.</p>
           <p className="tab">
             メリーさんはそこで たけしさんを
-            <span class="underline-orange">一時間</span>に待ちました。
+            <span className="underline-orange">一時間</span>に待ちました。
             <br />
             Mary waited for Takeshi there for an hour.
           </p>
           <p>Use ぐらい after ~時間 for an approximate measurement.</p>
           <p className="tab">
-            私は昨日 日本語を<span class="underline-orange">三時間ぐらい</span>
+            私は昨日 日本語を<span className="underline-orange">三時間ぐらい</span>
             勉強しました。
             <br />I studied Japanese for about three hours yesterday.
           </p>
@@ -232,7 +232,7 @@ function Lesson4() {
             To say one hour an a half, you can add 半 immediately after ~時間.
           </p>
           <p className="tab">
-            昨日<span class="underline-orange">七時間半</span>寝ました。
+            昨日<span className="underline-orange">七時間半</span>寝ました。
             <br />
             (I) slept for seven and a half hours last night.
           </p>
@@ -256,13 +256,13 @@ function Lesson4() {
               <tr>
                 <td rowSpan="2">京都で</td>
                 <td>
-                  写真を<span class="underline-orange">たくさん</span>
+                  写真を<span className="underline-orange">たくさん</span>
                 </td>
                 <td rowSpan="2">撮りました。</td>
               </tr>
               <tr>
                 <td>
-                  <span class="underline-orange">たくさん</span>写真を
+                  <span className="underline-orange">たくさん</span>写真を
                 </td>
               </tr>
             </tbody>
@@ -279,8 +279,8 @@ function Lesson4() {
           </p>
           <p className="tab">
             日本語
-            <span class="underline-orange">と</span>英語を話します。
-            <br />I speak Japanese <span class="underline-orange">
+            <span className="underline-orange">と</span>英語を話します。
+            <br />I speak Japanese <span className="underline-orange">
               and
             </span>{" "}
             English.
@@ -291,9 +291,9 @@ function Lesson4() {
           </p>
           <p className="tab">
             メリーさんはソラさん
-            <span class="underline-orange">と</span>韓国に行きます。
+            <span className="underline-orange">と</span>韓国に行きます。
             <br />
-            Mary will go to Korea <span class="underline-orange">
+            Mary will go to Korea <span className="underline-orange">
               with
             </span>{" "}
             Sora.

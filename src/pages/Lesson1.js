@@ -21,7 +21,7 @@ function Lesson1() {
         <div className="indent">
           <p>To ask a question, add a ka to です ={">"} ですか?.</p>
           <p>
-            <span class="underline-orange">なん</span>ですか (nan desu ka) =
+            <span className="underline-orange">なん</span>ですか (nan desu ka) =
             what is it?
           </p>
         </div>
