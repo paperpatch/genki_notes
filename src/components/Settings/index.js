@@ -1,10 +1,17 @@
 import React, { useState, useEffect } from "react";
 import "./Settings.css";
 
-function SettingsModal({ isVisible, onClose, onSettingsChange }) {
-  const [darkMode, setDarkMode] = useState(false);
-  const [fontSize, setFontSize] = useState(0);
-  const [fontFamily, setFontFamily] = useState("arial");
+function SettingsModal({
+  isVisible,
+  onClose,
+  onSettingsChange,
+  initialSettings,
+}) {
+  const [darkMode, setDarkMode] = useState(initialSettings?.darkMode || false);
+  const [fontSize, setFontSize] = useState(initialSettings?.fontSize || 0);
+  const [fontFamily, setFontFamily] = useState(
+    initialSettings?.fontFamily || "arial"
+  );
 
   const handleFontSizeChange = (change) => {
     setFontSize((prev) => {
@@ -47,7 +54,7 @@ function SettingsModal({ isVisible, onClose, onSettingsChange }) {
     <div className="settings-modal">
       <h2>Settings</h2>
       <div className="setting">
-        <label htmlFor="dark-mode">Dark Mode</label>
+        <label>Dark Mode</label>
         <label className="switch">
           <input
             type="checkbox"

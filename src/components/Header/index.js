@@ -18,8 +18,30 @@ function Header() {
   const [darkMode, setDarkMode] = useState(false);
   const searchRef = useRef(null);
   const settingsModalRef = useRef(null);
+  const settingsIconRef = useRef(null);
 
-  // Searchbar
+  // Load settings from LocalStorage
+  useEffect(() => {
+    let savedSettings = JSON.parse(localStorage.getItem("settings"));
+    if (!savedSettings) {
+      savedSettings = {
+        darkMode: false,
+        fontSize: 0,
+        fontFamily: "arial",
+      };
+      localStorage.setItem("settings", JSON.stringify(savedSettings));
+    }
+
+    if (savedSettings.darkMode) {
+      document.body.classList.add("dark-mode");
+    }
+    const fontSizeClass = `font-size-${savedSettings.fontSize}`;
+    document.documentElement.classList.add(fontSizeClass);
+    document.documentElement.classList.add(savedSettings.fontFamily);
+    setDarkMode(savedSettings.darkMode);
+  }, []);
+
+  // Populate Search Content
   useEffect(() => {
     const content = lessons.flatMap((lesson) =>
       lesson.sections.map((section) => ({
@@ -33,33 +55,18 @@ function Header() {
     setAllContent(content);
   }, []);
 
-  const handleSearch = (e) => {
-    setQuery(e.target.value.toLowerCase());
-    setIsVisible(true);
-  };
-
-  const handleSearchBarClick = () => {
-    if (!isVisible && query.trim()) {
-      setIsVisible(true);
-    }
-  };
-
-  const filteredContent = allContent.filter(
-    (item) =>
-      item.lessonTitle.toLowerCase().includes(query) ||
-      item.sectionContent.toLowerCase().includes(query)
-  );
-
+  // Close Modals on Outside Clicks or Escape
   useEffect(() => {
     const handleClickOutside = (e) => {
-      if (searchRef.current && !searchRef.current.contains(e.target)) {
-        setIsVisible(false);
-      }
       if (
+        searchRef.current &&
+        !searchRef.current.contains(e.target) &&
+        !settingsIconRef.current.contains(e.target) && // Exclude gear icon clicks
         settingsModalRef.current &&
         !settingsModalRef.current.contains(e.target)
       ) {
         setIsSettingsModalVisible(false);
+        setIsVisible(false);
       }
     };
 
@@ -79,12 +86,28 @@ function Header() {
     };
   }, []);
 
+  const handleSearch = (e) => {
+    setQuery(e.target.value.toLowerCase());
+    setIsVisible(true);
+  };
+
+  const handleSearchBarClick = () => {
+    if (!isVisible && query.trim()) {
+      setIsVisible(true);
+    }
+  };
+
+  const filteredContent = allContent.filter(
+    (item) =>
+      item.lessonTitle.toLowerCase().includes(query) ||
+      item.sectionContent.toLowerCase().includes(query)
+  );
+
   const handleResultClick = () => {
     setIsVisible(false);
     // setQuery('');
   };
 
-  // Settings Modal
   const toggleSettingsModal = () => {
     setIsSettingsModalVisible(!isSettingsModalVisible);
   };
@@ -93,18 +116,6 @@ function Header() {
     localStorage.setItem("settings", JSON.stringify(settings));
     setDarkMode(settings.darkMode);
   };
-
-  useEffect(() => {
-    const savedSettings = JSON.parse(localStorage.getItem("settings"));
-    if (savedSettings) {
-      if (savedSettings.darkMode) {
-        document.body.classList.add("dark-mode");
-      }
-      document.documentElement.classList.add(savedSettings.fontSize);
-      document.documentElement.classList.add(savedSettings.fontFamily);
-      setDarkMode(savedSettings.darkMode);
-    }
-  }, []);
 
   return (
     <header className="header">
@@ -156,6 +167,7 @@ function Header() {
         src={darkMode ? iconGearDark : iconGear}
         alt="settings-gear"
         onClick={toggleSettingsModal}
+        ref={settingsIconRef}
       />
       {isSettingsModalVisible && (
         <div ref={settingsModalRef}>
@@ -163,6 +175,14 @@ function Header() {
             isVisible={isSettingsModalVisible}
             onClose={toggleSettingsModal}
             onSettingsChange={handleSettingsChange}
+            initialSettings={{
+              darkMode,
+              fontSize:
+                JSON.parse(localStorage.getItem("settings"))?.fontSize || 0,
+              fontFamily:
+                JSON.parse(localStorage.getItem("settings"))?.fontFamily ||
+                "arial",
+            }}
           />
         </div>
       )}
