@@ -23,3 +23,10 @@
 .footer nav a:hover {
   text-decoration: underline;
 }
+
+/* Mobile-Specific Styles */
+@media (max-width: 768px) {
+  .footer {
+    margin-top: 1rem;
+  }
+}

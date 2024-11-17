@@ -1,15 +1,13 @@
-body {
-  height: 100vh;
+html, body {
   margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
   /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-body.dark-mode a {
-  color: #e0e0e0;
 }
 
 code {
@@ -29,7 +27,8 @@ ul {
   flex-grow: 1;
   padding: 20px;
   margin-left: 30px;
-  max-width: 60em;
+  height: auto;
+  max-width: 100%;
   background-color: #ffffff;
 }
 
@@ -49,14 +48,4 @@ ul {
 h1:active,
 a:active {
   outline: none;
-}
-
-@media (max-width: 768px) {
-  .app-container {
-    margin-left: 20px;
-  }
-
-  .content {
-    margin-left: -300px;
-  }
 }

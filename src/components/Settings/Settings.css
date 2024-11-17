@@ -163,6 +163,10 @@ body.dark-mode {
   color: #e0e0e0;
 }
 
+body.dark-mode a {
+  color: #e0e0e0;
+}
+
 /* Dark Mode for Settings */
 
 body.dark-mode .settings-modal  {
@@ -204,4 +208,27 @@ body.dark-mode .sidebar a {
 body.dark-mode .content {
   background-color: #111112;
   color: #e0e0e0
+}
+
+@media (max-width: 768px) {
+  /* Font Sizes */
+  html.font-size--2 {
+    font-size: 8px;
+  }
+
+  html.font-size--1 {
+    font-size: 10px;
+  }
+
+  html.font-size-0 {
+    font-size: 12px; /* Regular */
+  }
+
+  html.font-size-1 {
+    font-size: 14px;
+  }
+
+  html.font-size-2 {
+    font-size: 16px;
+  }
 }
