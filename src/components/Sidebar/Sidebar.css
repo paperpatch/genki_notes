@@ -1,3 +1,4 @@
+/* General Sidebar Styles */
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -23,47 +24,7 @@
   padding-right: 1rem;
 }
 
-.sidebar-toggle {
-  display: none;
-}
-
-.sidebar-toggle:hover {
-  opacity: 1;
-}
-
-@media (max-width: 768px) {
-  .sidebar {
-    width: 60%;
-    min-height: 100%;
-    left: -100%;
-    z-index: 100;
-  }
-
-  .sidebar.visible {
-    top: 0;
-    left: 0;
-  }
-
-  .sidebar-toggle {
-    display: block;
-    position: fixed;
-    left: 0;
-    top: 0;
-    height: 120vh;
-    width: 20px;
-    background-color: #808080;
-    cursor: pointer;
-    border: none;
-    opacity: 0.6;
-  }
-
-  .sidebar-toggle:hover {
-    opacity: 1;
-  }
-}
-
-
-/* Table of contents styles */
+/* Table of Contents Styles */
 .toc ul {
   list-style-type: none;
   padding: 0;
@@ -88,7 +49,7 @@ body.dark-mode .toc button:hover {
   background-color: #3a3d42;
 }
 
-/* Nested list for dropdowns */
+/* Nested List Styles */
 .nested {
   list-style-type: none;
   padding-left: 20px;
@@ -114,4 +75,65 @@ body.dark-mode .toc button:hover {
 
 body.dark-mode .nested li a:hover {
   background-color: #3a3d42;
+}
+
+/* Sidebar Toggle Button */
+.sidebar-toggle {
+  display: none;
+}
+
+.sidebar-toggle:hover {
+  opacity: 1;
+}
+
+/* Mobile-Specific Styles */
+@media (max-width: 768px) {
+  .app-container {
+    margin-left: -20px;
+  }
+
+  .content {
+    margin: 0 auto;
+    padding-left: 50px;
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+
+  /* Sidebar Behavior */
+  .sidebar {
+    top: 0;
+    width: 80%;
+    height: 100vh;
+    position: fixed;
+    max-width: 100vw;
+    max-height: 100vh;
+    left: -100%;
+    z-index: 100;
+    overflow-y: auto;
+    transition: left 0.3s ease;
+  }
+
+  .sidebar.visible {
+    top: 0;
+    left: 0;
+  }
+
+  /* Toggle Button */
+  .sidebar-toggle {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 20px;
+    background-color: #808080;
+    cursor: pointer;
+    border: none;
+    opacity: 0.6;
+    z-index: 101
+  }
+
+  .sidebar-toggle:hover {
+    opacity: 1;
+  }
 }

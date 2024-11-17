@@ -30,22 +30,17 @@ function Table() {
     };
   }, []);
 
-  // Toggle sidebar visibility for mobile
-  const toggleSidebar = (event) => {
-    event.stopPropagation();
-    setIsSidebarVisible(!isSidebarVisible);
-  };
-
   // Handle click outside to close the sidebar
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (
         isSidebarVisible && // Sidebar is open
         sidebarRef.current && // Reference exist
+        toggleButtonRef.current && // Toggle button reference exists
         !sidebarRef.current.contains(event.target) && // Click is outside sidebar
         !toggleButtonRef.current.contains(event.target) // Click is not on the toggle button
       ) {
-        setIsSidebarVisible(false); // Close sidebar
+        setIsSidebarVisible(false);
       }
     };
 
@@ -65,6 +60,12 @@ function Table() {
       setIsSidebarVisible(false);
     }
   }, [location, isMobile]);
+
+  // Toggle sidebar visibility for mobile
+  const toggleSidebar = (event) => {
+    event.stopPropagation();
+    setIsSidebarVisible(!isSidebarVisible);
+  };
 
   return (
     <>
