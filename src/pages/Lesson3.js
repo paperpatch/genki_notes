@@ -183,7 +183,7 @@ function Lesson3() {
             movement, but not with time reference.{" "}
           </p>
           <p className="tab">
-            家<span class="underline-orange">へ</span>帰ります。
+            家<span className="underline-orange">へ</span>帰ります。
             <br />I will return home.
           </p>
         </div>
@@ -194,7 +194,7 @@ function Lesson3() {
         <div className="indent">
           <p>Use に for days of week and numerical time expressions.</p>
           <p className="tab">
-            <span class="underline-orange">日曜日に</span>行きます。
+            <span className="underline-orange">日曜日に</span>行きます。
             <br />I will go on Sunday.
           </p>
           <p>
@@ -202,7 +202,7 @@ function Lesson3() {
             "tomorrow"
           </p>
           <p className="tab">
-            <span class="underline-orange">明日</span>来ます。
+            <span className="underline-orange">明日</span>来ます。
             <br />I will come tomorrow.
           </p>
         </div>
@@ -232,7 +232,7 @@ function Lesson3() {
           <p>時々 (sometimes)</p>
           <p>全然 (never)</p>
           <p className="tab">
-            私は<span class="underline-orange">時々</span>図書館に行きます。
+            私は<span className="underline-orange">時々</span>図書館に行きます。
             <br />I sometimes go to the library.
           </p>
         </div>
@@ -276,20 +276,20 @@ function Lesson3() {
             The particle は puts forward the item that you want to talk about.
           </p>
           <p className="tab">
-            メアリさん, <span class="underline-orange">週末は</span>大抵
+            メアリさん, <span className="underline-orange">週末は</span>大抵
             何をしますか。
             <br />
             Mary, what do you usually do on the weekend?
           </p>
-          <p class="tab">
+          <p className="tab">
             Paraphrased: Let's talk about weekends, what do you do on weekends?
           </p>
           <p className="tab">
-            <span class="underline-orange">今日は</span>京都に行きます。
+            <span className="underline-orange">今日は</span>京都に行きます。
             <br />
             I'm going to Kyoto today.
           </p>
-          <p class="tab">
+          <p className="tab">
             Paraphrased: Let me say what I will do today; I will go to Kyoto.
           </p>
         </div>
