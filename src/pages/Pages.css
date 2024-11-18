@@ -55,6 +55,14 @@
   width: auto;
 }
 
+.table-mini td[colspan="1"] {
+  visibility: hidden;
+}
+
+.table-text-center {
+  text-align: center;
+}
+
 .indent {
   margin-left: 1em;
 }
@@ -99,6 +107,13 @@
   bottom: -4px;
   height: 2px;
   background-color: #ED7014;
+}
+
+.border-orange {
+  display: inline-block;
+  border: 2px solid #ED7014;
+  padding: 3px;
+  margin: 2px;
 }
 
 .bullet {

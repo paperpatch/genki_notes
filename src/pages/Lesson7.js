@@ -491,7 +491,62 @@ function Lesson7() {
       <section id="section5">
         <h3>7.5: Verb Stem + に行く</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If a person moves to another place in order to do something, we can
+            describe their movement and its purpose this way:
+          </p>
+          <table className="table-list table-mini table-text-center">
+            <tbody>
+              <tr>
+                <td rowSpan="3">destination of movement</td>
+                <td>に</td>
+                <td rowSpan="3">
+                  <span className="border-orange">the purpose of movement</span>
+                </td>
+                <td rowSpan="3">に</td>
+                <td>行く</td>
+              </tr>
+              <tr>
+                <td>へ</td>
+                <td>来る</td>
+              </tr>
+              <tr>
+                <td colSpan="1"></td>
+                <td>帰る</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The purpose of movement is a phrase consisting of a verb, its
+            object, and so forth. Verbs describing the purpose of a movement
+            must be in their stem forms. Stems are the part you get by removing
+            ます from the verbs' present tense long forms.
+          </p>
+          <table className="table-list table-mini table-text-center">
+            <tbody>
+              <tr>
+                <td>stems:</td>
+                <td>食べる</td>
+                <td>→</td>
+                <td>
+                  <span className="underline-orange">食べ</span> (ます)
+                </td>
+                <td></td>
+                <td>読む</td>
+                <td>→</td>
+                <td>
+                  <span className="underline-orange">読み</span> (ます)
+                </td>
+                <td>etc.</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            デパートに<span className="border-orange">かばんを買い</span>
+            に行きました。
+            <br />
+            <i>I went to a department store to buy a bag.</i>
+          </p>
         </div>
       </section>
 
