@@ -553,7 +553,80 @@ function Lesson7() {
       <section id="section6">
         <h3>7.6: Counting People</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The "counter" for people is 人, but it irregular for "one" and "two"
+            people.
+          </p>
+          <ol className="ordered-list">
+            <li>
+              <span
+                className="underline-orange"
+                style={{ marginRight: "20px" }}
+              >
+                ひとり
+              </span>
+              (一人)
+            </li>
+            <li>
+              <span
+                className="underline-orange"
+                style={{ marginRight: "20px" }}
+              >
+                ふたり
+              </span>
+              (二人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>さんにん</span>(三人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>
+                <span className="underline-orange">よ</span>にん
+              </span>
+              (四人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>ごにん</span>(五人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>ろくにん</span>(六人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>しちにん/ななにん</span>
+              (七人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>はちにん</span>(八人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>きゅうにん</span>(九人)
+            </li>
+            <li>
+              <span style={{ marginRight: "20px" }}>じゅうにん</span>(十人)
+            </li>
+          </ol>
+          <p>
+            To count people in a class, for example, you can add ~人 after the
+            noun and the particle が, and say:
+          </p>
+          <table className="table-list table-mini table-text-center">
+            <tbody>
+              <tr>
+                <td>person が</td>
+                <td>X 人</td>
+                <td>います</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            私のクラスに（は）インドネシア人の学生が一人います。
+            <br />
+            <i>There is one Indonesian student in our class.</i>
+          </p>
+          <p>
+            The place expressions are often followed by には instead of に in
+            this type of sentence.
+          </p>
         </div>
       </section>
     </div>

@@ -116,6 +116,24 @@
   margin: 2px;
 }
 
+.ordered-list {
+  counter-reset: list-counter; /* Reset the counter */
+}
+
+.ordered-list li {
+  list-style: none; /* Disable default numbering */
+  counter-increment: list-counter; /* Increment the counter */
+  margin-top: 5px;
+  margin-bottom: 5px; /* Add spacing between items */
+  position: relative; /* Allow positioning of the custom counter */
+}
+
+.ordered-list li::before {
+  content: counter(list-counter) " "; /* Add the counter with a period */
+  position: absolute;
+  left: -40px; /* Adjust as needed for alignment */
+}
+
 .bullet {
   list-style-type: circle;
 }
