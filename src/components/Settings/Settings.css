@@ -210,6 +210,18 @@ body.dark-mode .content {
   color: #e0e0e0
 }
 
+body.dark-mode .background-pink {
+  background-color: rgb(133, 78, 86);
+}
+
+body.dark-mode .white-row {
+  background-color: #2f2b2b;
+}
+
+body.dark-mode .grey-row {
+  background-color: #222222;
+}
+
 @media (max-width: 768px) {
   /* Font Sizes */
   html.font-size--2 {

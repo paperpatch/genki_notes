@@ -1,3 +1,4 @@
+/* Table Manipulation */
 .table-list {
   text-align: left;
   border-collapse: collapse;
@@ -59,16 +60,76 @@
   visibility: hidden;
 }
 
+.table-boxes {
+  border-collapse: collapse;
+  width: 90%;
+  vertical-align: middle;
+}
+
+.table-boxes th,
+.table-boxes td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Table Borders and Lines */
+.border-none {
+  border: none !important;
+  background: none;
+}
+
+.border-orange {
+  display: inline-block;
+  border: 2px solid #ED7014;
+  padding: 3px;
+  margin: 2px;
+}
+
+.horizontal-line-wrapper {
+  padding: 0 1em;
+}
+
+.horizontal-line-orange {
+  height: 1px;
+  width: 100%;
+  background-color: #ED7014;
+}
+
+/* Table Background */
+.background-pink {
+  background-color: rgb(250, 204, 212);
+}
+
+.background-white {
+  background-color: white;
+}
+
+.background-grey {
+  background-color: lightgrey;
+}
+
 .table-text-center {
   text-align: center;
 }
 
+/* Table Texts */
 .indent {
   margin-left: 1em;
 }
 
 .tab {
   margin-left: 3em;
+}
+
+.text-main {
+  display: block;
+}
+
+.text-sub {
+  white-space: nowrap;
+  display: inline-block;
+  font-size: 0.7em; /* Adjust font size as needed */
 }
 
 .text-right {
@@ -82,16 +143,6 @@
 .text-orange {
   color: #ED7014;
   font-weight: 600;
-}
-
-.horizontal-line-wrapper {
-  padding: 0 1em;
-}
-
-.horizontal-line-orange {
-  height: 1px;
-  width: 100%;
-  background-color: #ED7014;
 }
 
 .underline-orange {
@@ -109,13 +160,7 @@
   background-color: #ED7014;
 }
 
-.border-orange {
-  display: inline-block;
-  border: 2px solid #ED7014;
-  padding: 3px;
-  margin: 2px;
-}
-
+/* Table Text List */
 .ordered-list {
   counter-reset: list-counter; /* Reset the counter */
 }
@@ -139,6 +184,14 @@
 }
 
 @media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+  }
+
   .table-list {
     margin-left: 0;
   }

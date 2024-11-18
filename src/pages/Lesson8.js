@@ -170,7 +170,93 @@ function Lesson8() {
               </tr>
             </tbody>
           </table>
-          <p></p>
+          <p>
+            Think of the <i>u</i>-verb conjugation as moving up and down in the{" "}
+            <i>hirgana</i> chart.
+          </p>
+          <table class="table-boxes">
+            <tbody>
+              <tr>
+                <td className="border-none"></td>
+                <td className="background-pink">
+                  <span class="text-main">書</span>
+                  <span class="text-sub">か</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">話</span>
+                  <span class="text-sub">はな</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">待</span>
+                  <span class="text-sub">ま</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">死</span>
+                  <span class="text-sub">し</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">読</span>
+                  <span class="text-sub">よ</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">作</span>
+                  <span class="text-sub">つく</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">泳</span>
+                  <span class="text-sub">およ</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">遊</span>
+                  <span class="text-sub">あそ</span>
+                </td>
+                <td className="background-pink">
+                  <span class="text-main">買</span>
+                  <span class="text-sub">か</span>
+                </td>
+                <td className="border-none"></td>
+              </tr>
+              <tr class="background-white">
+                <td>negative</td>
+                <td>か</td>
+                <td>さ</td>
+                <td>た</td>
+                <td>な</td>
+                <td>ま</td>
+                <td>ら</td>
+                <td>が</td>
+                <td>ば</td>
+                <td>わ</td>
+                <td>~ない</td>
+              </tr>
+              <tr class="background-grey">
+                <td>stem</td>
+                <td>き</td>
+                <td>し</td>
+                <td>ち</td>
+                <td>に</td>
+                <td>み</td>
+                <td>り</td>
+                <td>ぎ</td>
+                <td>び</td>
+                <td>い</td>
+                <td>~ます</td>
+              </tr>
+              <tr class="white-row">
+                <td>affirmative</td>
+                <td>く</td>
+                <td>す</td>
+                <td>つ</td>
+                <td>ぬ</td>
+                <td>む</td>
+                <td>る</td>
+                <td>ぐ</td>
+                <td>ぶ</td>
+                <td>う</td>
+                <td>= Dictionary form</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
