@@ -263,7 +263,74 @@ function Lesson8() {
       <section id="section2">
         <h3>8.2: Short Forms in Informal Speech</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Close friends or family members speak with each other using short
+            forms. Long forms tends to imply the speaker's intention to "keep a
+            proper distance" from the listener.
+          </p>
+          <p className="tab">
+            今日、学校に行く？ (Short form)
+            <br />
+            <i>Are you going to school today?</i>
+          </p>
+          <p className="tab">
+            すみません、この電車は新宿にいきますか。 (Long form)
+            <br />
+            <i>Excuse me, does this train go to Shinjuku?</i>
+          </p>
+          <p>
+            Be wary when switching to short forms, as Japanese speakers are very
+            concious of seniority. Just because someone uses short forms with
+            you does not mean it's a mutual relationshi in using short/long
+            forms. Juniors often uses long forms to their senior while seniors
+            are more free to use short forms to their juniors.
+          </p>
+          <p className="tab">
+            Profesor: この漢字、わかる？。
+            <br />
+            <i>Do you know this kanji?</i>
+          </p>
+          <p className="tab">
+            Student: はい、わかります。
+            <br />
+            <span style={{ marginRight: "50px" }}></span>(X うん、わかる。)
+            <br />
+            <i>Yes, I do.</i>
+          </p>
+          <p>
+            In casual conversations, you drop the question particle か, and use
+            the rising intonation to ask a question.
+          </p>
+          <p>
+            In spoken language, you usually drop the sentence-final だ after a
+            な-adjective or a noun. However, You keep the last だ in the written
+            language.
+          </p>
+          <p className="tab">
+            A: 元気？
+            <br />
+            B: うん、元気。
+          </p>
+          <p>Keep だ when you follow it up with ね or よ.</p>
+          <p className="tab">
+            メアリーさんは二年生<span className="underline-orange">だ</span>よ。
+            <br />
+            Mary is a sophomore.
+          </p>
+          <p>
+            はい and いいえ are usualyl replaced by the less formal うん and
+            ううん.
+          </p>
+          <p className="tab">
+            よくスポーツをする？
+            <br />
+            Do you often play sports?
+          </p>
+          <p className="tab">
+            うん、する。/ ううん、しない。
+            <br />
+            Yes, I do. / No, I don't.
+          </p>
         </div>
       </section>
 
