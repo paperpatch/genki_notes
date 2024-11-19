@@ -368,7 +368,20 @@ function Lesson8() {
       <section id="section4">
         <h3>8.4: Short Forms in Quoted Speech: ~と言っていました</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            To quote someone, use the short form plus と言っていました (They
+            said "..."). Note that the present tense is preserved in the quote.
+          </p>
+          <p className="tab">
+            ヤスミンさんは、あした試験があると言っていました。
+            <br />
+            <i>Yasmin said that there would be an exam tomorrow.</i>
+          </p>
+          <p className="tab">
+            山下先生は結婚していないと言っていました。
+            <br />
+            <i>Professor Yamashita said that he is not married.</i>
+          </p>
         </div>
       </section>
 
