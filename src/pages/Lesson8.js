@@ -315,21 +315,21 @@ function Lesson8() {
           <p className="tab">
             メアリーさんは二年生<span className="underline-orange">だ</span>よ。
             <br />
-            Mary is a sophomore.
+            <i>Mary is a sophomore.</i>
           </p>
           <p>
-            はい and いいえ are usualyl replaced by the less formal うん and
+            はい and いいえ are usually replaced by the less formal うん and
             ううん.
           </p>
           <p className="tab">
             よくスポーツをする？
             <br />
-            Do you often play sports?
+            <i>Do you often play sports?</i>
           </p>
           <p className="tab">
             うん、する。/ ううん、しない。
             <br />
-            Yes, I do. / No, I don't.
+            <i>Yes, I do. / No, I don't.</i>
           </p>
         </div>
       </section>
@@ -337,7 +337,31 @@ function Lesson8() {
       <section id="section3">
         <h3>8.3: Short Forms in Quoted Speech: ~と思います</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            To describe what you think, use the short form, plus と思います (I
+            think that...). と is a quotation particle, which does the job of
+            both the English word "that" in indirect quotation and of quotation
+            marks (" ") in direct quotation.
+          </p>
+          <p className="tab">
+            (私は)たけしさんはメアリーさんが好きだと思います。
+            <br />
+            <i>I think Takeshi likes Mary.</i>
+          </p>
+          <p>
+            To say that you <i>don't think</i> something is the case, it is more
+            common in Japanese to say ~ないと思います (I <i>think</i> that
+            something is <i>not</i> the case) than ~と思いません (
+            <i>I don't think</i>).
+          </p>
+          <p className="tab">
+            (私は)メアリーさんはたけしさんが好きじゃないと思います。
+            <br />
+            <i>
+              I don't think Mary likes Takeshi. (= I think Mary doesn't like
+              Takeshi.)
+            </i>
+          </p>
         </div>
       </section>
 
