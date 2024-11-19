@@ -58,15 +58,22 @@ function Header() {
   // Close Modals on Outside Clicks or Escape
   useEffect(() => {
     const handleClickOutside = (e) => {
+      // Handle Search Results Visibility
       if (
         searchRef.current &&
-        !searchRef.current.contains(e.target) &&
-        !settingsIconRef.current.contains(e.target) && // Exclude gear icon clicks
+        !searchRef.current.contains(e.target)
+      ) {
+        setIsVisible(false);
+      }
+
+      // Handle Settings Modal Visibility
+      if (
+        settingsIconRef.current &&
+        !settingsIconRef.current.contains(e.target) &&
         settingsModalRef.current &&
         !settingsModalRef.current.contains(e.target)
       ) {
         setIsSettingsModalVisible(false);
-        setIsVisible(false);
       }
     };
 
@@ -109,7 +116,7 @@ function Header() {
   };
 
   const toggleSettingsModal = () => {
-    setIsSettingsModalVisible(!isSettingsModalVisible);
+    setIsSettingsModalVisible((prev) => !prev);
   };
 
   const handleSettingsChange = (settings) => {
