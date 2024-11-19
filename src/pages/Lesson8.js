@@ -430,9 +430,84 @@ function Lesson8() {
       </section>
 
       <section id="section6">
-        <h3>8.6: のが好きです/上手です</h3>
+        <h3>8.6: Verb のが好きです/上手です</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            A verb short form + の turns a verb into a noun describing an
+            action. For example, you can describe what you like/dislike doing.
+          </p>
+          <p className="tab">
+            (私は)日本語を<span className="underline-black">勉強する</span>
+            <span className="border-orange">の</span>
+            が好きです。
+            <br />
+            <i>I like studying the Japanese language.</i>
+          </p>
+          <p className="tab">
+            私は部屋を<span className="underline-black">掃除する</span>
+            <span className="border-orange">の</span>
+            がきらいです。
+            <br />
+            <i>I don't like cleaning my room.</i>
+          </p>
+          <p>
+            "To be good/abd at doing something" is ~が上手です (is good at ...)
+            and ~が下手です"
+          </p>
+          <p className="tab">
+            ロバートさんは料理を<span className="underline-black">作る</span>
+            <span className="border-orange">の</span>
+            が上手です。
+            <br />
+            <i>Robert is good at cooking meals.</i>
+          </p>
+          <p className="tab">
+            たけしさんは英語を<span className="underline-black">話す</span>
+            <span className="border-orange">の</span>
+            が下手です。
+            <br />
+            <i>Takeshi is not a good speaker of English.</i>
+          </p>
+          <table className="table-list table-mini table-text-center">
+            <tbody>
+              <tr>
+                <td rowSpan="4">person は activity (verb) のが</td>
+                <td>好き</td>
+                <td rowSpan="4">です。</td>
+                <td>
+                  <i>likes doing ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>きらい</td>
+                <td>
+                  <i>doesn't like doing ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>上手</td>
+                <td>
+                  <i>is good at doing ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>下手</td>
+                <td>
+                  <i>is poor at doing ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            It's a common mistake to use the <i>te</i>-form of a verb in such
+            contexts, misled by the association between ~ている and the verb in
+            the <i>-ing</i> form in English.
+          </p>
+          <p className="tab">
+            <span className="text-red">X</span> たけしさんは英語を
+            <span className="underline-orange">話して</span>
+            が下手です。
+          </p>
         </div>
       </section>
 

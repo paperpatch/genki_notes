@@ -140,16 +140,22 @@
   color: black;
 }
 
+.text-red {
+  color: rgba(158, 8, 8, 0.791);
+}
+
 .text-orange {
   color: #ED7014;
   font-weight: 600;
 }
 
+.underline-black,
 .underline-orange {
   position: relative;
   display: inline;
 }
 
+.underline-black::after,
 .underline-orange::after {
   content: '';
   position: absolute;
@@ -158,6 +164,10 @@
   bottom: -4px;
   height: 2px;
   background-color: #ED7014;
+}
+
+.underline-black::after {
+  background-color: black;
 }
 
 /* Table Text List */
