@@ -96,7 +96,7 @@ function Lesson2() {
             might find the more formal terms in the following:
           </p>
           <p className="tab">
-            A は X <span class="underline-orange">じゃありません</span>。 (more
+            A は X <span className="underline-orange">じゃありません</span>。 (more
             formal speech style) <br />A は X
             <span className="underline-orange">でわありません</span>。 (formal for
             writing)

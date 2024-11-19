@@ -224,7 +224,8 @@ function Lesson4() {
           </p>
           <p>Use ぐらい after ~時間 for an approximate measurement.</p>
           <p className="tab">
-            私は昨日 日本語を<span className="underline-orange">三時間ぐらい</span>
+            私は昨日 日本語を
+            <span className="underline-orange">三時間ぐらい</span>
             勉強しました。
             <br />I studied Japanese for about three hours yesterday.
           </p>

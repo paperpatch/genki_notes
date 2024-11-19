@@ -159,23 +159,23 @@ function Lesson3() {
             or affected by, the event.
           </p>
           <p className="tab">
-            コーヒー<span class="underline-orange">を</span>飲みます。
+            コーヒー<span className="underline-orange">を</span>飲みます。
             <br />I drink coffee.
           </p>
           <p>で indicates where event described by the verb takes place.</p>
           <p className="tab">
-            図書館<span class="underline-orange">で</span>本を読みます。
+            図書館<span className="underline-orange">で</span>本を読みます。
             <br />I will read books in the library.
           </p>
           <p>に has many meanings, but usually means:</p>
           <p className="indent">(1) Goal of movement</p>
           <p className="tab">
-            今日学校<span class="underline-orange">に</span>行きません。
+            今日学校<span className="underline-orange">に</span>行きません。
             <br />I will not go to school today.
           </p>
           <p className="indent">(2) Time (at which an event takes place)</p>
           <p className="tab">
-            日曜日<span class="underline-orange">に</span>京都に行きます。
+            日曜日<span className="underline-orange">に</span>京都に行きます。
             <br />I will go to Kyoto on Sunday.
           </p>
           <p>

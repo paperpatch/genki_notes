@@ -174,49 +174,49 @@ function Lesson8() {
             Think of the <i>u</i>-verb conjugation as moving up and down in the{" "}
             <i>hirgana</i> chart.
           </p>
-          <table class="table-boxes">
+          <table className="table-boxes">
             <tbody>
               <tr>
                 <td className="border-none"></td>
                 <td className="background-pink">
-                  <span class="text-main">書</span>
-                  <span class="text-sub">か</span>
+                  <span className="text-main">書</span>
+                  <span className="text-sub">か</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">話</span>
-                  <span class="text-sub">はな</span>
+                  <span className="text-main">話</span>
+                  <span className="text-sub">はな</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">待</span>
-                  <span class="text-sub">ま</span>
+                  <span className="text-main">待</span>
+                  <span className="text-sub">ま</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">死</span>
-                  <span class="text-sub">し</span>
+                  <span className="text-main">死</span>
+                  <span className="text-sub">し</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">読</span>
-                  <span class="text-sub">よ</span>
+                  <span className="text-main">読</span>
+                  <span className="text-sub">よ</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">作</span>
-                  <span class="text-sub">つく</span>
+                  <span className="text-main">作</span>
+                  <span className="text-sub">つく</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">泳</span>
-                  <span class="text-sub">およ</span>
+                  <span className="text-main">泳</span>
+                  <span className="text-sub">およ</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">遊</span>
-                  <span class="text-sub">あそ</span>
+                  <span className="text-main">遊</span>
+                  <span className="text-sub">あそ</span>
                 </td>
                 <td className="background-pink">
-                  <span class="text-main">買</span>
-                  <span class="text-sub">か</span>
+                  <span className="text-main">買</span>
+                  <span className="text-sub">か</span>
                 </td>
                 <td className="border-none"></td>
               </tr>
-              <tr class="background-white">
+              <tr className="background-white">
                 <td>negative</td>
                 <td>か</td>
                 <td>さ</td>
@@ -229,7 +229,7 @@ function Lesson8() {
                 <td>わ</td>
                 <td>~ない</td>
               </tr>
-              <tr class="background-grey">
+              <tr className="background-grey">
                 <td>stem</td>
                 <td>き</td>
                 <td>し</td>
@@ -242,7 +242,7 @@ function Lesson8() {
                 <td>い</td>
                 <td>~ます</td>
               </tr>
-              <tr class="white-row">
+              <tr className="white-row">
                 <td>affirmative</td>
                 <td>く</td>
                 <td>す</td>
