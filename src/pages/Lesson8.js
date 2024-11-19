@@ -388,7 +388,44 @@ function Lesson8() {
       <section id="section5">
         <h3>8.5: ~ないでください</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            To request that someone refrains from doing something, use a
+            negative verbal short form plus でください.
+          </p>
+          <p className="tab">
+            ここで写真を撮らないでください。
+            <br />
+            <i>Please don't take pictures here.</i>
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>verb (short, negative) + でください</td>
+                <td>
+                  <i>Please don't...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            ないでください often is a better answer than てはいけません to a
+            てもいいですか question.
+          </p>
+          <p className="tab">
+            A: この部屋に入ってもいいですか。
+            <br />
+            <i>May I enter this room?</i>
+          </p>
+          <p className="tab">
+            B: 入らないでください。。
+            <br />
+            <i>Please don't. (入 = はい)</i>
+          </p>
+          <p className="tab">
+            Compare: 入ってはいけません。
+            <br />
+            (Implies that you are in a position of authority.)
+          </p>
         </div>
       </section>
 
