@@ -45,8 +45,7 @@ ul {
   outline: none !important;
 }
 
-h1:active,
-a:active {
+h1:active {
   outline: none;
 }
 

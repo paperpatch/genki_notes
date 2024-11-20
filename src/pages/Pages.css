@@ -193,6 +193,17 @@
   list-style-type: circle;
 }
 
+a {
+  color: #174f8c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #174f8c;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 @media (max-width: 768px) {
   table {
     display: block;

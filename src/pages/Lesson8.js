@@ -514,7 +514,69 @@ function Lesson8() {
       <section id="section7">
         <h3>8.7: The Subject Particle が</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            One usage of replacing the particle は with が depends on what is
+            emphasized and what word they're attached to. は, the topic
+            particle, usually emphasizse what comes after, and not what it
+            marks. が, the subject particle, does the opposite. It places
+            emphasis on what comes before it.
+          </p>
+          <p className="tab">
+            これは<span className="underline-orange">大きい犬です</span>。
+            <br />
+            This, <span className="underline-orange">IS A BIG DOG</span>.
+          </p>
+          <p className="tab">
+            <span className="underline-orange">これ</span>が大きい犬です。
+            <br />
+            <span className="underline-orange">THIS RIGHT HERE</span>, is a big
+            dog.
+          </p>
+          <p>
+            The は emphasize the 大きい犬です, while が is emphasize the これ.
+          </p>
+          <a
+            href="https://www.youtube.com/watch?v=ytjRoTwWnzw"
+            target="_blank"
+            rel="noreferrer"
+            className="tab"
+          >
+            [Youtube Video] は and が Particles
+          </a>
+          <p>
+            Question words like だれ and 何 in the subject of a sentence are
+            followed by が instead of は.
+          </p>
+          <p className="tab">
+            だれ<span className="underline-orange">が</span>沖縄に行きましたか。
+            <br />
+            Who went to Okinawa.
+          </p>
+          <p className="tab">
+            Compare: <span className="text-red">X</span> だれ
+            <span className="underline-orange">は</span>
+            沖縄に行きましたか。
+          </p>
+          <p>
+            In Lesson 2, we learned that a question word that is the subject of
+            a sentence is never followed by the particle は, but always by the
+            particle が. A noun that will provide the answer to such a question
+            is also followed by the particle が.
+          </p>
+          <p className="tab">
+            A: どのクラス
+            <span className="underline-orange">が</span>
+            おもしろいですか。
+            <br />
+            Which class is (the most) interesting?
+          </p>
+          <p className="tab">
+            B: 日本語のクラス
+            <span className="underline-orange">が</span>
+            おもしろいです。
+            <br />
+            Japanese class is.
+          </p>
         </div>
       </section>
 
