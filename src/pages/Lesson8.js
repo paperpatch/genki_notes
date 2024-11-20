@@ -581,9 +581,66 @@ function Lesson8() {
       </section>
 
       <section id="section8">
-        <h3>8.7: 何か and 何も</h3>
+        <h3>8.8: 何か and 何も</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The word for "something" is 何か, and the word for "anything" in
+            negative sentences is 何も.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td colSpan="3">"Some" and "any" in</td>
+              </tr>
+              <tr>
+                <td>• positive statements:</td>
+                <td>何か</td>
+                <td>
+                  <i>something</i>
+                </td>
+              </tr>
+              <tr>
+                <td>• questions:</td>
+                <td>何か</td>
+                <td>
+                  <i>anything?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>• negative statements:</td>
+                <td>何も + negative</td>
+                <td>
+                  <i>not ... anything</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            When 何か and 何も are used in places where the particles は, が,
+            and を are expeted, they are often used on their own, without the
+            help of particles.
+          </p>
+          <p className="tab">
+            猫が
+            <span className="underline-orange">何か</span>
+            持ってきました。
+            <br />
+            The cat has brought something.
+          </p>
+          <p className="tab">
+            猫は
+            <span className="underline-orange">何か</span>
+            食べましたか。
+            <br />
+            Did the cat eat anything?
+          </p>
+          <p className="tab">
+            いいえ、猫は
+            <span className="underline-orange">何も</span>
+            食べませんでした。
+            <br />
+            No, the cat did not eat anything.
+          </p>
         </div>
       </section>
     </div>
