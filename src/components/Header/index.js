@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import lessons from "../../assets/data/lessons";
 import {
   iconGear,
@@ -16,9 +16,12 @@ function Header() {
   const [isVisible, setIsVisible] = useState(false);
   const [isSettingsModalVisible, setIsSettingsModalVisible] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
+  const [activeIndex, setActiveIndex] = useState(-1);
   const searchRef = useRef(null);
   const settingsModalRef = useRef(null);
   const settingsIconRef = useRef(null);
+  const itemRefs = useRef([]);
+  const navigate = useNavigate();
 
   // Load settings from LocalStorage
   useEffect(() => {
@@ -55,14 +58,11 @@ function Header() {
     setAllContent(content);
   }, []);
 
-  // Close Modals on Outside Clicks or Escape
+  // Close Results and Modals on Outside Clicks or Escape
   useEffect(() => {
     const handleClickOutside = (e) => {
       // Handle Search Results Visibility
-      if (
-        searchRef.current &&
-        !searchRef.current.contains(e.target)
-      ) {
+      if (searchRef.current && !searchRef.current.contains(e.target)) {
         setIsVisible(false);
       }
 
@@ -81,6 +81,7 @@ function Header() {
       if (e.key === "Escape") {
         setIsVisible(false);
         setIsSettingsModalVisible(false);
+        setActiveIndex(-1);
       }
     };
 
@@ -93,14 +94,55 @@ function Header() {
     };
   }, []);
 
+  /* Searchbar Functionality */
   const handleSearch = (e) => {
     setQuery(e.target.value.toLowerCase());
     setIsVisible(true);
+    setActiveIndex(-1);
   };
 
-  const handleSearchBarClick = () => {
-    if (!isVisible && query.trim()) {
-      setIsVisible(true);
+  const handleKeyDown = (e) => {
+    if (!isVisible) return;
+
+    switch (e.key) {
+      case "ArrowDown":
+        e.preventDefault();
+        setActiveIndex((prevIndex) => {
+          const newIndex =
+            prevIndex < filteredContent.length - 1 ? prevIndex + 1 : 0;
+          scrollToItem(newIndex);
+          return newIndex;
+        });
+        break;
+      case "ArrowUp":
+        e.preventDefault();
+        setActiveIndex((prevIndex) => {
+          const newIndex =
+            prevIndex > 0 ? prevIndex - 1 : filteredContent.length - 1;
+          scrollToItem(newIndex);
+          return newIndex;
+        });
+        break;
+      case "Enter":
+        e.preventDefault();
+        if (activeIndex >= 0 && activeIndex < filteredContent.length) {
+          const selectedItem = filteredContent[activeIndex];
+          navigate(`${selectedItem.path}#${selectedItem.sectionId}`);
+          setIsVisible(false);
+          setQuery("");
+        }
+        break;
+      default:
+        break;
+    }
+  };
+
+  const scrollToItem = (index) => {
+    if (itemRefs.current[index]) {
+      itemRefs.current[index].scrollIntoView({
+        behavior: "smooth",
+        block: "nearest",
+      });
     }
   };
 
@@ -110,11 +152,7 @@ function Header() {
       item.sectionContent.toLowerCase().includes(query)
   );
 
-  const handleResultClick = () => {
-    setIsVisible(false);
-    // setQuery('');
-  };
-
+  /* Settings */
   const toggleSettingsModal = () => {
     setIsSettingsModalVisible((prev) => !prev);
   };
@@ -136,8 +174,9 @@ function Header() {
           type="text"
           placeholder="Search lessons..."
           value={query}
-          onClick={handleSearchBarClick}
+          onClick={() => setIsVisible(true)}
           onChange={handleSearch}
+          onKeyDown={handleKeyDown}
         />
         {query && isVisible && (
           <ul>
@@ -145,11 +184,18 @@ function Header() {
               filteredContent.map((item, index) => (
                 <Link
                   to={`${item.path}#${item.sectionId}`}
-                  className="search-item"
+                  className={`search-item ${
+                    index === activeIndex ? "active" : ""
+                  }`}
                   key={index}
-                  onClick={handleResultClick}
+                  onClick={() => {
+                    setIsVisible(false);
+                    setQuery("");
+                  }}
                 >
-                  <li>{item.sectionTitle}</li>
+                  <li ref={(list) => (itemRefs.current[index] = list)}>
+                    {item.sectionTitle}
+                  </li>
                 </Link>
               ))
             ) : (

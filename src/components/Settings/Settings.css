@@ -183,12 +183,15 @@ body.dark-mode .header {
 
 body.dark-mode .searchbar,
 body.dark-mode .searchbar input,
-body.dark-mode .search-item:hover,
-body.dark-mode .searchbar ul,
-body.dark-mode .searchbar li
-{
+body.dark-mode .searchbar a {
   background-color: #3a3d42;
   color: #e0e0e0;
+}
+
+body.dark-mode .search-item.active,
+body.dark-mode .search-item li:hover {
+  color: #232020;
+  background-color: #b9b9ba;
 }
 
 /* Dark Mode for Sidebar */
