@@ -268,16 +268,33 @@ function Lesson8() {
             forms. Long forms tends to imply the speaker's intention to "keep a
             proper distance" from the listener.
           </p>
-          <p className="tab">
-            今日、学校に行く？ (Short form)
-            <br />
-            <i>Are you going to school today?</i>
-          </p>
-          <p className="tab">
-            すみません、この電車は新宿にいきますか。 (Long form)
-            <br />
-            <i>Excuse me, does this train go to Shinjuku?</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>Friend A: 今日、学校に行く？ (Short form)</p>
+            <p>
+              <i>Are you going to school today?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>Friend B: ううん、行かない。</p>
+            <p>
+              <i>No, I'm not.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              Stranger A: すみません、この電車は新宿にいきますか。 (Long form)
+            </p>
+            <p>
+              <i>Excuse me, does this train go to Shinjuku?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>Stranger B: いいえ、行きませにょ。</p>
+            <p>
+              <i>No, it doesn't.</i>
+            </p>
+          </div>
           <p>
             Be wary when switching to short forms, as Japanese speakers are very
             concious of seniority. Just because someone uses short forms with
@@ -285,18 +302,24 @@ function Lesson8() {
             forms. Juniors often uses long forms to their senior while seniors
             are more free to use short forms to their juniors.
           </p>
-          <p className="tab">
-            Profesor: この漢字、わかる？。
-            <br />
-            <i>Do you know this kanji?</i>
-          </p>
-          <p className="tab">
-            Student: はい、わかります。
-            <br />
-            <span style={{ marginRight: "50px" }}></span>(X うん、わかる。)
-            <br />
-            <i>Yes, I do.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>Profesor: この漢字、わかる？</p>
+            <p>
+              <i>Do you know this kanji?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              Student: はい、わかります。
+              <br />
+              <span style={{ marginRight: "50px" }}></span>(
+              <span className="text-red">X </span>うん、わかる。)
+              <br />
+            </p>
+            <p>
+              <i>Yes, I do.</i>
+            </p>
+          </div>
           <p>
             In casual conversations, you drop the question particle か, and use
             the rising intonation to ask a question.
@@ -306,31 +329,45 @@ function Lesson8() {
             な-adjective or a noun. However, You keep the last だ in the written
             language.
           </p>
-          <p className="tab">
-            A: 元気？
-            <br />
-            B: うん、元気。
-          </p>
+          <div className="tab table-double-column">
+            <p>A: 元気？</p>
+            <p>
+              <i>Are you good?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>B: うん、元気。</p>
+            <p>
+              <i>Yes, I am.</i>
+            </p>
+          </div>
           <p>Keep だ when you follow it up with ね or よ.</p>
-          <p className="tab">
-            メアリーさんは二年生<span className="underline-orange">だ</span>よ。
-            <br />
-            <i>Mary is a sophomore.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>
+              メアリーさんは二年生<span className="underline-orange">だ</span>
+              よ。
+            </p>
+            <p>
+              <i>Mary is a sophomore.</i>
+            </p>
+          </div>
           <p>
             はい and いいえ are usually replaced by the less formal うん and
             ううん.
           </p>
-          <p className="tab">
-            よくスポーツをする？
-            <br />
-            <i>Do you often play sports?</i>
-          </p>
-          <p className="tab">
-            うん、する。/ ううん、しない。
-            <br />
-            <i>Yes, I do. / No, I don't.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>よくスポーツをする？</p>
+            <p>
+              <i>Do you often play sports?</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>うん、する。/ ううん、しない。</p>
+            <p>
+              <i>Yes, I do. / No, I don't.</i>
+            </p>
+          </div>
         </div>
       </section>
 
@@ -343,25 +380,27 @@ function Lesson8() {
             both the English word "that" in indirect quotation and of quotation
             marks (" ") in direct quotation.
           </p>
-          <p className="tab">
-            (私は)たけしさんはメアリーさんが好きだと思います。
-            <br />
-            <i>I think Takeshi likes Mary.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>(私は)たけしさんはメアリーさんが好きだと思います。</p>
+            <p>
+              <i>I think Takeshi likes Mary.</i>
+            </p>
+          </div>
           <p>
             To say that you <i>don't think</i> something is the case, it is more
             common in Japanese to say ~ないと思います (I <i>think</i> that
             something is <i>not</i> the case) than ~と思いません (
             <i>I don't think</i>).
           </p>
-          <p className="tab">
-            (私は)メアリーさんはたけしさんが好きじゃないと思います。
-            <br />
-            <i>
-              I don't think Mary likes Takeshi. (= I think Mary doesn't like
-              Takeshi.)
-            </i>
-          </p>
+          <div className="tab table-double-column">
+            <p>(私は)メアリーさんはたけしさんが好きじゃないと思います。</p>
+            <p>
+              <i>
+                I don't think Mary likes Takeshi. (= I think Mary doesn't like
+                Takeshi.)
+              </i>
+            </p>
+          </div>
         </div>
       </section>
 
@@ -372,16 +411,18 @@ function Lesson8() {
             To quote someone, use the short form plus と言っていました (They
             said "..."). Note that the present tense is preserved in the quote.
           </p>
-          <p className="tab">
-            ヤスミンさんは、あした試験があると言っていました。
-            <br />
-            <i>Yasmin said that there would be an exam tomorrow.</i>
-          </p>
-          <p className="tab">
-            山下先生は結婚していないと言っていました。
-            <br />
-            <i>Professor Yamashita said that he is not married.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>ヤスミンさんは、あした試験があると言っていました。</p>
+            <p>
+              <i>Yasmin said that there would be an exam tomorrow.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>山下先生は結婚していないと言っていました。</p>
+            <p>
+              <i>Professor Yamashita said that he is not married.</i>
+            </p>
+          </div>
         </div>
       </section>
 
@@ -521,17 +562,28 @@ function Lesson8() {
             marks. が, the subject particle, does the opposite. It places
             emphasis on what comes before it.
           </p>
-          <p className="tab">
-            これは<span className="underline-orange">大きい犬です</span>。
-            <br />
-            This, <span className="underline-orange">IS A BIG DOG</span>.
-          </p>
-          <p className="tab">
-            <span className="underline-orange">これ</span>が大きい犬です。
-            <br />
-            <span className="underline-orange">THIS RIGHT HERE</span>, is a big
-            dog.
-          </p>
+          <div className="tab table-double-column">
+            <p>
+              これは<span className="underline-orange">大きい犬です</span>。
+            </p>
+            <p>
+              <i>
+                This, <span className="underline-orange">IS A BIG DOG</span>.
+              </i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              <span className="underline-orange">これ</span>が大きい犬です。
+            </p>
+            <p>
+              <i>
+                <span className="underline-orange">THIS RIGHT HERE</span>, is a
+                big dog.
+              </i>
+            </p>
+          </div>
           <p>
             The は emphasize the 大きい犬です, while が is emphasize the これ.
           </p>
