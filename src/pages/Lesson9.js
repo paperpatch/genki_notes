@@ -148,7 +148,9 @@ function Lesson9() {
           </p>
           <div className="tab table-double-column">
             <p>今朝、朝ご飯の食べた？</p>
-            <p><i>Did you have breakfast this morning?</i></p>
+            <p>
+              <i>Did you have breakfast this morning?</i>
+            </p>
           </div>
           <p>
             Unlike だ in the present tense, だった is not dropped in informal
@@ -156,11 +158,15 @@ function Lesson9() {
           </p>
           <div className="tab table-double-column">
             <p>A: 先週は忙しかった？</p>
-            <p><i>Were you busy last week?</i></p>
+            <p>
+              <i>Were you busy last week?</i>
+            </p>
           </div>
           <div className="tab table-double-column">
             <p>B: ううん、忙しくなかった。ひまだった。</p>
-            <p><i>No, I wasn't. I had free time.</i></p>
+            <p>
+              <i>No, I wasn't. I had free time.</i>
+            </p>
           </div>
         </div>
       </section>
@@ -168,7 +174,33 @@ function Lesson9() {
       <section id="section3">
         <h3>9.3: Past Tense Short Forms in Quoted Speech: ~と思います</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Like the present tense, you use the short form in the past tense
+            with ~と思います (to omoi masu), which means "I think", to report
+            what you think took place in the past.
+          </p>
+          <div className="tab table-double-column">
+            <p>A: あ、私のとんかつがない！</p>
+            <p>
+              <i>Hey, my pork cutlet is gone!</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>B: トムさんが食べたと思います。</p>
+            <p>
+              <i>I think Tom ate it.</i>
+            </p>
+          </div>
+          <p className="tab">
+            去年の冬はあまり寒くなかったと思い。
+            <br />
+            去年, kyounen, 冬 = fuyu,  寒 = samu
+            <br />
+            <i>
+              I don't think last winter was very cold. (= I think last winter
+              was not very cold.)
+            </i>
+          </p>
         </div>
       </section>
 
