@@ -9,7 +9,7 @@
 }
 
 .table-list th.table-header {
-  padding-top: 20px;
+  padding-top: 15px;
 }
 
 .table-subheader {
@@ -68,6 +68,18 @@
   border: 1px solid black;
   text-align: center;
   padding: 10px;
+}
+
+.table-double-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.table-double-column p {
+  flex: 1; /* columns take equal width*/
+  margin: 0;
 }
 
 /* Table Borders and Lines */

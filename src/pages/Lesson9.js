@@ -141,7 +141,27 @@ function Lesson9() {
       <section id="section2">
         <h3>9.2: Past Tense Short Forms in Informal Speech</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Short form in the past tense can be used in the same way as the
+            present tense forms. Note that the particle か is dropped in
+            informal speech.
+          </p>
+          <div className="tab table-double-column">
+            <p>今朝、朝ご飯の食べた？</p>
+            <p><i>Did you have breakfast this morning?</i></p>
+          </div>
+          <p>
+            Unlike だ in the present tense, だった is not dropped in informal
+            speech.
+          </p>
+          <div className="tab table-double-column">
+            <p>A: 先週は忙しかった？</p>
+            <p><i>Were you busy last week?</i></p>
+          </div>
+          <div className="tab table-double-column">
+            <p>B: ううん、忙しくなかった。ひまだった。</p>
+            <p><i>No, I wasn't. I had free time.</i></p>
+          </div>
         </div>
       </section>
 
