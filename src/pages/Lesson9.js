@@ -194,7 +194,7 @@ function Lesson9() {
           <p className="tab">
             去年の冬はあまり寒くなかったと思い。
             <br />
-            去年, kyounen, 冬 = fuyu,  寒 = samu
+            去年, kyounen, 冬 = fuyu, 寒 = samu
             <br />
             <i>
               I don't think last winter was very cold. (= I think last winter
@@ -207,7 +207,30 @@ function Lesson9() {
       <section id="section4">
         <h3>9.4: Past Tense Short Forms in Quoted Speech: ~と言っていました</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If you heard somebody utter a sentence in the past tense, you can
+            report it with the short form past tense with ~と言っていました.
+          </p>
+          <p className="tab">
+            ヤスミンさんは、昼ご飯を食べなかったと言っていました。。
+            <br />
+            <i>Yasmin said that she didn't have lunch.</i>
+          </p>
+          <p>
+            Japanese does not have the "sequence of tense" rule, and the tense
+            of the original utterance is preserved when it is reported. If you
+            are quoting somebody who used the present tense, you must also use
+            the present tense inside the quote.
+          </p>
+          <p className="tab">
+            ヤスミンさんは晩御飯を食べて
+            <span className="underline-orange">いる</span>と言っていました。。
+            <br />
+            <i>
+              Yasmin said that she <span className="underline-orange">was</span>{" "}
+              having dinner.
+            </i>
+          </p>
         </div>
       </section>
 
