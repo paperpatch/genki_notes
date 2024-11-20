@@ -24,10 +24,10 @@ function Lesson3() {
             <em>masen</em> (negative).
           </p>
 
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   Ru-verbs
                 </th>
               </tr>
@@ -60,10 +60,10 @@ function Lesson3() {
             With <em>u</em>-verbs, replace <em>u</em> with <em>imasu</em> and{" "}
             <em>imasen</em>.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   U-verbs
                 </th>
               </tr>
@@ -96,10 +96,10 @@ function Lesson3() {
             Some words are irregular, using a different format than to its
             expected consonant.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   Irregular verbs
                 </th>
               </tr>

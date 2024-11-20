@@ -2,16 +2,14 @@
 .table-list {
   text-align: left;
   border-collapse: collapse;
-  border: 3px solid #ED7014;
   padding: 10px;
   margin-top: 0;
   margin-left: 2em;
   width: 90%;
 }
 
-.table-header {
-  color: #ED7014;
-  padding-left: 10px;
+.table-list th.table-header {
+  padding-top: 20px;
 }
 
 .table-subheader {
@@ -34,7 +32,6 @@
   table-layout: auto;
   text-align: left;
   border-collapse: collapse;
-  border: 3px solid #ED7014;
   margin: 8px 12px;
   width: 90%;
 }
@@ -74,6 +71,10 @@
 }
 
 /* Table Borders and Lines */
+.table-border-orange {
+  border: 3px solid #ED7014;
+}
+
 .border-none {
   border: none !important;
   background: none;
@@ -216,6 +217,11 @@ a:hover {
   .table-list {
     margin-left: 0;
   }
+
+  .table-list th.table-header {
+    padding-top: 0px;
+  }
+
   .table-list th {
     padding: 5px 1em 5px;
   }

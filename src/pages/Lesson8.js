@@ -15,10 +15,10 @@ function Lesson8() {
             used to quote someone else, in casual conversations (as signs of
             intimacy), and in making negative requests.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="4" className="table-header">
+                <th colSpan="4" className="table-header text-orange">
                   Present, affirmative
                 </th>
               </tr>
@@ -57,7 +57,7 @@ function Lesson8() {
             </tbody>
             <thead>
               <tr>
-                <th colSpan="4" className="table-header">
+                <th colSpan="4" className="table-header text-orange">
                   Present, negative
                 </th>
               </tr>
@@ -109,10 +109,10 @@ function Lesson8() {
             Verbs in negative. <i>Ru-</i>, <i>u-</i> and irregular vers
             conjugate differently.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="2" className="table-header">
+                <th colSpan="2" className="table-header text-orange">
                   Verb short forms (present, negative)
                 </th>
               </tr>
@@ -397,7 +397,7 @@ function Lesson8() {
             <br />
             <i>Please don't take pictures here.</i>
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>verb (short, negative) + でください</td>
@@ -468,7 +468,7 @@ function Lesson8() {
             <br />
             <i>Takeshi is not a good speaker of English.</i>
           </p>
-          <table className="table-list table-mini table-text-center">
+          <table className="table-list table-mini table-text-center table-border-orange">
             <tbody>
               <tr>
                 <td rowSpan="4">person は activity (verb) のが</td>
@@ -587,7 +587,7 @@ function Lesson8() {
             The word for "something" is 何か, and the word for "anything" in
             negative sentences is 何も.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td colSpan="3">"Some" and "any" in</td>

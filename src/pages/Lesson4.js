@@ -25,10 +25,10 @@ function Lesson4() {
         <h3>4.2: Describing Where Things Are</h3>
         <div className="indent">
           <p>Describe the location of an item relative to another item.</p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   Location Words
                 </th>
               </tr>
@@ -93,10 +93,10 @@ function Lesson4() {
         <h3>4.3: Past Tense of です</h3>
         <div className="indent">
           <p>The past tense of です (it is) becomes じゃないです (it was).</p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   です
                 </th>
               </tr>
@@ -135,10 +135,10 @@ function Lesson4() {
         <h3>4.4: Past Tense of Verbs</h3>
         <div className="indent">
           <p>Past tense forms of verbs end with ました.</p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   Verbs
                 </th>
               </tr>
@@ -195,7 +195,7 @@ function Lesson4() {
             You replace は or を with も, but with other particles such as に
             and で, you keep them and follow them up with も.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>は / が / を</td>

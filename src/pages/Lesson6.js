@@ -25,7 +25,7 @@ function Lesson6() {
             for ru-, u-, and irregular verbs. Furthermore, the rule for u-verbs
             is divided into five sub-rules.
           </p>
-          <table className="table-expand">
+          <table className="table-expand table-border-orange">
             <tbody>
               <tr>
                 <th rowSpan="1" className="table-subheader">
@@ -275,7 +275,7 @@ function Lesson6() {
             A sentence that ends with から (because) explains the reason or
             cause of a situation.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>

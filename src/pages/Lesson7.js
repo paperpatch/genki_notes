@@ -30,7 +30,7 @@ function Lesson7() {
             You can use the verbs in the first group in their <i>te</i>-form
             with the helping verb いる to describe <i>actions in progress</i>.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>activity verbs ている = action in progress</td>
@@ -54,10 +54,10 @@ function Lesson7() {
             The helping verb いる conjugates as a <i>ru</i>-verb. It makes long
             forms as in the following:
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   e.g.{" "}
                   <span className="text-black">
                     食べ<span className="underline-orange">ている</span>
@@ -111,7 +111,7 @@ function Lesson7() {
             changes from being single to being married. The verb て.いる
             describes the <i>result of a change</i>.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>change verbs ている = result of a change</td>
@@ -291,10 +291,10 @@ function Lesson7() {
             This also applies to descriptions of a person's physical attributes
             in general.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   体の部分
                   <span className="text-black">
                     {" "}
@@ -438,7 +438,7 @@ function Lesson7() {
             for the final い. The <i>te</i>-form of a な-adjective and a noun +
             です sequence is formed by adding で to the base or the noun.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>い-adjectives:</td>
@@ -495,7 +495,7 @@ function Lesson7() {
             If a person moves to another place in order to do something, we can
             describe their movement and its purpose this way:
           </p>
-          <table className="table-list table-mini table-text-center">
+          <table className="table-list table-mini table-text-center table-border-orange">
             <tbody>
               <tr>
                 <td rowSpan="3">destination of movement</td>
@@ -522,7 +522,7 @@ function Lesson7() {
             must be in their stem forms. Stems are the part you get by removing
             ます from the verbs' present tense long forms.
           </p>
-          <table className="table-list table-mini table-text-center">
+          <table className="table-list table-mini table-text-center table-border-orange">
             <tbody>
               <tr>
                 <td>stems:</td>
@@ -609,7 +609,7 @@ function Lesson7() {
             To count people in a class, for example, you can add ~人 after the
             noun and the particle が, and say:
           </p>
-          <table className="table-list table-mini table-text-center">
+          <table className="table-list table-mini table-text-center table-border-orange">
             <tbody>
               <tr>
                 <td>person が</td>

@@ -19,10 +19,10 @@ function Lesson5() {
             with くない. な-adjectives are just like nouns and you only need to
             change です to じゃないです.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   [Present]
                 </th>
               </tr>
@@ -89,10 +89,10 @@ function Lesson5() {
             this syllable change and we say かっこ
             <span className="underline-orange">よ</span>くないです.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   [Present] (irregular)
                 </th>
               </tr>
@@ -142,10 +142,10 @@ function Lesson5() {
             affirmative. In the negative, you only need to cdhange the present
             tense くない to くなかったです.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   [Past]
                 </th>
               </tr>
@@ -196,10 +196,10 @@ function Lesson5() {
             The い-adjective いい (good) is again irregular. Its first syllable
             is changed to よ.
           </p>
-          <table className="table-list">
+          <table className="table-list table-border-orange">
             <thead>
               <tr>
-                <th colSpan="3" className="table-header">
+                <th colSpan="3" className="table-header text-orange">
                   [Past] (irregular)
                 </th>
               </tr>
@@ -234,7 +234,7 @@ function Lesson5() {
             modify. With な-adjectives, place the missing な of the
             corresponding noun before です.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>い-adjectives:</td>
@@ -265,7 +265,7 @@ function Lesson5() {
             examples. You can make 私は will be the subject and the object of
             your affection will be Y が.
           </p>
-          <table className="table-list table-mini">
+          <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td rowSpan="2">X は Y が</td>
