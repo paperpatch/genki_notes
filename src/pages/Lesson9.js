@@ -237,7 +237,125 @@ function Lesson9() {
       <section id="section5">
         <h3>9.5: Qualifying Nouns with Verbs and Adjectives</h3>
         <div className="indent">
-          <p></p>
+          <p>Examples of noun modifications.</p>
+          <ol>
+            <li>adjectival modification</li>
+            <li>phrase describing a person's attribute</li>
+            <li>な-adjective with a grammatical object</li>
+            <li>verb in the short form</li>
+          </ol>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-orange">e.g. 1.</span>
+                </td>
+                <td>
+                  <span className="border-orange">おもしろい</span>
+                </td>
+                <td>
+                  <span className="text-main">人</span>
+                  <span className="text-sub">ひと</span>
+                </td>
+                <td>
+                  <i>
+                    a person{" "}
+                    <span className="border-orange">who is inteeresting</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="text-orange">e.g. 2.</span>
+                </td>
+                <td>
+                  <span className="border-orange">髪が長い</span>
+                </td>
+                <td>
+                  <span className="text-main">人</span>
+                  <span className="text-sub">ひと</span>
+                </td>
+                <td>
+                  <i>
+                    a person{" "}
+                    <span className="border-orange">who has long hair</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="text-orange">e.g. 3.</span>
+                </td>
+                <td>
+                  <span className="border-orange">おもしろい</span>
+                </td>
+                <td>
+                  <span className="text-main">人</span>
+                  <span className="text-sub">ひと</span>
+                </td>
+                <td>
+                  <i>
+                    a person{" "}
+                    <span className="border-orange">who is inteeresting</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="text-orange">e.g. 4.</span>
+                </td>
+                <td>
+                  <span className="border-orange">おもしろい</span>
+                </td>
+                <td>
+                  <span className="text-main">人</span>
+                  <span className="text-sub">ひと</span>
+                </td>
+                <td>
+                  <i>
+                    a person{" "}
+                    <span className="border-orange">who is interesting</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>↑</td>
+                <td>↑</td>
+              </tr>
+              <tr>
+                <td colSpan="2">adjectives and verbs used as qualifiers</td>
+                <td>noun</td>
+                <td></td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            A verb + ている, is frequently used as noun modifiers, describing
+            people on the basis of their current actions and states.
+          </p>
+          <div className="tab table-double-column">
+            <p>A: ゆいさんはどの人ですか？</p>
+            <p>
+              <i>Which one is Yui?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B:{" "}
+              <span className="underline-orange">あそこで本を読んでいる</span>
+              人です。
+            </p>
+            <p>
+              <i>Yui is the one who is reading a book over there.</i>
+            </p>
+          </div>
+          <p className="tab">
+            <span className="underline-orange">あそこで写真を撮っている</span>
+            学生はロバートさんです。
+            <br />
+            <i>The student taking pictures over there is Robert.</i>
+          </p>
         </div>
       </section>
 
