@@ -434,7 +434,56 @@ function Lesson9() {
       <section id="section7">
         <h3>9.7: Explanation から, Situation</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            から means "because" when added to a sentence. It can also mean a
+            sort of explanation when combined with more sentences.
+          </p>
+          <p>
+            If you put two sentences into one with から at the end of one of the
+            sentence, the から sentence explains the situation.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="border-orange">explanation</span>から、
+                  <span className="border-orange">situation</span>。
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "50px" }}>
+                  = <span className="border-orange">situation</span>, because
+                  <span className="border-orange">explanation</span>.
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "50px" }}>
+                  = <span className="border-orange">explanation</span>;
+                  therefore,
+                  <span className="border-orange">situation</span>.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            あした試験があるから、今晩勉強します。
+            <br />
+            <i>
+              I will study this evening, beacuse we will have an exam tomorrow.
+            </i>
+            <br />
+            <i>
+              (= We will have an exam tomorrow; therefore, I will study this
+              evening.)
+            </i>
+          </p>
+          <p className="tab">
+            寒かったから、出かけませんでした。
+            <br />
+            <i>We didn't go out, because it was cold.</i>
+            <br />
+            <i>(= It was cold; therefore, we didn't go out.)</i>
+          </p>
         </div>
       </section>
     </div>
