@@ -58,7 +58,56 @@ function Lesson10() {
       <section id="section2">
         <h3>10.2: Comparison among Three or More Items</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            In comparing three or more items, the degree qualifier いちばん is
+            used.
+          </p>
+          <p>一番 (いちばん) = number one; first</p>
+          <p>中 (なか) = inside; interior</p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>[ A と B と C ]</td>
+                <td>の中で A がいちばん (property)。</td>
+              </tr>
+              <tr>
+                <td colSpan="2" style={{ textAlign: "right" }}>
+                  <i>= Between A and B, which is more (property)?</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr></tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            A: カナダとフランスと日本
+            <span className="underline-orange">の中で</span>
+            、どこが<span className="underline-orange">いちばん</span>
+            寒いですか?
+            <br />
+            <i>
+              Among Canada, France, and Japan, which country has the coldest
+              climate?
+            </i>
+          </p>
+          <p className="tab">
+            B: カナダが
+            <span className="underline-orange">いちばん</span>寒いと思います。
+            <br />
+            <i>Canada is the coldest, I think.</i>
+          </p>
+          <p>
+            Note that the words のほう and どっち are not used in statements of
+            comparison among three or more items. Normal question words like
+            だれ, どれ,{" "}
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            , いつ, and どこ are used instead.
+          </p>
         </div>
       </section>
 

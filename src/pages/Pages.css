@@ -132,7 +132,27 @@
 }
 
 .tab {
+  display: block;
   margin-left: 3em;
+}
+
+.tab i {
+  display: block;
+}
+
+.kanji {
+  display: inline-block;
+  position: relative;
+}
+
+.furigana {
+  position: absolute;
+  top: 2.2em;
+  left: 0;
+  font-size: 0.5em;
+  white-space: nowrap;
+  text-align: center;
+  width: 100%;
 }
 
 .text-main {
@@ -142,7 +162,7 @@
 .text-sub {
   white-space: nowrap;
   display: inline-block;
-  font-size: 0.7em; /* Adjust font size as needed */
+  font-size: 0.7em;
 }
 
 .text-right {
@@ -189,17 +209,17 @@
 }
 
 .ordered-list li {
-  list-style: none; /* Disable default numbering */
+  list-style: none;
   counter-increment: list-counter; /* Increment the counter */
   margin-top: 5px;
-  margin-bottom: 5px; /* Add spacing between items */
-  position: relative; /* Allow positioning of the custom counter */
+  margin-bottom: 5px;
+  position: relative;
 }
 
 .ordered-list li::before {
   content: counter(list-counter) " "; /* Add the counter with a period */
   position: absolute;
-  left: -40px; /* Adjust as needed for alignment */
+  left: -40px;
 }
 
 .bullet {
