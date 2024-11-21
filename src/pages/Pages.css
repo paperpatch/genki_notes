@@ -126,13 +126,35 @@
   text-align: center;
 }
 
-/* Table Texts */
+/* Table Order + Unordered List */
+.ordered-list {
+  counter-reset: list-counter; /* Reset the counter */
+}
+
+.ordered-list li {
+  list-style: none;
+  counter-increment: list-counter; /* Increment the counter */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.ordered-list li::before {
+  content: counter(list-counter) " "; /* Add the counter with a period */
+  position: absolute;
+  left: -40px;
+}
+
+.bullet {
+  list-style-type: circle;
+}
+
+/* Common Texts */
 .indent {
   margin-left: 1em;
 }
 
 .tab {
-  display: block;
   margin-left: 3em;
 }
 
@@ -147,7 +169,7 @@
 
 .furigana {
   position: absolute;
-  top: 2.2em;
+  top: 2.5em;
   left: 0;
   font-size: 0.5em;
   white-space: nowrap;
@@ -203,27 +225,14 @@
   background-color: black;
 }
 
-/* Table Text List */
-.ordered-list {
-  counter-reset: list-counter; /* Reset the counter */
+.strikethrough-orange {
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+  text-decoration-color: rgba(237, 112, 20, 0.8);
 }
 
-.ordered-list li {
-  list-style: none;
-  counter-increment: list-counter; /* Increment the counter */
-  margin-top: 5px;
-  margin-bottom: 5px;
-  position: relative;
-}
-
-.ordered-list li::before {
-  content: counter(list-counter) " "; /* Add the counter with a period */
-  position: absolute;
-  left: -40px;
-}
-
-.bullet {
-  list-style-type: circle;
+p {
+  line-height: 1.7;
 }
 
 a {
@@ -264,5 +273,13 @@ a:hover {
 
   .tab {
     margin-left: 2em;
+  }
+
+  .furigana {
+    top: 2.3em;
+  }
+
+  p {
+    line-height: 1.6;
   }
 }

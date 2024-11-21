@@ -62,8 +62,8 @@ function Lesson10() {
             In comparing three or more items, the degree qualifier いちばん is
             used.
           </p>
-          <p>一番 (いちばん) = number one; first</p>
-          <p>中 (なか) = inside; interior</p>
+          <p className="tab">一番 (いちばん) = number one; first</p>
+          <p className="tab">中 (なか) = inside; interior</p>
           <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
@@ -75,11 +75,6 @@ function Lesson10() {
                   <i>= Between A and B, which is more (property)?</i>
                 </td>
               </tr>
-            </tbody>
-          </table>
-          <table className="table-list table-mini">
-            <tbody>
-              <tr></tr>
             </tbody>
           </table>
           <p className="tab">
@@ -114,7 +109,104 @@ function Lesson10() {
       <section id="section3">
         <h3>10.3: Adjective/Noun + の</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            When a noun follows an adjective, and it's clear what the context
+            is, you can replace the noun with the indefinite の, "one", to avoid
+            repetition. の mostly stands for things, not people.
+          </p>
+          <p className="tab">
+            私は
+            <span className="kanji">
+              黒<span className="furigana">くろ</span>
+            </span>
+            い<span className="underline-orange">セーター</span>を
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            っています。
+            <span className="kanji">
+              赤<span className="furigana">あか</span>
+            </span>
+            い<span className="underline-orange">の</span>
+            持っています。（の = ケーキ）
+            <br />
+            <i>I have a black sweater. I have a red one, too.</i>
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td style={{ paddingRight: 0 }}>い-adjective</td>
+                <td style={{ paddingLeft: "15px" }} rowSpan="2">
+                  + <span className="underline-orange">noun</span>
+                </td>
+                <td rowSpan="2">→</td>
+                <td style={{ paddingRight: 0 }}>い-adjective</td>
+                <td style={{ paddingLeft: "15px" }} rowSpan="2">
+                  + <span className="underline-orange">の</span>
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingRight: 0 }}>な-adjective</td>
+                <td style={{ paddingRight: 0 }}>な-adjective</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You can also use の in the sense of "mine", "yours", and so forth,
+            referring to things owned by a person, or characterized by a place
+            name.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              A: これはソラさんの
+              <span className="underline-orange">かばん</span>ですか？
+            </p>
+            <p>
+              <i>Is this Sora's bag?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B:いいえ、それはメアリーさんの
+              <span className="strikethrough-orange">かばん</span>
+              です。
+            </p>
+            <p>
+              <i>No, that is Mary's.</i>
+            </p>
+          </div>
+          <p className="tab">
+            アメリカの
+            <span className="underline-orange">車</span>
+            のほうがに日本の
+            <span className="kanji">
+              <span className="strikethrough-orange">車</span>
+              <span className="furigana">くるま</span>
+            </span>
+            より
+            <span className="kanji">
+              大<span className="furigana">おお</span>
+            </span>
+            きいです。
+            <br />
+            <i>American cars are larger than Japanese ones.</i>
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>
+                  noun<sub>1</sub> の noun<sub>2</sub>
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  noun<sub>1</sub> の{" "}
+                  <span className="strikethrough-orange">
+                    noun<sub>2</sub>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
