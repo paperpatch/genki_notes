@@ -362,7 +362,72 @@ function Lesson9() {
       <section id="section6">
         <h3>9.6: もう~ました and まだ~ていません</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use affirmative past tense of a verb ~ ました both (i) to talk about
+            an event that happened at a certain time in the past (きのう{" "}
+            <i>yesterday</i>), and also (ii) to talk about a past event that
+            still has an effect at present (used with adverbs like もう{" "}
+            <i>already</i>).
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              きのう宿題をし<span className="underline-orange">ました</span>。
+            </p>
+            <p>
+              <i>I did the homework yesterday.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              もう宿題をし
+              <span className="underline-orange">ました</span>。
+            </p>
+            <p>
+              <i>I have already done the homework.</i>
+            </p>
+          </div>
+          <p>
+            With the negative, the past is used only to talk about a finished
+            time period like きのう, but ている is used if your intention is to
+            talk about how things stand now ("not yet").
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              きのう宿題をし
+              <span className="underline-orange">ませんでした</span>。
+            </p>
+            <p>
+              <i>I did not do the homework yesterday.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              もう宿題をし
+              <span className="underline-orange">ていません</span>。
+            </p>
+            <p>
+              <i>I have not done the homework yet.</i>
+            </p>
+          </div>
+          <br />
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>もう~ました</td>
+                <td>
+                  <i>have already ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>まだ~ていません</td>
+                <td>
+                  <i>have not ... yet</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
