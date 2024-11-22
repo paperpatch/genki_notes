@@ -213,7 +213,65 @@ function Lesson10() {
       <section id="section4">
         <h3>10.4: ~つもりだ</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            つもり follows verbs in the present tense short forms to desribe
+            what a person is planning to do in the future. You can also use a
+            verb in the negative plus つもり to describe what you are planning{" "}
+            <i>not</i> to do, or what you do <i>not</i> intend to do.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>verb (short, present) + つもりだ</td>
+                <td>
+                  <i>(I) intend to do ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            （私は）
+            <span className="kanji">
+              週末<span className="furigana">しゅうまつ</span>
+            </span>
+            にたけしさんとテニスをする
+            <span className="underline-orange">つもりです</span>。
+            <br />
+            <i>I intend to play tennis with Takeshi this weekend.</i>
+          </p>
+          <p className="tab">
+            山下先生はあした大学に
+            <span className="kanji">
+              来<span className="furigana">こ</span>
+            </span>
+            <span className="underline-orange">ない</span>
+            <span className="underline-orange">つもりです</span>。
+            <br />
+            <i>
+              Professor Yamashita does not intend to come to school tomorrow.
+            </i>
+          </p>
+          <p>
+            You can also use the past tense to talk about your original
+            intention.
+          </p>
+          <p className="tab">
+            お
+            <span className="kanji">
+              寺<span className="furigana">てら</span>
+            </span>
+            を見に行く<span className="underline-orange">つもりでした</span>
+            が、
+            <span className="kanji">
+              天気<span className="furigana">てんき</span>
+            </span>
+            がよくなかったから、行きませんでした。
+            <br />
+            <i>
+              We were planning to visit a temple, but we didn't, because the
+              weather was not good.
+            </i>
+          </p>
         </div>
       </section>
 
