@@ -34,7 +34,10 @@ function Lesson10() {
             </tbody>
           </table>
           <p className="tab">
-            中国<span className="underline-orange">のほうが</span>日本
+            <span className="kanji">
+              中国<span className="furigana">ちゅうごく</span>
+            </span>
+            <span className="underline-orange">のほうが</span>日本
             <span className="underline-orange">より</span>大きいです。
             <br />
             <i>China is larger than Japan.</i>
@@ -68,7 +71,13 @@ function Lesson10() {
             <tbody>
               <tr>
                 <td>[ A と B と C ]</td>
-                <td>の中で A がいちばん (property)。</td>
+                <td>
+                  の
+                  <span className="kanji">
+                    中<span className="furigana">なか</span>
+                  </span>
+                  で A がいちばん (property)。
+                </td>
               </tr>
               <tr>
                 <td colSpan="2" style={{ textAlign: "right" }}>
@@ -81,7 +90,10 @@ function Lesson10() {
             A: カナダとフランスと日本
             <span className="underline-orange">の中で</span>
             、どこが<span className="underline-orange">いちばん</span>
-            寒いですか?
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            いですか?
             <br />
             <i>
               Among Canada, France, and Japan, which country has the coldest
@@ -90,7 +102,11 @@ function Lesson10() {
           </p>
           <p className="tab">
             B: カナダが
-            <span className="underline-orange">いちばん</span>寒いと思います。
+            <span className="underline-orange">いちばん</span>寒いと
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います。
             <br />
             <i>Canada is the coldest, I think.</i>
           </p>
@@ -177,7 +193,11 @@ function Lesson10() {
           </div>
           <p className="tab">
             アメリカの
-            <span className="underline-orange">車</span>
+            <span className="underline-orange">
+              <span className="kanji">
+                車<span className="furigana">くるま</span>
+              </span>
+            </span>
             のほうがに日本の
             <span className="kanji">
               <span className="strikethrough-orange">車</span>
@@ -278,7 +298,97 @@ function Lesson10() {
       <section id="section5">
         <h3>10.5: Adjective + なる</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The verb なる means "to become", indicating a change. なる follows
+            nouns and both types of adjectives.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>い-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    暖<span className="furigana">あたた</span>
+                  </span>
+                  か<span className="underline-orange">い</span>
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  暖か<span className="underline-orange">くなる</span>
+                </td>
+                <td>
+                  <i>to become warm/warmer</i>
+                </td>
+              </tr>
+              <tr>
+                <td>な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  か (な)
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  静か<span className="underline-orange">になる</span>
+                </td>
+                <td>
+                  <i>to become quiet/quieter</i>
+                </td>
+              </tr>
+              <tr>
+                <td>nouns:</td>
+                <td>
+                  <span className="kanji">
+                    会社員<span className="furigana">かいしゃいん</span>
+                  </span>
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  会社員<span className="underline-orange">になる</span>
+                </td>
+                <td>
+                  <i>to become a company employee</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            日本語の勉強が
+            <span className="kanji">
+              楽<span className="furigana">たの</span>
+            </span>
+            しくなりました。
+            <br />
+            <i>Studying the Japanese language is fun now.</i>
+          </p>
+          <p>With い-adjectives, the final い is dropped and く is added.</p>
+          <p>
+            When you use an adjective with なる, you may be describing an
+            absolute change (e.g., "it has become warm; it is not cold anymore")
+            or a relative change (e.g., "it has become warmer, but it is still
+            cold").Use the pattern for comparison with なる if you want to talk
+            in relative terms.
+          </p>
+          <p className="tab">
+            メアリーさんは
+            <span className="underline-orange">
+              <span className="kanji">
+                前<span className="furigana">まえ</span>
+              </span>
+              より
+            </span>
+            日本語が
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            になりました。
+            <br />
+            <i>
+              Mary has become better in Japanese{" "}
+              <span className="underline-orange">than before</span>.
+            </i>
+          </p>
         </div>
       </section>
 

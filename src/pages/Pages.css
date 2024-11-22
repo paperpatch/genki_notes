@@ -24,7 +24,7 @@
 
 .table-list td {
   vertical-align: middle;
-  padding: 6px 1.5em 6px;
+  padding: 8px 1.5em 8px;
   border: none;
 }
 
@@ -169,7 +169,7 @@
 
 .furigana {
   position: absolute;
-  top: 2.5em;
+  top: -0.8em;
   left: 0;
   font-size: 0.5em;
   white-space: nowrap;
