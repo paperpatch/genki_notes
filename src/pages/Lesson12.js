@@ -433,7 +433,121 @@ function Lesson12() {
       <section id="section4">
         <h3>12.4: ~ので</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use ので to give the reason for the situation described in the
+            balance of the sentence. Semantically, ので is similar to から.
+            Stylistically, ので sounds slightly more formal and is used
+            extensively in the written language.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-orange">(reason)</span> ので &nbsp;
+                  <span className="text-orange">(situation)</span>。
+                </td>
+                <td>
+                  <span className="text-orange">(situation)</span>,{" "}
+                  <i>because</i> <span className="text-orange">(reason)</span>.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            いつも日本語で
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            す<span className="underline-orange">ので</span>
+            、日本語が
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            になりました。
+            <br />
+            <i>My Japanese has improved, because I always speak Japanese.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              宿題<span className="furigana">しゅくだい</span>
+            </span>
+            がたくさんあなった<span className="underline-orange">ので</span>
+            、きのうの
+            <span className="kanji">
+              夜<span className="furigana">よる</span>
+            </span>
+            、
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            ませんでした。
+            <br />
+            <i>I did not sleep last night, because I had a lot of homework.</i>
+          </p>
+          <p>
+            The reason part of ので sentence is usually in a short form. When
+            ので follows a な-adjective or a noun in a present tense affirmative
+            clause, な comes in between, as it did with the explanatory
+            predicate んです.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              その{" "}
+              <span className="kanji">
+                人<span className="furigana">ひと</span>
+              </span>
+              とはいじわる<span className="underline-orange">なので</span>
+              、きらいです。
+              <br />
+              <i>I do not like that person, because he is mean.</i>
+            </p>
+            <p>(Compare: いじわるだから )</p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              今日
+              <span className="kanji">
+                今日<span className="furigana">きょう</span>
+              </span>
+              は
+              <span className="kanji">
+                日<span className="furigana">にち</span>
+              </span>
+              <span className="kanji">
+                曜<span className="furigana">よう</span>
+              </span>
+              <span className="kanji">
+                日<span className="furigana">び</span>
+              </span>
+              <span className="underline-orange">なので</span>、
+              <span className="kanji">
+                銀<span className="furigana">ぎん</span>
+              </span>
+              <span className="kanji">
+                行<span className="furigana">こう</span>
+              </span>
+              は
+              <span className="kanji">
+                休<span className="furigana">やす</span>
+              </span>
+              みです。
+              <br />
+              <i>I do not like that person, because he is mean.</i>
+            </p>
+            <p>
+              (Compare:{" "}
+              <span className="kanji">
+                日<span className="furigana">にち</span>
+              </span>
+              <span className="kanji">
+                曜<span className="furigana">よう</span>
+              </span>
+              <span className="kanji">
+                日<span className="furigana">び</span>
+              </span>
+              だから )
+            </p>
+          </div>
         </div>
       </section>
 
