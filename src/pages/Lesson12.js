@@ -259,7 +259,106 @@ function Lesson12() {
       <section id="section2">
         <h3>12.2: ~すぎる</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Verb stems may be followed by the helping verb すぎる, which means
+            "too much", or "excess". すぎる conjugates as a regular <i>ru</i>
+            -verb.
+          </p>
+          <div className="tab table-double-column">
+            <p className="tab">
+              <span className="kanji">
+                早<span className="furigana">はや</span>
+              </span>
+              く
+              <span className="kanji">
+                起<span className="furigana">お</span>
+              </span>
+              き<span className="underline-orange">すぎました</span>。
+              <br />
+            </p>
+            <p>
+              <i>I got up too early.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p className="tab">
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べ<span className="underline-orange">すぎて</span>はいけません。
+              <br />
+            </p>
+            <p>
+              <i>You must not eat too much.</i>
+            </p>
+          </div>
+          <p>
+            すぎる can also follow い- and な-adjective bases. You drop the い
+            and な at the end of the adjectives and then add すぎる.
+          </p>
+          <div className="tab table-double-column">
+            <p className="tab">
+              (
+              <span className="kanji">
+                高<span className="furigana">たか</span>
+              </span>
+              い) この
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+              は
+              <span className="kanji">
+                高<span className="furigana">たか</span>
+              </span>
+              すぎます。
+              <br />
+            </p>
+            <p>
+              <i>This book is too expensive.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p className="tab">
+              (
+              <span className="kanji">
+                静<span className="furigana">しず</span>
+              </span>
+              かな) この
+              <span className="kanji">
+                町<span className="furigana">まち</span>
+              </span>
+              は
+              <span className="kanji">
+                静<span className="furigana">しず</span>
+              </span>
+              かすぎます。
+              <br />
+            </p>
+            <p>
+              <i>This town is too quiet.</i>
+            </p>
+          </div>
+          <br />
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>verb stem/adjective stem + すぎる</td>
+                <td>... too much</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Use すぎる when something is beyond normal or proper, suggesting
+            that you do not welcome it. Thus{" "}
+            <span className="kanji">
+              親切<span className="furigana">しんせつ</span>
+            </span>
+            すぎます (too kind) for example is not a straightforward compliment.
+            Use modifiers like とても and すごく if you want to say that
+            something is in a high degree.
+          </p>
         </div>
       </section>
 
