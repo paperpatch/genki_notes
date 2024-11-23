@@ -395,7 +395,135 @@ function Lesson10() {
       <section id="section6">
         <h3>10.6: どこかに / どこにも</h3>
         <div className="indent">
-          <p></p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>something</i>
+                </td>
+                <td style={{ paddingLeft: 0 }}>
+                  何か
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                </td>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>someone</i>
+                </td>
+                <td style={{ paddingLeft: 0 }}>
+                  だれか
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                </td>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>somewhere</i>
+                </td>
+                <td>
+                  どこか
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>not anything</i>
+                </td>
+                <td style={{ paddingLeft: 0 }}>
+                  何
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                  も
+                </td>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>not anyone</i>
+                </td>
+                <td style={{ paddingLeft: 0 }}>
+                  だれ
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                  も
+                </td>
+                <td style={{ paddingRight: "10px", paddingLeft: "10px" }}>
+                  <i>not anywhere</i>
+                </td>
+                <td>
+                  どこ
+                  <span className="underline-orange">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                  </span>
+                  も
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You do not need the particles は, が, or を with these words. You do
+            need other particles, such as に, へ, and で.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              A: どこか<span className="underline-orange">へ</span>
+              いきましたか。
+            </p>
+            <p>
+              <i>Did you go anywhere?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B: いいえ、どこ<span className="underline-orange">へ</span>
+              も行きませんでした。
+            </p>
+            <p>
+              <i>No, I didn't go anywhere.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              A: だれか<span className="underline-orange">に</span>
+              <span className="kanji">
+                会<span className="furigana">あ</span>
+              </span>
+              いましたか。
+            </p>
+            <p>
+              <i>Did you see anybody?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B: いいえ、だれも<span className="underline-orange">に</span>
+              <span className="kanji">
+                会<span className="furigana">あ</span>
+              </span>
+              いませんでした。
+            </p>
+            <p>
+              <i>No, I didn't see anybody.</i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>A: 何かしましたか。</p>
+            <p>
+              <i>Did you do anything?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B: いいえ、何<span className="underline-orange">も</span>*
+              しませんでした。
+            </p>
+            <p>
+              <i>No, I didn't do anything.</i>
+            </p>
+          </div>
+          <p style={{ textAlign: "center" }}>*Note that を was not used.</p>
         </div>
       </section>
 
