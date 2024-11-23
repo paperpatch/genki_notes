@@ -206,7 +206,132 @@ function Lesson11() {
       <section id="section2">
         <h3>11.2: ~たり~たりする</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            We know that <i>te</i>-form connects two clauses together:
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              大阪<span className="furigana">おおさか</span>
+            </span>
+            で
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            い
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            をし
+            <span className="underline-orange">て</span>、
+            <span className="kanji">
+              晩<span className="furigana">ばん</span>
+            </span>
+            ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            を
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べます 。
+            <br />
+            <i>In Osaka, I will do some shopping and eat dinner.</i>
+          </p>
+          <p>
+            However, this only suggests that shopping and inner are the only
+            activities planned and that those two activities will be done in
+            that order. To avoid such implications and only want to mention
+            activities or events as <i>examples</i>, and in <i>no set order</i>,
+            use a special predicate form ~たり~たりする.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              大阪<span className="furigana">おおさか</span>
+            </span>
+            で
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            い
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            をし
+            <span className="underline-orange">たり</span>、
+            <span className="kanji">
+              晩<span className="furigana">ばん</span>
+            </span>
+            ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            を
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べたりします。
+            <br />
+            <i>
+              In Osaka, I will{" "}
+              <span className="underline-orange">do such things as</span>{" "}
+              shopping <span className="underline-orange">and</span> eating
+              dinner.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>verb (short, past) + り、verb (short, past) + り</td>
+              </tr>
+              <tr>
+                <td>
+                  <i>do such things as this and that</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            To get たり form of a predicate (such as したり and 食べたり), add
+            り to the past tense short form of a predicate (した and 食べた).
+            The helping verb する at the end of the sentence indicates the tense
+            of the sentence.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              週末<span className="furigana">しゅうまつ</span>
+            </span>
+            は
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            したり、友だちと
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            したり<span className="underline-orange">しました</span>。
+            <br />
+            <i>
+              I studied and talked with my friends, among other things, over the
+              weekend.
+            </i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              踊<span className="furigana">おど</span>
+            </span>
+            ったり、
+            <span className="kanji">
+              音楽<span className="furigana">おんがく</span>
+            </span>
+            を
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            いたり<span className="underline-orange">する</span>のが好きです。
+            <br />
+            <i>I like dancing, listening to music, and so forth.</i>
+          </p>
         </div>
       </section>
 
