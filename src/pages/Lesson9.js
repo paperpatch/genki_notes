@@ -192,12 +192,25 @@ function Lesson9() {
             </p>
           </div>
           <p className="tab">
-            去年の冬はあまり寒くなかったと思い。
-            <br />
-            去年, kyounen, 冬 = fuyu, 寒 = samu
+            <span className="kanji">
+              去年<span className="furigana">きょねん</span>
+            </span>
+            の
+            <span className="kanji">
+              冬<span className="furigana">ふゆ</span>
+            </span>
+            はあまり
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            くなかったと
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            い。
             <br />
             <i>
-              I don't think last winter was very cold. (= I think last winter
+              I don't think last winter was very cold. ( = I think last winter
               was not very cold.)
             </i>
           </p>
@@ -212,7 +225,19 @@ function Lesson9() {
             report it with the short form past tense with ~と言っていました.
           </p>
           <p className="tab">
-            ヤスミンさんは、昼ご飯を食べなかったと言っていました。。
+            ヤスミンさんは、
+            <span className="kanji">
+              昼<span className="furigana">ひる</span>
+            </span>
+            ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            を
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べなかったと言っていました。。
             <br />
             <i>Yasmin said that she didn't have lunch.</i>
           </p>
@@ -223,7 +248,22 @@ function Lesson9() {
             the present tense inside the quote.
           </p>
           <p className="tab">
-            ヤスミンさんは晩御飯を食べて
+            ヤスミンさんは
+            <span className="kanji">
+              晩<span className="furigana">ばん</span>
+            </span>
+            ご
+            <span className="kanji">
+              晩<span className="furigana">ばん</span>
+            </span>
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            を
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べて
             <span className="underline-orange">いる</span>と言っていました。。
             <br />
             <i>

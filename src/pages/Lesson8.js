@@ -361,7 +361,6 @@ function Lesson8() {
               <i>Do you often play sports?</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>うん、する。/ ううん、しない。</p>
             <p>
@@ -572,7 +571,6 @@ function Lesson8() {
               </i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               <span className="underline-orange">これ</span>が大きい犬です。

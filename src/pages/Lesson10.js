@@ -553,7 +553,6 @@ function Lesson10() {
               </i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               <span className="underline-orange">日本語で</span>
@@ -569,7 +568,6 @@ function Lesson10() {
               </i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               <span className="underline-orange">バスで</span>
@@ -585,7 +583,6 @@ function Lesson10() {
               </i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               <span className="underline-orange">テレビで</span>
