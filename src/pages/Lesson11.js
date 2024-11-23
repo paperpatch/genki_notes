@@ -417,7 +417,42 @@ function Lesson11() {
       <section id="section4">
         <h3>11.4: Noun A や Noun B</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            や connects two nouns like と. や suggests that things referred to
+            are proposed as examples, much like たり. Think of や as in etc.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>A や B</td>
+                <td>
+                  <i>A and B, for example</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            <span className="kanji">
+              京都<span className="furigana">きょうと</span>
+            </span>
+            や
+            <span className="kanji">
+              奈<span className="furigana">な</span>
+            </span>
+            <span className="kanji">
+              良<span className="furigana">ら</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きました。
+            <br />
+            <i>
+              I went to Kyoto and Nara (for example, and may have visited other
+              places as well).
+            </i>
+          </p>
         </div>
       </section>
     </div>
