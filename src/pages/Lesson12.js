@@ -74,7 +74,6 @@ function Lesson12() {
               <i>I have an exam tomorrow. (So I can't go out tonight.)</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>トイレにいきたいです。</p>
             <p>
@@ -280,7 +279,6 @@ function Lesson12() {
               <i>I got up too early.</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p className="tab">
               <span className="kanji">
@@ -312,13 +310,11 @@ function Lesson12() {
                 高<span className="furigana">たか</span>
               </span>
               すぎます。
-              <br />
             </p>
             <p>
               <i>This book is too expensive.</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p className="tab">
               (
@@ -334,7 +330,6 @@ function Lesson12() {
                 静<span className="furigana">しず</span>
               </span>
               かすぎます。
-              <br />
             </p>
             <p>
               <i>This town is too quiet.</i>
@@ -365,7 +360,73 @@ function Lesson12() {
       <section id="section3">
         <h3>12.3: ~ほうがいいです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            ほうがいいです means "it is better (for you) to do ..." sentence
+            which you can use to give advice. ほうがいいです follows a verb in
+            the short form. You usually use the past tense of a verb with
+            ほうがいいです if the verb is in the affirmative. When the advice is
+            in the negative, the verb is in the <i>present</i> tense.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>verb (short, past, affirmative)</td>
+                <td rowSpan="2" style={{ padding: 0 }}>
+                  + ほうがいいです
+                </td>
+                <td>
+                  <i>It is better.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>verb (short, present, negative)</td>
+                <td>
+                  <i>It is better not ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br />
+          <div className="tab table-double-column">
+            <p className="tab">
+              もっと
+              <span className="kanji">
+                野<span className="furigana">や</span>
+              </span>
+              <span className="kanji">
+                菜<span className="furigana">さい</span>
+              </span>
+              を
+              <span className="underline-orange">
+                <span className="kanji">
+                  食<span className="furigana">た</span>
+                </span>
+                べた
+              </span>
+              ほうがいいですよ。
+            </p>
+            <p>
+              <i>You'd better eat more vegetables.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p className="tab">
+              <span className="kanji">
+                授業<span className="furigana">じゅぎゅう</span>
+              </span>
+              を
+              <span className="underline-orange">
+                <span className="kanji">
+                  休<span className="furigana">やす</span>
+                </span>
+                まない
+              </span>
+              ほうがいいですよ。
+            </p>
+            <p>
+              <i>It is better not to skip classes.</i>
+            </p>
+          </div>
         </div>
       </section>
 
