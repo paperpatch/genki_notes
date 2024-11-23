@@ -591,7 +591,7 @@ function Lesson8() {
             href="https://www.youtube.com/watch?v=ytjRoTwWnzw"
             target="_blank"
             rel="noreferrer"
-            className="tab"
+            className="tab link"
           >
             [Youtube Video] は and が Particles
           </a>

@@ -235,12 +235,12 @@ p {
   line-height: 1.7;
 }
 
-a {
+.link {
   color: #174f8c;
   text-decoration: none;
 }
 
-a:hover {
+.link:hover {
   color: #174f8c;
   text-decoration: underline;
   text-underline-offset: 4px;
