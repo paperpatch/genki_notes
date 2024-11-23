@@ -530,7 +530,80 @@ function Lesson10() {
       <section id="section7">
         <h3>10.7: で</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use で with nouns that describe means of transportation and
+            instruments you use.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              <span className="underline-orange">はしで</span>ご
+              <span className="kanji">
+                飯<span className="furigana">はん</span>
+              </span>
+              を
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べます。
+            </p>
+            <p>
+              <i>
+                We eat our meals{" "}
+                <span className="underline-orange">with chopsticks</span>.
+              </i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              <span className="underline-orange">日本語で</span>
+              <span className="kanji">
+                話<span className="furigana">はな</span>
+              </span>
+              しましょう。
+            </p>
+            <p>
+              <i>
+                Let's talk <span className="underline-orange">in Japanese</span>
+                .
+              </i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              <span className="underline-orange">バスで</span>
+              <span className="kanji">
+                駅<span className="furigana">いえ</span>
+              </span>
+              までいきました。
+            </p>
+            <p>
+              <i>
+                I went to the station{" "}
+                <span className="underline-orange">by bus</span>.
+              </i>
+            </p>
+          </div>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              <span className="underline-orange">テレビで</span>
+              <span className="kanji">
+                映画<span className="furigana">えいが</span>
+              </span>
+              を
+              <span className="kanji">
+                見<span className="furigana">み</span>
+              </span>
+              ました。
+            </p>
+            <p>
+              <i>
+                I saw a movie <span className="underline-orange">on TV</span>.
+              </i>
+            </p>
+          </div>
         </div>
       </section>
     </div>
