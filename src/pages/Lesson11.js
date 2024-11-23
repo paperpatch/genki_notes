@@ -338,7 +338,79 @@ function Lesson11() {
       <section id="section3">
         <h3>11.3: ~ことがある</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The past tense short form of a verb + ことがある describes that you
+            did something, or something happened.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              富<span className="furigana">ふ</span>
+            </span>
+            <span className="kanji">
+              富<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              山<span className="furigana">さん</span>
+            </span>
+            に
+            <span className="kanji">
+              登<span className="furigana">のぼ</span>
+            </span>
+            った<span className="underline-orange">ことがあります</span>。
+            <br />
+            <i>I have had the experience of climbing Mt. Fuji.</i>
+          </p>
+          <p className="tab">
+            たけしさんは
+            <span className="kanji">
+              授業<span className="furigana">じゅぎょう</span>
+            </span>
+            を
+            <span className="kanji">
+              休<span className="furigana">やす</span>
+            </span>
+            んだ<span className="underline-orange">ことがありません</span>。
+            <br />
+            <i>Takeshi has never been absent from classes (in his life).</i>
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <tbody>
+              <tr>
+                <td>verb (short, past, affirmative) + ことがある</td>
+                <td>
+                  <i>have the experience of ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            If someone asks you a question using ことがありますか, you can reply
+            あります/ありません or repeat the whole verbal complex but not
+            ことがあります without a verb.
+          </p>
+          <p className="tab">
+            A: ヨーロッパに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            った<span className="underline-orange">ことがありますか</span>。
+            <br />
+            <i>Have you ever been to Europe?</i>
+          </p>
+          <p className="tab">
+            B: はい、
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            ったことがあります。
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;はい、あります。
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;(<span className="text-red"> X</span>{" "}
+            はい、ことがあります。)
+            <br />
+            <i>Yes, I have.</i>
+          </p>
         </div>
       </section>
 
