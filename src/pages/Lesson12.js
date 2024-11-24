@@ -731,7 +731,100 @@ function Lesson12() {
       <section id="section6">
         <h3>12.6: でしょうか</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If you ask somebody a question they don't know the answer to, they
+            may be embarassed. You can avoid awkward situations by phrasing
+            questions with でしょうか, which adds politeness.
+          </p>
+          <p className="tab">
+            A: あした、
+            <span className="kanji">
+              雨<span className="furigana">あめ</span>
+            </span>
+            が
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            る<span className="underline-orange">でしょうか</span>。
+            <br />
+            <i>Would it rain tomorrow?</i>
+          </p>
+          <p className="tab">
+            B:{" "}
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            ると
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います。
+            <br />
+            <i>I think it will.</i>
+          </p>
+          <p>
+            でしょう means "<i>probably</i>". By asking でしょうか, you are
+            implying that you think the listener probably has a better-informed
+            opinion.
+          </p>
+          <p>
+            でしょうか follows short form predicates. When it follow a noun or a
+            な-adjective in a present tense affirmative sentence, it follows
+            them without だ in between.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              来週<span className="furigana">らいしゅう</span>
+            </span>
+            は
+            <span className="kanji">
+              暖<span className="furigana">あたた</span>
+            </span>
+            かいでしょうか。
+            <br />
+            <i>Would you say that it will be warm next week?</i>
+          </p>
+          <p className="tab">
+            トマトは
+            <span className="kanji">
+              野<span className="furigana">や</span>
+            </span>
+            <span className="kanji">
+              菜<span className="furigana">さい</span>
+            </span>
+            でしょうか。 ( <span className="text-red">X</span>{" "}
+            <span className="kanji">
+              野<span className="furigana">や</span>
+            </span>
+            <span className="kanji">
+              菜<span className="furigana">さい</span>
+            </span>
+            <span className="underline-orange">だ</span>でしょうか)
+            <br />
+            <i>Is a tomato a vegetable?</i>
+          </p>
+          <p className="tab">
+            これ、もう
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            したとしようか。
+            <br />
+            <i>What happened? (You look shattered.)</i>
+          </p>
+          <p>
+            Use non-interrogative でしょう to make a guess. Add たぶん in the
+            sentence to signal that it's a guess.
+          </p>
+          <p className="tab">
+            たぶなしたは
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            くないでしょう。
+            <br />
+            <i>I bet it will not be cold tomorrow.</i>
+          </p>
         </div>
       </section>
     </div>
