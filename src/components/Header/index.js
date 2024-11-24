@@ -49,6 +49,7 @@ function Header() {
     const content = lessons.flatMap((lesson) =>
       lesson.sections.map((section) => ({
         lessonTitle: lesson.title,
+        sectionNumber: section.number,
         sectionTitle: section.title,
         sectionContent: section.content,
         path: lesson.path,
@@ -96,7 +97,7 @@ function Header() {
 
   /* Searchbar Functionality */
   const handleSearch = (e) => {
-    setQuery(e.target.value.toLowerCase());
+    setQuery(e.target.value);
     setIsVisible(true);
     setActiveIndex(-1);
   };
@@ -148,8 +149,8 @@ function Header() {
 
   const filteredContent = allContent.filter(
     (item) =>
-      item.lessonTitle.toLowerCase().includes(query) ||
-      item.sectionContent.toLowerCase().includes(query)
+      item.lessonTitle.toLowerCase().includes(query.toLowerCase()) ||
+      item.sectionContent.toLowerCase().includes(query.toLowerCase())
   );
 
   /* Settings */
@@ -194,7 +195,10 @@ function Header() {
                   }}
                 >
                   <li ref={(list) => (itemRefs.current[index] = list)}>
-                    {item.sectionTitle}
+                    {item.sectionNumber}
+                    <span className="searchresult-title">
+                      {item.sectionTitle}
+                    </span>
                   </li>
                 </Link>
               ))
