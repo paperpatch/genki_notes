@@ -242,10 +242,10 @@ function Lesson3() {
         <h3>3.7: Word Order</h3>
         <div className="indent">
           <p>
-            Japanese sentences are fairly flexible, but generally are amde up of
+            Japanese sentences are fairly flexible, but generally are made up of
             several noun-particle sequences followed by a verb or an adjective.
           </p>
-          <table className="table-short">
+          <table className="table-short table-mini">
             <tbody>
               <tr>
                 <td>私は</td>
