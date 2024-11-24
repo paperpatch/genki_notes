@@ -532,7 +532,7 @@ function Lesson12() {
               </span>
               みです。
               <br />
-              <i>I do not like that person, because he is mean.</i>
+              <i>Banks are closed, because today is a Sunday.</i>
             </p>
             <p>
               (Compare:{" "}
@@ -554,7 +554,177 @@ function Lesson12() {
       <section id="section5">
         <h3>12.5: ~なければいけません / ~なきゃいけません</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use なければいけません and なきゃいけません to say it is necessary
+            to do something. The なければ is more formal and often seen in the
+            written language. The なきゃ version is more colloquial and mainly
+            found in the spoken language.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があるから、
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            し<span className="underline-orange">なければいけません</span> /{" "}
+            <span className="underline-orange">なきゃいけません</span>。
+            <br />
+            <i>I have to study, because there will be an exam.</i>
+          </p>
+          <p>
+            なければ and なきゃ mean "if you do not do ..." and いけません
+            roughly means "you cannot go". Combined, you would get the meaning
+            "you cannot go not doing ...", giving a sense of the affirmative
+            mandate. Because of the double negatives, drop the last い and
+            replace it with ければ or きゃ.
+          </p>
+          <table className="table-list table-mini table-border-orange">
+            <thead>
+              <tr>
+                <th>verb</th>
+                <th>short negative</th>
+                <th style={{ textAlign: "center" }}>"must"</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べる
+                </td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">ない</span>
+                </td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">なければいけません</span>{" "}
+                  /{" "}
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">なきゃいけません</span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    言<span className="furigana">い</span>
+                  </span>
+                  う
+                </td>
+                <td>
+                  <span className="kanji">
+                    言<span className="furigana">い</span>
+                  </span>
+                  わ<span className="underline-orange">ない</span>
+                </td>
+                <td>
+                  <span className="kanji">
+                    言<span className="furigana">い</span>
+                  </span>
+                  わ<span className="underline-orange">なければいけません</span>{" "}
+                  /{" "}
+                  <span className="kanji">
+                    言<span className="furigana">い</span>
+                  </span>
+                  わ<span className="underline-orange">なきゃいけません</span>
+                </td>
+              </tr>
+              <tr>
+                <td>する</td>
+                <td>
+                  し<span className="underline-orange">ない</span>
+                </td>
+                <td>
+                  し<span className="underline-orange">なければいけません</span>{" "}
+                  / し<span className="underline-orange">なきゃいけません</span>
+                </td>
+              </tr>
+              <tr>
+                <td>くる</td>
+                <td>
+                  こ<span className="underline-orange">ない</span>
+                </td>
+                <td>
+                  こ<span className="underline-orange">なければいけません</span>{" "}
+                  / こ<span className="underline-orange">なきゃいけません</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You can change いけません to いけませんでした to say you{" "}
+            <i>had to</i>. You can use the short form なきゃいけない in causal
+            speech. You can further shorten it to なきゃ.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                今朝<span className="furigana">けさ</span>
+              </span>
+              は、
+              <span className="kanji">
+                六<span className="furigana">ろく</span>
+              </span>
+              <span className="kanji">
+                時<span className="furigana">じ</span>
+              </span>
+              に
+              <span className="kanji">
+                起<span className="furigana">お</span>
+              </span>
+              き<span className="underline-orange">なきゃいけませんでした</span>
+              。
+              <br />
+              <i>I had to get up at six this morning.</i>
+            </p>
+            <p>(long form, past)</p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                彼<span className="furigana">かの</span>
+              </span>
+              <span className="kanji">
+                女<span className="furigana">じょ</span>
+              </span>
+              が
+              <span className="kanji">
+                来<span className="furigana">く</span>
+              </span>
+              るから、
+              <span className="kanji">
+                部<span className="furigana">へ</span>
+              </span>
+              <span className="kanji">
+                屋<span className="furigana">や</span>
+              </span>
+              を
+              <span className="kanji">
+                掃<span className="furigana">そう</span>
+              </span>
+              <span className="kanji">
+                除<span className="furigana">じ</span>
+              </span>
+              し<span className="underline-orange">なきゃ</span> ({" "}
+              <span className="underline-orange">いけない</span> )。
+              <br />
+              <i>I must clean the room, because my girlfriend is coming.</i>
+            </p>
+            <p>(short form, present)</p>
+          </div>
         </div>
       </section>
 

@@ -207,23 +207,17 @@
 
 .underline-black,
 .underline-orange {
-  position: relative;
-  display: inline;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
 }
 
-.underline-black::after,
-.underline-orange::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -3px;
-  height: 2px;
-  background-color: #ED7014;
+.underline-orange {
+  text-decoration-color: #ED7014;
 }
 
-.underline-black::after {
-  background-color: black;
+.underline-black {
+  text-decoration-color: black;
 }
 
 .strikethrough-orange {
