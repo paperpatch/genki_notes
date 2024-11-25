@@ -172,7 +172,7 @@ function Lesson6() {
         <h3>6.2: ~てください</h3>
         <div className="indent">
           <p>
-            Use a verbal <i>te</i>-form together with ください to amke a polite
+            Use a verbal <i>te</i>-form together with ください to make a polite
             request to another person "please do ... for me."
           </p>
           <p className="tab">
@@ -240,9 +240,9 @@ function Lesson6() {
             May I go to the bathroom?
           </p>
           <p className="tab">
-            B: はい，いいですよ。/どうぞ。
+            B: はい，いいですよ。/ どうぞ。
             <br />
-            You may./Please.
+            You may. / Please.
           </p>
         </div>
       </section>
