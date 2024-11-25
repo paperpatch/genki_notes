@@ -242,7 +242,7 @@ function Lesson8() {
                 <td>い</td>
                 <td>~ます</td>
               </tr>
-              <tr className="white-row">
+              <tr className="background-white">
                 <td>affirmative</td>
                 <td>く</td>
                 <td>す</td>

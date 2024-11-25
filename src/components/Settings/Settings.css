@@ -217,12 +217,26 @@ body.dark-mode .background-pink {
   background-color: rgb(133, 78, 86);
 }
 
-body.dark-mode .white-row {
+body.dark-mode .background-mint {
+  background-color: #42725d;
+}
+
+body.dark-mode .background-white {
   background-color: #2f2b2b;
 }
 
-body.dark-mode .grey-row {
-  background-color: #222222;
+body.dark-mode .background-grey {
+  background-color: #3c3b3b;
+}
+
+/* Footer */
+
+body.dark-mode .footer {
+  background-color: #111112;
+}
+
+.footer-content {
+  background-color: #111112;
 }
 
 @media (max-width: 768px) {
