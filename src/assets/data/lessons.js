@@ -8,21 +8,23 @@ const lessons = [
         title: "X は Y です",
         id: "section1",
         content:
-          "1.1, XはYです, topic particle, です, it is, noun structure, basic Japanese sentence structure",
+          "1.1, XはYです, topic particle, です, it is, noun structure, basic Japanese sentence structure" +
+          "wa ha desu",
       },
       {
         number: "1.2",
         title: "Question Sentences",
         id: "section2",
         content:
-          "1.2, question sentences, ですか, ka particle, なんですか, nan desu ka, what is it",
+          "1.2, question sentences, ですか, ka particle, なんですか, nan desu ka, nandesuka what is it",
       },
       {
         number: "1.3",
         title: "Noun1 の Noun2",
         id: "section3",
         content:
-          "1.3, Noun1 の Noun2, Noun の Noun, possessive, の particle, of X, of Y, noun connection, connects two noun",
+          "1.3, Noun1 の Noun2, Noun の Noun, possessive, の particle, of X, of Y, noun connection, connects two noun" +
+          "Similar to Chinese 的",
       },
     ],
   },
@@ -35,21 +37,25 @@ const lessons = [
         title: "これ / それ / あれ / どれ",
         id: "section1",
         content:
-          "2.1, これ / それ / あれ / どれ, this, that, that one over there, which one",
+          "2.1, これ / それ / あれ / どれ, this, that, that one over there, which one" +
+          "kore sore are dore",
       },
       {
         number: "2.2",
         title: "この / その / あの / どの + Noun",
         id: "section2",
         content:
-          "2.2, この / その / あの / どの + Noun, this thing, that thing, that thing over there, which thing",
+          "2.2, この / その / あの / どの + Noun, this thing, that thing, that thing over there, which thing" +
+          "Unlike the previous section, kono, sono, ano, and dono has to be placed before a noun and cannot stand alone. kono sono ano dono" +
+          "Can be used in reference to people, unlike kore, sore, and are, which is considered impolite.",
       },
       {
         number: "2.3",
         title: "ここ / そこ / あそこ / どこ",
         id: "section3",
         content:
-          "2.3, ここ / そこ / あそこ / どこ, words for places, here, near me, there, near you, over there, where",
+          "2.3, ここ / そこ / あそこ / どこ, words for places, here, near me, there, near you, over there, where" +
+          "koko soko asoko doko",
       },
       {
         number: "2.4",
@@ -57,14 +63,16 @@ const lessons = [
         id: "section4",
         content:
           "2.4, How to ask who something belongs to, who, whose (with the posessive term no)" +
-          "これはだれのかばんですか Kore wa dare no kaban desu ka.",
+          "これはだれのかばんですか Kore wa dare no kaban desu ka." +
+          "dare dareno korewadarenokabandesuka",
       },
       {
         number: "2.5",
         title: "Noun も",
         id: "section5",
         content:
-          "2.5, Noun も, The particle for the word too, mo directly after, A は X です。 (A is X.), B も X です。 (B too is X.)",
+          "2.5, Noun も, The particle for the word too, mo directly after, A は X です。 (A is X.), B も X です。 (B too is X.)" +
+          "wa ha mo",
       },
       {
         number: "2.6",
@@ -73,7 +81,8 @@ const lessons = [
         content:
           "2.6, Noun じゃないです, negate a statement, you replace desu with ja nai desu" +
           "A は X じゃないです。 (A is not X.), Ja nai desu is colloquial (used in ordinary or familiar conversations)" +
-          "じゃ is a contraction of de wa, A は X じゃありません, A は Xでわありません",
+          "じゃ is a contraction of de wa, A は X じゃありません (more formal speech style), A は Xでわありません (formal for writing)" +
+          "ja jiya janaidesu",
       },
       {
         number: "2.7",
@@ -93,7 +102,19 @@ const lessons = [
         number: "3.1",
         title: "Verb Conjugation",
         id: "section1",
-        content: "3.1, Verb Conjugation, ",
+        content:
+          "3.1, Verb Conjugation, Conjugate dictionary words to their verb form. For example, the word eat can be conjugated to to eat. Ru-verbs are sounds that ends with eru or iru." +
+          "Replace ru with masu (affirmative) or masen (negative). Ru-verbs Dictionary Form	Present, Affirmative	Present, Negative" +
+          "食べる (taberu)	食べます (tabemasu)	食べません (tabemasen)" +
+          "見る (miru)	見ます (mimasu)	見ません (mimasen)" +
+          "寝る (neru)	寝ます (nemasu)	寝ません (nemasen)" +
+          "U-verbs With u-verbs, replace u with imasu and imasen." +
+          "飲む (nomu)	飲みます (nomimasu)	飲みません (nomimasen)" +
+          "話す (hanasu)	話します (hanashimasu)	話しません (hanashimasen)" +
+          "行く (iku)	行きます (ikimasu)	行きません (ikimasen)" +
+          "Irregular verbs Some words are irregular, using a different format than to its expected consonant." +
+          "する (suru)	します (shimasu)	しません (shimasen)" +
+          "くる (kuru)	きます (kimasu)	きません (kimasen)",
       },
       {
         number: "3.2",
@@ -166,7 +187,8 @@ const lessons = [
         id: "section1",
         content:
           "4.1, X があります / います, があります / います means there is / are X., Use があります for non-living things., Use います for living things." +
-          "It's accompanied by the particle が, instead of は. テレビがありません。I don't have a TV.",
+          "It's accompanied by the particle が, instead of は. テレビがありません。I don't have a TV." +
+          "gaarimasu imasu",
       },
       {
         number: "4.2",
@@ -175,7 +197,8 @@ const lessons = [
         content:
           "4.2 Describing Where Things Are, Location Words, みぎ to the right of ひだり to the left of, まえ in front of" +
           "うし behind X は Y の なか です X は inside Y. うえ on/above した under/beneath ちかく near となり next to, X は Y と Z の あいだです。X is between Y and Z" +
-          "銀行は図書館のとなりです。 The bank is next to the library.",
+          "銀行は図書館のとなりです。 The bank is next to the library." +
+          "migi hidari, mae ushi naka ue shita chikaku tonari aidadesu",
       },
       {
         number: "4.3",
@@ -191,7 +214,8 @@ const lessons = [
         id: "section4",
         content:
           "4.4 Past Tense of Verbs, Past tense forms of verbs end with ました. affirmative	negative, Present	~ ます	~ ません" +
-          "Past	~ ました	~ ませんでした, メリーさんはく時頃家に帰りました。 Mary returned home at about nine.",
+          "Past	~ ました	~ ませんでした, メリーさんはく時頃家に帰りました。 Mary returned home at about nine." +
+          "masu masen mashita masendeshita",
       },
       {
         number: "4.5",
@@ -201,7 +225,8 @@ const lessons = [
           "4.5 も You can also use も when two or more people perform the same activity. You can also use it when someone buys, sees, or eats two or more things." +
           "私は昨日京都に行きました。 I went to Kyoto yesterday. 山下先生も昨日京都に行きました。Professor Yamashita went to Kyoto yesterday, too." +
           "You replace は or を with も, but with other particles such as に and で, you keep them and follow them up with も." +
-          "は / が / を	→	も に / で / etc.	→	にも / でも / etc.",
+          "は / が / を	→	も に / で / etc.	→	にも / でも / etc." +
+          "wa ha ga wo mo ni de nimo demo",
       },
       {
         number: "4.6",
@@ -211,7 +236,7 @@ const lessons = [
           "4.6 一時間, The duration of an activity is expressed with a bare noun., メリーさんはそこで たけしさんを一時間に待ちました。Mary waited for Takeshi there for an hour." +
           "Use ぐらい after ~時間 for an approximate measurement. 私は昨日 日本語を三時間ぐらい勉強しました。 I studied Japanese for about three hours yesterday." +
           "To say one hour an a half, you can add 半 immediately after ~時間. 昨日七時間半寝ました。(I) slept for seven and a half hours last night." +
-          "You can combine 半 and ぐらい, where ぐらい comes last, as in 一時間半ぐらい. han",
+          "You can combine 半 and ぐらい, where ぐらい comes last, as in 一時間半ぐらい. han gurai ichijihangurai",
       },
       {
         number: "4.7",
@@ -219,7 +244,8 @@ const lessons = [
         id: "section7",
         content:
           "4.7 たくさん, If you want to add a quantity word to the direct object of a sentence, you can either place it before the noun, or after the particle を." +
-          "京都で写真をたくさん撮りました。京都でたくさん写真を撮りました。You can also use both these orders in ある and いる sentences.",
+          "京都で写真をたくさん撮りました。京都でたくさん写真を撮りました。You can also use both these orders in ある and いる sentences." +
+          "takusan",
       },
       {
         number: "4.8",
@@ -235,25 +261,155 @@ const lessons = [
     title: "Lesson 5: 沖縄旅行 (A Trip to Okinawa)",
     path: "/lesson5",
     sections: [
-      { number: "5.1", title: "", id: "section1", content: "5.1" },
-      { number: "5.2", title: "", id: "section2", content: "5.2" },
-      { number: "5.3", title: "", id: "section3", content: "5.3" },
-      { number: "5.4", title: "", id: "section4", content: "5.4" },
-      { number: "5.5", title: "", id: "section5", content: "5.5" },
-      { number: "5.6", title: "", id: "section6", content: "5.6" },
+      {
+        number: "5.1",
+        title: "Adjectives (Present Tense)",
+        id: "section1",
+        content:
+          "5.1 Adjectives (Present Tense), Add です to both い-adjectives and な-adjectives for affirmative present tense sentences.," +
+          "In negative sentences, you replace the last い of an い-adjective with くない. な-adjectives are just like nouns and you only need to change です to じゃないです." +
+          "[Present] affirmative negative, い-adjectives e.g. さむい	さむいです It is cold.	さむくないです It is not cold." +
+          "な-adjectives e.g. 元気 (な)	元気です She is healthy.	元気じゃないです She is not healthy." +
+          "A: その本は面白いですか。Is that book interesting? B: いいえ, あまりおもしろくないです。No, it is not very interesting." +
+          "One irregularity worth noticing is the adjective いい (good). The first syllable of いい is changed to よ in all forms except the dictionary form." +
+          "Compound adjectives like かっこいい that are built with いい follow this syllable change and we say かっこよくないです." +
+          "[Present] (irregular) いい	いいです よくないです (or よくありません)" +
+          "If you want to say things like very hot, and a littlehot, you can add degree adverbs like すごく (extremely), とても (very) and ちょっと (a little; slightly) before adjectives." +
+          "沖縄の海はとてもきれいです。The sea is very beautiful in Okinawa. この部屋はちょっと暑いです。This room is a little hot." +
+          "desu kunaidesu janaidesu ii iidesu yokunaidesu yokuarimasen totemo chotto",
+      },
+      {
+        number: "5.2",
+        title: "Adjectives (Past Tense)",
+        id: "section2",
+        content:
+          "5.2 Adjectives (Past Tense) With い-adjectives, you change the last い to かったです in the affirmative. In the negative, you only need to cdhange the present tense くない to くなかったです." +
+          "[Past] affirmative	negative い-adjectives e.g. さむ	さむいかったです It was cold.	さむくなかったです It was not cold." +
+          "な-adjectives e.g. 元気 (な)	元気でした She was healthy.	元気じゃなかったです She was not healthy." +
+          "The い-adjective いい (good) is again irregular. Its first syllable is changed to よ." +
+          "[Past] (irregular) いい	よかったです	よくなかったです (or よくありませんでした)" +
+          "samuikattadesu kunakattadesu deshita janakattadesu genki samu ii yokattadesu",
+      },
+      {
+        number: "5.3",
+        title: "Adjectives (Noun Modification)",
+        id: "section3",
+        content:
+          "5.3 Adjectives (Noun Modification) You can use い- and な-adjectives to modify nouns. Place the dictionary form of an い-adjective before the noun you want to modify. With な-adjectives, place the missing な of the corresponding noun before です." +
+          "い-adjectives:	おもしろい映画	an interesting movie な-adjectives:	きれいな写真	a beautiful picture" +
+          "omoshiroieiga, kireinashashin",
+      },
+      {
+        number: "5.4",
+        title: "好き (な) / きらい (な)",
+        id: "section4",
+        content:
+          "5.4 好き (な) / きらい (な) Some Japanese adjectives are like verbs in English, and they take a subject and an object. For example, 好き (な) (to be fond of; to like), and きらい (な) (to be disgusted with; to dislike) are examples. You can make 私は will be the subject and the object of your affection will be Y が." +
+          "X は Y が	好き	です。きらい If you like ro dislike something (or somebody) a lot, you can use the intensidifed forms of 好きです and きらいです, by adjusting to 大好きです (like a lot) and 大きらいです (hate), which are more often used than the degree modifier とても." +
+          "たけしさんはコーヒーが大好きです。 Takeshi likes coffee a lot. If you want to be neutral and say that you neither like or dislike something, you can say the following:" +
+          "好きでもきらいでもないです。I neither like nor dislike (it). You can use 好きな and きらいな as modifiers of nouns. For example:" +
+          "これは私の好な本です。 This is my favorite book." +
+          "suki kirai desu wa ga sukina kiraina",
+      },
+      {
+        number: "5.5",
+        title: "~ましょう / ~ましょうか",
+        id: "section5",
+        content:
+          "5.5 ~ましょう / ~ましょうか Take a long form of a verb and replace the ます ending with ましょう or ましょうか and you will get the Japanese expression for let's..., which you can use to suggest a plan of action." +
+          "一緒に図書館で勉強しましょう。 Let's study in the library together." +
+          "mashou mashouka",
+      },
+      {
+        number: "5.6",
+        title: "Counting",
+        id: "section6",
+        content:
+          "5.6 Counting When we count items in Japanese, we use different number words for different kinds of items, like counting people or counting books." +
+          "リーさんは Tシャツを三枚買いました。 Lee bought three T-shirts. The number word, 三枚 (san mai), is made up of the numeral 三 and the counter 枚. This counter is used for sheets of paper and other flat objects.",
+      },
     ],
   },
   {
     title: "Lesson 6: ロバートさんの一日 A Day in Robert's Life",
     path: "/lesson6",
     sections: [
-      { number: "6.1", title: "", id: "section1", content: "6.1" },
-      { number: "6.2", title: "", id: "section2", content: "6.2" },
-      { number: "6.3", title: "", id: "section3", content: "6.3" },
-      { number: "6.4", title: "", id: "section4", content: "6.4" },
-      { number: "6.5", title: "", id: "section5", content: "6.5" },
-      { number: "6.6", title: "", id: "section6", content: "6.6" },
-      { number: "6.7", title: "", id: "section7", content: "6.7" },
+      {
+        number: "6.1",
+        title: "Te-form",
+        id: "section1",
+        content:
+          "6.1 Te-form, Te-forms are very important. Among its uses:, making requests (..., please.)" +
+          "forming a sentence that describes two events or activities. (I did this and did that.)" +
+          "giving and asking permission (You may.../May I...?) stating that something is foridden (You must not...)" +
+          "Te-forms conjugation paradigm is complex. There are separate rules for ru-, u-, and irregular verbs. Furthermore, the rule for u-verbs is divided into five sub-rules." +
+          "Ru-verbs 	る →	て 食べる	→	食べて" +
+          "U-verbs with final う	→	って		会う	→	会って つ	待つ	待って る	とる	とって む	→	んで	読む	→	読んで ぶ	遊ぶ	遊んで" +
+          "ぬ	死ぬ	死んで く	→	いて		書く	→	書いて (Exception)	行く	行って ぐ	→	いで		泳ぐ	→	泳いで す	→	して		話す	→	話して" +
+          "Irregular verbs 	する	する	→	して	くる	きて" +
+          "robatosannoichinichi",
+      },
+      {
+        number: "6.2",
+        title: "~てください",
+        id: "section2",
+        content:
+          "6.2 ~てください Use a verbal te-form together with ください to make a polite request to another person please do ... for me." +
+          "教科書を読んでください。 Please read the textbook." +
+          "tekudasai",
+      },
+      {
+        number: "6.3",
+        title: "Describing Two Activities",
+        id: "section3",
+        content:
+          "6.3 Describing Two Activities You can use a te-form to combine two or more verbs, as in I did this and then I did that." +
+          "Note that two verbs cannot be joined by と, which only connects nouns. 図書館に行って，本を帰ります。 I will go to the library and check out the books." +
+          "今日は，六時に起きて，勉強しました。 Today I got up at six and studied. The te-form of a verb can also be used to connect a verb more loosely with the rest of a sentence." +
+          "I can describe the manner in which the action described by the second verb is performed. It also can describe the situation for which an apology is made." +
+          "バスに乗って，会社に行きます。 I go to work by bus. (I take a bus to work.)" +
+          "教科書を忘れて，すみません。 I am sorry for not bringing in the textbook. (I left the book at home, and I am sorry.)",
+      },
+      {
+        number: "6.4",
+        title: "~てもいいです",
+        id: "section4",
+        content:
+          "6.4 ~てもいいです A verbal te-form plus もいいです means you may do..., which describes an activity that is permitted. To ask for permission, you can turn it into a questino sentence, ~てもいいですか" +
+          "The polite and graceful way to grant permission is to say どうぞ. 教科書を見てもいいですよ。 You may use the textbook." +
+          "A: トイレに行ってもいいですか。 May I go to the bathroom? B: はい，いいですよ。/ どうぞ。 You may. / Please." +
+          "temoiidesu temoiidesuka douzo dozo",
+      },
+      {
+        number: "6.5",
+        title: "~てはいけません",
+        id: "section5",
+        content:
+          "6.5 ~てはいけません A verbal te-form plus はいけません means you must not do ..., a strong prohibition statement, as in rules and regulations." +
+          "ここで写真を撮ってはいけません。 You must not take pictures here." +
+          "If somebody asks for permission but you want to deny it, you could use てはいけません but the setence will come off as harsh unless you are in a place of authority." +
+          "There are softer ways of saying please don't in lesson 8." +
+          "tewaikemasen tehaikemasen",
+      },
+      {
+        number: "6.6",
+        title: "~から",
+        id: "section6",
+        content:
+          "6.6 ~から A sentence that ends with から (because) explains the reason or cause of a situation." +
+          "(situation)。 (explanation) から。 私は今晩勉強します。明日はテストがありますから。" +
+          "I will study this evening. (Because) we will have an exam tomorrow." +
+          "kara",
+      },
+      {
+        number: "6.7",
+        title: "~ましょうか (Offering Assistance)",
+        id: "section7",
+        content:
+          "6.7 ~ましょうか (Offering Assistance) In Lesson 5, ましょうか means Let's .... ~ましょうか is also used in the sense of let me do ..., as in offering assistance." +
+          "荷物を持ちましょうか。 Shall I carry your bag?" +
+          "mashouka",
+      },
     ],
   },
   {
