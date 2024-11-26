@@ -1114,7 +1114,61 @@ function Lesson13() {
       <section id="section5">
         <h3>13.5: なら</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            なら is attached to a sentence which describes the condition where
+            certain events or situations happen. Often translated as "if". The
+            main ideas of a なら sentence are contrast and limitation, usually
+            indicating specific situation or condition where something applies.
+          </p>
+          <p>Example 1:</p>
+          <p className="tab">
+            A: ブラジルに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            ったことがありますか。
+            <br />
+            <i>Have you ever been to Brazil?</i>
+          </p>
+          <p className="tab">
+            チリ<span className="underline-green">なら</span>
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            ったことがありますが、ブラジルは
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            ったことがありません。
+            <br />
+            <i>
+              I've been to Chile, but never to Brazil (If the question were
+              about Chile, yes, but Brazil, no.)
+            </i>
+          </p>
+          <p>Example 2:</p>
+          <p className="tab">
+            日本語が
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            めますか。
+            <br />
+            <i>Can you read Japanese?</i>
+          </p>
+          <p className="tab">
+            ひらがな<span className="underline-green">なら</span>
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            めます。
+            <br />
+            <i>If it is (written) in hirgana, yes.</i>
+          </p>
+          <p>
+            なら introduces a sentence that says something "positive" about the
+            item that is contrasted.
+          </p>
         </div>
       </section>
 
