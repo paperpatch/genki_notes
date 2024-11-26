@@ -35,7 +35,7 @@ function Lesson1() {
           <p>の (pronounced no) is a particle that connects two noun.</p>
           <p>Can use の like the posessive (Example: Takeshi's).</p>
           <p>Can also mean "of X", or "of the Y".</p>
-          <p>Similar to Chinese 的.</p>
+          <p>Similar to the Chinese character 的.</p>
         </div>
       </section>
     </div>
