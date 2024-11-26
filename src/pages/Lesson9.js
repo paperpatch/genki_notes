@@ -417,7 +417,6 @@ function Lesson9() {
               <i>I did the homework yesterday.</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               もう宿題をし
@@ -441,7 +440,6 @@ function Lesson9() {
               <i>I did not do the homework yesterday.</i>
             </p>
           </div>
-          <br />
           <div className="tab table-double-column">
             <p>
               もう宿題をし
@@ -451,7 +449,6 @@ function Lesson9() {
               <i>I have not done the homework yet.</i>
             </p>
           </div>
-          <br />
           <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>

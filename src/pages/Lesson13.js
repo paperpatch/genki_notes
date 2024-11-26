@@ -1193,7 +1193,6 @@ function Lesson13() {
               </tr>
             </tbody>
           </table>
-          <br />
           <div className="tab table-double-column">
             <p>
               Q :{" "}

@@ -335,7 +335,6 @@ function Lesson12() {
               <i>This town is too quiet.</i>
             </p>
           </div>
-          <br />
           <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
