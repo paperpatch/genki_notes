@@ -643,7 +643,6 @@ function Lesson13() {
               く<span className="underline-green">ことができます</span>。
               <br />
               <i>Mary can play the guitar.</i>
-              <br />
             </p>
             <p>
               (Compare: ギターを
@@ -666,7 +665,6 @@ function Lesson13() {
               う<span className="underline-green">ことができません</span>。
               <br />
               <i>You cannot keep dogs in this apartment.</i>
-              <br />
             </p>
             <p>
               (Compare:{" "}
@@ -686,7 +684,221 @@ function Lesson13() {
       <section id="section2">
         <h3>13.2: ~し</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Similar to から, as in to give a reason for something, し can also
+            be used to give a reason.
+          </p>
+          <p className="tab">
+            日本語は
+            <span className="kanji">
+              面<span className="furigana">おも</span>
+            </span>
+            <span className="kanji">
+              白<span className="furigana">しろ</span>
+            </span>
+            いから、日本語の
+            <span className="kanji">
+              授業<span className="furigana">じゅぎょう</span>
+            </span>
+            が
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            好きです。
+            <br />
+            <i>
+              I really like my Japanese class, because Japanese is interesting.
+            </i>
+          </p>
+          <p>
+            When you mention more than one reasons, you can use し in place of
+            から. し usually follows a predicate in the short form.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-green">
+                    (reason<sub>1</sub>)
+                  </span>{" "}
+                  し、
+                  <span className="text-green">
+                    (reason<sub>2</sub>)
+                  </span>{" "}
+                  し、<span className="text-green">(situation)</span>。
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            日本語は
+            <span className="kanji">
+              面<span className="furigana">おも</span>
+            </span>
+            <span className="kanji">
+              白<span className="furigana">しろ</span>
+            </span>
+            いし、
+            <span className="kanji">
+              先<span className="furigana">せん</span>
+            </span>
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            はいいし、私は日本語の
+            <span className="kanji">
+              授業<span className="furigana">じゅぎょう</span>
+            </span>
+            が
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            好きです。
+            <br />
+            <i>
+              I really like my Japanese class, because Japanese is interesting,
+              and our teacher is good.
+            </i>
+          </p>
+          <p>
+            When you use just one し clause, you imply that it is not the only
+            reason for the situation.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              物<span className="furigana">ぶっ</span>
+            </span>
+            <span className="kanji">
+              価<span className="furigana">か</span>
+            </span>
+            が
+            <span className="kanji">
+              安<span className="furigana">やす</span>
+            </span>
+            いし、この
+            <span className="kanji">
+              町<span className="furigana">まち</span>
+            </span>
+            の
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            <span className="kanji">
+              活<span className="furigana">かつ</span>
+            </span>
+            は
+            <span className="kanji">
+              楽<span className="furigana">らく</span>
+            </span>
+            です。
+            <br />
+            <i>
+              Life in this city is easygoing. Things are inexpensive, for one
+              thing.
+            </i>
+          </p>
+          <p>
+            You can also add the し clause in a separate sentence, providing
+            reasons for the situation mentioned.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              山<span className="furigana">やま</span>
+            </span>
+            <span className="kanji">
+              下<span className="furigana">した</span>
+            </span>
+            <span className="kanji">
+              先<span className="furigana">せん</span>
+            </span>
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            はいい
+            <span className="kanji">
+              先<span className="furigana">せん</span>
+            </span>
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            です。
+            <span className="kanji">
+              教<span className="furigana">おし</span>
+            </span>
+            えるのが
+            <span className="kanji">
+              上<span className="furigana">じょう</span>
+            </span>
+            <span className="kanji">
+              手<span className="furigana">ず</span>
+            </span>
+            だし、
+            <span className="kanji">
+              親<span className="furigana">しん</span>
+            </span>
+            <span className="kanji">
+              切<span className="furigana">せつ</span>
+            </span>
+            だし。
+            <br />
+            <i>
+              Professor Yamashita is a great teacher. He is good at teaching,
+              and he is kind.
+            </i>
+          </p>
+          <p>
+            Note that you find だ in the present tense with な-adjectives and
+            nouns, but not with い-adjectives.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>い-adjectives:</td>
+                <td>おもしろいし</td>
+                <td>
+                  (<span className="text-red">X</span> おもしろいだし)
+                </td>
+              </tr>
+              <tr>
+                <td>な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    好<span className="furigana">す</span>
+                  </span>
+                  き<span className="underline-green">だ</span>し
+                </td>
+                <td>
+                  (<span className="text-red">X</span>{" "}
+                  <span className="kanji">
+                    好<span className="furigana">す</span>
+                  </span>
+                  きし)
+                </td>
+              </tr>
+              <tr>
+                <td>noun + です:</td>
+                <td>
+                  <span className="kanji">
+                    学<span className="furigana">がく</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  <span className="underline-green">だ</span>し
+                </td>
+                <td>
+                  (<span className="text-red">X</span>{" "}
+                  <span className="kanji">
+                    学<span className="furigana">がく</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  し)
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
