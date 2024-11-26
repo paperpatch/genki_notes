@@ -905,7 +905,135 @@ function Lesson13() {
       <section id="section3">
         <h3>13.3: ~そうです (It looks like...)</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            We add そうで to い- and な-adjective bases to say that
+            something"seemingly" has those properties. We are guessing what
+            something is like on the basis of our impressions.
+          </p>
+          <div className="tab table-double-column">
+            <p>このりんごはおいしそうです。</p>
+            <p>
+              <i>This apple looks delicious.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                明日<span className="furigana">あした</span>
+              </span>
+              は
+              <span className="kanji">
+                天<span className="furigana">てん</span>
+              </span>
+              <span className="kanji">
+                気<span className="furigana">き</span>
+              </span>
+              が
+              <span className="kanji">
+                良<span className="furigana">よ</span>
+              </span>
+              さそうです。
+            </p>
+            <p>
+              <i>It looks like the weather will be fine tomorrow.</i>
+            </p>
+          </div>
+          <p>
+            To form ~そうです sentences with い-adjectives, you drop the final
+            い; with な-adjectives, you just drop な. An exception is
+            い-adjective いい, which changes to よさ before そう.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>い-adjectives:</td>
+                <td>おいしい</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>おいしそうです</td>
+              </tr>
+              <tr>
+                <td>(exception)</td>
+                <td>いい</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>よさそうです</td>
+              </tr>
+              <tr>
+                <td>な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  （な）
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  そうです
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You can use そうです with negative adjectives too. ない is changed
+            to なさ before そう.
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            は
+            <span className="kanji">
+              難<span className="furigana">むずか</span>
+            </span>
+            しく<span className="underline-green">なさそうです</span>。
+            <br />
+            <i>This book does not look difficult.</i>
+          </p>
+          <p className="tab">
+            ソラさんはテニスが
+            <span className="kanji">
+              上<span className="furigana">じょう</span>
+            </span>
+            <span className="kanji">
+              手<span className="furigana">ず</span>
+            </span>
+            じゃ<span className="underline-green">なさそうです</span>。
+            <br />
+            <i>It does not look like Sora is good at tennis.</i>
+          </p>
+          <p>
+            You can use the adjective + そう combination to qualify a noun. そう
+            is a な-adjective, so we say そうな before a noun.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              暖<span className="furigana">あたた</span>
+            </span>
+            か<span className="underline-green">そうな</span>セーターを
+            <span className="kanji">
+              着<span className="furigana">き</span>
+            </span>
+            ています。
+            <br />
+            <i>She is wearing a warm-looking sweater.</i>
+          </p>
+          <p>
+            In many そうです sentences, the guesswork is done on the basis of
+            visual impressions. We use そうです when we{" "}
+            <i>lack conclusive evidence</i>. We do not use そう for visual
+            evidence, such as <span className="text-red">X</span> きれいそうです
+            for looking something pretty. If we can see it, then we have
+            evidence to conclude that it is pretty.
+          </p>
         </div>
       </section>
 
