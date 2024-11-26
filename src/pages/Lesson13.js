@@ -417,7 +417,7 @@ function Lesson13() {
                 </th>
               </tr>
               <tr>
-                <th>
+                <th style={{ paddingRight: 0 }}>
                   <span className="text-green">e.g.</span>{" "}
                   <span className="kanji">
                     書<span className="furigana">か</span>
@@ -1040,7 +1040,74 @@ function Lesson13() {
       <section id="section4">
         <h3>13.4: ~てみる</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use the <i>te</i>-form of a verb plus the helping verb みる
+            to express the idea of "doing something tentatively", or "trying
+            something". You're not sure what the outcome is, but you try it and
+            see what the consequences are.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              漢<span className="furigana">かん</span>
+            </span>
+            <span className="kanji">
+              字<span className="furigana">じ</span>
+            </span>
+            がわからなかったので、日本
+            <span className="kanji">
+              人<span className="furigana">じん</span>
+            </span>
+            の友
+            <span className="kanji">
+              達<span className="furigana">だち</span>
+            </span>{" "}
+            に
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            いてみました。
+            <br />
+            <i>
+              I did not know the kanji, so I tried asking a Japanese friend of
+              mine.
+            </i>
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              A: この
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+              、
+              <span className="kanji">
+                面<span className="furigana">おも</span>
+              </span>
+              <span className="kanji">
+                白<span className="furigana">しろ</span>
+              </span>
+              かったですよ。
+            </p>
+            <p>
+              <i>This book was interesting.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              B: じゃあ、
+              <span className="kanji">
+                読<span className="furigana">よ</span>
+              </span>
+              んでみます。
+            </p>
+            <p>
+              <i>Okay, I will take a look at it.</i>
+            </p>
+          </div>
+          <p>
+            みる comes form the verb 見る, and conjugates as a regular <i>ru</i>
+            -verb. Unlike the main verb, 見る, ~てみる is always written in{" "}
+            <i>hiragana</i>.
+          </p>
         </div>
       </section>
 
