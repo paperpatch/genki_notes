@@ -1175,7 +1175,116 @@ function Lesson13() {
       <section id="section6">
         <h3>13.6: 一週間に三回</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can describe the frequency of events over a period of time by
+            using the following framework:
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-green">(period)</span> に{" "}
+                  <span className="text-green">(frequency)</span>
+                </td>
+                <td>
+                  <span className="text-green">(frequency)</span> <i>per</i>{" "}
+                  <span className="text-green">(period)</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br />
+          <div className="tab table-double-column">
+            <p>
+              Q :{" "}
+              <span className="kanji">
+                一<span className="furigana">いっ</span>
+              </span>
+              <span className="kanji">
+                週間<span className="furigana">しゅうかん</span>
+              </span>
+              に
+              <span className="kanji">
+                何<span className="furigana">なん</span>
+              </span>
+              <span className="kanji">
+                回<span className="furigana">かい</span>
+              </span>
+              <span className="kanji">
+                髪<span className="furigana">かみ</span>
+              </span>
+              を
+              <span className="kanji">
+                洗<span className="furigana">あら</span>
+              </span>
+              いますか。
+            </p>
+            <p>
+              <i>How many times a week do you shampoo?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              A : 私は
+              <span className="kanji">
+                一<span className="furigana">いっ</span>
+              </span>
+              <span className="kanji">
+                週間<span className="furigana">しゅうかん</span>
+              </span>
+              に三
+              <span className="kanji">
+                回<span className="furigana">かい</span>
+              </span>
+              <span className="kanji">
+                髪<span className="furigana">かみ</span>
+              </span>
+              を
+              <span className="kanji">
+                洗<span className="furigana">あら</span>
+              </span>
+              います。
+            </p>
+            <p>I shampoo three times a week.</p>
+          </div>
+          <p className="tab">
+            <span className="kanji">
+              一<span className="furigana">いち</span>
+            </span>
+            <span className="kanji">
+              日<span className="furigana">にち</span>
+            </span>
+            に三
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              間<span className="furigana">かん</span>
+            </span>
+            ぐらいゲームをします。
+            <br />
+            <i>I play games for about three hours a day.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              一<span className="furigana">いっ</span>
+            </span>
+            か
+            <span className="kanji">
+              月<span className="furigana">げつ</span>
+            </span>
+            に
+            <span className="kanji">
+              三日<span className="furigana">みっか</span>
+            </span>
+            か
+            <span className="kanji">
+              四日<span className="furigana">よっか</span>
+            </span>
+            、アルバイトをします。
+            <br />
+            <i>I work part-time three or four days a month.</i>
+          </p>
         </div>
       </section>
     </div>
