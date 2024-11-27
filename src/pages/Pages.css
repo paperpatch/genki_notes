@@ -72,7 +72,8 @@
   padding: 10px;
 }
 
-.table-double-column {
+.table-double-column,
+.table-triple-column {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -82,6 +83,11 @@
 
 .table-double-column p {
   flex: 1; /* columns take equal width*/
+  margin: 0;
+}
+
+.table-triple-column p {
+  flex: none;
   margin: 0;
 }
 
@@ -183,10 +189,6 @@
 
 .tab {
   margin-left: 3em;
-}
-
-.tab i {
-  display: block;
 }
 
 .kanji {
