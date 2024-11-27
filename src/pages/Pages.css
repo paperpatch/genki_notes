@@ -87,7 +87,7 @@
 }
 
 .table-triple-column p {
-  flex: none;
+  flex: auto;
   margin: 0;
 }
 

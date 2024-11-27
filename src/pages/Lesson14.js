@@ -1,6 +1,128 @@
 import React from "react";
 import { useSmoothScrollToSection } from "../utils/Helpers";
 
+const Diagram = () => {
+  return (
+    <div style={{ textAlign: "center" }}>
+      <svg width="500" height="500" style={{ border: "1px solid black" }}>
+        {/* Circles */}
+        <circle cx="250" cy="100" r="50" fill="green" />
+        <text
+          x="250"
+          y="100"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+        >
+          Random A
+        </text>
+
+        <circle cx="100" cy="250" r="50" fill="red" />
+        <text
+          x="100"
+          y="250"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+        >
+          Close Friend
+        </text>
+
+        <circle cx="400" cy="250" r="50" fill="green" />
+        <text
+          x="400"
+          y="250"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+        >
+          Random B
+        </text>
+
+        <circle cx="250" cy="400" r="50" fill="blue" />
+        <text
+          x="250"
+          y="400"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+        >
+          You
+        </text>
+
+        {/* Arrows */}
+        {/* Random A to Close Friend */}
+        <line
+          x1="210"
+          y1="140"
+          x2="150"
+          y2="200"
+          stroke="black"
+          strokeWidth="2"
+          markerEnd="url(#arrowhead)"
+        />
+        <text x="180" y="170" fill="black">
+          あげる
+        </text>
+
+        {/* Close Friend to You */}
+        <line
+          x1="120"
+          y1="300"
+          x2="220"
+          y2="370"
+          stroke="black"
+          strokeWidth="2"
+          markerEnd="url(#arrowhead)"
+        />
+        <text x="160" y="340" fill="black">
+          くれる
+        </text>
+
+        {/* Random B to Close Friend */}
+        <line
+          x1="350"
+          y1="200"
+          x2="150"
+          y2="250"
+          stroke="black"
+          strokeWidth="2"
+          markerEnd="url(#arrowhead)"
+        />
+        <text x="240" y="220" fill="black">
+          あげる
+        </text>
+
+        {/* External Circular Arrow (Top to Bottom) */}
+        <path
+          d="M 250 50 A 200 200 0 0 1 250 450"
+          fill="none"
+          stroke="gray"
+          strokeWidth="2"
+          markerEnd="url(#arrowhead)"
+        />
+        <text x="260" y="250" fill="gray">
+          もらう
+        </text>
+
+        {/* Arrowhead definition */}
+        <defs>
+          <marker
+            id="arrowhead"
+            markerWidth="10"
+            markerHeight="7"
+            refX="10"
+            refY="3.5"
+            orient="auto"
+          >
+            <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+          </marker>
+        </defs>
+      </svg>
+    </div>
+  );
+};
+
 function Lesson14() {
   useSmoothScrollToSection();
 
@@ -379,7 +501,84 @@ function Lesson14() {
       <section id="section3">
         <h3>14.3: あげる / くれる / もらう</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Japanese has two verbs for giving: あげる and くれる. The verb
+            depends on the direction of the giving. Use くれる when the
+            direction is moving closer to you, and あげる when things are moving
+            away from you in a direction.
+          </p>
+          <Diagram />
+          <p>
+            With both あげる and くれる, the giver is the subject of the
+            sentence, and is accompanied by the particle は or が. The recipient
+            is accompanied by the particle に.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            はその
+            <span className="kanji">
+              女<span className="furigana">おんな</span>
+            </span>
+            の
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            には
+            <span className="kanji">
+              花<span className="furigana">はな</span>
+            </span>
+            をあげます。
+            <br />
+            <i>I will give the woman flowers.</i>
+          </p>
+          <p className="tab">
+            その
+            <span className="kanji">
+              女<span className="furigana">おんな</span>
+            </span>
+            の
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            は
+            <span className="kanji">
+              男<span className="furigana">おとこ</span>
+            </span>
+            の人に
+            <span className="kanji">
+              時計<span className="furigana">とけい</span>
+            </span>
+            をあげますた。
+            <br />
+            <i>The woman give the man a watch.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              両親<span className="furigana">りょうしん</span>
+            </span>
+            が（
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            に）
+            <span className="kanji">
+              新<span className="furigana">あたら</span>
+            </span>
+            しい
+            <span className="kanji">
+              車<span className="furigana">くるま</span>
+            </span>
+            をくれるかもしれません。 、いじわるだったかもしれません。
+            <br />
+            <i>My parents may give me a new car.</i>
+          </p>
+          <p className="tab">
+            そのプレゼント、だれがくれたんですか。
+            <br />
+            <i>Who gave you that present?</i>
+          </p>
         </div>
       </section>
 
