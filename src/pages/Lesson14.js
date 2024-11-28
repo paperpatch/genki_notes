@@ -3,119 +3,313 @@ import { useSmoothScrollToSection } from "../utils/Helpers";
 
 const Diagram = () => {
   return (
-    <div style={{ textAlign: "center" }}>
-      <svg width="500" height="500" style={{ border: "1px solid black" }}>
+    <div
+      style={{
+        overflow: "auto",
+        maxWidth: "100%",
+        display: "flex",
+        justifyContent: "center",
+      }}
+    >
+      <svg
+        viewBox="0 0 500 500"
+        preserveAspectRatio="xMidYMid meet"
+        style={{ width: "100%", height: "auto", maxWidth: "500px" }}
+      >
         {/* Circles */}
-        <circle cx="250" cy="100" r="50" fill="green" />
+        <circle cx="100" cy="100" r="60" fill="blue" />
         <text
-          x="250"
+          x="100"
           y="100"
           textAnchor="middle"
           alignmentBaseline="middle"
           fill="white"
-        >
-          Random A
-        </text>
-
-        <circle cx="100" cy="250" r="50" fill="red" />
-        <text
-          x="100"
-          y="250"
-          textAnchor="middle"
-          alignmentBaseline="middle"
-          fill="white"
-        >
-          Close Friend
-        </text>
-
-        <circle cx="400" cy="250" r="50" fill="green" />
-        <text
-          x="400"
-          y="250"
-          textAnchor="middle"
-          alignmentBaseline="middle"
-          fill="white"
-        >
-          Random B
-        </text>
-
-        <circle cx="250" cy="400" r="50" fill="blue" />
-        <text
-          x="250"
-          y="400"
-          textAnchor="middle"
-          alignmentBaseline="middle"
-          fill="white"
+          style={{ fontWeight: "bold" }}
         >
           You
         </text>
 
+        <circle cx="100" cy="400" r="60" fill="red" />
+        <text
+          x="100"
+          y="400"
+          textAnchor="middle"
+          fill="white"
+          style={{ fontWeight: "bold" }}
+        >
+          Close Friend
+        </text>
+        <text
+          x="100"
+          y="420"
+          textAnchor="middle"
+          fill="white"
+          style={{ fontWeight: "bold" }}
+        >
+          Relatives
+        </text>
+
+        <circle cx="400" cy="100" r="60" fill="green" />
+        <text
+          x="400"
+          y="100"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+          style={{ fontWeight: "bold" }}
+        >
+          Random A
+        </text>
+
+        <circle cx="400" cy="400" r="60" fill="green" />
+        <text
+          x="400"
+          y="400"
+          textAnchor="middle"
+          alignmentBaseline="middle"
+          fill="white"
+          style={{ fontWeight: "bold" }}
+        >
+          Random B
+        </text>
+
         {/* Arrows */}
-        {/* Random A to Close Friend */}
+        {/* You to Close Friend */}
         <line
-          x1="210"
-          y1="140"
-          x2="150"
-          y2="200"
-          stroke="black"
-          strokeWidth="2"
-          markerEnd="url(#arrowhead)"
+          x1="90"
+          y1="170"
+          x2="90"
+          y2="330"
+          stroke="red"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-red)"
         />
-        <text x="180" y="170" fill="black">
+        <text
+          transform="translate(80, 270) rotate(-90)"
+          fill="red"
+          style={{ fontWeight: "bold" }}
+        >
           あげる
         </text>
 
         {/* Close Friend to You */}
         <line
-          x1="120"
-          y1="300"
-          x2="220"
-          y2="370"
+          x1="115"
+          y1="330"
+          x2="115"
+          y2="170"
           stroke="black"
-          strokeWidth="2"
-          markerEnd="url(#arrowhead)"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-black)"
         />
-        <text x="160" y="340" fill="black">
+        <text
+          transform="translate(125, 220) rotate(90)"
+          fill="black"
+          style={{ fontWeight: "bold" }}
+        >
           くれる
+        </text>
+
+        {/* You to Random A */}
+        <line
+          x1="170"
+          y1="90"
+          x2="330"
+          y2="90"
+          stroke="red"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-red)"
+        />
+        <text
+          x="250"
+          y="80"
+          textAnchor="middle"
+          fill="red"
+          style={{ fontWeight: "bold" }}
+        >
+          あげる
+        </text>
+
+        {/* Random A to You */}
+        <line
+          x1="330"
+          y1="115"
+          x2="170"
+          y2="115"
+          stroke="black"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-black)"
+        />
+        <text
+          x="250"
+          y="140"
+          textAnchor="middle"
+          fill="black"
+          style={{ fontWeight: "bold" }}
+        >
+          くれる
+        </text>
+
+        {/* Close Friend to Random B */}
+        <line
+          x1="170"
+          y1="410"
+          x2="330"
+          y2="410"
+          stroke="red"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-red)"
+        />
+        <text
+          x="250"
+          y="435"
+          textAnchor="middle"
+          fill="red"
+          style={{ fontWeight: "bold" }}
+        >
+          あげる
         </text>
 
         {/* Random B to Close Friend */}
         <line
-          x1="350"
-          y1="200"
-          x2="150"
-          y2="250"
+          x1="330"
+          y1="385"
+          x2="170"
+          y2="385"
           stroke="black"
-          strokeWidth="2"
-          markerEnd="url(#arrowhead)"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-black)"
         />
-        <text x="240" y="220" fill="black">
+        <text
+          x="250"
+          y="375"
+          textAnchor="middle"
+          fill="black"
+          style={{ fontWeight: "bold" }}
+        >
+          くれる
+        </text>
+
+        {/* Random A to Random B */}
+        <line
+          x1="385"
+          y1="170"
+          x2="385"
+          y2="330"
+          stroke="red"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-red)"
+        />
+        <text
+          transform="translate(375, 270) rotate(-90)"
+          fill="red"
+          style={{ fontWeight: "bold" }}
+        >
           あげる
         </text>
 
-        {/* External Circular Arrow (Top to Bottom) */}
+        {/* Random B to Random A */}
+        <line
+          x1="415"
+          y1="330"
+          x2="415"
+          y2="170"
+          stroke="red"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-red)"
+        />
+        <text
+          transform="translate(425, 220) rotate(90)"
+          fill="red"
+          style={{ fontWeight: "bold" }}
+        >
+          くれる
+        </text>
+
+        {/* External Arrows */}
+        {/* Random B to Close Friend */}
         <path
-          d="M 250 50 A 200 200 0 0 1 250 450"
+          d="M 370 465 C 300 510 210 510 135 460"
           fill="none"
           stroke="gray"
-          strokeWidth="2"
-          markerEnd="url(#arrowhead)"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-curve)"
         />
-        <text x="260" y="250" fill="gray">
+        <text
+          transform="translate(230, 480)"
+          fill="gray"
+          style={{ fontWeight: "bold" }}
+        >
           もらう
         </text>
 
-        {/* Arrowhead definition */}
+        {/* Close Friend to You */}
+        <path
+          d="M 50 350 C 15 300 0 230 50 140"
+          fill="none"
+          stroke="gray"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-curve)"
+        />
+        <text
+          transform="translate(45, 275) rotate(-90)"
+          fill="gray"
+          style={{ fontWeight: "bold" }}
+        >
+          もらう
+        </text>
+
+        {/* Random A to You */}
+        <path
+          d="M 370 40 C 270 -20 200 0 140 45"
+          fill="none"
+          stroke="gray"
+          strokeWidth="3"
+          markerEnd="url(#arrowhead-curve)"
+        />
+        <text
+          x="250"
+          y="30"
+          textAnchor="middle"
+          fill="gray"
+          style={{ fontWeight: "bold" }}
+        >
+          もらう
+        </text>
+
+        {/* Arrowhead Definitions */}
         <defs>
           <marker
-            id="arrowhead"
+            id="arrowhead-red"
             markerWidth="10"
             markerHeight="7"
-            refX="10"
+            refX="9"
+            refY="3.5"
+            orient="auto"
+          >
+            <polygon points="0 0, 10 3.5, 0 7" fill="red" />
+          </marker>
+
+          <marker
+            id="arrowhead-black"
+            markerWidth="10"
+            markerHeight="7"
+            refX="9"
             refY="3.5"
             orient="auto"
           >
             <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+          </marker>
+
+          <marker
+            id="arrowhead-curve"
+            markerWidth="15"
+            markerHeight="10"
+            refX="15"
+            refY="5"
+            orient="auto"
+          >
+            <polygon points="0 0, 15 5, 0 10, 5 5" fill="gray" />
           </marker>
         </defs>
       </svg>
