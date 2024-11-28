@@ -780,6 +780,67 @@ function Lesson14() {
             <br />
             <i>Who gave you that present?</i>
           </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>
+                  <span className="text-green">Giver</span> + は / が +{" "}
+                  <span className="text-green">Receiver</span> + に +{" "}
+                </td>
+                <td>あげる</td>
+                <td rowSpan={2}>
+                  <span className="text-green">(giver)</span> <i>gives to</i>{" "}
+                  <span className="text-green">(recipient)</span>
+                </td>
+              </tr>
+              <tr>
+                <td>くれる</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Transactions that are describe with the verb くれる can also be
+            described in terms of "receiving" or もらう. With もらう, it is the
+            recipient that is the subject of the sentence, and the giver is
+            accompanied by the particle に or から.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-green">Receiver</span> + は / が +{" "}
+                  <span className="text-green">Giver</span>+ に / から + もらう
+                </td>
+                <td>
+                  <span className="text-green">(receiver)</span>{" "}
+                  <i>receives from</i>{" "}
+                  <span className="text-green">(giver)</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            私は　
+            <span className="kanji">
+              姉<span className="furigana">あね</span>
+            </span>
+            <span className="underline-green">に</span> /{" "}
+            <span className="kanji">
+              姉<span className="furigana">あね</span>
+            </span>
+            <span className="underline-green">から</span>
+            　マフラーをもらいました。
+            <br />
+            <i>I received a winter scarf from my big sister.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              姉<span className="furigana">あね</span>
+            </span>
+            が私にマフラーをくれました。
+            <br />
+            <i>My big sister gave me a winter scarf.</i>
+          </p>
         </div>
       </section>
 
