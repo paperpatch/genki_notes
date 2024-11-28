@@ -94,6 +94,7 @@ const Diagram = () => {
 
         {/* Close Friend to You */}
         <line
+          className="diagram-black-line"
           x1="115"
           y1="330"
           x2="115"
@@ -103,6 +104,7 @@ const Diagram = () => {
           markerEnd="url(#arrowhead-black)"
         />
         <text
+          className="diagram-black-text"
           transform="translate(125, 220) rotate(90)"
           fill="black"
           style={{ fontWeight: "bold" }}
@@ -132,6 +134,7 @@ const Diagram = () => {
 
         {/* Random A to You */}
         <line
+          className="diagram-black-line"
           x1="330"
           y1="115"
           x2="170"
@@ -141,6 +144,7 @@ const Diagram = () => {
           markerEnd="url(#arrowhead-black)"
         />
         <text
+          className="diagram-black-text"
           x="250"
           y="140"
           textAnchor="middle"
@@ -172,6 +176,7 @@ const Diagram = () => {
 
         {/* Random B to Close Friend */}
         <line
+          className="diagram-black-line"
           x1="330"
           y1="385"
           x2="170"
@@ -181,6 +186,7 @@ const Diagram = () => {
           markerEnd="url(#arrowhead-black)"
         />
         <text
+          className="diagram-black-text"
           x="250"
           y="375"
           textAnchor="middle"
@@ -292,6 +298,7 @@ const Diagram = () => {
 
           <marker
             id="arrowhead-black"
+            className="marker-black"
             markerWidth="10"
             markerHeight="7"
             refX="9"

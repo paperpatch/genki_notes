@@ -229,6 +229,18 @@ body.dark-mode .background-grey {
   background-color: #3c3b3b;
 }
 
+body.dark-mode .marker-black polygon {
+  fill: #e0e0e0;
+}
+
+body.dark-mode line.diagram-black-line {
+  stroke: #e0e0e0;
+}
+
+body.dark-mode text.diagram-black-text {
+  fill: #e0e0e0;
+}
+
 /* Footer */
 
 body.dark-mode .footer {
