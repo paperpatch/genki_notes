@@ -718,7 +718,7 @@ function Lesson14() {
             <span className="kanji">
               私<span className="furigana">わたし</span>
             </span>
-            はその
+            <span className="underline-green">は</span>その
             <span className="kanji">
               女<span className="furigana">おんな</span>
             </span>
@@ -726,7 +726,7 @@ function Lesson14() {
             <span className="kanji">
               人<span className="furigana">ひと</span>
             </span>
-            には
+            <span className="underline-green">に</span>
             <span className="kanji">
               花<span className="furigana">はな</span>
             </span>
@@ -743,11 +743,11 @@ function Lesson14() {
             <span className="kanji">
               人<span className="furigana">ひと</span>
             </span>
-            は
+            <span className="underline-green">は</span>
             <span className="kanji">
               男<span className="furigana">おとこ</span>
             </span>
-            の人に
+            の人<span className="underline-green">に</span>
             <span className="kanji">
               時計<span className="furigana">とけい</span>
             </span>
@@ -759,11 +759,11 @@ function Lesson14() {
             <span className="kanji">
               両親<span className="furigana">りょうしん</span>
             </span>
-            が（
+            <span className="underline-green">が</span>（
             <span className="kanji">
               私<span className="furigana">わたし</span>
             </span>
-            に）
+            <span className="underline-green">に</span>）
             <span className="kanji">
               新<span className="furigana">あたら</span>
             </span>
@@ -771,12 +771,13 @@ function Lesson14() {
             <span className="kanji">
               車<span className="furigana">くるま</span>
             </span>
-            をくれるかもしれません。 、いじわるだったかもしれません。
+            をくれるかもしれません。
             <br />
             <i>My parents may give me a new car.</i>
           </p>
           <p className="tab">
-            そのプレゼント、だれがくれたんですか。
+            そのプレゼント、だれ<span className="underline-green">が</span>
+            くれたんですか。
             <br />
             <i>Who gave you that present?</i>
           </p>
