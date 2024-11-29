@@ -847,7 +847,78 @@ function Lesson14() {
       <section id="section4">
         <h3>14.4: たらどうですか</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            たらどうですか after a verb conveys advice or recommendation. The
+            initial た in たらどうですか stands for the same ending as in the
+            past tense short form of a verb in the affirmative. In casual
+            speech, たらどうですか may be shortened to たらどう or たら.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb (short, past) + らどうですか</td>
+                <td>
+                  <i>why don't you...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                薬<span className="furigana">くすり</span>
+              </span>
+              を
+              <span className="kanji">
+                飲<span className="furigana">の</span>
+              </span>
+              んだらどうですか。
+            </p>
+            <p>
+              <i>How about taking some medicine?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              もっと
+              <span className="kanji">
+                勉強<span className="furigana">べんきょう</span>
+              </span>
+              したらどう。
+            </p>
+            <p>
+              <i>Why don't you study harder?</i>
+            </p>
+          </div>
+          <p>
+            たらどうですか may sometimes have a disapproving tone, expressing
+            criticism of the person for not having performed the action already.
+            Therefore, it's safer to avoid using it unless you were asked for
+            advice.
+          </p>
+          <p>
+            On a side note, the phrase should not be used for extending
+            invitations. If you want to invite your friend to visit, do not use
+            たらどうですか, but use ませんか.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              うちに
+              <span className="kanji">
+                来<span className="furigana">き</span>
+              </span>
+              ませんか。
+              <br />
+              <i>Why don't you come to my place?</i>
+            </p>
+            <p>
+              Compare: <span className="text-red">X</span> うちに
+              <span className="kanji">
+                来<span className="furigana">き</span>
+              </span>
+              たらどうですか。
+            </p>
+          </div>
         </div>
       </section>
 
