@@ -925,7 +925,182 @@ function Lesson14() {
       <section id="section5">
         <h3>14.5: Number + も / Number + しか + Negative</h3>
         <div className="indent">
-          <p></p>
+          <p>Basic structure for expressing numbers in Japanese:</p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>noun</td>
+                <td>が</td>
+                <td rowSpan={2}>+</td>
+                <td rowSpan={2}>number</td>
+              </tr>
+              <tr>
+                <td>を</td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            のうちには
+            <span className="underline-green">
+              <span className="kanji">
+                猫<span className="furigana">ねこ</span>
+              </span>
+              が
+            </span>
+            <span className="underline-green">
+              <span className="kanji">
+                三<span className="furigana">さん</span>
+              </span>
+              <span className="kanji">
+                匹<span className="furigana">びき</span>
+              </span>
+            </span>
+            います。
+            <br />
+            <i>There are three cats in our house.</i>
+          </p>
+          <p className="tab">
+            <span className="underline-green">
+              <span className="kanji">
+                傘<span className="furigana">かさ</span>
+              </span>
+              を
+            </span>
+            <span className="underline-green">
+              <span className="kanji">
+                二<span className="furigana">に</span>
+              </span>
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+            </span>
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            いました。
+            <br />
+            <i>We bought two umbrellas.</i>
+          </p>
+          <p>
+            You can add も to the number word when you want to say "as many as".
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            の
+            <span className="kanji">
+              母<span className="furigana">はは</span>
+            </span>
+            は
+            <span className="kanji">
+              猫<span className="furigana">ねこ</span>
+            </span>
+            を
+            <span className="kanji">
+              三<span className="furigana">さん</span>
+            </span>
+            <span className="kanji">
+              匹<span className="furigana">びき</span>
+            </span>
+            <span className="underline-green">も</span>
+            <span className="kanji">
+              飼<span className="furigana">か</span>
+            </span>
+            っています。
+            <br />
+            <i>My mother owns three, count them, three cats.</i>
+          </p>
+          <p className="tab">
+            きのパーティーには
+            <span className="kanji">
+              学生<span className="furigana">がくせい</span>
+            </span>
+            が
+            <span className="kanji">
+              二<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              十人<span className="furigana">じゅうにん</span>
+            </span>
+            <span className="underline-green">も</span>
+            <span className="kanji">
+              来<span className="furigana">き</span>
+            </span>
+            ました。
+            <br />
+            <i>As many as twenty students showed up at the party yesterday.</i>
+          </p>
+          <p>
+            You can add しか to number word, <i>and</i> turn the predicate into
+            the negative when you want to say "as few as" or "only".
+          </p>
+          <p className="tab">
+            私は
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            の
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            を
+            <span className="kanji">
+              一冊<span className="furigana">いっさつ</span>
+            </span>
+            <span className="underline-green">しか</span>
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            っていません。
+            <br />
+            <i>I have only one Japanese book.</i>
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              会<span className="furigana">かい</span>
+            </span>
+            <span className="kanji">
+              社<span className="furigana">しゃ</span>
+            </span>
+            にはパソコンが
+            <span className="kanji">
+              二<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              台<span className="furigana">だい</span>
+            </span>
+            <span className="underline-green">しか</span>あり
+            <span className="underline-green">ません</span>。
+            <br />
+            <i>There are only two computers in this company.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>number + も</td>
+                <td>
+                  <i>as many as</i>
+                </td>
+              </tr>
+              <tr>
+                <td>number + しか　ない</td>
+                <td>
+                  <i>as few as</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
     </div>
