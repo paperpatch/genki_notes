@@ -611,9 +611,88 @@ function Lesson15() {
       </section>
 
       <section id="section3">
-        <h3>15.3: ~ておく</h3>
+        <h3>15.3: ～ておく</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The te-form of a verb plus the helping verb おく describes an action
+            performed <i>in preparation for something</i>.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              明日<span className="furigana">あした</span>
+            </span>
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があるので、
+            <span className="kanji">
+              今<span className="furigana">こん</span>
+            </span>
+            <span className="kanji">
+              晩<span className="furigana">ばん</span>
+            </span>
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            しておきます。
+            <br />
+            <i>
+              Since there will be an exam tomorrow, I will study (for it)
+              tonight.
+            </i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              だ<span className="furigana">とも</span>
+            </span>
+            だちが
+            <span className="kanji">
+              来<span className="furigana">く</span>
+            </span>
+            るから、
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
+            </span>
+            を
+            <span className="kanji">
+              掃<span className="furigana">そう</span>
+            </span>
+            <span className="kanji">
+              除<span className="furigana">じ</span>
+            </span>
+            しておかなきゃいけません。
+            <br />
+            <i>I have to clean the room, because my friends are coming.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>～ておく</td>
+                <td>
+                  <i>do something in preparation</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>ておく is often shortened to とく in speech.</p>
+          <p className="tab">
+            ホテルを
+            <span className="kanji">
+              予<span className="furigana">よやく</span>
+            </span>
+            <span className="kanji">
+              約<span className="furigana">やく</span>
+            </span>
+            しとくね。
+            <br />
+            <i>I will make a hotel reservation in advance.</i>
+          </p>
         </div>
       </section>
 
