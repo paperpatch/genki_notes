@@ -169,7 +169,7 @@ function Lesson6() {
       </section>
 
       <section id="section2">
-        <h3>6.2: ~てください</h3>
+        <h3>6.2: ～てください</h3>
         <div className="indent">
           <p>
             Use a verbal <i>te</i>-form together with ください to make a polite
@@ -219,12 +219,12 @@ function Lesson6() {
       </section>
 
       <section id="section4">
-        <h3>6.4: ~てもいいです</h3>
+        <h3>6.4: ～てもいいです</h3>
         <div className="indent">
           <p>
             A verbal <i>te</i>-form plus もいいです means "you may do...", which
             describes an activity that is permitted. To ask for permission, you
-            can turn it into a questino sentence, ~てもいいですか
+            can turn it into a questino sentence, ～てもいいですか
           </p>
           <p>
             The polite and graceful way to grant permission is to say どうぞ.
@@ -248,7 +248,7 @@ function Lesson6() {
       </section>
 
       <section id="section5">
-        <h3>6.5: ~てはいけません</h3>
+        <h3>6.5: ～てはいけません</h3>
         <div className="indent">
           <p>
             A verbal <i>te</i>-form plus はいけません means "you must not do
@@ -269,7 +269,7 @@ function Lesson6() {
       </section>
 
       <section id="section6">
-        <h3>6.6: ~から</h3>
+        <h3>6.6: ～から</h3>
         <div className="indent">
           <p>
             A sentence that ends with から (because) explains the reason or
@@ -294,10 +294,10 @@ function Lesson6() {
       </section>
 
       <section id="section7">
-        <h3>6.7: ~ましょうか (Offering Assistance)</h3>
+        <h3>6.7: ～ましょうか (Offering Assistance)</h3>
         <div className="indent">
           <p>
-            In Lesson 5, ましょうか means "Let's ...". ~ましょうか is also used
+            In Lesson 5, ましょうか means "Let's ...". ～ましょうか is also used
             in the sense of "let me do ...", as in offering assistance.
           </p>
           <p className="tab">

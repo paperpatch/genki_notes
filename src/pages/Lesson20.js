@@ -43,7 +43,7 @@ function Lesson20() {
       </section>
 
       <section id="section6">
-        <h3>20.6: ~やすい / ~にくい</h3>
+        <h3>20.6: ～やすい / ～にくい</h3>
         <div className="indent">
           <p></p>
         </div>

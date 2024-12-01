@@ -284,7 +284,7 @@ function Lesson13() {
                 <td>が</td>
                 <td>ば</td>
                 <td>わ</td>
-                <td>~ない</td>
+                <td>～ない</td>
               </tr>
               <tr className="background-white">
                 <td>stem</td>
@@ -297,7 +297,7 @@ function Lesson13() {
                 <td>ぎ</td>
                 <td>び</td>
                 <td>い</td>
-                <td>~ます</td>
+                <td>～ます</td>
               </tr>
               <tr className="background-white">
                 <td>affirmative</td>
@@ -323,7 +323,7 @@ function Lesson13() {
                 <td>げ</td>
                 <td>べ</td>
                 <td>え</td>
-                <td>~ る</td>
+                <td>～ る</td>
               </tr>
             </tbody>
           </table>
@@ -682,7 +682,7 @@ function Lesson13() {
       </section>
 
       <section id="section2">
-        <h3>13.2: ~し</h3>
+        <h3>13.2: ～し</h3>
         <div className="indent">
           <p>
             Similar to から, as in to give a reason for something, し can also
@@ -903,7 +903,7 @@ function Lesson13() {
       </section>
 
       <section id="section3">
-        <h3>13.3: ~そうです (It looks like...)</h3>
+        <h3>13.3: ～そうです (It looks like...)</h3>
         <div className="indent">
           <p>
             We add そうで to い- and な-adjective bases to say that
@@ -939,7 +939,7 @@ function Lesson13() {
             </p>
           </div>
           <p>
-            To form ~そうです sentences with い-adjectives, you drop the final
+            To form ～そうです sentences with い-adjectives, you drop the final
             い; with な-adjectives, you just drop な. An exception is
             い-adjective いい, which changes to よさ before そう.
           </p>
@@ -1038,7 +1038,7 @@ function Lesson13() {
       </section>
 
       <section id="section4">
-        <h3>13.4: ~てみる</h3>
+        <h3>13.4: ～てみる</h3>
         <div className="indent">
           <p>
             You can use the <i>te</i>-form of a verb plus the helping verb みる
@@ -1105,7 +1105,7 @@ function Lesson13() {
           </div>
           <p>
             みる comes form the verb 見る, and conjugates as a regular <i>ru</i>
-            -verb. Unlike the main verb, 見る, ~てみる is always written in{" "}
+            -verb. Unlike the main verb, 見る, ～てみる is always written in{" "}
             <i>hiragana</i>.
           </p>
         </div>

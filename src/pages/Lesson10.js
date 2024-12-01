@@ -231,7 +231,7 @@ function Lesson10() {
       </section>
 
       <section id="section4">
-        <h3>10.4: ~つもりだ</h3>
+        <h3>10.4: ～つもりだ</h3>
         <div className="indent">
           <p>
             つもり follows verbs in the present tense short forms to desribe

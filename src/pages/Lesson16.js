@@ -8,14 +8,14 @@ function Lesson16() {
     <div>
       <h2>Lesson 16: 忘れ物 (Lost and Found)</h2>
       <section id="section1">
-        <h3>16.1: ~てあげる / てくれる / てもらう</h3>
+        <h3>16.1: ～てあげる / てくれる / てもらう</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section2">
-        <h3>16.2: ~ていただけませんか</h3>
+        <h3>16.2: ～ていただけませんか</h3>
         <div className="indent">
           <p></p>
         </div>
@@ -29,14 +29,14 @@ function Lesson16() {
       </section>
 
       <section id="section4">
-        <h3>16.4: ~時</h3>
+        <h3>16.4: ～時</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section5">
-        <h3>16.5: ~てすみませんでした</h3>
+        <h3>16.5: ～てすみませんでした</h3>
         <div className="indent">
           <p></p>
         </div>

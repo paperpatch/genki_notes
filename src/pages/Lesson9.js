@@ -172,11 +172,11 @@ function Lesson9() {
       </section>
 
       <section id="section3">
-        <h3>9.3: Past Tense Short Forms in Quoted Speech: ~と思います</h3>
+        <h3>9.3: Past Tense Short Forms in Quoted Speech: ～と思います</h3>
         <div className="indent">
           <p>
             Like the present tense, you use the short form in the past tense
-            with ~と思います (to omoi masu), which means "I think", to report
+            with ～と思います (to omoi masu), which means "I think", to report
             what you think took place in the past.
           </p>
           <div className="tab table-double-column">
@@ -218,11 +218,11 @@ function Lesson9() {
       </section>
 
       <section id="section4">
-        <h3>9.4: Past Tense Short Forms in Quoted Speech: ~と言っていました</h3>
+        <h3>9.4: Past Tense Short Forms in Quoted Speech: ～と言っていました</h3>
         <div className="indent">
           <p>
             If you heard somebody utter a sentence in the past tense, you can
-            report it with the short form past tense with ~と言っていました.
+            report it with the short form past tense with ～と言っていました.
           </p>
           <p className="tab">
             ヤスミンさんは、
@@ -400,10 +400,10 @@ function Lesson9() {
       </section>
 
       <section id="section6">
-        <h3>9.6: もう~ました and まだ~ていません</h3>
+        <h3>9.6: もう～ました and まだ～ていません</h3>
         <div className="indent">
           <p>
-            Use affirmative past tense of a verb ~ ました both (i) to talk about
+            Use affirmative past tense of a verb ～ ました both (i) to talk about
             an event that happened at a certain time in the past (きのう{" "}
             <i>yesterday</i>), and also (ii) to talk about a past event that
             still has an effect at present (used with adverbs like もう{" "}
@@ -452,13 +452,13 @@ function Lesson9() {
           <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
-                <td>もう~ました</td>
+                <td>もう～ました</td>
                 <td>
                   <i>have already ...</i>
                 </td>
               </tr>
               <tr>
-                <td>まだ~ていません</td>
+                <td>まだ～ていません</td>
                 <td>
                   <i>have not ... yet</i>
                 </td>

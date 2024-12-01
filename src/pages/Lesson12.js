@@ -8,7 +8,7 @@ function Lesson12() {
     <div>
       <h2>Lesson 12: 病気 (Feeling ill)</h2>
       <section id="section1">
-        <h3>12.1: ~んです</h3>
+        <h3>12.1: ～んです</h3>
         <div className="indent">
           <p>
             There are two distinct ways to make a statement in Japanese. One is
@@ -256,7 +256,7 @@ function Lesson12() {
       </section>
 
       <section id="section2">
-        <h3>12.2: ~すぎる</h3>
+        <h3>12.2: ～すぎる</h3>
         <div className="indent">
           <p>
             Verb stems may be followed by the helping verb すぎる, which means
@@ -357,7 +357,7 @@ function Lesson12() {
       </section>
 
       <section id="section3">
-        <h3>12.3: ~ほうがいいです</h3>
+        <h3>12.3: ～ほうがいいです</h3>
         <div className="indent">
           <p>
             ほうがいいです means "it is better (for you) to do ..." sentence
@@ -430,7 +430,7 @@ function Lesson12() {
       </section>
 
       <section id="section4">
-        <h3>12.4: ~ので</h3>
+        <h3>12.4: ～ので</h3>
         <div className="indent">
           <p>
             Use ので to give the reason for the situation described in the
@@ -551,7 +551,7 @@ function Lesson12() {
       </section>
 
       <section id="section5">
-        <h3>12.5: ~なければいけません / ~なきゃいけません</h3>
+        <h3>12.5: ～なければいけません / ～なきゃいけません</h3>
         <div className="indent">
           <p>
             Use なければいけません and なきゃいけません to say it is necessary

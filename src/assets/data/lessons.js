@@ -86,10 +86,10 @@ const lessons = [
       },
       {
         number: "2.7",
-        title: "~ね / ~よ",
+        title: "～ね / ～よ",
         id: "section7",
         content:
-          "2.7, ~ね / ~よ, end with sentence enders with the tags ne or yo, You use ね (ne) if you are seeking the listener's confirmation or agreement." +
+          "2.7, ～ね / ～よ, end with sentence enders with the tags ne or yo, You use ね (ne) if you are seeking the listener's confirmation or agreement." +
           "A は X ですね。(A is X right?), B は Y ですね。(B is Y isn't it?)",
       },
     ],
@@ -144,10 +144,10 @@ const lessons = [
       },
       {
         number: "3.5",
-        title: "~ませんか",
+        title: "～ませんか",
         id: "section5",
         content:
-          "3.5, ~ませんか, to extend an invitation, ますか is used more like a question, not an invitation." +
+          "3.5, ～ませんか, to extend an invitation, ますか is used more like a question, not an invitation." +
           "昼ご飯を食べませんか。 Would you like to have lunch?",
       },
       {
@@ -206,15 +206,15 @@ const lessons = [
         id: "section3",
         content:
           "4.3 Past Tense of です, The past tense of です (it is) becomes じゃないです (it was). affirmative negative" +
-          "Present ~ じゃないです Past	~ でした	~ じゃなかったです, あれは日本の映画じゃなかったです。 That was not a Japanese movie.",
+          "Present ～ じゃないです Past	～ でした	～ じゃなかったです, あれは日本の映画じゃなかったです。 That was not a Japanese movie.",
       },
       {
         number: "4.4",
         title: "Past Tense of Verbs",
         id: "section4",
         content:
-          "4.4 Past Tense of Verbs, Past tense forms of verbs end with ました. affirmative	negative, Present	~ ます	~ ません" +
-          "Past	~ ました	~ ませんでした, メリーさんはく時頃家に帰りました。 Mary returned home at about nine." +
+          "4.4 Past Tense of Verbs, Past tense forms of verbs end with ました. affirmative	negative, Present	～ ます	～ ません" +
+          "Past	～ ました	～ ませんでした, メリーさんはく時頃家に帰りました。 Mary returned home at about nine." +
           "masu masen mashita masendeshita",
       },
       {
@@ -234,8 +234,8 @@ const lessons = [
         id: "section6",
         content:
           "4.6 一時間, The duration of an activity is expressed with a bare noun., メリーさんはそこで たけしさんを一時間に待ちました。Mary waited for Takeshi there for an hour." +
-          "Use ぐらい after ~時間 for an approximate measurement. 私は昨日 日本語を三時間ぐらい勉強しました。 I studied Japanese for about three hours yesterday." +
-          "To say one hour an a half, you can add 半 immediately after ~時間. 昨日七時間半寝ました。(I) slept for seven and a half hours last night." +
+          "Use ぐらい after ～時間 for an approximate measurement. 私は昨日 日本語を三時間ぐらい勉強しました。 I studied Japanese for about three hours yesterday." +
+          "To say one hour an a half, you can add 半 immediately after ～時間. 昨日七時間半寝ました。(I) slept for seven and a half hours last night." +
           "You can combine 半 and ぐらい, where ぐらい comes last, as in 一時間半ぐらい. han gurai ichijihangurai",
       },
       {
@@ -313,10 +313,10 @@ const lessons = [
       },
       {
         number: "5.5",
-        title: "~ましょう / ~ましょうか",
+        title: "～ましょう / ～ましょうか",
         id: "section5",
         content:
-          "5.5 ~ましょう / ~ましょうか Take a long form of a verb and replace the ます ending with ましょう or ましょうか and you will get the Japanese expression for let's..., which you can use to suggest a plan of action." +
+          "5.5 ～ましょう / ～ましょうか Take a long form of a verb and replace the ます ending with ましょう or ましょうか and you will get the Japanese expression for let's..., which you can use to suggest a plan of action." +
           "一緒に図書館で勉強しましょう。 Let's study in the library together." +
           "mashou mashouka",
       },
@@ -351,10 +351,10 @@ const lessons = [
       },
       {
         number: "6.2",
-        title: "~てください",
+        title: "～てください",
         id: "section2",
         content:
-          "6.2 ~てください Use a verbal te-form together with ください to make a polite request to another person please do ... for me." +
+          "6.2 ～てください Use a verbal te-form together with ください to make a polite request to another person please do ... for me." +
           "教科書を読んでください。 Please read the textbook." +
           "tekudasai",
       },
@@ -372,20 +372,20 @@ const lessons = [
       },
       {
         number: "6.4",
-        title: "~てもいいです",
+        title: "～てもいいです",
         id: "section4",
         content:
-          "6.4 ~てもいいです A verbal te-form plus もいいです means you may do..., which describes an activity that is permitted. To ask for permission, you can turn it into a questino sentence, ~てもいいですか" +
+          "6.4 ～てもいいです A verbal te-form plus もいいです means you may do..., which describes an activity that is permitted. To ask for permission, you can turn it into a questino sentence, ～てもいいですか" +
           "The polite and graceful way to grant permission is to say どうぞ. 教科書を見てもいいですよ。 You may use the textbook." +
           "A: トイレに行ってもいいですか。 May I go to the bathroom? B: はい，いいですよ。/ どうぞ。 You may. / Please." +
           "temoiidesu temoiidesuka douzo dozo",
       },
       {
         number: "6.5",
-        title: "~てはいけません",
+        title: "～てはいけません",
         id: "section5",
         content:
-          "6.5 ~てはいけません A verbal te-form plus はいけません means you must not do ..., a strong prohibition statement, as in rules and regulations." +
+          "6.5 ～てはいけません A verbal te-form plus はいけません means you must not do ..., a strong prohibition statement, as in rules and regulations." +
           "ここで写真を撮ってはいけません。 You must not take pictures here." +
           "If somebody asks for permission but you want to deny it, you could use てはいけません but the setence will come off as harsh unless you are in a place of authority." +
           "There are softer ways of saying please don't in lesson 8." +
@@ -393,20 +393,20 @@ const lessons = [
       },
       {
         number: "6.6",
-        title: "~から",
+        title: "～から",
         id: "section6",
         content:
-          "6.6 ~から A sentence that ends with から (because) explains the reason or cause of a situation." +
+          "6.6 ～から A sentence that ends with から (because) explains the reason or cause of a situation." +
           "(situation)。 (explanation) から。 私は今晩勉強します。明日はテストがありますから。" +
           "I will study this evening. (Because) we will have an exam tomorrow." +
           "kara",
       },
       {
         number: "6.7",
-        title: "~ましょうか (Offering Assistance)",
+        title: "～ましょうか (Offering Assistance)",
         id: "section7",
         content:
-          "6.7 ~ましょうか (Offering Assistance) In Lesson 5, ましょうか means Let's .... ~ましょうか is also used in the sense of let me do ..., as in offering assistance." +
+          "6.7 ～ましょうか (Offering Assistance) In Lesson 5, ましょうか means Let's .... ～ましょうか is also used in the sense of let me do ..., as in offering assistance." +
           "荷物を持ちましょうか。 Shall I carry your bag?" +
           "mashouka",
       },
@@ -456,15 +456,15 @@ const lessons = [
       },
       {
         number: "9.3",
-        title: "Past Tense Short Forms in Quoted Speech: ~と思います",
+        title: "Past Tense Short Forms in Quoted Speech: ～と思います",
         id: "section3",
-        content: "9.3, Past Tense Short Forms in Quoted Speech: ~と思います",
+        content: "9.3, Past Tense Short Forms in Quoted Speech: ～と思います",
       },
       {
         number: "9.4",
-        title: "Past Tense Short Forms in Quoted Speech: ~と言っていました",
+        title: "Past Tense Short Forms in Quoted Speech: ～と言っていました",
         id: "section4",
-        content: "Past Tense Short Forms in Quoted Speech: ~と言っていました",
+        content: "Past Tense Short Forms in Quoted Speech: ～と言っていました",
       },
       {
         number: "9.5",
@@ -474,9 +474,9 @@ const lessons = [
       },
       {
         number: "9.6",
-        title: "もう~ました and まだ~ていません",
+        title: "もう～ました and まだ～ていません",
         id: "section6",
-        content: "9.6, もう~ました and まだ~ていません",
+        content: "9.6, もう～ました and まだ～ていません",
       },
       {
         number: "9.7",

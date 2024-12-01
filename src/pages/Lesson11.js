@@ -8,7 +8,7 @@ function Lesson11() {
     <div>
       <h2>Lesson 11: 休みのあと (After the Vacation)</h2>
       <section id="section1">
-        <h3>11.1: ~たい</h3>
+        <h3>11.1: ～たい</h3>
         <div className="indent">
           <p>
             Use a verb stem (before ます) + たいです to describe hope or
@@ -204,7 +204,7 @@ function Lesson11() {
       </section>
 
       <section id="section2">
-        <h3>11.2: ~たり~たりする</h3>
+        <h3>11.2: ～たり～たりする</h3>
         <div className="indent">
           <p>
             We know that <i>te</i>-form connects two clauses together:
@@ -243,7 +243,7 @@ function Lesson11() {
             activities planned and that those two activities will be done in
             that order. To avoid such implications and only want to mention
             activities or events as <i>examples</i>, and in <i>no set order</i>,
-            use a special predicate form ~たり~たりする.
+            use a special predicate form ～たり～たりする.
           </p>
           <p className="tab">
             <span className="kanji">
@@ -336,7 +336,7 @@ function Lesson11() {
       </section>
 
       <section id="section3">
-        <h3>11.3: ~ことがある</h3>
+        <h3>11.3: ～ことがある</h3>
         <div className="indent">
           <p>
             The past tense short form of a verb + ことがある describes that you

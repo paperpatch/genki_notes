@@ -8,7 +8,7 @@ function Lesson7() {
     <div>
       <h2>Lesson 7: 家族の写真 (Family Picture)</h2>
       <section id="section1">
-        <h3>7.1: ~ている (Action in Progress)</h3>
+        <h3>7.1: ～ている (Action in Progress)</h3>
         <div className="indent">
           <p>
             Japanese verbs can be classified into the following three types:
@@ -43,7 +43,7 @@ function Lesson7() {
             Sora is studying right now.
           </p>
           <p>
-            You can also use a ~ています sentence to describe what a person does
+            You can also use a ～ています sentence to describe what a person does
             by occupation or by habit.
           </p>
           <p className="tab">
@@ -103,7 +103,7 @@ function Lesson7() {
       </section>
 
       <section id="section2">
-        <h3>7.2: ~ている (Result of a Change)</h3>
+        <h3>7.2: ～ている (Result of a Change)</h3>
         <div className="indent">
           <p>
             Verbs in the second group describe changes from one state to
@@ -124,7 +124,7 @@ function Lesson7() {
             Professor Yamashita is married.
           </p>
           <p>
-            Examples of verbs that are commonly used in the ~ている framework:
+            Examples of verbs that are commonly used in the ～ている framework:
           </p>
           <table className="table-short table-mini">
             <tbody>
@@ -606,7 +606,7 @@ function Lesson7() {
             </li>
           </ol>
           <p>
-            To count people in a class, for example, you can add ~人 after the
+            To count people in a class, for example, you can add ～人 after the
             noun and the particle が, and say:
           </p>
           <table className="table-list table-mini table-text-center table-border-orange">

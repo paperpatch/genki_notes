@@ -105,7 +105,7 @@ function Lesson2() {
       </section>
 
       <section id="section7">
-        <h3>2.7: ~ね / ~よ</h3>
+        <h3>2.7: ～ね / ～よ</h3>
         <div className="indent">
           <p>
             Statements often end with sentence enders with the tags <em>ne</em>{" "}

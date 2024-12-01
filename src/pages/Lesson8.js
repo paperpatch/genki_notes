@@ -227,7 +227,7 @@ function Lesson8() {
                 <td>が</td>
                 <td>ば</td>
                 <td>わ</td>
-                <td>~ない</td>
+                <td>～ない</td>
               </tr>
               <tr className="background-grey">
                 <td>stem</td>
@@ -240,7 +240,7 @@ function Lesson8() {
                 <td>ぎ</td>
                 <td>び</td>
                 <td>い</td>
-                <td>~ます</td>
+                <td>～ます</td>
               </tr>
               <tr className="background-white">
                 <td>affirmative</td>
@@ -371,7 +371,7 @@ function Lesson8() {
       </section>
 
       <section id="section3">
-        <h3>8.3: Short Forms in Quoted Speech: ~と思います</h3>
+        <h3>8.3: Short Forms in Quoted Speech: ～と思います</h3>
         <div className="indent">
           <p>
             To describe what you think, use the short form, plus と思います (I
@@ -387,8 +387,8 @@ function Lesson8() {
           </div>
           <p>
             To say that you <i>don't think</i> something is the case, it is more
-            common in Japanese to say ~ないと思います (I <i>think</i> that
-            something is <i>not</i> the case) than ~と思いません (
+            common in Japanese to say ～ないと思います (I <i>think</i> that
+            something is <i>not</i> the case) than ～と思いません (
             <i>I don't think</i>).
           </p>
           <div className="tab table-double-column">
@@ -404,7 +404,7 @@ function Lesson8() {
       </section>
 
       <section id="section4">
-        <h3>8.4: Short Forms in Quoted Speech: ~と言っていました</h3>
+        <h3>8.4: Short Forms in Quoted Speech: ～と言っていました</h3>
         <div className="indent">
           <p>
             To quote someone, use the short form plus と言っていました (They
@@ -426,7 +426,7 @@ function Lesson8() {
       </section>
 
       <section id="section5">
-        <h3>8.5: ~ないでください</h3>
+        <h3>8.5: ～ないでください</h3>
         <div className="indent">
           <p>
             To request that someone refrains from doing something, use a
@@ -491,8 +491,8 @@ function Lesson8() {
             <i>I don't like cleaning my room.</i>
           </p>
           <p>
-            "To be good/abd at doing something" is ~が上手です (is good at ...)
-            and ~が下手です"
+            "To be good/abd at doing something" is ～が上手です (is good at ...)
+            and ～が下手です"
           </p>
           <p className="tab">
             ロバートさんは料理を<span className="underline-black">作る</span>
@@ -540,7 +540,7 @@ function Lesson8() {
           </table>
           <p>
             It's a common mistake to use the <i>te</i>-form of a verb in such
-            contexts, misled by the association between ~ている and the verb in
+            contexts, misled by the association between ～ている and the verb in
             the <i>-ing</i> form in English.
           </p>
           <p className="tab">

@@ -531,7 +531,7 @@ function Lesson14() {
       </section>
 
       <section id="section2">
-        <h3>14.2: ~かもしれません</h3>
+        <h3>14.2: ～かもしれません</h3>
         <div className="indent">
           <p>
             かもしれません means that something is a "possibility". When you

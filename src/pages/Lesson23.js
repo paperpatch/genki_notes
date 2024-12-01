@@ -15,35 +15,35 @@ function Lesson23() {
       </section>
 
       <section id="section2">
-        <h3>23.2: ~ても</h3>
+        <h3>23.2: ～ても</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section3">
-        <h3>23.3: ~にとにする</h3>
+        <h3>23.3: ～にとにする</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section4">
-        <h3>23.4: ~にとにしている</h3>
+        <h3>23.4: ～にとにしている</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section5">
-        <h3>23.5: ~まで</h3>
+        <h3>23.5: ～まで</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section6">
-        <h3>23.6: ~方</h3>
+        <h3>23.6: ～方</h3>
         <div className="indent">
           <p></p>
         </div>

@@ -111,15 +111,15 @@ function Lesson4() {
                 <td>
                   <strong>Present</strong>
                 </td>
-                <td>~ です</td>
-                <td>~ じゃないです</td>
+                <td>～ です</td>
+                <td>～ じゃないです</td>
               </tr>
               <tr>
                 <td>
                   <strong>Past</strong>
                 </td>
-                <td>~ でした</td>
-                <td>~ じゃなかったです</td>
+                <td>～ でした</td>
+                <td>～ じゃなかったです</td>
               </tr>
             </tbody>
           </table>
@@ -153,15 +153,15 @@ function Lesson4() {
                 <td>
                   <strong>Present</strong>
                 </td>
-                <td>~ ます</td>
-                <td>~ ません</td>
+                <td>～ ます</td>
+                <td>～ ません</td>
               </tr>
               <tr>
                 <td>
                   <strong>Past</strong>
                 </td>
-                <td>~ ました</td>
-                <td>~ ませんでした</td>
+                <td>～ ました</td>
+                <td>～ ませんでした</td>
               </tr>
             </tbody>
           </table>
@@ -222,7 +222,7 @@ function Lesson4() {
             <br />
             Mary waited for Takeshi there for an hour.
           </p>
-          <p>Use ぐらい after ~時間 for an approximate measurement.</p>
+          <p>Use ぐらい after ～時間 for an approximate measurement.</p>
           <p className="tab">
             私は昨日 日本語を
             <span className="underline-orange">三時間ぐらい</span>
@@ -230,7 +230,7 @@ function Lesson4() {
             <br />I studied Japanese for about three hours yesterday.
           </p>
           <p>
-            To say one hour an a half, you can add 半 immediately after ~時間.
+            To say one hour an a half, you can add 半 immediately after ～時間.
           </p>
           <p className="tab">
             昨日<span className="underline-orange">七時間半</span>寝ました。

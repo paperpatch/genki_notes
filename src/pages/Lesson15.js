@@ -266,7 +266,7 @@ function Lesson15() {
                 <td>が</td>
                 <td>ば</td>
                 <td>わ</td>
-                <td>~ない</td>
+                <td>～ない</td>
               </tr>
               <tr className="background-white">
                 <td>stem</td>
@@ -279,7 +279,7 @@ function Lesson15() {
                 <td>ぎ</td>
                 <td>び</td>
                 <td>い</td>
-                <td>~ます</td>
+                <td>～ます</td>
               </tr>
               <tr className="background-white">
                 <td>affirmative</td>
@@ -305,7 +305,7 @@ function Lesson15() {
                 <td>げ</td>
                 <td>べ</td>
                 <td>え</td>
-                <td>~ る</td>
+                <td>～る</td>
               </tr>
               <tr className="background-grey">
                 <td>volitional</td>
@@ -318,7 +318,7 @@ function Lesson15() {
                 <td>ご</td>
                 <td>ぼ</td>
                 <td>お</td>
-                <td>~ う</td>
+                <td>～う</td>
               </tr>
             </tbody>
           </table>

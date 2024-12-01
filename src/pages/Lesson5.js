@@ -308,7 +308,7 @@ function Lesson5() {
       </section>
 
       <section id="section5">
-        <h3>5.5: ~ましょう / ~ましょうか</h3>
+        <h3>5.5: ～ましょう / ～ましょうか</h3>
         <div className="indent">
           <p>
             Take a long form of a verb and replace the ます ending with ましょう

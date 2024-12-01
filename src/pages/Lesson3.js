@@ -209,7 +209,7 @@ function Lesson3() {
       </section>
 
       <section id="section5">
-        <h3>3.5: ~ませんか</h3>
+        <h3>3.5: ～ませんか</h3>
         <div className="indent">
           <p>
             Use ませんか to extend an invitation. ますか is used more like a

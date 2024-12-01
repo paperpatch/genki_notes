@@ -22,21 +22,21 @@ function Lesson18() {
       </section>
 
       <section id="section3">
-        <h3>18.3: ~てしもう</h3>
+        <h3>18.3: ～てしもう</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section4">
-        <h3>18.4: ~と</h3>
+        <h3>18.4: ～と</h3>
         <div className="indent">
           <p></p>
         </div>
       </section>
 
       <section id="section5">
-        <h3>18.5: ~ながら</h3>
+        <h3>18.5: ～ながら</h3>
         <div className="indent">
           <p></p>
         </div>
