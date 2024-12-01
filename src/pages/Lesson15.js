@@ -400,7 +400,213 @@ function Lesson15() {
       <section id="section2">
         <h3>15.2: Volitional Form + と思っています</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            We use the volitional form + と思っています to talk about our
+            resolutions.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              毎<span className="furigana">まい</span>
+            </span>
+            <span className="kanji">
+              日<span className="furigana">にち</span>
+            </span>
+            <span className="kanji">
+              三<span className="furigana">さん</span>
+            </span>
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              間<span className="furigana">かん</span>
+            </span>
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            を
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            しようと
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            っています。
+            <br />
+            <i>
+              I've decided to / I'm going to study Japanese for three hours
+              every day.
+            </i>
+          </p>
+          <p>
+            You can also use the volitional + と思います, suggesting that the
+            decision to perform the activity is being made <i>on the spot</i>,
+            or spontaneously, at the time of speaking. と思っています, in
+            contrast, suggests that you have <i>already decided</i> to do
+            something.
+          </p>
+          <p className="tab">Situation 1</p>
+          <p className="tab">
+            Q:{" "}
+            <span className="kanji">
+              十万円<span className="furigana">じゅうまんえ</span>
+            </span>
+            あげましょう。
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            に
+            <span className="kanji">
+              使<span className="furigana">つか</span>
+            </span>
+            いますか。
+            <br />
+            <i>I will give you 100,000 yen. What will you use it for?</i>
+          </p>
+          <p className="tab">
+            A:{" "}
+            <span className="kanji">
+              旅<span className="furigana">りょ</span>
+            </span>
+            <span className="kanji">
+              行<span className="furigana">こう</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            こう
+            <span className="underline-green">
+              と
+              <span className="kanji">
+                思<span className="furigana">おも</span>
+              </span>
+              います
+            </span>
+            。
+            <br />
+            <i>I will go on a trip. (decision made on the spot)</i>
+          </p>
+          <p className="tab">Situation 2</p>
+          <p className="tab">
+            Q:{" "}
+            <span className="kanji">
+              両親<span className="furigana">りょうしん</span>
+            </span>
+            から
+            <span className="kanji">
+              十万円<span className="furigana">じゅうまんえ</span>
+            </span>
+            もらったんですか。
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            に
+            <span className="kanji">
+              使<span className="furigana">つか</span>
+            </span>
+            いますか。
+            <br />
+            <i>
+              You got 100,000 yen from your parents? What are you going to use
+              it for?
+            </i>
+          </p>
+          <p className="tab">
+            A:{" "}
+            <span className="kanji">
+              旅<span className="furigana">りょ</span>
+            </span>
+            <span className="kanji">
+              行<span className="furigana">こう</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            こう
+            <span className="underline-green">
+              と
+              <span className="kanji">
+                思<span className="furigana">おも</span>
+              </span>
+              っています
+            </span>
+            。
+            <br />
+            <i>I am going to go on a trip. (decision already made)</i>
+          </p>
+          <p>
+            Note that verbs in volitional forms and verbs in the present tense
+            convey different ideas when they are used with と思います or
+            と思っています. When you use volitionals, you are talking about your
+            intention. When you use the present tense, you are talking about
+            your prediction.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            の
+            <span className="kanji">
+              会<span className="furigana">かい</span>
+            </span>
+            <span className="kanji">
+              社<span className="furigana">しゃ</span>
+            </span>
+            で
+            <span className="underline-green">
+              <span className="kanji">
+                働<span className="furigana">はたら</span>
+              </span>
+              こう
+            </span>
+            と
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います。
+            <br />
+            <i>I will / intend to work for a Japanese company.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            の
+            <span className="kanji">
+              会<span className="furigana">かい</span>
+            </span>
+            <span className="kanji">
+              社<span className="furigana">しゃ</span>
+            </span>
+            で
+            <span className="underline-green">
+              <span className="kanji">
+                働<span className="furigana">はたら</span>
+              </span>
+              く
+            </span>
+            と
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います。
+            <br />
+            <i>I think they / I will be working for a Japanese company.</i>
+          </p>
         </div>
       </section>
 
