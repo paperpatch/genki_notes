@@ -150,7 +150,7 @@ function Lesson17() {
             to だ, while です after an い-adjective is left out.) Compare the
             paradigms of the two そうです.
           </p>
-          <table className="table-list table-mini table-border-green">
+          <table className="table-list table-border-green">
             <thead>
               <tr>
                 <th colSpan={3} className="table-header text-green">
@@ -162,6 +162,7 @@ function Lesson17() {
               <tr>
                 <td></td>
                 <td></td>
+                <td></td>
                 <td>
                   <i>I hear that ...</i>
                 </td>
@@ -170,31 +171,125 @@ function Lesson17() {
                 </td>
               </tr>
               <tr>
-                <td></td>
+                <td>• verbs:</td>
                 <td>
                   <span className="kanji">
-                    見<span className="furigana">み</span>
+                    話<span className="furigana">はな</span>
                   </span>
-                  <span className="underline-green">ら</span>れる
+                  す
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    話<span className="furigana">はな</span>
+                  </span>
+                  すそうです
+                </td>
+                <td style={{ textAlign: "center" }}>ー</td>
+              </tr>
+              <tr>
+                <td>• い-adjectives:</td>
+                <td>さびしい</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>さびしいそうです</td>
+                <td>さびしそうです</td>
+              </tr>
+              <tr>
+                <td>• な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    好<span className="furigana">す</span>
+                  </span>
+                  きだ
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    好<span className="furigana">す</span>
+                  </span>
+                  きだそうです
                 </td>
                 <td>
                   <span className="kanji">
-                    見<span className="furigana">み</span>
+                    好<span className="furigana">す</span>
                   </span>
-                  れる
+                  きそうです
                 </td>
               </tr>
               <tr>
-                <td>irregular verbs:</td>
-                <td>くる</td>
+                <td>• noun + です:</td>
+                <td>
+                  <span className="kanji">
+                    学<span className="furigana">がく</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  だ
+                </td>
                 <td style={{ textAlign: "center", padding: 0 }}>→</td>
                 <td>
-                  こ<span className="underline-green">ら</span>れる
+                  <span className="kanji">
+                    学<span className="furigana">がく</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  だそうです
                 </td>
-                <td>これる</td>
+                <td style={{ textAlign: "center" }}>ー</td>
               </tr>
             </tbody>
           </table>
+          <p>
+            To specify the information source, you can preface a sentence with
+            the phrase ～によると, as in トムさんによると (according to Tom),{" "}
+            <span className="kanji">
+              新聞<span className="furigana">しんぶん</span>
+            </span>
+            によると (according to the newspaper report), and{" "}
+            <span className="kanji">
+              天<span className="furigana">てん</span>
+            </span>
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            <span className="kanji">
+              予<span className="furigana">よ</span>
+            </span>
+            <span className="kanji">
+              報<span className="furigana">ぼう</span>
+            </span>
+            によると (according to the weather forecast).
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              天<span className="furigana">てん</span>
+            </span>
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            <span className="kanji">
+              予<span className="furigana">よ</span>
+            </span>
+            <span className="kanji">
+              報<span className="furigana">ぼう</span>
+            </span>
+            によると、
+            <span className="kanji">
+              台<span className="furigana">たい</span>
+            </span>
+            <span className="kanji">
+              風<span className="furigana">ふう</span>
+            </span>
+            が
+            <span className="kanji">
+              来<span className="furigana">く</span>
+            </span>
+            るそうです。
+            <br />
+            <i>According to the weather forecast, a typhoon is approaching.</i>
+          </p>
         </div>
       </section>
 
