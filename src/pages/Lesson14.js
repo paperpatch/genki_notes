@@ -630,72 +630,77 @@ function Lesson14() {
             present tense, put かもしれません directly after that noun or
             な-adjective. だ is dropped in the sentences.
           </p>
-          <div className="tab table-triple-column">
-            <p>
-              ウデイさんはインド
-              <span className="kanji">
-                人<span className="furigana">じん</span>
-              </span>
-              <span className="underline-green">だ</span>。
-              <br />
-              <i>Uday is an Indian.</i>
-            </p>
-            <p>→</p>
-            <p>
-              ウデイさんはインド
-              <span className="kanji">
-                人<span className="furigana">じん</span>
-              </span>
-              <span className="underline-green">かもしれません</span>。
-              <br />
-              <i>Uday may be an Indian.</i>
-            </p>
-          </div>
-          <div className="tab table-triple-column">
-            <p>
-              <span className="kanji">
-                山<span className="furigana">やま</span>
-              </span>
-              <span className="kanji">
-                下<span className="furigana">した</span>
-              </span>
-              <span className="kanji">
-                先<span className="furigana">せん</span>
-              </span>
-              <span className="kanji">
-                生<span className="furigana">せい</span>
-              </span>
-              は
-              <span className="kanji">
-                犬<span className="furigana">いぬ</span>
-              </span>
-              がきらい<span className="underline-green">だ</span>。
-              <br />
-              <i>Professor Yamashita doesn't like dogs.</i>
-            </p>
-            <p>→</p>
-            <p>
-              <span className="kanji">
-                山<span className="furigana">やま</span>
-              </span>
-              <span className="kanji">
-                下<span className="furigana">した</span>
-              </span>
-              <span className="kanji">
-                先<span className="furigana">せん</span>
-              </span>
-              <span className="kanji">
-                生<span className="furigana">せい</span>
-              </span>
-              は
-              <span className="kanji">
-                犬<span className="furigana">いぬ</span>
-              </span>
-              がきらい<span className="underline-green">かもしれません</span>。
-              <br />
-              <i>Professor Yamashita may not like dogs.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  ウデイさんはインド
+                  <span className="kanji">
+                    人<span className="furigana">じん</span>
+                  </span>
+                  <span className="underline-green">だ</span>。
+                  <br />
+                  <i>Uday is an Indian.</i>
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  ウデイさんはインド
+                  <span className="kanji">
+                    人<span className="furigana">じん</span>
+                  </span>
+                  <span className="underline-green">かもしれません</span>。
+                  <br />
+                  <i>Uday may be an Indian.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    山<span className="furigana">やま</span>
+                  </span>
+                  <span className="kanji">
+                    下<span className="furigana">した</span>
+                  </span>
+                  <span className="kanji">
+                    先<span className="furigana">せん</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    犬<span className="furigana">いぬ</span>
+                  </span>
+                  がきらい<span className="underline-green">だ</span>。
+                  <br />
+                  <i>Professor Yamashita doesn't like dogs.</i>
+                </td>
+                <td style={{ padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    山<span className="furigana">やま</span>
+                  </span>
+                  <span className="kanji">
+                    下<span className="furigana">した</span>
+                  </span>
+                  <span className="kanji">
+                    先<span className="furigana">せん</span>
+                  </span>
+                  <span className="kanji">
+                    生<span className="furigana">せい</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    犬<span className="furigana">いぬ</span>
+                  </span>
+                  がきらい
+                  <span className="underline-green">かもしれません</span>。
+                  <br />
+                  <i>Professor Yamashita may not like dogs.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
