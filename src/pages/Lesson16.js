@@ -582,7 +582,131 @@ function Lesson16() {
       <section id="section3">
         <h3>16.3: といい</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use the present tense short form + といいですね (polite) or
+            といいね (casual) to say that you hope something nice happens. When
+            you say といいですね or といいね, you are wishing for the good luck
+            of somebody other than yourself.
+          </p>
+          <p className="tab">
+            いいアルバイトが
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            つかるといいですね。
+            <br />
+            <i>I hope you find a good part-time job.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              雨<span className="furigana">あめ</span>
+            </span>
+            が
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            らないといいね。
+            <br />
+            <i>I hope it doesn't rain.</i>
+          </p>
+          <p>
+            To say what you hope for, for your own good, you can use
+            といいんですが (polite) or といいんだけど (casual). These endings
+            show the speaker's attitude is more tentative and make the sentence
+            sound more modest.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            が
+            <span className="kanji">
+              易<span className="furigana">やさ</span>
+            </span>
+            しいといいんですが。
+            <br />
+            <i>I am hoping that the exam is easy.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              八<span className="furigana">はち</span>
+            </span>
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            の
+            <span className="kanji">
+              電<span className="furigana">でん</span>
+            </span>
+            <span className="kanji">
+              車<span className="furigana">しゃ</span>
+            </span>
+            に
+            <span className="kanji">
+              乗<span className="furigana">の</span>
+            </span>
+            れるといいんだけど。
+            <br />
+            <i>I hope I can catch the eight o'clock train.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>(short, present) と +</td>
+                <td>いいですね / いいね</td>
+                <td>
+                  <i>I hope ... (for you/them)</i>
+                </td>
+              </tr>
+              <tr>
+                <td>いいんですが / いいんだけど</td>
+                <td>
+                  <i>I hope ... (for myself)</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Note that all these といい sentences mean that you are hoping that
+            something nice <i>happens</i>. This means that these patterns cannot
+            be used in cases where you hope <i>to do</i> something nice, which
+            is under your control. In such cases, you can usually turn the verb
+            into the potential form.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            <span className="kanji">
+              学<span className="furigana">がく</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            けるといいんですが。
+            <br />
+            Compare: <span className="text-red">X</span>{" "}
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            <span className="kanji">
+              学<span className="furigana">がく</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            くといいんですが。
+            <br />
+            <i>
+              I am hoping to go to college. = I am hoping that I can go to
+              college.
+            </i>
+          </p>
         </div>
       </section>
 
