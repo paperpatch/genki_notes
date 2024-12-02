@@ -506,7 +506,76 @@ function Lesson16() {
       <section id="section2">
         <h3>16.2: ～ていただけませんか</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Here are three ways to make a request. They differ in degrees of
+            politeness shown to the person you are asking.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={3}>～て +</td>
+                <td>いただけませんか</td>
+                <td>(polite)</td>
+              </tr>
+              <tr>
+                <td>くれませんか</td>
+              </tr>
+              <tr>
+                <td>くれない？</td>
+                <td>(casual)</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            We use the <i>te</i>-form of a verb + いただけませんか to make a
+            polite request. This is more appropriate than ください when you
+            request a favor from a nonpeer such as your professor or your boss
+            or from a stranger.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              手<span className="furigana">て</span>
+            </span>
+            <span className="kanji">
+              伝<span className="furigana">つだ</span>
+            </span>
+            っていただけませんか。
+            <br />
+            <i>Would you lend me a hand?</i>
+          </p>
+          <p>
+            The te-form + くれませんか is a request which is roughly equal in
+            the degree of politeness to ください. くれませんか comes from the
+            verb くれる. This is probably the form most appropriate in the
+            host-family context.
+          </p>
+          <p className="tab">
+            ちょっと
+            <span className="kanji">
+              待<span className="furigana">ま</span>
+            </span>
+            ってくれませんか。
+            <br />
+            <i>Will you wait for a second?</i>
+          </p>
+          <p>
+            You can use the <i>te</i>-form + くれない, or the <i>te</i>-form by
+            itself, to ask for a favor in a very casual way. This is good for
+            speaking with members of your peer group.
+          </p>
+          <p className="tab">
+            それ
+            <span className="kanji">
+              取<span className="furigana">と</span>
+            </span>
+            ってくれない？ or それ
+            <span className="kanji">
+              取<span className="furigana">と</span>
+            </span>
+            って。
+            <br />
+            <i>Pick that thing up (and pass it to me), will you?</i>
+          </p>
         </div>
       </section>
 
