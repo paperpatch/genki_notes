@@ -493,14 +493,14 @@ const lessons = [
         title: "Short Forms",
         id: "section1",
         content:
-          "8.1 Short Forms A new paradigm of conjugation, called short forms. Short forms are used to quote someone else, in casual conversations (as signs of intimacy), and in making negative requests." +
+          "8.1 Short Forms table A new paradigm of conjugation, called short forms. Short forms are used to quote someone else, in casual conversations (as signs of intimacy), and in making negative requests." +
           "Present, affirmative Present, negative long forms short forms verbs:	読みます (yomi) 読む (= Dictionary form)  い-adjectives: かわいいです かわいい (Drop です)" +
           "な-adjectives:	静かです (shizuka) 静かだ (Replace です with だ.) noun + です: 学生です (gakusei) 学生だ (Replace です with だ.) 読みません	読まない" +
           "かわいくないです	かわいくない (exception) いい: よくないです	よくない 静かじゃないです	静かじゃない 学生じゃないです	学生じゃない" +
           "Verbs in negative. Ru-, u- and irregular vers conjugate differently. Verb short forms (present, negative) ru-verbs: Drop the final る and add ない 食べる → 食べない" +
           "u-verbs: Drop the last -u and add -anai. Verbs that have う, however, get わ instead of あ. 書く (kaku) → 書かない 会う (ao) → 会わない" +
           "irregular verbs: The vowels change. する → しない くる → こない exception: The verb ある is replaced by the adjective ない. ある → ない" +
-          "Think of the u-verb conjugation as moving up and down in the hirgana chart. 書か話はな	待ま死し読よ作つく泳およ遊あそ買か negative	かさたなまらがばわ～ない stem	きしちにみりぎびい～ます affirmative	くすつぬむるぐぶう = Dictionary form",
+          "Think of the u-verb conjugation as moving up and down in the hiragana chart. 書か話はな	待ま死し読よ作つく泳およ遊あそ買か negative	かさたなまらがばわ～ない stem	きしちにみりぎびい～ます affirmative	くすつぬむるぐぶう = Dictionary form",
       },
       {
         number: "8.2",
@@ -767,46 +767,246 @@ const lessons = [
     title: "Lesson 12: 病気 (Feeling ill)",
     path: "/lesson12",
     sections: [
-      { number: "12.1", title: "", id: "section1", content: "12.1" },
-      { number: "12.2", title: "", id: "section2", content: "12.2" },
-      { number: "12.3", title: "", id: "section3", content: "12.3" },
-      { number: "12.4", title: "", id: "section4", content: "12.4" },
-      { number: "12.5", title: "", id: "section5", content: "12.5" },
-      { number: "12.6", title: "", id: "section6", content: "12.6" },
+      {
+        number: "12.1",
+        title: "～んです",
+        id: "section1",
+        content:
+          "12.1 ～んです There are two distinct ways to make a statement in Japanese. One is to report the facts as they are observed. The other, is the mode of explaining things. short form (verbs/adjectives/nouns) + んです" +
+          "= explanation in terms of the verbs/adjectives/nouns You can sound more apologetic if you offer an explanation of being late by saying んです. Compare: バスが来きませんでした。The bus didn't come. バスが来こなかったんです。(As it happens,) the bus didn't come." +
+          "んです connects a fact to another element under discussion, serving as a link between what happened and an explanation for it. あしたテストがあります。I have an exam tomorrow. あしたテストがるんです。I have an exam tomorrow. (So I can't go out tonight.)" +
+          "トイレにいきたいです。I want to go to the bathroom. トイレにいきたいんです。I want to go to the bathroom. (So tell me where it is.) んです itself is invariant and does not usually appear in negative or past tense forms, but the predicate before it can be affirmative or negative, present tense or past tense." +
+          "成績せいせきがよくないんです。 (in reponse to the question Why do you look so upset?) (As a matter of fact) My grade is not good. 試験しけんが終おわったんです。(explaining to a person who has caught you smiling) The exam is over. (That's why I'm smiling.)" +
+          "When it follows a noun or a な-adjective in the present tense affirmative, な comes in between. report sentences explanation sentences な-adjectives: 静しずかです 静しずかなんです nouns: 学がく生せいです 学がく生せいなんです" +
+          "Use んです in questions to invite clarifications from the person you are talking to. It is often used with question words, such as どうして (why) どうした (what has happened). A: どうして彼かれと別わかれたんですか。Why did you break up with your boyfriend? (You've got to tell me.)" +
+          "B: 彼かれ、ぜんぜんお風ふ呂るに入はいらないんです。Oh, him. He never takes a bath. (That's a good enough reason, isn't it?) A: どうしたんですか What happened? (You look shattered.) B: うちの猫ねこが死しんだんです。My cat died. (That should explain how I look today.)" +
+          "You can also use んです to provide additional comment/context on what was just said. A: かわいいノートですね。That's a cute notebook. B: ええ。日本んで買かったんです。You bet. I bought it in Japan (for your information)." +
+          "In the written language, you see のです instead of んです. It has the same functions but it stylistically more formal.",
+      },
+      {
+        number: "12.2",
+        title: "～すぎる",
+        id: "section2",
+        content:
+          "12.2 ～すぎる Verb stems may be followed by the helping verb すぎる, which means too much, or excess. すぎる conjugates as a regular ru-verb. 早はやく起おきすぎました。I got up too early." +
+          "食たべすぎてはいけません。You must not eat too much. すぎる can also follow い- and な-adjective bases. You drop the い and な at the end of the adjectives and then add すぎる. (高たかい) この本ほんは高たかすぎます。This book is too expensive." +
+          "(静しずかな) この町まちは静しずかすぎます。This town is too quiet. verb stem/adjective stem + すぎる	... too much Use すぎる when something is beyond normal or proper, suggesting that you do not welcome it. Thus 親切しんせつすぎます (too kind) for example is not a straightforward compliment. Use modifiers like とても and すごく if you want to say that something is in a high degree.",
+      },
+      {
+        number: "12.3",
+        title: "～ほうがいいです",
+        id: "section3",
+        content:
+          "12.3 ～ほうがいいです ほうがいいです means it is better (for you) to do ... sentence which you can use to give advice. ほうがいいです follows a verb in the short form. You usually use the past tense of a verb with ほうがいいです if the verb is in the affirmative. When the advice is in the negative, the verb is in the present tense." +
+          "verb (short, past, affirmative) verb (short, present, negative) + ほうがいいです It is better. It is better not ... もっと野や菜さいを食たべたほうがいいですよ。You'd better eat more vegetables. 授業じゅぎゅうを休やすまないほうがいいですよ。It is better not to skip classes.",
+      },
+      {
+        number: "12.4",
+        title: "～ので",
+        id: "section4",
+        content:
+          "12.4 ～ので Use ので to give the reason for the situation described in the balance of the sentence. Semantically, ので is similar to から. Stylistically, ので sounds slightly more formal and is used extensively in the written language." +
+          "(reason) ので  (situation)。	(situation), because (reason). いつも日本語で話はなすので、日本語が上手じょうずになりました。My Japanese has improved, because I always speak Japanese. 宿題しゅくだいがたくさんあなったので、きのうの夜よる、寝ねませんでした。I did not sleep last night, because I had a lot of homework." +
+          "The reason part of ので sentence is usually in a short form. When ので follows a な-adjective or a noun in a present tense affirmative clause, な comes in between, as it did with the explanatory predicate んです." +
+          "その 人ひととはいじわるなので、きらいです。I do not like that person, because he is mean. (Compare: いじわるだから ) " +
+          "今日今日きょうは日にち曜よう日びなので、銀ぎん行こうは休やすみです。Banks are closed, because today is a Sunday. (Compare: 日にち曜よう日びだから )",
+      },
+      {
+        number: "12.5",
+        title: "～なければいけません / ～なきゃいけません",
+        id: "section5",
+        content:
+          "12.5 ～なければいけません / ～なきゃいけません Use なければいけません and なきゃいけません to say it is necessary to do something. The なければ is more formal and often seen in the written language. The なきゃ version is more colloquial and mainly found in the spoken language." +
+          "試し験けんがあるから、勉強べんきょうしなければいけません / なきゃいけません。I have to study, because there will be an exam. なければ and なきゃ mean if you do not do ... and いけません roughly means you cannot go. Combined, you would get the meaning you cannot go not doing ..., giving a sense of the affirmative mandate. Because of the double negatives, drop the last い and replace it with ければ or きゃ." +
+          "verb	short negative must 食たべる	食たべない 食たべなければいけません / 食たべなきゃいけません 言いう	言いわない	言いわなければいけません / 言いわなきゃいけません する	しない	しなければいけません / しなきゃいけません くる	こない	こなければいけません / こなきゃいけません" +
+          "You can change いけません to いけませんでした to say you had to. You can use the short form なきゃいけない in causal speech. You can further shorten it to なきゃ." +
+          "今朝けさは、六ろく時じに起おきなきゃいけませんでした。(long form, past) I had to get up at six this morning. 彼かの女じょが来くるから、部へ屋やを掃そう除じしなきゃ ( いけない )。(short form, present) I must clean the room, because my girlfriend is coming.",
+      },
+      {
+        number: "12.6",
+        title: "でしょうか",
+        id: "section6",
+        content:
+          "12.6 でしょうか If you ask somebody a question they don't know the answer to, they may be embarassed. You can avoid awkward situations by phrasing questions with でしょうか, which adds politeness." +
+          "A: あした、雨あめが降ふるでしょうか。Would it rain tomorrow? B: 降ふると思おもいます。I think it will. でしょう means probably. By asking でしょうか, you are implying that you think the listener probably has a better-informed opinion. でしょうか follows short form predicates. When it follow a noun or a な-adjective in a present tense affirmative sentence, it follows them without だ in between." +
+          "来週らいしゅうは暖あたたかいでしょうか。Would you say that it will be warm next week? トマトは野や菜さいでしょうか。 ( X 野や菜さいだでしょうか) Is a tomato a vegetable? これ、もう話はなしたとしようか。What happened? (You look shattered.)" +
+          "Use non-interrogative でしょう to make a guess. Add たぶん in the sentence to signal that it's a guess. たぶなしたは寒さむくないでしょう。I bet it will not be cold tomorrow.",
+      },
     ],
   },
   {
     title: "Lesson 13: アルバイト探し (Looking for a Part-time Job)",
     path: "/lesson13",
     sections: [
-      { number: "13.1", title: "", id: "section1", content: "13.1" },
-      { number: "13.2", title: "", id: "section2", content: "13.2" },
-      { number: "13.3", title: "", id: "section3", content: "13.3" },
-      { number: "13.4", title: "", id: "section4", content: "13.4" },
-      { number: "13.5", title: "", id: "section5", content: "13.5" },
-      { number: "13.6", title: "", id: "section6", content: "13.6" },
+      {
+        number: "13.1",
+        title: "Potential Verbs",
+        id: "section1",
+        content:
+          "13.1 Potential Verbs table Use the potential verb to say that someone can or has the ability to do something, or that something is possible." +
+          "私は日本語が話はなせます。I can speak Japanese. 私は泳およげないんです。(The truth is) I cannot swim. 雨あめが降ふっ他ので、海うみに行いけませんでした。We could not go to the beach, because it rained." +
+          "Potential verbs rules: Potential verbs • ru-verbs: Drop the final -ru and add -rareru. 見る (mi-ru)	→	見られる (mi-rare-ru) • u-verbs: Drop the final -ru and add -eru. 行いく (ik-u)	→	行いける (ik-eru)	作つくる	→	作つくれる" +
+          "話すはな	→	話すはなせる	泳およぐ	→	泳およげる 待まつ	→	待まてる	遊あそぶ	→	遊あそべる 死しぬ	→	死しぬる	買かう	→	買かえる 読よむ	→	読よめる • irregular verbs: くる	→	こられる	する	→	できる" +
+          "Think of the u-verb conjugation as moving up and down in the hiragana chart. 書か話はな	待ま死し読よ作つく泳およ遊あそ買か negative	かさたなまらがばわ～ない stem	きしちにみりぎびい～ます affirmative	くすつぬむるぐぶう = Dictionary form potential けせてねめれげべえ～る" +
+          "The potential verbs for ru-verbs are longer than those for u-verbs. There are shorter, alternative potential verbs for ru-verbs and the irregular verb くる, which use the suffix -reru, instead of -rareru. With and without ra	potential forms	ra-less potential forms" +
+          "ru-verbs:	出でる	→	出でられる	出でれる 見みる	→	見みられる	見みれる irregular verbs:	くる	→	こられる	これる Potential verbs themselves conjugate as regular ru-verbs. Table of conjugation pattern of potential verbs: Conjugation of potential verbs" +
+          "e.g. 書かける	short form	long form affirmative	negative [Present]	書かける	書かけない	書かけます	書かません 書かけた	書かけなかった	書かけました	書かけませんでした [Te-form]	書かけて" +
+          "Verbs that take the particle を can take either を or が when they turn into potential verbs. できる, the potential counterpart of する, almost takes が all the time. All particles other than を remains the same when converted into the potential. Particles in potential sentences" +
+          "• verbs with を: 漢かん字じを読よむ	→	漢かん字じが読よめる or漢かん字じを読よむ • するーできる: 仕し事ごとをする	→	仕し事ごとができる (仕し事ごとをできる is much less commonly used.) • verbs with particles other than を: 山やまに登のぼる	→	山やまに登のぼれる(No particle change involved.)" +
+          "You can express the idea of can do using a more complex construction: verb dictionary form + ことができる. メアリーさんはギターを弾ひくことができます。(Compare: ギターを弾ひけます) Mary can play the guitar." +
+          "このアパートでは犬いぬを飼かうことができません。(Compare: 犬いぬが飼かえません) You cannot keep dogs in this apartment.",
+      },
+      {
+        number: "13.2",
+        title: "～し",
+        id: "section2",
+        content:
+          "13.2 ～し Similar to から, as in to give a reason for something, し can also be used to give a reason. 日本語は面おも白しろいから、日本語の授業じゅぎょうが大だい好きです。I really like my Japanese class, because Japanese is interesting." +
+          "When you mention more than one reasons, you can use し in place of から. し usually follows a predicate in the short form. (reason1) し、(reason2) し、(situation)。日本語は面おも白しろいし、先せん生せいはいいし、私は日本語の授業じゅぎょうが大だい好きです。I really like my Japanese class, because Japanese is interesting, and our teacher is good." +
+          "When you use just one し clause, you imply that it is not the only reason for the situation. 物ぶっ価かが安やすいし、この町まちの生せい活かつは楽らくです。Life in this city is easygoing. Things are inexpensive, for one thing. You can also add the し clause in a separate sentence, providing reasons for the situation mentioned." +
+          "山やま下した先せん生せいはいい先せん生せいです。教おしえるのが上じょう手ずだし、親しん切せつだし。Professor Yamashita is a great teacher. He is good at teaching, and he is kind. Note that you find だ in the present tense with な-adjectives and nouns, but not with い-adjectives." +
+          "い-adjectives:	おもしろいし	(X おもしろいだし) な-adjectives:	好すきだし	(X 好すきし) noun + です:	学がく生せいだし	(X 学がく生せいし)",
+      },
+      {
+        number: "13.3",
+        title: "～そうです (It looks like...)",
+        id: "section3",
+        content:
+          "13.3 ～そうです (It looks like...) We add そうで to い- and な-adjective bases to say that something seemingly has those properties. We are guessing what something is like on the basis of our impressions. このりんごはおいしそうです。This apple looks delicious." +
+          "明日あしたは天てん気きが良よさそうです。It looks like the weather will be fine tomorrow. To form ～そうです sentences with い-adjectives, you drop the final い; with な-adjectives, you just drop な. An exception is い-adjective いい, which changes to よさ before そう." +
+          "い-adjectives:	おいしい	→	おいしそうです (exception)	いい	→	よさそうです な-adjectives:	元げん気き（な）	→	元げん気きそうです You can use そうです with negative adjectives too. ない is changed to なさ before そう." +
+          "この本ほんは難むずかしくなさそうです。This book does not look difficult. ソラさんはテニスが上じょう手ずじゃなさそうです。It does not look like Sora is good at tennis. You can use the adjective + そう combination to qualify a noun. そう is a な-adjective, so we say そうな before a noun." +
+          "暖あたたかそうなセーターを着きています。She is wearing a warm-looking sweater. In many そうです sentences, the guesswork is done on the basis of visual impressions. We use そうです when we lack conclusive evidence. We do not use そう for visual evidence, such as X きれいそうです for looking something pretty. If we can see it, then we have evidence to conclude that it is pretty.",
+      },
+      {
+        number: "13.4",
+        title: "～てみる",
+        id: "section4",
+        content:
+          "13.4 ～てみる You can use the te-form of a verb plus the helping verb みる to express the idea of doing something tentatively, or trying something. You're not sure what the outcome is, but you try it and see what the consequences are." +
+          "漢かん字じがわからなかったので、日本人じんの友達だち に聞きいてみました。I did not know the kanji, so I tried asking a Japanese friend of mine. A: この本ほん、面おも白しろかったですよ。This book was interesting." +
+          "B: じゃあ、読よんでみます。Okay, I will take a look at it. みる comes form the verb 見る, and conjugates as a regular ru-verb. Unlike the main verb, 見る, ～てみる is always written in hiragana.",
+      },
+      {
+        number: "13.5",
+        title: "なら",
+        id: "section5",
+        content:
+          "13.5 なら なら is attached to a sentence which describes the condition where certain events or situations happen. Often translated as if. The main ideas of a なら sentence are contrast and limitation, usually indicating specific situation or condition where something applies." +
+          "Example 1: A: ブラジルに行いったことがありますか。Have you ever been to Brazil? B: チリなら行いったことがありますが、ブラジルは行いったことがありません。I've been to Chile, but never to Brazil (If the question were about Chile, yes, but Brazil, no.)" +
+          "Example 2: A: 日本語が読よめますか。Can you read Japanese? B: ひらがななら読よめます。If it is (written) in hiragana, yes. なら introduces a sentence that says something positive about the item that is contrasted.",
+      },
+      {
+        number: "13.6",
+        title: "一週間に三回",
+        id: "section6",
+        content:
+          "13.6 一週間に三回 You can describe the frequency of events over a period of time by using the following framework: (period) に (frequency)	(frequency) per (period)" +
+          "Q : 一いっ週間しゅうかんに何なん回かい髪かみを洗あらいますか。How many times a week do you shampoo? A : 私は一いっ週間しゅうかんに三回かい髪かみを洗あらいます。I shampoo three times a week." +
+          "一いち日にちに三時じ間かんぐらいゲームをします。I play games for about three hours a day. 一いっか月げつに三日みっかか四日よっか、アルバイトをします。I work part-time three or four days a month.",
+      },
     ],
   },
   {
     title: "Lesson 14: バレンタインデー (Valentime’s Day)",
     path: "/lesson14",
     sections: [
-      { number: "14.1", title: "", id: "section1", content: "14.1" },
-      { number: "14.2", title: "", id: "section2", content: "14.2" },
-      { number: "14.3", title: "", id: "section3", content: "14.3" },
-      { number: "14.4", title: "", id: "section4", content: "14.4" },
-      { number: "14.5", title: "", id: "section5", content: "14.5" },
-      { number: "14.6", title: "", id: "section6", content: "14.6" },
+      {
+        number: "14.1",
+        title: "ほしい",
+        id: "section1",
+        content:
+          "14.1 ほしい ほしい means to want something. ほしい follows the い-adjective conjugation pattern. The object of desire is usually followed by the particle が. In negative sentences, the particle は is also used. いい成せい績せきがほしいです。I want a good grade." +
+          "子こ月ども子の時とき、ポケモンのゲームがほしかったです。When I was young, I wanted a Pokémon game. Q : プレゼントがほしい？ Do you want a present? A : ううん、ほしくない。No, I don't. （私わたしは）X が　ほしい	I want X." +
+          "ほしい is like たい (I want to do...), and its use is mostly limited to the first person, the speaker. We can say ほしい to say I want this, but not someone else like Mary wants that. To talk about someone else's wishes or desires, you either quote that person's expression of desire, or describe it as your guess." +
+          "ヤスミンさんは新あたらしいスマホがほしいと言いっています。Yasmin says she wants a new phone. 亜あ美みさんはぬいぐるみがほしくないでしょう。Ami probably doesn't want a stuffed animal. You can replace ほしい with the derived verb ほしがる, which indivates that you can tell by the way the person acts that they want something. ほしがる conjugates as an u-verb and is usually used in the form ほしがっている. Unlike ほしい, the particle after the object of desire is を." +
+          "ななみさんは英えい語ごを習ならいたがっています。＜ 習ならいたい (I understand that) Nanami wants to study English. カルロスさんは友とも達だちをほしがっています。＜ ほしい (I understand that) Carlos wants a friend." +
+          "Because the core meaning of ほしい is desire to possess, when you can use a verb + たい instead of ほしい, you should use the verb. 昼ひるご飯はんが食たべたい。( not 昼ひるご飯はんがほしい ) 旅りょ行こうに行きたい ( not 旅りょ行こうがほしい )",
+      },
+      {
+        number: "14.2",
+        title: "～かもしれません",
+        id: "section2",
+        content:
+          "14.2 ～かもしれません かもしれません means that something is a possibility. When you think that something may be the case. When you say かもしれません, you are not sure about the state of affairs than when you say でしょう. In casual speech, you could say かもしれない or かも." +
+          "short form + かもしれません	Maybe ... You can add かもしれません to the short forms of predicates, in the affirmative and in the negative, in the present as well as the past tense. あしたは雨あめが降ふるかもしれません。It may rain tomorrow. 田た中なかさんより、鈴すず木きさんのほうが背せが高たかいかもしれない。Suzuki is perhaps taller than Tanaka." +
+          "明日あしたは天てん気きがよくないかも。The weather may not be good tomorrow. ロバートさんは、子こ供どもの時とき、いじわるだったかもしれません。Robert may have been a bully when he was a kid. When the last part of a sentence is a noun or a な-adjective in the present tense, put かもしれません directly after that noun or な-adjective. だ is dropped in the sentences." +
+          "ウデイさんはインド人じんだ。Uday is an Indian. ウデイさんはインド人じんかもしれません。Uday may be an Indian. 山やま下した先せん生せいは犬いぬがきらいだ。Professor Yamashita doesn't like dogs. 山やま下した先せん生せいは犬いぬがきらいかもしれません。Professor Yamashita may not like dogs.",
+      },
+      {
+        number: "14.3",
+        title: "あげる / くれる / もらう",
+        id: "section3",
+        content:
+          "14.3 あげる / くれる / もらう chart diagram picture frame drawing arrow circle you close friend relatives random a b Japanese has two verbs for giving: あげる and くれる. The verb depends on the direction of the giving. Use くれる when the direction is moving closer to you, and あげる when things are moving away from you in a direction." +
+          "With both あげる and くれる, the giver is the subject of the sentence, and is accompanied by the particle は or が. The recipient is accompanied by the particle に. 私わたしはその女おんなの人ひとに花はなをあげます。I will give the woman flowers. その女おんなの人ひとは男おとこの人に時計とけいをあげますた。The woman give the man a watch." +
+          "両親りょうしんが（私わたしに）新あたらしい車くるまをくれるかもしれません。My parents may give me a new car. そのプレゼント、だれがくれたんですか。Who gave you that present? Giver + は / が + Receiver + に + あげる くれる (giver) gives to (recipient)" +
+          "Transactions that are describe with the verb くれる can also be described in terms of receiving or もらう. With もらう, it is the recipient that is the subject of the sentence, and the giver is accompanied by the particle に or から. Receiver + は / が + Giver+ に / から + もらう	(receiver) receives from (giver)" +
+          "私は　姉あねに / 姉あねから　マフラーをもらいました。I received a winter scarf from my big sister. 姉あねが私にマフラーをくれました。My big sister gave me a winter scarf.",
+      },
+      {
+        number: "14.4",
+        title: "たらどうですか",
+        id: "section4",
+        content:
+          "14.4 たらどうですか たらどうですか after a verb conveys advice or recommendation. The initial た in たらどうですか stands for the same ending as in the past tense short form of a verb in the affirmative. In casual speech, たらどうですか may be shortened to たらどう or たら." +
+          "verb (short, past) + らどうですか	why don't you... 薬くすりを飲のんだらどうですか。How about taking some medicine? もっと勉強べんきょうしたらどう。Why don't you study harder? たらどうですか may sometimes have a disapproving tone, expressing criticism of the person for not having performed the action already. Therefore, it's safer to avoid using it unless you were asked for advice." +
+          "On a side note, the phrase should not be used for extending invitations. If you want to invite your friend to visit, do not use たらどうですか, but use ませんか. うちに来きませんか。Why don't you come to my place? Compare: X うちに来きたらどうですか。",
+      },
+      {
+        number: "14.5",
+        title: "Number + も / Number + しか + Negative",
+        id: "section5",
+        content:
+          "14.5 Number + も / Number + しか + Negative Basic structure for expressing numbers in Japanese: noun	が を +	number" +
+          "私わたしのうちには猫ねこが三さん匹びきいます。There are three cats in our house. 傘かさを二に本ほん買かいました。We bought two umbrellas. You can add も to the number word when you want to say as many as." +
+          "私わたしの母ははは猫ねこを三さん匹びきも飼かっています。My mother owns three, count them, three cats. きのパーティーには学生がくせいが二に十人じゅうにんも来きました。As many as twenty students showed up at the party yesterday. You can add しか to number word, and turn the predicate into the negative when you want to say as few as or only." +
+          "私は日に本ほん語ごの本ほんを一冊いっさつしか持もっていません。I have only one Japanese book. この会かい社しゃにはパソコンが二に台だいしかありません。There are only two computers in this company. number + も as many as number + しか　ない	as few as",
+      },
     ],
   },
   {
     title: "Lesson 15: A Trip to Nagano",
     path: "/lesson15",
     sections: [
-      { number: "15.1", title: "", id: "section1", content: "15.1" },
-      { number: "15.2", title: "", id: "section2", content: "15.2" },
-      { number: "15.3", title: "", id: "section3", content: "15.3" },
-      { number: "15.4", title: "", id: "section4", content: "15.4" },
+      {
+        number: "15.1",
+        title: "Volitional Form",
+        id: "section1",
+        content:
+          "15.1 Volitional Form The volitional form of a verb is a more casual equivalent of ましょう. You can use it to suggest a plan to a close friend. A: 明日あしたは授業じゅぎょうがないから、今こん晩ばんはどこかにいこう。We won't have any classes tomorrow. Let's go somewhere this evening." +
+          "B: いいえ、そうしよう。Sounds good. Let's do so. You can make the volitional forms using the rules listed below: Potential verbs • ru-verbs: Drop the final -ru and add -yoo. 見る (mi-ru)	→	見よう (mi-yoo)" +
+          "• u-verbs: Drop the final -ru and add -oo. 行いく (ik-u)	→	行いこう (ik-oo)	作つくる	→	作つくろう 話すはな	→	話すはなそう	泳およぐ	→	泳およごう 待まつ	→	待まとう	遊あそぶ	→	遊あそぼう 死しぬ	→	死しのう	買かう	→	買かおう 読よむ	→	読よもう • irregular verbs: くる	→	こよう	する	→	しよう" +
+          "Think of the u-verb conjugation as moving up and down in the hiragana chart. 書か話はな	待ま死し読よ作つく泳およ遊あそ買か negative	かさたなまらがばわ～ない stem	きしちにみりぎびい～ます affirmative	くすつぬむるぐぶう = Dictionary form potential けせてねめれげべえ～る volitional	こそとのもろごぼお～う" +
+          "You can use the volitional plus the question particle か to ask for an opinion in your offer or suggestion. A: 手て伝つだうおうか。Shall I lend you a hand? B: ううん、大丈夫だいじょうぶ。No, I'm doing okay. A: 今こん度ど、いつ会あおうか。When shall we meet again? B: 来週らいしゅうの土ど曜よう日びはどう？ How about Saturday next week?",
+      },
+      {
+        number: "15.2",
+        title: "Volitional Form + と思っています",
+        id: "section2",
+        content:
+          "15.2 Volitional Form + と思っています We use the volitional form + と思っています to talk about our resolutions. 毎まい日にち三さん時じ間かん日に本ほん語ごを勉強べんきょうしようと思おもっています。I've decided to / I'm going to study Japanese for three hours every day." +
+          "You can also use the volitional + と思います, suggesting that the decision to perform the activity is being made on the spot, or spontaneously, at the time of speaking. と思っています, in contrast, suggests that you have already decided to do something." +
+          "Situation 1 Q: 十万円じゅうまんえあげましょう。何なにに使つかいますか。I will give you 100,000 yen. What will you use it for? A: 旅りょ行こうに行いこうと思おもいます。I will go on a trip. (decision made on the spot)" +
+          "Situation 2 Q: 両親りょうしんから十万円じゅうまんえもらったんですか。何なにに使つかいますか。You got 100,000 yen from your parents? What are you going to use it for? A: 旅りょ行こうに行いこうと思おもっています。I am going to go on a trip. (decision already made)" +
+          "Note that verbs in volitional forms and verbs in the present tense convey different ideas when they are used with と思います or と思っています. When you use volitionals, you are talking about your intention. When you use the present tense, you are talking about your prediction." +
+          "日に本ほんの会かい社しゃで働はたらこうと思おもいます。I will / intend to work for a Japanese company. 日に本ほんの会かい社しゃで働はたらくと思おもいます。I think they / I will be working for a Japanese company.",
+      },
+      {
+        number: "15.3",
+        title: "～ておく",
+        id: "section3",
+        content:
+          "15.3 ～ておく The te-form of a verb plus the helping verb おく describes an action performed in preparation for something. 明日あした試し験けんがあるので、今こん晩ばん勉強べんきょうしておきます。Since there will be an exam tomorrow, I will study (for it) tonight." +
+          "だともだちが来くるから、部へ屋やを掃そう除じしておかなきゃいけません。I have to clean the room, because my friends are coming. ～ておく	do something in preparation" +
+          "ておく is often shortened to とく in speech. ホテルを予よやく約やくしとくね。I will make a hotel reservation in advance.",
+      },
+      {
+        number: "15.4",
+        title: "Using Sentences to Qualify Nouns",
+        id: "section4",
+        content: "15.4 Using Sentences to Qualify Nouns",
+      },
     ],
   },
   {
