@@ -95,7 +95,7 @@ function Header() {
     };
   }, []);
 
-  /* Searchbar Functionality */
+  /* Search Functionality */
   const handleSearch = (e) => {
     setQuery(e.target.value);
     setIsVisible(true);
@@ -147,11 +147,20 @@ function Header() {
     }
   };
 
-  const filteredContent = allContent.filter(
-    (item) =>
-      item.lessonTitle.toLowerCase().includes(query.toLowerCase()) ||
-      item.sectionContent.toLowerCase().includes(query.toLowerCase())
-  );
+  const filteredContent = allContent.filter((item) => {
+    const cleanQuery = query.replace(/['"]/g, "").toLowerCase();
+    const cleanLessonTitle = item.lessonTitle
+      .replace(/['"]/g, "")
+      .toLowerCase();
+    const cleanSectionContent = item.sectionContent
+      .replace(/['"]/g, "")
+      .toLowerCase();
+
+    return (
+      cleanLessonTitle.includes(cleanQuery) ||
+      cleanSectionContent.includes(cleanQuery)
+    );
+  });
 
   /* Settings */
   const toggleSettingsModal = () => {
