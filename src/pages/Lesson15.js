@@ -699,7 +699,237 @@ function Lesson15() {
       <section id="section4">
         <h3>15.4: Using Sentences to Qualify Nouns</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            In the phrase おもしろい qualifies the noun{" "}
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>{" "}
+            and tells us what kind of book it is. You can also use sentences to
+            qualify nouns. Examples of sentences that use qualifiers of nouns:
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>1.</td>
+                <td>
+                  <span className="border-green">昨日買った</span>
+                </td>
+                <td>本</td>
+                <td>
+                  <i>
+                    the book{" "}
+                    <span className="border-green">
+                      that I bought yesterday
+                    </span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>2.</td>
+                <td>
+                  <span className="border-green">
+                    <span className="kanji">
+                      彼<span className="furigana">かれ</span>
+                    </span>
+                    がくれた
+                  </span>
+                </td>
+                <td>本</td>
+                <td>
+                  <i>
+                    the book{" "}
+                    <span className="border-green">my boyfriend gave me</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>3.</td>
+                <td>
+                  <span className="border-green">
+                    つくえの
+                    <span className="kanji">
+                      上<span className="furigana">うえ</span>
+                    </span>
+                    にある
+                  </span>
+                </td>
+                <td>本</td>
+                <td>
+                  <i>
+                    the book{" "}
+                    <span className="border-green">that is on the table</span>
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>4.</td>
+                <td>
+                  <span className="border-green">日本で買えない</span>
+                </td>
+                <td>本</td>
+                <td>
+                  <i>
+                    the book{" "}
+                    <span className="border-green">
+                      that you can't buy in Japan
+                    </span>
+                  </i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Qualifier sentences shows what kind of book we are talking aboutm
+            just like adjectives.
+          </p>
+          <p>
+            A "qualifier sentence + noun" combination is just like one big noun
+            phrase. You can put it anywhere in a sentence that has a noun.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              これは
+              <span className="border-green">
+                <span className="kanji">
+                  去年<span className="furigana">きょねん</span>
+                </span>
+                の
+                <span className="kanji">
+                  誕生<span className="furigana">たんじょう</span>
+                </span>
+                <span className="kanji">
+                  日<span className="furigana">び</span>
+                </span>
+                に
+                <span className="kanji">
+                  彼<span className="furigana">かの</span>
+                </span>
+                <span className="kanji">
+                  女<span className="furigana">じょ</span>
+                </span>
+                がくれた
+              </span>
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+              です。
+              <br />
+              <i>
+                This is a book that my girlfriend gave me on my birthday last
+                year.
+              </i>
+            </p>
+            <p>
+              (cf. これは
+              <span className="underline-green">
+                <span className="kanji">
+                  本<span className="furigana">ほん</span>
+                </span>
+              </span>
+              です。)
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                父<span className="furigana">ちち</span>
+              </span>
+              が
+              <span className="border-green">
+                <span className="kanji">
+                  村<span className="furigana">むら</span>
+                </span>
+                <span className="kanji">
+                  上<span className="furigana">かみ</span>
+                </span>
+                <span className="kanji">
+                  春<span className="furigana">はる</span>
+                </span>
+                <span className="kanji">
+                  樹<span className="furigana">き</span>
+                </span>
+                が
+                <span className="kanji">
+                  書<span className="furigana">か</span>
+                </span>
+                いた
+              </span>
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+              をくれました。
+              <br />
+              <i>My father gave me a book that Haruki Murakami wrote.</i>
+            </p>
+            <p>
+              (cf.{" "}
+              <span className="kanji">
+                父<span className="furigana">ちち</span>
+              </span>
+              が
+              <span className="underline-green">
+                <span className="kanji">
+                  本<span className="furigana">ほん</span>
+                </span>
+              </span>
+              をくれました。)
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="border-green">
+                <span className="kanji">
+                  私<span className="furigana">わたし</span>
+                </span>
+                が
+                <span className="kanji">
+                  一<span className="furigana">いち</span>
+                </span>
+                <span className="kanji">
+                  番<span className="furigana">ばん</span>
+                </span>
+                <span className="kanji">
+                  感<span className="furigana">かん</span>
+                </span>
+                <span className="kanji">
+                  動<span className="furigana">どう</span>
+                </span>
+                した
+              </span>
+              <span className="kanji">
+                映<span className="furigana">えい</span>
+              </span>
+              <span className="kanji">
+                画<span className="furigana">が</span>
+              </span>
+              は「
+              <span className="kanji">
+                生<span className="furigana">い</span>
+              </span>
+              きる」です。
+              <br />
+              <i>
+                The movie I was touched by the most is "To Live", a 1952 film
+                directed by Akira Kurosawa.
+              </i>
+            </p>
+            <p>
+              (cf.{" "}
+              <span className="underline-green">
+                <span className="kanji">
+                  映<span className="furigana">えい</span>
+                </span>
+                <span className="kanji">
+                  画<span className="furigana">が</span>
+                </span>
+              </span>
+              は「
+              <span className="kanji">
+                生<span className="furigana">い</span>
+              </span>
+              きる」です。)
+            </p>
+          </div>
         </div>
       </section>
     </div>
