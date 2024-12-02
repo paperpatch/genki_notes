@@ -416,26 +416,160 @@ const lessons = [
     title: "Lesson 7: 家族の写真 (Family Picture)",
     path: "/lesson7",
     sections: [
-      { number: "7.1", title: "", id: "section1", content: "7.1" },
-      { number: "7.2", title: "", id: "section2", content: "7.2" },
-      { number: "7.3", title: "", id: "section3", content: "7.3" },
-      { number: "7.4", title: "", id: "section4", content: "7.4" },
-      { number: "7.5", title: "", id: "section5", content: "7.5" },
-      { number: "7.6", title: "", id: "section6", content: "7.6" },
+      {
+        number: "7.1",
+        title: "～ている (Action in Progress)",
+        id: "section1",
+        content:
+          "7.1 ～ている (Action in Progress) Japanese verbs can be classified into the following three types: verbs that describe activities that last for some time (e.g., 食べる, 読む)" +
+          "verbs that describe changes that are more or less instantaneous (e.g., 死ぬ, 起きる), verbs that describe continuous states (e.g., ある, いる) You can use the verbs in the first group in their te-form with the helping verb いる to describe actions in progress." +
+          "activity verbs ている = action in progress, ソラさんは今勉強しています。Sora is studying right now. You can also use a ～ています sentence to describe what a person does by occupation or by habit." +
+          "私は英語を教えています。 I teach English. / I am teaching English (right now). The helping verb いる conjugates as a ru-verb. It makes long forms as in the following:" +
+          "e.g. 食べている affirmative negative [Present] [Past] 食べています He is eating. 食べていません He is not eating. 食べていました He was eating. 食べていませんでした He was not eating.",
+      },
+      {
+        number: "7.2",
+        title: "～ている (Result of a Change)",
+        id: "section2",
+        content:
+          "7.2 ～ている (Result of a Change) Verbs in the second group describe changes from one state to another. For example, if you get married 結婚する, your status changes from being single to being married. The verb て.いる describes the result of a change." +
+          "change verbs ている = result of a change 山下先生は結婚しています。Professor Yamashita is married. Examples of verbs that are commonly used in the ～ている framework:" +
+          "持つ (もつ) 持っている (has) ソラさんはお金をたくさん持っています。Sora has a lot of money. 知る (しる) 知っている (knows) 山下先生は母を知っています。Professor Yamashita knows my mother." +
+          "太る (ふとる) 太るっている (is overweight) トムさんはちょうと太っています。Tom is a little overweight. やせる やせるている (is thin)" +
+          "私の弟はとてもやせています。My younger brother is very thin. 着る (きる) 着っている (wears) メアリーさんはTシャツを着ています。Mary is wearing/wears a T-shirt." +
+          "起きる (おきる) 起きている (is awake) お父さんは起きています。 Dad is up and awake. 住む (すむ) 住んでいる (lives in) 家族は東京に住んでいます。My family lives in Tokyo." +
+          "Verbs like 行く and 来る belong to the change class. They indicate the result of prior movements, not movements that are currently in progress." +
+          "中国に行っています。Somebody has gone to/is in China. (Not: She is going to China) うちに来ています。Somebody has come over to visit. (Not: Somebody is coming over)",
+      },
+      {
+        number: "7.3",
+        title: "メリーさんは髪が長いです",
+        id: "section3",
+        content:
+          "7.3 メリーさんは髪が長いです Normally, we would describe someone who has long hair with: トムさんの髪は長いです。Tom's hair is long." +
+          "It is more natural in Japanese to say: トムさんは髪が長いです。Tom has long hair. (= As for Tom, he has long hair.) This also applies to descriptions of a person's physical attributes in general." +
+          "体の部分 (からだのぶぶん) Parts of the Body かみ (髪) Hair まゆげ (眉毛) Eyebrow め (目) Eye みみ (耳) Ear はな (鼻) Nose くち (口) Mouth" +
+          "は (歯) Teeth くび (首) Neck て (手) Hand ゆび (指) Finger あたま (頭) Head かお (顔) Face かた (肩) Shoulder むね (胸) Chest せなか (背中) Back" +
+          "おなか (お腹) Belly おしり (お尻) Butt あし (足) Foot In idiomatic collocations (words that naturally go together), we have:" +
+          "背が高い。(se ga takai) is tall 背が低い。(se ga hikui) is short 頭がいい。(atamagaii) is bright/smart",
+      },
+      {
+        number: "7.4",
+        title: "Adjective/Noun Te-forms for Joining Sentences",
+        id: "section4",
+        content:
+          "7.4 Adjective/Noun Te-forms for Joining Sentences The te-form of an い-adjective is formed by substituting くて for the final い. The te-form of a な-adjective and a noun + です sequence is formed by adding で to the base or the noun." +
+          "い-adjectives:	安い → 安くて (irregular)	いい → よくて な-adjectives: 元気 (な) → 元気で noun + です: 安い	→ 安くて あの店の食べ物は安くて、おいしいです。 The food at that restaurant is inexpensive and delicious." +
+          "ホテルはきれいで、よかったです。 The hotel was clean, and we were happy.",
+      },
+      {
+        number: "7.5",
+        title: "Verb Stem + に行く",
+        id: "section5",
+        content:
+          "7.5 Verb Stem + に行く If a person moves to another place in order to do something, we can describe their movement and its purpose this way:" +
+          "destination of movement に へ the purpose of movement 行く 来る 帰る The purpose of movement is a phrase consisting of a verb, its object, and so forth. Verbs describing the purpose of a movement must be in their stem forms. Stems are the part you get by removing ます from the verbs' present tense long forms." +
+          "stems:	食べる → 食べ (ます) 読む → 読み (ます) etc. デパートにかばんを買いに行きました。 I went to a department store to buy a bag.",
+      },
+      {
+        number: "7.6",
+        title: "Counting People",
+        id: "section6",
+        content:
+          "7.6 Counting People The counter for people is 人, but it irregular for one and two people." +
+          "ひとり(一人) ふたり(二人) さんにん(三人) よにん(四人) ごにん(五人) ろくにん(六人) しちにん/ななにん(七人) はちにん(八人) きゅうにん(九人) じゅうにん(十人)" +
+          "1 2 3 4 5 6 7 8 9 10 one two three four five six seven eight nine ten To count people in a class, for example, you can add ～人 after the noun and the particle が, and say:" +
+          "person が X 人 います 私のクラスに（は）インドネシア人の学生が一人います。There is one Indonesian student in our class. The place expressions are often followed by には instead of に in this type of sentence." +
+          "The place expressions are often followed by には instead of に in this type of sentence.",
+      },
     ],
   },
   {
     title: "Lesson 8: バーベキュー (Barbecue)",
     path: "/lesson8",
     sections: [
-      { number: "8.1", title: "", id: "section1", content: "8.1" },
-      { number: "8.2", title: "", id: "section2", content: "8.2" },
-      { number: "8.3", title: "", id: "section3", content: "8.3" },
-      { number: "8.4", title: "", id: "section4", content: "8.4" },
-      { number: "8.5", title: "", id: "section5", content: "8.5" },
-      { number: "8.6", title: "", id: "section6", content: "8.6" },
-      { number: "8.7", title: "", id: "section7", content: "8.7" },
-      { number: "8.8", title: "", id: "section8", content: "8.8" },
+      {
+        number: "8.1",
+        title: "Short Forms",
+        id: "section1",
+        content:
+          "8.1 Short Forms A new paradigm of conjugation, called short forms. Short forms are used to quote someone else, in casual conversations (as signs of intimacy), and in making negative requests." +
+          "Present, affirmative Present, negative long forms short forms verbs:	読みます (yomi) 読む (= Dictionary form)  い-adjectives: かわいいです かわいい (Drop です)" +
+          "な-adjectives:	静かです (shizuka) 静かだ (Replace です with だ.) noun + です: 学生です (gakusei) 学生だ (Replace です with だ.) 読みません	読まない" +
+          "かわいくないです	かわいくない (exception) いい: よくないです	よくない 静かじゃないです	静かじゃない 学生じゃないです	学生じゃない" +
+          "Verbs in negative. Ru-, u- and irregular vers conjugate differently. Verb short forms (present, negative) ru-verbs: Drop the final る and add ない 食べる → 食べない" +
+          "u-verbs: Drop the last -u and add -anai. Verbs that have う, however, get わ instead of あ. 書く (kaku) → 書かない 会う (ao) → 会わない" +
+          "irregular verbs: The vowels change. する → しない くる → こない exception: The verb ある is replaced by the adjective ない. ある → ない" +
+          "Think of the u-verb conjugation as moving up and down in the hirgana chart. 書か話はな	待ま死し読よ作つく泳およ遊あそ買か negative	かさたなまらがばわ～ない stem	きしちにみりぎびい～ます affirmative	くすつぬむるぐぶう = Dictionary form",
+      },
+      {
+        number: "8.2",
+        title: "Short Forms in Informal Speech",
+        id: "section2",
+        content:
+          "8.2 Short Forms in Informal Speech Close friends or family members speak with each other using short forms. Long forms tends to imply the speaker's intention to keep a proper distance from the listener. Friend A: 今日、学校に行く？ (Short form) Are you going to school today?" +
+          "Friend B: ううん、行かない。 No, I'm not. Stranger A: すみません、この電車は新宿にいきますか。 (Long form) Excuse me, does this train go to Shinjuku? Stranger B: いいえ、行きませにょ。No, it doesn't." +
+          "Be wary when switching to short forms, as Japanese speakers are very concious of seniority. Just because someone uses short forms with you does not mean it's a mutual relationshi in using short/long forms. Juniors often uses long forms to their senior while seniors are more free to use short forms to their juniors." +
+          "Profesor: この漢字、わかる？ Do you know this kanji? Student: はい、わかります。(X うん、わかる。) Yes, I do. In casual conversations, you drop the question particle か, and use the rising intonation to ask a question." +
+          "In spoken language, you usually drop the sentence-final だ after a な-adjective or a noun. However, You keep the last だ in the written language. A: 元気？ Are you good? B: うん、元気。 Yes, I am." +
+          "Keep だ when you follow it up with ね or よ. メアリーさんは二年生だよ。Mary is a sophomore. はい and いいえ are usually replaced by the less formal うん and ううん. よくスポーツをする？ Do you often play sports? うん、する。/ ううん、しない。Yes, I do. / No, I don't.",
+      },
+      {
+        number: "8.3",
+        title: "Short Forms in Quoted Speech: ～と思います",
+        id: "section3",
+        content:
+          "8.3 Short Forms in Quoted Speech: ～と思います To describe what you think, use the short form, plus と思います (I think that...). と is a quotation particle, which does the job of both the English word that in indirect quotation and of quotation marks (  ) in direct quotation." +
+          "(私は)たけしさんはメアリーさんが好きだと思います。I think Takeshi likes Mary. To say that you don't think something is the case, it is more common in Japanese to say ～ないと思います (I think that something is not the case) than ～と思いません (I don't think). (私は)メアリーさんはたけしさんが好きじゃないと思います。I don't think Mary likes Takeshi. (= I think Mary doesn't like Takeshi.)",
+      },
+      {
+        number: "8.4",
+        title: "Short Forms in Quoted Speech: ～と言っていました",
+        id: "section4",
+        content:
+          "8.4 Short Forms in Quoted Speech: ～と言っていました To quote someone, use the short form plus と言っていました (They said ...). Note that the present tense is preserved in the quote." +
+          "ヤスミンさんは、あした試験があると言っていました。Yasmin said that there would be an exam tomorrow. 山下先生は結婚していないと言っていました。Professor Yamashita said that he is not married.",
+      },
+      {
+        number: "8.5",
+        title: "～ないでください",
+        id: "section5",
+        content:
+          "8.5 ～ないでください To request that someone refrains from doing something, use a negative verbal short form plus でください." +
+          "ここで写真を撮らないでください。Please don't take pictures here. verb (short, negative) + でください	Please don't... ないでください often is a better answer than てはいけません to a てもいいですか question." +
+          "A: この部屋に入ってもいいですか。May I enter this room? B: 入らないでください。Please don't. (入 = はい) Compare: 入ってはいけません。(Implies that you are in a position of authority.)",
+      },
+      {
+        number: "8.6",
+        title: "Verb のが好きです/上手です",
+        id: "section6",
+        content:
+          "8.6 Verb のが好きです/上手です A verb short form + の turns a verb into a noun describing an action. For example, you can describe what you like/dislike doing." +
+          "(私は)日本語を勉強するのが好きです。I like studying the Japanese language. 私は部屋を掃除するのがきらいです。I don't like cleaning my room." +
+          "To be good/bad at doing something is ～が上手です (is good at ...) and ～が下手です ロバートさんは料理を作るのが上手です。Robert is good at cooking meals." +
+          "たけしさんは英語を話すのが下手です。Takeshi is not a good speaker of English. person は activity (verb) のが 好き likes doing ... きらい doesn't like doing ... 上手 is good at doing ... 下手 is poor at doing ..." +
+          "It's a common mistake to use the te-form of a verb in such contexts, misled by the association between ～ている and the verb in the -ing form in English. X たけしさんは英語を話してが下手です。",
+      },
+      {
+        number: "8.7",
+        title: "The Subject Particle が",
+        id: "section7",
+        content:
+          "8.7 The Subject Particle が One usage of replacing the particle は with が depends on what is emphasized and what word they're attached to. は, the topic particle, usually emphasizse what comes after, and not what it marks. が, the subject particle, does the opposite. It places emphasis on what comes before it." +
+          "これは大きい犬です。This, IS A BIG DOG. これが大きい犬です。THIS RIGHT HERE, is a big dog. The は emphasize the 大きい犬です, while が is emphasize the これ. [Youtube Video] は and が Particles" +
+          "Question words like だれ and 何 in the subject of a sentence are followed by が instead of は. だれが沖縄に行きましたか。Who went to Okinawa. Compare: X だれは沖縄に行きましたか。" +
+          "In Lesson 2, we learned that a question word that is the subject of a sentence is never followed by the particle は, but always by the particle が. A noun that will provide the answer to such a question is also followed by the particle が. A: どのクラスがおもしろいですか。Which class is (the most) interesting? B: 日本語のクラスがおもしろいです。Japanese class is.",
+      },
+      {
+        number: "8.8",
+        title: "何か and 何も",
+        id: "section8",
+        content:
+          "8.8 何か and 何も The word for something is 何か, and the word for anything in negative sentences is 何も. Some and any in" +
+          "• positive statements: 何か something questions: anything? negative statements: 何も + negative not ... anything" +
+          "When 何か and 何も are used in places where the particles は, が, and を are expeted, they are often used on their own, without the help of particles." +
+          "猫が何か持ってきました。The cat has brought something. 猫は何か食べましたか。Did the cat eat anything? いいえ、猫は何も食べませんでした。No, the cat did not eat anything.",
+      },
     ],
   },
   {
@@ -446,43 +580,65 @@ const lessons = [
         number: "9.1",
         title: "Past Tense Short Forms",
         id: "section1",
-        content: "9.1, Past Tense Short Forms, ",
+        content:
+          "9.1, Past Tense Short Forms, For past tense paradign of short forms, there are three rules to understand: Verbs: Replace the te-form endings て and で with た and だ." +
+          "い-adjectives: Replace the last い with かった. You may also think of this in terms of dropping です from the long form. な-adjectives and nouns: Replace the long form でした ending with だった." +
+          "Negation: ない conjugates as an い-adjective. Therefore, for all categories, you can replace the last ない with なかった. Past, affirmative compare with: Past, negative" +
+          "verbs:	食べた 食べて 読んだ 読んで い-adjectives: かわいかった	かわいい / かわいかったです な-adjectives: 静かだった	静かでした noun + です:	学生だった	学生でした" +
+          "Past, negative 読んなかった	読んない かわいくなかった	かわいくない 静かじゃなかった	静かじゃない 学生じゃなかった	学生じゃない",
       },
       {
         number: "9.2",
         title: "Past Tense Short Forms in Informal Speech",
         id: "section2",
-        content: "9.2, Past Tense Short Forms in Informal Speech",
+        content:
+          "9.2, Past Tense Short Forms in Informal Speech Short form in the past tense can be used in the same way as the present tense forms. Note that the particle か is dropped in informal speech. 今朝、朝ご飯の食べた？ Did you have breakfast this morning?" +
+          "Unlike だ in the present tense, だった is not dropped in informal speech. A: 先週は忙しかった？ Were you busy last week? B: ううん、忙しくなかった。ひまだった。No, I wasn't. I had free time.",
       },
       {
         number: "9.3",
         title: "Past Tense Short Forms in Quoted Speech: ～と思います",
         id: "section3",
-        content: "9.3, Past Tense Short Forms in Quoted Speech: ～と思います",
+        content:
+          "9.3, Past Tense Short Forms in Quoted Speech: ～と思います Like the present tense, you use the short form in the past tense with ～と思います (to omoi masu), which means I think, to report what you think took place in the past." +
+          "A: あ、私のとんかつがない！ Hey, my pork cutlet is gone! B: トムさんが食べたと思います。I think Tom ate it. 去年きょねんの冬ふゆはあまり寒さむくなかったと思おもい。I don't think last winter was very cold. ( = I think last winter was not very cold.)",
       },
       {
         number: "9.4",
         title: "Past Tense Short Forms in Quoted Speech: ～と言っていました",
         id: "section4",
-        content: "Past Tense Short Forms in Quoted Speech: ～と言っていました",
+        content:
+          "Past Tense Short Forms in Quoted Speech: ～と言っていました If you heard somebody utter a sentence in the past tense, you can report it with the short form past tense with ～と言っていました." +
+          "ヤスミンさんは、昼ひるご飯はんを食たべなかったと言っていました。Yasmin said that she didn't have lunch. Japanese does not have the sequence of tense rule, and the tense of the original utterance is preserved when it is reported. If you are quoting somebody who used the present tense, you must also use the present tense inside the quote." +
+          "ヤスミンさんは晩ばんご晩ばん飯はんを食たべていると言っていました。Yasmin said that she was having dinner.",
       },
       {
         number: "9.5",
         title: "Qualifying Nouns with Verbs and Adjectives",
         id: "section5",
-        content: "9.5, Qualifying Nouns with Verbs and Adjectives",
+        content:
+          "9.5, Qualifying Nouns with Verbs and Adjectives Examples of noun modifications. adjectival modification phrase describing a person's attribute な-adjective with a grammatical object verb in the short form" +
+          "e.g. 1.	おもしろい 人ひと	a person who is inteeresting e.g. 2.	髪が長い	人 ひと	a person who has long hair e.g. 3.	おもしろい 人 ひと	a person who is inteeresting e.g. 4.	おもしろい	人 ひと	a person who is interesting ↑	↑ adjectives and verbs used as qualifiers	noun" +
+          "A verb + ている, is frequently used as noun modifiers, describing people on the basis of their current actions and states. A: ゆいさんはどの人ですか？ Which one is Yui?" +
+          "B: あそこで本を読んでいる人です。Yui is the one who is reading a book over there. あそこで写真を撮っている学生はロバートさんです。The student taking pictures over there is Robert.",
       },
       {
         number: "9.6",
         title: "もう～ました and まだ～ていません",
         id: "section6",
-        content: "9.6, もう～ました and まだ～ていません",
+        content:
+          "9.6, もう～ました and まだ～ていません Use affirmative past tense of a verb ～ ました both (i) to talk about an event that happened at a certain time in the past (きのう yesterday), and also (ii) to talk about a past event that still has an effect at present (used with adverbs like もう already)." +
+          "きのう宿題をしました。I did the homework yesterday. もう宿題をしました。I have already done the homework. With the negative, the past is used only to talk about a finished time period like きのう, but ている is used if your intention is to talk about how things stand now (not yet)." +
+          "きのう宿題をしませんでした。I did not do the homework yesterday. もう宿題をしていません。I have not done the homework yet. もう～ました have already ... まだ～ていません have not ... yet",
       },
       {
         number: "9.7",
         title: "Explanation から, Situation",
         id: "section7",
-        content: "9.7, Explanation から, Situation",
+        content:
+          "9.7, Explanation から, Situation から means because when added to a sentence. It can also mean a sort of explanation when combined with more sentences. If you put two sentences into one with から at the end of one of the sentence, the から sentence explains the situation." +
+          "explanation から、situation。situation, because explanation. explanation; therefore, situation. あした試験があるから、今晩勉強します。I will study this evening, beacuse we will have an exam tomorrow. (= We will have an exam tomorrow; therefore, I will study this evening.)" +
+          "寒かったから、出かけませんでした。We didn't go out, because it was cold. (= It was cold; therefore, we didn't go out.)",
       },
     ],
   },
@@ -490,23 +646,121 @@ const lessons = [
     title: "Lesson 10: 冬休みの予定 (Winter Vacations Plans)",
     path: "/lesson10",
     sections: [
-      { number: "10.1", title: "", id: "section1", content: "10.1" },
-      { number: "10.2", title: "", id: "section2", content: "10.2" },
-      { number: "10.3", title: "", id: "section3", content: "10.3" },
-      { number: "10.4", title: "", id: "section4", content: "10.4" },
-      { number: "10.5", title: "", id: "section5", content: "10.5" },
-      { number: "10.6", title: "", id: "section6", content: "10.6" },
-      { number: "10.7", title: "", id: "section7", content: "10.7" },
+      {
+        number: "10.1",
+        title: "Comparison between Two Items",
+        id: "section1",
+        content:
+          "10.1 Comparison between Two Items In Japanese, adjectives do not change form in comparative sentences, meaning there is no alteration as in great/greater. A のほうが	B より (property)。	=	A is more (property) than B" +
+          "中国ちゅうごくのほうが日本より大きいです。China is larger than Japan. If you want to ask a question comparing two items: A と B と どちらのほう / どっちのほうが (property)。= Between A and B, which is more (property)?",
+      },
+      {
+        number: "10.2",
+        title: "Comparison among Three or More Items",
+        id: "section2",
+        content:
+          "10.2 Comparison among Three or More Items In comparing three or more items, the degree qualifier いちばん is used. 一番 (いちばん) = number one; first 中 (なか) = inside; interior[ A と B と C ]	の中なかで A がいちばん (property)。" +
+          "= Between A and B, which is more (property)? A: カナダとフランスと日本の中で、どこがいちばん寒さむいですか? Among Canada, France, and Japan, which country has the coldest climate? B: カナダがいちばん寒いと思おもいます。Canada is the coldest, I think." +
+          "Note that the words のほう and どっち are not used in statements of comparison among three or more items. Normal question words like だれ, どれ, 何なに, いつ, and どこ are used instead.",
+      },
+      {
+        number: "10.3",
+        title: "Adjective/Noun + の",
+        id: "section3",
+        content:
+          "10.3 Adjective/Noun + の When a noun follows an adjective, and it's clear what the context is, you can replace the noun with the indefinite の, one, to avoid repetition. の mostly stands for things, not people." +
+          "私は黒くろいセーターを持もっています。赤あかいの持っています。（の = ケーキ）I have a black sweater. I have a red one, too." +
+          "い-adjective	な-adjective + noun + の You can also use の in the sense of mine, yours, and so forth, referring to things owned by a person, or characterized by a place name." +
+          "A: これはソラさんのかばんですか？ Is this Sora's bag? B:いいえ、それはメアリーさんのかばんです。No, that is Mary's. アメリカの車くるまのほうがに日本の車くるまより大おおきいです。American cars are larger than Japanese ones. noun1 の noun2	→	noun1 の noun2",
+      },
+      {
+        number: "10.4",
+        title: "～つもりだ",
+        id: "section4",
+        content:
+          "10.4 ～つもりだ つもり follows verbs in the present tense short forms to desribe what a person is planning to do in the future. You can also use a verb in the negative plus つもり to describe what you are planning not to do, or what you do not intend to do." +
+          "verb (short, present) + つもりだ	(I) intend to do ... （私は）週末しゅうまつにたけしさんとテニスをするつもりです。I intend to play tennis with Takeshi this weekend. 山下先生はあした大学に来こないつもりです。Professor Yamashita does not intend to come to school tomorrow." +
+          "You can also use the past tense to talk about your original intention. お寺てらを見に行くつもりでしたが、天気てんきがよくなかったから、行きませんでした。We were planning to visit a temple, but we didn't, because the weather was not good.",
+      },
+      {
+        number: "10.5",
+        title: "Adjective + なる",
+        id: "section5",
+        content:
+          "10.5 Adjective + なる The verb なる means to become, indicating a change. なる follows nouns and both types of adjectives. い-adjectives:	暖あたたかい	→	暖かくなる	to become warm/warmer な-adjectives:	静しずか (な)	→	静かになる	to become quiet/quieter" +
+          "nouns:	会社員かいしゃいん	→	会社員になる	to become a company employee 日本語の勉強が楽たのしくなりました。Studying the Japanese language is fun now. With い-adjectives, the final い is dropped and く is added." +
+          "When you use an adjective with なる, you may be describing an absolute change (e.g., it has become warm; it is not cold anymore) or a relative change (e.g., it has become warmer, but it is still cold).Use the pattern for comparison with なる if you want to talk in relative terms." +
+          "メアリーさんは前まえより日本語が上手じょうずになりました。 Mary has become better in Japanese than before.",
+      },
+      {
+        number: "10.6",
+        title: "どこかに / どこにも",
+        id: "section6",
+        content:
+          "10.6 どこかに / どこにも something 何か someone	だれか somewhere	どこか not anything	何も	not anyone	だれも	not anywhere	どこも" +
+          "You do not need the particles は, が, or を with these words. You do need other particles, such as に, へ, and で. A: どこかへいきましたか。Did you go anywhere?" +
+          "B: いいえ、どこへも行きませんでした。No, I didn't go anywhere. A: だれかに会あいましたか。Did you see anybody? B: いいえ、だれもに会あいませんでした。 No, I didn't see anybody." +
+          "A: 何かしましたか。Did you do anything? B: いいえ、何も* しませんでした。No, I didn't do anything. *Note that を was not used.",
+      },
+      {
+        number: "10.7",
+        title: "で",
+        id: "section7",
+        content:
+          "10.7 で Use で with nouns that describe means of transportation and instruments you use." +
+          "はしでご飯はんを食たべます。We eat our meals with chopsticks. 日本語で話はなしましょう。Let's talk in Japanese. バスで駅いえまでいきました。I went to the station by bus." +
+          "テレビで映画えいがを見みました。I saw a movie on TV.",
+      },
     ],
   },
   {
     title: "Lesson 11: 休みのあと (After the Vacation)",
     path: "/lesson11",
     sections: [
-      { number: "11.1", title: "", id: "section1", content: "11.1" },
-      { number: "11.2", title: "", id: "section2", content: "11.2" },
-      { number: "11.3", title: "", id: "section3", content: "11.3" },
-      { number: "11.4", title: "", id: "section4", content: "11.4" },
+      {
+        number: "11.1",
+        title: "～たい",
+        id: "section1",
+        content:
+          "11.1 ～たい Use a verb stem (before ます) + たいです to describe hope or aspiration. 今度こんどの週末しゅうまつは、映画いえがを見たいです。I want to see a film this weekend." +
+          "いつか中国ちゅうごくに行いきたいです。I want to go to China someday. verb stem + たいです	I want to do ... A verb that usually takes the particle を can either have the particle を or が when it is followed by たい. Particles other than を remain the same, like に." +
+          "たい conjugates as an い-adjective. Examples of negative and past tense: あの人ひとには会あいたくないです。I don't want to see that person. お弁当べんとうか買かいたかったから、コンビニに行いきました。I went to a convenience store, because I wanted to buy a boxed lunch." +
+          "If you wanted something for some time, you can use たい思ともっています instead of たいです. 留学りゅうがくしたいと思ともっています。I've wanted to study abroad." +
+          "You do not use たいです to describe wishes held by others. Somebody's else' wants or wishes are usually in quotations, observations, or guesses. If you want to say that somebody other than you wants to do something, use と言いっていました with たい. メアリーさんはチベットに行いきたい言いっていました。Mary said she wanted to go to Tibet." +
+          "To describe your observation that somebody wants to do something, you use a special verb たがっている instead of たい. If a verb takes the particle を, the derived verb がっている will retain を, unlike たい. メアリーさんは着物きものを着きたがっています。(It seems) Mary wants to wear a kimono." +
+          "The verb たがっている, which comes from the dictionary form たがる, indicates I  think that she wants to, because of the way she is behaving. I want to ... / Do you want to ... ?	They want to ..." +
+          "• verb stem + たいです	• verb stem + たがっています • たい conjugates as an い-adjective	• たがる conjugates as an u-verb • が or を for direct object	• を only",
+      },
+      {
+        number: "11.2",
+        title: "～たり～たりする",
+        id: "section2",
+        content:
+          "11.2 ～たり～たりする We know that te-form connects two clauses together: 大阪おおさかで買かい物ものをして、晩ばんご飯はんを食たべます。In Osaka, I will do some shopping and eat dinner." +
+          "However, this only suggests that shopping and inner are the only activities planned and that those two activities will be done in that order. To avoid such implications and only want to mention activities or events as examples, and in no set order, use a special predicate form ～たり～たりする." +
+          "大阪おおさかで買かい物ものをしたり、晩ばんご飯はんを食たべたりします。In Osaka, I will do such things as shopping and eating dinner. verb (short, past) + り、verb (short, past) + り do such things as this and that" +
+          "To get たり form of a predicate (such as したり and 食べたり), add り to the past tense short form of a predicate (した and 食べた). The helping verb する at the end of the sentence indicates the tense of the sentence." +
+          "週末しゅうまつは勉強べんきょうしたり、友だちと話はなしたりしました。I studied and talked with my friends, among other things, over the weekend." +
+          "踊おどったり、音楽おんがくを聞きいたりするのが好きです。I like dancing, listening to music, and so forth.",
+      },
+      {
+        number: "11.3",
+        title: "～ことがある",
+        id: "section3",
+        content:
+          "11.3 ～ことがある The past tense short form of a verb + ことがある describes that you did something, or something happened." +
+          "富ふ富じ山さんに登のぼったことがあります。I have had the experience of climbing Mt. Fuji. たけしさんは授業じゅぎょうを休やすんだことがありません。Takeshi has never been absent from classes (in his life)." +
+          "verb (short, past, affirmative) + ことがある	have the experience of ... If someone asks you a question using ことがありますか, you can reply あります/ありません or repeat the whole verbal complex but not ことがあります without a verb." +
+          "A: ヨーロッパに行いったことがありますか。Have you ever been to Europe? B: はい、行いったことがあります。  はい、あります。( X はい、ことがあります。) Yes, I have.",
+      },
+      {
+        number: "11.4",
+        title: "Noun A や Noun B",
+        id: "section4",
+        content:
+          "11.4 Noun A や Noun B や connects two nouns like と. や suggests that things referred to are proposed as examples, much like たり. Think of や as in etc." +
+          "A や B	A and B, for example 京都きょうとや奈な良らに行いきました。I went to Kyoto and Nara (for example, and may have visited other places as well).",
+      },
     ],
   },
   {
