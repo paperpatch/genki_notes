@@ -759,7 +759,106 @@ function Lesson16() {
       <section id="section5">
         <h3>16.5: ～てすみませんでした</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You use the <i>te</i>-form of a verb to describe the things you have
+            done that you want to apologize for.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                汚<span className="furigana">きたな</span>
+              </span>
+              い
+              <span className="kanji">
+                言<span className="furigana">こと</span>
+              </span>
+              <span className="kanji">
+                葉<span className="furigana">ば</span>
+              </span>
+              を
+              <span className="kanji">
+                使<span className="furigana">つか</span>
+              </span>
+              ってすみませんでした。
+            </p>
+            <p>
+              <i>I'm sorry for using foul language.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              デートの
+              <span className="kanji">
+                約<span className="furigana">やく</span>
+              </span>
+              <span className="kanji">
+                束<span className="furigana">そく</span>
+              </span>
+              を
+              <span className="kanji">
+                忘<span className="furigana">わす</span>
+              </span>
+              れてごめん。
+            </p>
+            <p>
+              <i>Sorry that I stood you up.</i>
+            </p>
+          </div>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>～て　＋</td>
+                <td>すみませんでした (polite)</td>
+                <td rowSpan={2}>
+                  <i>Sorry for doing ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>ごめん　　　　　(casual)</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            When you want to apologize for something you have failed to do, you
+            use ～なくて, the short, negative <i>te</i>-form of a verb. (To
+            derive the form, turn the verb into the short, negative ～ない, and
+            then replace the last い with くて.)
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              宿題<span className="furigana">しゅくだい</span>
+            </span>
+            を
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            ってこなくて済みませんでした。
+            <span className="kanji">
+              早<span className="furigana">はや</span>
+            </span>
+            く
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            わなくてごめん。
+            <br />
+            <i>I'm sorry I did not bring the homework.</i>
+          </p>
+          <p className="tab">
+            もっと
+            <span className="kanji">
+              早<span className="furigana">はや</span>
+            </span>
+            く
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            わなくてごめん。
+            <br />
+            <i>Sorry that I did not tell you earlier.</i>
+          </p>
         </div>
       </section>
     </div>
