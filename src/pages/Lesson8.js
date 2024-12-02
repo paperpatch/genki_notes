@@ -172,7 +172,7 @@ function Lesson8() {
           </table>
           <p>
             Think of the <i>u</i>-verb conjugation as moving up and down in the{" "}
-            <i>hirgana</i> chart.
+            <i>hiragana</i> chart.
           </p>
           <table className="table-boxes">
             <tbody>

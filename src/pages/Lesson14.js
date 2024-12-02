@@ -453,7 +453,7 @@ function Lesson14() {
             </span>
             います。
             <span style={{ paddingLeft: "2em" }}>
-              &lt;{" "}
+              ＜{" "}
               <span className="kanji">
                 習<span className="furigana">なら</span>
               </span>
@@ -471,7 +471,7 @@ function Lesson14() {
               達<span className="furigana">だち</span>
             </span>
             を<span className="underline-green">ほしがって</span>います。
-            <span style={{ paddingLeft: "2em" }}>&lt; ほしい</span>
+            <span style={{ paddingLeft: "2em" }}>＜ ほしい</span>
             <br />
             <i>(I understand that) Carlos wants a friend.</i>
           </p>

@@ -192,6 +192,8 @@ function Lesson12() {
             <i>
               Why did you break up with your boyfriend? (You've got to tell me.)
             </i>
+          </p>
+          <p className="tab">
             B:{" "}
             <span className="kanji">
               彼<span className="furigana">かれ</span>
@@ -218,6 +220,8 @@ function Lesson12() {
             A: どうした<span className="underline-orange">んですか</span>。
             <br />
             <i>What happened? (You look shattered.)</i>
+          </p>
+          <p className="tab">
             B: うちの
             <span className="kanji">
               猫<span className="furigana">ねこ</span>

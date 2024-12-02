@@ -323,7 +323,7 @@ function Lesson13() {
                 <td>げ</td>
                 <td>べ</td>
                 <td>え</td>
-                <td>～ る</td>
+                <td>～る</td>
               </tr>
             </tbody>
           </table>
@@ -907,7 +907,7 @@ function Lesson13() {
         <div className="indent">
           <p>
             We add そうで to い- and な-adjective bases to say that
-            something"seemingly" has those properties. We are guessing what
+            something" seemingly" has those properties. We are guessing what
             something is like on the basis of our impressions.
           </p>
           <div className="tab table-double-column">
@@ -1131,7 +1131,7 @@ function Lesson13() {
             <i>Have you ever been to Brazil?</i>
           </p>
           <p className="tab">
-            チリ<span className="underline-green">なら</span>
+            B: チリ<span className="underline-green">なら</span>
             <span className="kanji">
               行<span className="furigana">い</span>
             </span>
@@ -1148,7 +1148,7 @@ function Lesson13() {
           </p>
           <p>Example 2:</p>
           <p className="tab">
-            日本語が
+            A: 日本語が
             <span className="kanji">
               読<span className="furigana">よ</span>
             </span>
@@ -1157,13 +1157,13 @@ function Lesson13() {
             <i>Can you read Japanese?</i>
           </p>
           <p className="tab">
-            ひらがな<span className="underline-green">なら</span>
+            B: ひらがな<span className="underline-green">なら</span>
             <span className="kanji">
               読<span className="furigana">よ</span>
             </span>
             めます。
             <br />
-            <i>If it is (written) in hirgana, yes.</i>
+            <i>If it is (written) in hiragana, yes.</i>
           </p>
           <p>
             なら introduces a sentence that says something "positive" about the
