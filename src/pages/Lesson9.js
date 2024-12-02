@@ -237,7 +237,7 @@ function Lesson9() {
             <span className="kanji">
               食<span className="furigana">た</span>
             </span>
-            べなかったと言っていました。。
+            べなかったと言っていました。
             <br />
             <i>Yasmin said that she didn't have lunch.</i>
           </p>
@@ -264,7 +264,7 @@ function Lesson9() {
               食<span className="furigana">た</span>
             </span>
             べて
-            <span className="underline-orange">いる</span>と言っていました。。
+            <span className="underline-orange">いる</span>と言っていました。
             <br />
             <i>
               Yasmin said that she <span className="underline-orange">was</span>{" "}

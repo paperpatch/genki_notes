@@ -234,7 +234,7 @@ function Lesson11() {
             <span className="kanji">
               食<span className="furigana">た</span>
             </span>
-            べます 。
+            べます。
             <br />
             <i>In Osaka, I will do some shopping and eat dinner.</i>
           </p>

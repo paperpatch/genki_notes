@@ -313,7 +313,7 @@ function Lesson8() {
               Student: はい、わかります。
               <br />
               <span style={{ marginRight: "50px" }}></span>(
-              <span className="text-red">X </span>うん、わかる。)
+              <span className="text-red"> X </span>うん、わかる。)
               <br />
             </p>
             <p>
@@ -457,7 +457,7 @@ function Lesson8() {
             <i>May I enter this room?</i>
           </p>
           <p className="tab">
-            B: 入らないでください。。
+            B: 入らないでください。
             <br />
             <i>Please don't. (入 = はい)</i>
           </p>
@@ -491,7 +491,7 @@ function Lesson8() {
             <i>I don't like cleaning my room.</i>
           </p>
           <p>
-            "To be good/abd at doing something" is ～が上手です (is good at ...)
+            "To be good/bad at doing something" is ～が上手です (is good at ...)
             and ～が下手です"
           </p>
           <p className="tab">
