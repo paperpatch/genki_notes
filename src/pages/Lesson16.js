@@ -713,7 +713,46 @@ function Lesson16() {
       <section id="section4">
         <h3>16.4: ～時</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            We use the word{" "}
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>{" "}
+            to describe <i>when</i> something happens or happened.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="underline-green">
+                    sentence A　
+                    <span className="kanji">
+                      時<span className="furigana">とき</span>
+                    </span>
+                  </span>
+                  、
+                </td>
+                <td>
+                  <span className="underline-green">sentence B</span>。
+                </td>
+                <td>
+                  <i>When A, B</i>
+                </td>
+              </tr>
+              <tr>
+                <td style={{ textAlign: "center", padding: 0 }}>↑</td>
+                <td style={{ textAlign: "center", padding: 0 }}>↑</td>
+              </tr>
+              <tr>
+                <td style={{ textAlign: "center" }}>
+                  <span className="text-green">time reference</span>
+                </td>
+                <td style={{ textAlign: "center" }}>
+                  <span className="text-green">main event</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
