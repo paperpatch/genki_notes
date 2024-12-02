@@ -580,7 +580,7 @@ function Lesson16() {
       </section>
 
       <section id="section3">
-        <h3>16.3: といい</h3>
+        <h3>16.3: ～といい</h3>
         <div className="indent">
           <p>
             You can use the present tense short form + といいですね (polite) or
@@ -588,70 +588,82 @@ function Lesson16() {
             you say といいですね or といいね, you are wishing for the good luck
             of somebody other than yourself.
           </p>
-          <p className="tab">
-            いいアルバイトが
-            <span className="kanji">
-              見<span className="furigana">み</span>
-            </span>
-            つかるといいですね。
-            <br />
-            <i>I hope you find a good part-time job.</i>
-          </p>
-          <p className="tab">
-            <span className="kanji">
-              雨<span className="furigana">あめ</span>
-            </span>
-            が
-            <span className="kanji">
-              降<span className="furigana">ふ</span>
-            </span>
-            らないといいね。
-            <br />
-            <i>I hope it doesn't rain.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>
+              いいアルバイトが
+              <span className="kanji">
+                見<span className="furigana">み</span>
+              </span>
+              つかるといいですね。
+            </p>
+            <p>
+              <i>I hope you find a good part-time job.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                雨<span className="furigana">あめ</span>
+              </span>
+              が
+              <span className="kanji">
+                降<span className="furigana">ふ</span>
+              </span>
+              らないといいね。
+            </p>
+            <p>
+              <i>I hope it doesn't rain.</i>
+            </p>
+          </div>
           <p>
             To say what you hope for, for your own good, you can use
             といいんですが (polite) or といいんだけど (casual). These endings
             show the speaker's attitude is more tentative and make the sentence
             sound more modest.
           </p>
-          <p className="tab">
-            <span className="kanji">
-              試<span className="furigana">し</span>
-            </span>
-            <span className="kanji">
-              験<span className="furigana">けん</span>
-            </span>
-            が
-            <span className="kanji">
-              易<span className="furigana">やさ</span>
-            </span>
-            しいといいんですが。
-            <br />
-            <i>I am hoping that the exam is easy.</i>
-          </p>
-          <p className="tab">
-            <span className="kanji">
-              八<span className="furigana">はち</span>
-            </span>
-            <span className="kanji">
-              時<span className="furigana">じ</span>
-            </span>
-            の
-            <span className="kanji">
-              電<span className="furigana">でん</span>
-            </span>
-            <span className="kanji">
-              車<span className="furigana">しゃ</span>
-            </span>
-            に
-            <span className="kanji">
-              乗<span className="furigana">の</span>
-            </span>
-            れるといいんだけど。
-            <br />
-            <i>I hope I can catch the eight o'clock train.</i>
-          </p>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                試<span className="furigana">し</span>
+              </span>
+              <span className="kanji">
+                験<span className="furigana">けん</span>
+              </span>
+              が
+              <span className="kanji">
+                易<span className="furigana">やさ</span>
+              </span>
+              しいといいんですが。
+            </p>
+            <p>
+              <i>I am hoping that the exam is easy.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                八<span className="furigana">はち</span>
+              </span>
+              <span className="kanji">
+                時<span className="furigana">じ</span>
+              </span>
+              の
+              <span className="kanji">
+                電<span className="furigana">でん</span>
+              </span>
+              <span className="kanji">
+                車<span className="furigana">しゃ</span>
+              </span>
+              に
+              <span className="kanji">
+                乗<span className="furigana">の</span>
+              </span>
+              れるといいんだけど。
+            </p>
+            <p>
+              <i>I hope I can catch the eight o'clock train.</i>
+            </p>
+          </div>
           <table className="table-list table-mini table-border-green">
             <tbody>
               <tr>
