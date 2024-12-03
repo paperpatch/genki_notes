@@ -447,7 +447,7 @@ function Lesson16() {
             <i>A relative sent me apples. (I should be so lucky.)</i>
           </p>
           <p>
-            We use hte <i>te</i>-form + もらう to say that we get, persuade, or
+            We use the <i>te</i>-form + もらう to say that we get, persuade, or
             arrange for, somebody to do something for us. In other words, we
             "receive" somebody's favor. The person performing the action for us
             is accompanied by the particle に.
