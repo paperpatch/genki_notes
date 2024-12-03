@@ -1005,7 +1005,12 @@ const lessons = [
         number: "15.4",
         title: "Using Sentences to Qualify Nouns",
         id: "section4",
-        content: "15.4 Using Sentences to Qualify Nouns",
+        content:
+          "15.4 Using Sentences to Qualify Nouns In the phrase おもしろい qualifies the noun 本ほん and tells us what kind of book it is. You can also use sentences to qualify nouns. Examples of sentences that use qualifiers of nouns:" +
+          "1.	昨日買った	本	the book that I bought yesterday 2.	彼かれがくれた	本	the book my boyfriend gave me 3.	つくえの上うえにある	本	the book that is on the table 4.	日本で買えない	本	the book that you can't buy in Japan" +
+          "Qualifier sentences shows what kind of book we are talking aboutm just like adjectives. A qualifier sentence + noun combination is just like one big noun phrase. You can put it anywhere in a sentence that has a noun. これは去年きょねんの誕生たんじょう日びに彼かの女じょがくれた本ほんです。(cf. これは本ほんです。) This is a book that my girlfriend gave me on my birthday last year." +
+          "父ちちが村むら上かみ春はる樹きが書かいた本ほんをくれました。(cf. 父ちちが本ほんをくれました。) My father gave me a book that Haruki Murakami wrote." +
+          "私わたしが一いち番ばん感かん動どうした映えい画がは「生いきる」です。(cf. 映えい画がは「生いきる」です。) The movie I was touched by the most is To Live, a 1952 film directed by Akira Kurosawa.",
       },
     ],
   },
@@ -1013,19 +1018,86 @@ const lessons = [
     title: "Lesson 16: Lost and Found",
     path: "/lesson16",
     sections: [
-      { number: "16.1", title: "", id: "section1", content: "16.1" },
-      { number: "16.2", title: "", id: "section2", content: "16.2" },
-      { number: "16.3", title: "", id: "section3", content: "16.3" },
-      { number: "16.4", title: "", id: "section4", content: "16.4" },
-      { number: "16.5", title: "", id: "section5", content: "16.5" },
-      { number: "16.6", title: "", id: "section6", content: "16.6" },
+      {
+        number: "16.1",
+        title: "～てあげる / てくれる / てもらう",
+        id: "section1",
+        content:
+          "16.1 ～てあげる / てくれる / てもらう Lesson 14 has the verbs あげる, くれる, and もらう describe transactions of things. In this lesson, these verbs can also be used as helping verbs. When these verbs follow the te-form of a verb, they describe the giving and receiving of services." +
+          "We use the te-form + あげる when we do something for the sake of others, or somebody does something for somebody else. The addition of the helping verb あげる does not change the basic meaning of the sentences, but puts focus on the fact that the actions were performed on demand or as a favor." +
+          "私わたしは妹いもうとにお金かねを貸かしてあげました。I (generously) lent my sister money (to help her out of her destitute conditions). c.f. 私わたしは妹いもうとにお金かねを貸かしました。[an objective statement]" +
+          "ななみさんはヤスミンさんを駅えきに連つれて行ってあげました。Nanami (kindly) took Yasmin to the station (because she would be lost if left all by herself). c.f. ななみさんはヤスミンさんを駅えきに連つれて行きました。[an objective statement]" +
+          "We use くれる when somebody does something for us. 友ともだちが宿題しゅくだいを手て伝つだってくれます。A friend helps me with my homework (for which I am grateful). 親戚しんせきがリンゴを送おくってくれました。A relative sent me apples. (I should be so lucky.)" +
+          "We use the te-form + もらう to say that we get, persuade, or arrange for, somebody to do something for us. In other words, we receive somebody's favor. The person performing the action for us is accompanied by the particle に." +
+          "私わたしは友ともだちに宿題しゅくだいを手て伝つだってもらいました。I got a friend of mine to help me with my homework." +
+          "Compare the last sentence with the くれる version below. They describe more or less the same event, but the subjects are different. In もらう sentences, the subject is the beneficiary. In くれる sentences, the subject is the benefactor." +
+          "友ともだちが宿題しゅくだいを手て伝つだってくれました。A friend of mine helped me with my homework.",
+      },
+      {
+        number: "16.2",
+        title: "～ていただけませんか",
+        id: "section2",
+        content:
+          "16.2 ～ていただけませんか Here are three ways to make a request. They differ in degrees of politeness shown to the person you are asking. ～て + いただけませんか	(polite) くれませんか くれない？	(casual)" +
+          "We use the te-form of a verb + いただけませんか to make a polite request. This is more appropriate than ください when you request a favor from a nonpeer such as your professor or your boss or from a stranger. 手て伝つだっていただけませんか。Would you lend me a hand?" +
+          "The te-form + くれませんか is a request which is roughly equal in the degree of politeness to ください. くれませんか comes from the verb くれる. This is probably the form most appropriate in the host-family context. ちょっと待まってくれませんか。Will you wait for a second?" +
+          "You can use the te-form + くれない, or the te-form by itself, to ask for a favor in a very casual way. This is good for speaking with members of your peer group. それ取とってくれない？ or それ取とって。Pick that thing up (and pass it to me), will you?",
+      },
+      {
+        number: "16.3",
+        title: "～といい",
+        id: "section3",
+        content:
+          "16.3 ～といい You can use the present tense short form + といいですね (polite) or といいね (casual) to say that you hope something nice happens. When you say といいですね or といいね, you are wishing for the good luck of somebody other than yourself." +
+          "いいアルバイトが見みつかるといいですね。I hope you find a good part-time job. 雨あめが降ふらないといいね。I hope it doesn't rain." +
+          "To say what you hope for, for your own good, you can use といいんですが (polite) or といいんだけど (casual). These endings show the speaker's attitude is more tentative and make the sentence sound more modest." +
+          "試し験けんが易やさしいといいんですが。I am hoping that the exam is easy. 八はち時じの電でん車しゃに乗のれるといいんだけど。I hope I can catch the eight o'clock train." +
+          "(short, present) と + いいですね / いいね I hope ... (for you/them) いいんですが / いいんだけど	I hope ... (for myself)" +
+          "Note that all these といい sentences mean that you are hoping that something nice happens. This means that these patterns cannot be used in cases where you hope to do something nice, which is under your control. In such cases, you can usually turn the verb into the potential form." +
+          "大だい学がくに行いけるといいんですが。Compare: X 大だい学がくに行いくといいんですが。I am hoping to go to college. = I am hoping that I can go to college.",
+      },
+      {
+        number: "16.4",
+        title: "～時",
+        id: "section4",
+        content:
+          "16.4 ～時 We use the word 時とき to describe when something happens or happened. sentence A　時とき、	sentence B。	When A, B time reference	main event ↑" +
+          "In the present tense of a verb, the verb is either at the same time as the main event or before it. 行いく時とき、ピザを食たべます。When I go, I eat pizza. 行いく時とき、ピザを食たべました。When I was going, I ate pizza." +
+          "悲かなしい時とき、ピザを食たべます。When I'm sad, I eat pizza. 元げん気きな時とき、ピザを食たべます。When I'm energetic, I eat pizza. 病気びょうきな時とき、ピザを食たべます。When I'm sick, I eat pizza." +
+          "When the verb is in the past tense, the main event happens after, or in the future. 行いった時とき、ピザを食たべます。When I've gone, I will eat pizza. 行いった時とき、ピザを食たべました。When I went (was already there), I ate pizza." +
+          "悲かなしかった時とき、ピザを食たべました。When I was sad, I ate pizza. 元げん気きだった時とき、ピザを食たべました。When I was energetic, I ate pizza. 病気びょうきだった時とき、ピザを食たべました。When I was sick, I ate pizza." +
+          "When something happens during an event, you can use te-iru form. ピザを食たべている時とき、幸しあわせだ。When I'm eating pizza, life is good.",
+      },
+      {
+        number: "16.5",
+        title: "～てすみませんでした",
+        id: "section5",
+        content:
+          "16.5 ～てすみませんでした You use the te-form of a verb to describe the things you have done that you want to apologize for." +
+          "汚きたない言こと葉ばを使つかってすみませんでした。I'm sorry for using foul language. デートの約やく束そくを忘わすれてごめん。Sorry that I stood you up. ～て　＋ すみませんでした (polite)	ごめん (casual) Sorry for doing ..." +
+          "When you want to apologize for something you have failed to do, you use ～なくて, the short, negative te-form of a verb. (To derive the form, turn the verb into the short, negative ～ない, and then replace the last い with くて.)" +
+          "宿題しゅくだいを持もってこなくて済みませんでした。早はやく言いわなくてごめん。I'm sorry I did not bring the homework. もっと早はやく言いわなくてごめん。Sorry that I did not tell you earlier.",
+      },
     ],
   },
   {
     title: "Lesson 17: Grumble and Gossip",
     path: "/lesson17",
     sections: [
-      { number: "17.1", title: "", id: "section1", content: "17.1" },
+      {
+        number: "17.1",
+        title: "～そうです (I hear)",
+        id: "section1",
+        content:
+          "17.1 ～そうです (I hear) table そうです means seemingly. It can also mean a hearsay report. The two そうです differ in semantics and forms of the predicates they are attached to. You can add そうです of a report to a sentence ending in the short form." +
+          "If you heard someone say:		You can report it as: 「日に本ほん語ごの授業じゅぎょうは楽たのしいです。」Our Japanese class is fun.	→	日に本ほん語ごの授業じゅぎょうは楽たのしいそうです。I've heard that their Japanese class is fun." +
+          "「先せん生せいはとても親しん切せつです。」Our professor is very kind.	→	先せん生せいはとても親しん切せつだそうです。I've heard that their professor is very kind." +
+          "「今日きょうは授業じゅぎょうがありませんでした。」We did not have a class today.	→	その日ひは授業じゅぎょうがなかったそうです。I've heard that they didn't have a class that day." +
+          "When we use そうです, the reported speech retains the tense and the polarity of the original utterance. We turn the predicates into their short forms. (Thus です after a な-adjective or a noun changes to だ, while です after an い-adjective is left out.) Compare the paradigms of the two そうです." +
+          "～そうです I hear that ...	It looks like ... • verbs:	話はなす	→	話はなすそうです • い-adjectives:	さびしい	→	さびしいそうです	さびしそうです • な-adjectives:	好すきだ	→	好すきだそうです	好すきそうです • noun + です:	学がく生せいだ	→	学がく生せいだそうです" +
+          "To specify the information source, you can preface a sentence with the phrase ～によると, as in トムさんによると (according to Tom), 新聞しんぶんによると (according to the newspaper report), and 天てん気き予よ報ぼうによると (according to the weather forecast)." +
+          "天てん気き予よ報ぼうによると、台たい風ふうが来くるそうです。According to the weather forecast, a typhoon is approaching.",
+      },
       { number: "17.2", title: "", id: "section2", content: "17.2" },
       { number: "17.3", title: "", id: "section3", content: "17.3" },
       { number: "17.4", title: "", id: "section4", content: "17.4" },
