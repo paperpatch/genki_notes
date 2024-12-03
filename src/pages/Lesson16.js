@@ -765,6 +765,200 @@ function Lesson16() {
               </tr>
             </tbody>
           </table>
+          <p>
+            In the present tense of a verb, the verb is either at the same time
+            as the main event or before it.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            く
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ます</span>。
+            <br />
+            <i>When I go, I eat pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            く
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ました</span>。
+            <br />
+            <i>When I was going, I ate pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              悲<span className="furigana">かな</span>
+            </span>
+            しい
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ます</span>。
+            <br />
+            <i>When I'm sad, I eat pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              元<span className="furigana">げん</span>
+            </span>
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            な
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ます</span>。
+            <br />
+            <i>When I'm energetic, I eat pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              病気<span className="furigana">びょうき</span>
+            </span>
+            な
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ます</span>。
+            <br />
+            <i>When I'm sick, I eat pizza.</i>
+          </p>
+          <p>
+            When the verb is in the past tense, the main event happens after, or
+            in the future.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            <span className="underline-green">った</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ます</span>。
+            <br />
+            <i>When I've gone, I will eat pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            <span className="underline-green">った</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ました</span>。
+            <br />
+            <i>When I went (was already there), I ate pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              悲<span className="furigana">かな</span>
+            </span>
+            し<span className="underline-green">かった</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ました</span>。
+            <br />
+            <i>When I was sad, I ate pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              元<span className="furigana">げん</span>
+            </span>
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            <span className="underline-green">だった</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ました</span>。
+            <br />
+            <i>When I was energetic, I ate pizza.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              病気<span className="furigana">びょうき</span>
+            </span>
+            <span className="underline-green">だった</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ました</span>。
+            <br />
+            <i>When I was sick, I ate pizza.</i>
+          </p>
+          <p>
+            When something happens during an event, you can use te-iru form.
+          </p>
+          <p className="tab">
+            ピザを
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ<span className="underline-green">ている</span>
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、
+            <span className="kanji">
+              幸<span className="furigana">しあわ</span>
+            </span>
+            せだ。
+            <br />
+            <i>When I'm eating pizza, life is good.</i>
+          </p>
         </div>
       </section>
 
