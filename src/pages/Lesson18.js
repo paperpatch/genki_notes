@@ -303,7 +303,147 @@ function Lesson18() {
       <section id="section2">
         <h3>18.2: Paired Intransitive Verbs + ている</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Transitive verbs describe activities, while instransitive verbs
+            decribe changes. They behave differently when they are followed by
+            the helping verb ている. Activity verbs + ている refers to action in
+            progress, while change verbs + ている refer to the states resulting
+            from the change.
+          </p>
+          <p className="tab">
+            ソラさんは
+            <span className="kanji">
+              今<span className="furigana">いま</span>
+            </span>
+            、
+            <span className="kanji">
+              友<span className="furigana">とも</span>
+            </span>
+            だちと
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            しています。　(activity, action in progress)
+            <br />
+            <i>Sora is talking with a friend right now.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              山<span className="furigana">やま</span>
+            </span>
+            <span className="kanji">
+              下<span className="furigana">した</span>
+            </span>
+            <span className="kanji">
+              先<span className="furigana">せん</span>
+            </span>
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            は
+            <span className="kanji">
+              結<span className="furigana">けっ</span>
+            </span>
+            <span className="kanji">
+              婚<span className="furigana">こん</span>
+            </span>
+            しています。　(change, result state)
+            <br />
+            <i>Professor Yamashita is married.</i>
+          </p>
+          <p>
+            Similarly, when followed by ている, transitive verbs refer to
+            actions in progress, while intransitive verbs refer to states that
+            hold true after the change takes place.
+          </p>
+          <div className="tab table-double-column">
+            <p>Transitive (action in progress):</p>
+            <p>Intransitive (result of a change):</p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              ウデイさん
+              <span className="kanji">
+                窓<span className="furigana">まど</span>
+              </span>
+              を
+              <span className="kanji">
+                開<span className="furigana">け</span>
+              </span>
+              けています。
+              <br />
+              <i>Uday is opening the windows.</i>
+            </p>
+            <p>
+              <span className="kanji">
+                窓<span className="furigana">まど</span>
+              </span>
+              を
+              <span className="kanji">
+                開<span className="furigana">け</span>
+              </span>
+              いています。
+              <br />
+              <i>The windows are open.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              ともさんは
+              <span className="kanji">
+                電<span className="furigana">でん</span>
+              </span>
+              <span className="kanji">
+                気<span className="furigana">き</span>
+              </span>
+              を
+              <span className="kanji">
+                消<span className="furigana">き</span>
+              </span>
+              しています。
+              <br />
+              <i>Tomo is turning the light off.</i>
+            </p>
+            <p>
+              <span className="kanji">
+                電<span className="furigana">でん</span>
+              </span>
+              <span className="kanji">
+                気<span className="furigana">き</span>
+              </span>
+              は
+              <span className="kanji">
+                消<span className="furigana">き</span>
+              </span>
+              えています。
+              <br />
+              <i>The light is off.</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              ゴジラが
+              <span className="kanji">
+                町<span className="furigana">まち</span>
+              </span>
+              を
+              <span className="kanji">
+                壊<span className="furigana">こわ</span>
+              </span>
+              しています。
+              <br />
+              <i>Godzilla is destroying the city.</i>
+            </p>
+            <p>
+              このパソコンは
+              <span className="kanji">
+                壊<span className="furigana">こわ</span>
+              </span>
+              れています。
+              <br />
+              <i>This computer is broken.</i>
+            </p>
+          </div>
         </div>
       </section>
 
