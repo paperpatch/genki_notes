@@ -450,7 +450,25 @@ function Lesson18() {
       <section id="section3">
         <h3>18.3: ～てしもう</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The <i>te</i>-form of a verb + しまう has two meanings. In the first
+            instance, しまう indicates that one "carries out with determination"
+            a plan described by the verb. It typically involves bringing
+            something to a culmination. You, in other words, do something
+            completely, or finish doing something, or have something done.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            を
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            んでしまいました。
+            <br />
+            <i>I read the book completely. / I finished reading the book.</i>
+          </p>
         </div>
       </section>
 
