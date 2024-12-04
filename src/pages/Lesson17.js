@@ -390,7 +390,358 @@ function Lesson17() {
       <section id="section3">
         <h3>17.3: ～たら</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            たら is one of the several words in Japanese that refers to
+            conditional (<i>if</i>) dependence. When we say "A たら B", we mean
+            that the event, action, or situation in B is realized if and when
+            the condition in A is met.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            ったら、
+            <span className="kanji">
+              着<span className="furigana">き</span>
+            </span>
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            を
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            います。
+            <br />
+            <i>I will buy kimono if and when I go to Japan.</i>
+          </p>
+          <p>
+            The initial た in たら comes from the short form past tense endings
+            of predicates.
+          </p>
+          <table className="table-list table-border-green">
+            <thead>
+              <tr>
+                <th colSpan={3} className="table-header text-green">
+                  ～たら
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td></td>
+                <td>short form (aff.)</td>
+                <td></td>
+                <td>～たら (if...)</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>short form (neg.)</td>
+              </tr>
+              <tr>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-green"></div>
+                </td>
+              </tr>
+              <tr>
+                <td>• verbs:</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  む
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  んだら
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  まない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  まなかったら
+                </td>
+              </tr>
+              <tr>
+                <td>• い-adjectives:</td>
+                <td>やさしい</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>やさしかったら</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>やさしくない</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>やさしくなかったら</td>
+              </tr>
+              <tr>
+                <td>• な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かだ
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かだったら
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃなかったら
+                </td>
+              </tr>
+              <tr>
+                <td>• noun + です:</td>
+                <td>
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みだ
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みだったら
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みじゃない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みじゃなかったら
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Sometimes, the clause before たら describes a <i>possible</i>{" "}
+            condition and the clause after it the consequence which <i>then</i>{" "}
+            follows. Whether or not the condition is actually met is largely an
+            open issue with this set of sentences.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              山<span className="furigana">やま</span>
+            </span>
+            <span className="kanji">
+              下<span className="furigana">した</span>
+            </span>
+            <span className="kanji">
+              先<span className="furigana">せん</span>
+            </span>
+            <span className="kanji">
+              生<span className="furigana">せい</span>
+            </span>
+            に
+            <span className="kanji">
+              会<span className="furigana">あ</span>
+            </span>
+            ったら、そのことを
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            こうと
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います。
+            <br />
+            <i>I will ask about it, if I see Professor Yamashita.</i>
+          </p>
+
+          <p className="tab">
+            日本
+            <span className="kanji">
+              人<span className="furigana">じん</span>
+            </span>
+            だったら、この
+            <span className="kanji">
+              言<span className="furigana">こと</span>
+            </span>
+            <span className="kanji">
+              葉<span className="furigana">ば</span>
+            </span>
+            を
+            <span className="kanji">
+              知<span className="furigana">し</span>
+            </span>
+            っているでしょう。
+            <br />
+            <i>
+              If somebody is a Japanese person, then they will probably know
+              this word.
+            </i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              天気<span className="furigana">てんき</span>
+            </span>
+            がよくなかったら、キャンプに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きません。
+            <br />
+            <i>We will not go camping, if the weather is not good.</i>
+          </p>
+          <p>
+            When you say "A たら B", you cannot express a sequence of events in
+            which B occurs before A. B can only take place at the time A comes
+            true or later. You cannot use たら to describe an "if" sentence like
+            the following. ("B" = this weekend, which comes before "A" = next
+            week.)
+          </p>
+          <p className="tab">
+            <span className="text-red">X</span>{" "}
+            <span className="kanji">
+              来週<span className="furigana">らいしゅう</span>
+            </span>
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があったら、
+            <span className="kanji">
+              今度<span className="furigana">こんど</span>
+            </span>
+            の
+            <span className="kanji">
+              週末<span className="furigana">しゅうまつ</span>
+            </span>
+            は
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            したほうがいいですよ。
+            <br />
+            <i>
+              It will be better for you to study this weekend, if you have an
+              exam next week.
+            </i>
+          </p>
+          <p>
+            Sometimes, the たら clause describes a very <i>probably</i>{" "}
+            condition, and the second clause describes the event that will take
+            place <i>as soon as</i> the situation is realized. With this type of
+            sentence, たら arranges future events and activities in a temporal
+            sequence.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              宿題<span className="furigana">しゅくだい</span>
+            </span>
+            が
+            <span className="kanji">
+              終<span className="furigana">お</span>
+            </span>
+            わったら、
+            <span className="kanji">
+              遊<span className="furigana">あそ</span>
+            </span>
+            びに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きましょう。
+            <br />
+            <i>
+              Let's go out and have some fun once we are done with the homework.
+            </i>
+          </p>
+          <p>
+            Note that the sentences could be interpreted in different ways. The
+            difference lies not in the sentences themselves, but in context. For
+            example, if you think that you can finish your homework in due
+            course, the sentence means that you want to go out <i>when</i> it is
+            done. If you are not sure whether you can finish your homework, the
+            sentence describes what you will do <i>if</i> it gets finished.
+          </p>
+          <p>
+            Finally, the たら clause describes a condition that is unreal and
+            contrary to fact. You can express a purely hypothetical condition
+            and its probably result.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            が
+            <span className="kanji">
+              猫<span className="furigana">ねこ</span>
+            </span>
+            がったら、
+            <span className="kanji">
+              一日中寝<span className="furigana">いちにちじゅうね</span>
+            </span>
+            ているでしょう。
+            <br />
+            <i>If I were a cat, I would be asleep all day long.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              百万円<span className="furigana">ひゃくまんえん</span>
+            </span>
+            あったら、
+            <span className="kanji">
+              車<span className="furigana">くるま</span>
+            </span>
+            を
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            うんですけど。
+            <br />
+            <i>If I had a million yen, I would buy a car.</i>
+          </p>
         </div>
       </section>
 
