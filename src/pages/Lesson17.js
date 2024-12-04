@@ -872,7 +872,100 @@ function Lesson17() {
       <section id="section6">
         <h3>17.6: ～前に / ～てから</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use the present tense short form and{" "}
+            <span className="kanji">
+              前<span className="furigana">まえ</span>
+            </span>
+            に to describe the event <i>before</i> which something happens.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb A (short, present) + 前に　verb B</td>
+                <td>
+                  <i>B before A.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            ジーンズを
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            う
+            <span className="kanji">
+              前<span className="furigana">まえ</span>
+            </span>
+            に、はいてみます。
+            <br />
+            <i>I try on jeans before I buy them.</i>
+          </p>
+          <p>
+            日本に
+            <span className="kanji">
+              来<span className="furigana">く</span>
+            </span>
+            る
+            <span className="kanji">
+              前<span className="furigana">まえ</span>
+            </span>
+            に、
+            <span className="kanji">
+              一学<span className="furigana">いちがっ</span>
+            </span>
+            <span className="kanji">
+              期<span className="furigana">き</span>
+            </span>
+            日本語を勉強しました。
+            <br />
+            <i>I studied Japanese for one semester before I came to Japan.</i>
+          </p>
+          <p>
+            The verb that precedes 前に、is always in the present tense. To
+            describe an event after which another thing happens, use the{" "}
+            <i>te</i>-form of a verb + から.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb A + てから　verb B</td>
+                <td>
+                  <i>A, and then B. / B after A.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            <span className="kanji">
+              勉強<span className="furigana">べんきょうく</span>
+            </span>
+            してから、
+            <span className="kanji">
+              遊<span className="furigana">あそ</span>
+            </span>
+            びに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きました。
+            <br />
+            <i>I studied and then went out.</i>
+          </p>
+          <p>
+            健さんが
+            <span className="kanji">
+              来<span className="furigana">き</span>
+            </span>
+            てから、
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べましょう。
+            <br />
+            <i>Why don't we (start) eat(ing) after Ken has arrived?</i>
+          </p>
         </div>
       </section>
     </div>
