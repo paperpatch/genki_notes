@@ -792,7 +792,80 @@ function Lesson17() {
       <section id="section5">
         <h3>17.5: ～みたいです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            みたいです follows a noun and expresses the idea that something or
+            somebody <i>resembles</i> the thing or person described by the noun.
+            The resemblance is usually noted in terms of external
+            characteristics.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            の
+            <span className="kanji">
+              父<span className="furigana">ちち</span>
+            </span>
+            はカーネルおじさんみたいです。
+            <br />
+            <i>My dad looks/acts like Colonel Sanders, the KFC founder.</i>
+            <br />
+            (Has a portly figure? Has a white goatee? Stands on the street
+            24/7?)
+          </p>
+          <p>
+            みたいです can also follow a verb and expresses the idea that
+            something "appears to be the case". It can follow the short form of
+            the present tense and the past tense, both in the affirmative and in
+            the negative.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              雨<span className="furigana">あめ</span>
+            </span>
+            が
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            ったみたいですね。
+            <br />
+            <i>It looks like it has rained, doesn't it?</i>
+          </p>
+          <p className="tab">
+            あの
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            はおなかがすいているみたいです。
+            <br />
+            <i>It looks like that person is hungry.</i>
+          </p>
+          <p className="tab">
+            あの
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            はきのうの
+            <span className="kanji">
+              夜<span className="furigana">よる</span>
+            </span>
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            なかったみたいです。
+            <br />
+            <i>It looks like that person did not sleep last night.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>noun/verb + みたいです</td>
+                <td>
+                  <i>It looks like ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
