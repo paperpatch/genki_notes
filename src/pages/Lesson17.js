@@ -748,7 +748,44 @@ function Lesson17() {
       <section id="section4">
         <h3>17.4: ～なくてもいいです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            To describe what you <i>do not need to</i> do, take a negative
+            sentence in the short form, drop the final い of ない, and add
+            くてもいいです. なくて is the negative <i>te</i>-form.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              靴<span className="furigana">くつ</span>
+            </span>
+            を
+            <span className="kanji">
+              脱<span className="furigana">ぬ</span>
+            </span>
+            がなくてもいいです。
+            <br />
+            <i>You do not need to take off your shoes.</i>
+          </p>
+          <p className="tab">
+            プレゼントは
+            <span className="kanji">
+              高<span className="furigana">たか</span>
+            </span>
+            くなくてもいいです。
+            <br />
+            <i>The present does not need to be anything expensive.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>～ない</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>～なくてもいいです</td>
+                <td>
+                  <i>does not need to ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
