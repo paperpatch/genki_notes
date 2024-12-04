@@ -296,7 +296,94 @@ function Lesson17() {
       <section id="section2">
         <h3>17.2: ～って</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            In informal speech, you can add って at the end of a sentence,
+            instead of そうです, to quote what you have heard. って is the
+            informal variant of the quotation particle と and follows the short
+            forms in much the same way as と言っていました and そうです.
+          </p>
+          <p>When your friend Mary says,</p>
+          <p className="tab">
+            「
+            <span className="kanji">
+              今日<span className="furigana">きょう</span>
+            </span>
+            は
+            <span className="kanji">
+              忙<span className="furigana">いそが</span>
+            </span>
+            しいです。あした、
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があるんです。」
+          </p>
+          <p>you can report it as:</p>
+          <p className="tab">
+            メアリーさん、{" "}
+            <span className="kanji">
+              今日<span className="furigana">きょう</span>
+            </span>
+            は
+            <span className="kanji">
+              忙<span className="furigana">いそが</span>
+            </span>
+            しい<span className="underline-green">って</span>。あした、
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があるんだ<span className="underline-green">って</span>。
+            <br />
+            <i>
+              Mary says she's busy today. She says she has an exam tomorrow.
+            </i>
+          </p>
+          <p>
+            You can also use って in place of the quotation particle と before
+            verbs like
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            う.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              ロバートさんは
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              <span className="underline-green">て</span>
+              <span className="kanji">
+                言<span className="furigana">い</span>
+              </span>
+              ってた？
+            </p>
+            <p>
+              <i>What did Robert say?</i>
+            </p>
+          </div>
+          <div className="tab table-double-column">
+            <p>
+              チョコレートを
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べすぎた<span className="underline-green">って</span>
+              <span className="kanji">
+                言<span className="furigana">い</span>
+              </span>
+              ってた。
+            </p>
+            <p>
+              <i>He said he ate too much chocolate.</i>
+            </p>
+          </div>
         </div>
       </section>
 
