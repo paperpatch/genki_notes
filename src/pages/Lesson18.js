@@ -469,6 +469,110 @@ function Lesson18() {
             <br />
             <i>I read the book completely. / I finished reading the book.</i>
           </p>
+          <p>
+            The second meaning of しまう is "lack of premeditation or control
+            over how things turn out". This often comes with{" "}
+            <i>the sense of regret</i>; something regrettable happens, or you do
+            something which you did not intend to.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              電<span className="furigana">でん</span>
+            </span>
+            <span className="kanji">
+              車<span className="furigana">しゃ</span>
+            </span>
+            の
+            <span className="kanji">
+              中<span className="furigana">なか</span>
+            </span>
+            にかばんを
+            <span className="kanji">
+              忘<span className="furigana">わす</span>
+            </span>
+            れてしまいました。
+            <br />
+            <i>I inadvertently left my bag on the train.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              宿題<span className="furigana">しゅくだい</span>
+            </span>
+            を
+            <span className="kanji">
+              忘<span className="furigana">わす</span>
+            </span>
+            れたので、
+            <span className="kanji">
+              先生<span className="furigana">せんせい</span>
+            </span>
+            は
+            <span className="kanji">
+              怒<span className="furigana">おこ</span>
+            </span>
+            ってしまいました。
+            <br />
+            <i>
+              To my horror, my professor got angry because I had forgotten my
+              homework.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>～てしまう ＝</td>
+                <td>
+                  1. <i>finish doing</i>
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  2. <i>regrettably</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Both nuanced meanings focus on the discrepancy between what we
+            intend and what the world is like when it is left on its own. A
+            しまう sentence may be ambiguous between the two meanings. A given
+            しまう sentence should be interpreted depending on the context and
+            assumptions the speaker has when uttering it.
+          </p>
+          <p>
+            In speech, ～てしまう and ～でしまう are often contracted to
+            ～ちゃう and ～じゃう, respectively.
+          </p>
+          <div className="tab table-double-column">
+            <p>
+              <span className="kanji">
+                宿題<span className="furigana">しゅくだい</span>
+              </span>
+              をなくしちゃった。
+            </p>
+            <p>
+              <i>I lost my homework!</i>
+            </p>
+          </div>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>食べてしまいました</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  1. <i>finish doing</i>
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  2. <i>regrettably</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
