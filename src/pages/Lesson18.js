@@ -579,7 +579,177 @@ function Lesson18() {
       <section id="section4">
         <h3>18.4: ～と</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The present tense short form of a predicate + と means{" "}
+            <i>whenever</i> the situation described by the predicate holds true,
+            another thing happens. In most と sentences, the first clause
+            describes the cause, and the second the effect.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            はその
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            と
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            すと
+            <span className="kanji">
+              元<span className="furigana">げん</span>
+            </span>
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            になる。
+            <br />
+            <i>Whenever I talk with that person, I feel uplifted.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              道<span className="furigana">みち</span>
+            </span>
+            が
+            <span className="kanji">
+              混<span className="furigana">こ</span>
+            </span>
+            んでいると
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              間<span className="furigana">かん</span>
+            </span>
+            がかかる。
+            <br />
+            <i>
+              Whenever the streets are crowded, it takes longer to get there.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>clause A　と　clause B。</td>
+                <td>
+                  <i>Whenever A happens, B happens, too.</i>
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingTop: 0 }}>(short, present)</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Sometimes, a と sentence describes a cause-effect relationship
+            between specific events.
+          </p>
+          <p className="tab">
+            マアリーさんが
+            <span className="kanji">
+              国<span className="furigana">くに</span>
+            </span>
+            に
+            <span className="kanji">
+              帰<span className="furigana">かえ</span>
+            </span>
+            るとさびしくなります。
+            <br />
+            <i>If Mary goes back home, we will be sad and lonely.</i>
+          </p>
+          <p>
+            While the clause that comes before と is always in the present
+            tense, the second clause can be in the present or in the past tense.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は
+            <span className="kanji">
+              子<span className="furigana">こ</span>
+            </span>
+            <span className="kanji">
+              供<span className="furigana">ども</span>
+            </span>
+            の
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、
+            <span className="kanji">
+              冬<span className="furigana">ふゆ</span>
+            </span>
+            になるとかぜをひきました。
+            <br />
+            <i>When I was young, whenever winter arrived, I caught a cold.</i>
+          </p>
+          <p>
+            The event described the second clause must follow the event
+            described in the first half of the sentence. Thus it is wrong to
+            say:
+          </p>
+          <p className="tab">
+            <span className="text-red">X</span>　
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            はその
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            と
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            すとカフェに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
+            <br />
+            <i>Whenever I talk with that person, we go to a cafe.</i>
+          </p>
+          <p>
+            If you want an adjective idea in the second clause, it is usually
+            expressed as a change. It is very common to find in the second
+            clause an い-adjtive base + くなる, and a な-adjective base +
+            になる.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            になると
+            <span className="kanji">
+              木<span className="furigana">き</span>
+            </span>
+            が
+            <span className="kanji">
+              赤<span className="furigana">あか</span>
+            </span>
+            くなります。
+            <br />
+            <i>Whenever fall arrives, trees turn red.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              夜<span className="furigana">よる</span>
+            </span>
+            になると
+            <span className="kanji">
+              町<span className="furigana">まち</span>
+            </span>
+            が
+            <span className="kanji">
+              静<span className="furigana">しず</span>
+            </span>
+            かになるます。
+            <br />
+            <i>Whenever night comes, the town becomes quiet.</i>
+          </p>
         </div>
       </section>
 
