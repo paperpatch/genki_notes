@@ -756,7 +756,148 @@ function Lesson18() {
       <section id="section5">
         <h3>18.5: ～ながら</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can connect two verbs with ながら to say that the two actions
+            are performed at the same time. ながら follows a verb stem. The
+            second verb, which goes after ながら, can be in any form.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            はいつも
+            <span className="kanji">
+              音<span className="furigana">おん</span>
+            </span>
+            <span className="kanji">
+              楽<span className="furigana">がく</span>
+            </span>
+            を
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            きながら日本語を
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            します。
+            <br />
+            <i>I always study Japanese while listening to music.</i>
+          </p>
+          <p className="tab">
+            たけしさんは
+            <span className="kanji">
+              歌<span className="furigana">うた</span>
+            </span>
+            を
+            <span className="kanji">
+              歌<span className="furigana">うた</span>
+            </span>
+            いながら
+            <span className="kanji">
+              洗濯<span className="furigana">せんたく</span>
+            </span>
+            しています。
+            <br />
+            <i>Takeshi is doing laundry singing a song.</i>
+          </p>
+          <p className="tab">
+            アルバイトをしながら
+            <span className="kanji">
+              学<span className="furigana">がっ</span>
+            </span>
+            <span className="kanji">
+              校<span className="furigana">こう</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            くのは
+            <span className="kanji">
+              大<span className="furigana">たい</span>
+            </span>
+            <span className="kanji">
+              変<span className="furigana">へん</span>
+            </span>
+            です。
+            <br />
+            <i>It is not easy to go to school while holding a part-time job.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  V<sub>1</sub>　＋　ながら、V<sub>2</sub>
+                </td>
+                <td>
+                  <i>
+                    while V<sub>1</sub>-ing, V<sub>2</sub>
+                  </i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Note that the two verbs that flank ながら must be two actions
+            performed by the same person. ながら, in other words, cannot
+            describe an action performed while another person does something.
+          </p>
+          <p className="tab">
+            <span className="text-red">X</span>　メアリーが
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            い
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            しながら、たけしは
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
+            </span>
+            を
+            <span className="kanji">
+              掃<span className="furigana">そう</span>
+            </span>
+            <span className="kanji">
+              除<span className="furigana">じ</span>
+            </span>
+            します。
+            <br />
+            <i>It is not easy to go to school while holding a part-time job.</i>
+            <br />
+            Compare: メアリーが
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            い
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            する
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、たけしは
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
+            </span>
+            を
+            <span className="kanji">
+              掃<span className="furigana">そう</span>
+            </span>
+            <span className="kanji">
+              除<span className="furigana">じ</span>
+            </span>
+            します。
+          </p>
         </div>
       </section>
 
