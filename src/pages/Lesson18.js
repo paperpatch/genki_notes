@@ -902,9 +902,226 @@ function Lesson18() {
       </section>
 
       <section id="section6">
-        <h3>18.6: ばよかったです</h3>
+        <h3>18.6: ～ばよかったです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            ばよかったです means <i>I wish I had done</i> or{" "}
+            <i>I should have done</i> something. You can use it to describe an
+            alternative course of action that you did not take (with regret).
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>Affirmative:</td>
+                <td>～ばよかった</td>
+                <td>
+                  <i>I wish I had done ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>Negtaive:</td>
+                <td>～なければよかった</td>
+                <td>
+                  <i>I wish I had not done ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            あの
+            <span className="kanji">
+              時<span className="furigana">とき</span>
+            </span>
+            、「
+            <span className="kanji">
+              愛<span className="furigana">あい</span>
+            </span>
+            している」と
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            えばよかったです。
+            <br />
+            <i>I wish I had told her that I loved her.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              彼女<span className="furigana">かのじょ</span>
+            </span>
+            と
+            <span className="kanji">
+              別<span className="furigana">わか</span>
+            </span>
+            れなければよかったです。
+            <br />
+            <i>I should not have broken up with her.</i>
+          </p>
+          <p>
+            All verbs can regularly be turend into a ばよかったです sentence
+            with no exception or irregularity. You form the ば-form on the basis
+            of the present tense short forms.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <thead>
+              <tr>
+                <th colSpan={3} className="table-header text-green">
+                  ～ば-form
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>• Verbs in the affirmative:</td>
+                <td></td>
+                <td>Drop the final -u and add -eba.</td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べる
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べれば
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  く
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  けば
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  つ
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  てば
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  う
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  えば
+                </td>
+              </tr>
+              <tr>
+                <td>する</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>すれば</td>
+              </tr>
+              <tr>
+                <td>くる</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>くれば</td>
+              </tr>
+              <tr>
+                <td>• Verbs in the negative:</td>
+                <td></td>
+                <td>Drop the final -い and add ければ.</td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  なければ
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  かない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  かなければ
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  たない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  たなければ
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  わない
+                </td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  わなければ
+                </td>
+              </tr>
+              <tr>
+                <td>しない</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>しなければ</td>
+              </tr>
+              <tr>
+                <td>こない</td>
+                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td>こなければ</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
     </div>
