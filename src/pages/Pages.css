@@ -223,6 +223,10 @@
   color: black;
 }
 
+.text-blue {
+  color: #0047AB;
+}
+
 .text-green {
   color: #228B22;
   font-weight: 600;
@@ -231,6 +235,10 @@
 .text-orange {
   color: #ED7014;
   font-weight: 600;
+}
+
+.text-purple {
+  color: #5D3FD3;
 }
 
 .text-red {
