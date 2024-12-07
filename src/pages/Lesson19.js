@@ -398,7 +398,198 @@ function Lesson19() {
       <section id="section2">
         <h3>19.2: Giving Respectful Advice</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You may hear the form "お ＋ verb stem ＋ ください" in public
+            service announcements and in the speech of store attendants.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>お　＋　verb stem　＋　ください</td>
+              </tr>
+            </tbody>
+          </table>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    切<span className="furigana">きっ</span>
+                  </span>
+                  <span className="kanji">
+                    符<span className="furigana">ぷ</span>
+                  </span>
+                  をお
+                  <span className="kanji">
+                    取<span className="furigana">と</span>
+                  </span>
+                  りください。
+                </td>
+                <td>
+                  <i>Please take a ticket.</i>
+                </td>
+                <td>
+                  （＜　
+                  <span className="kanji">
+                    取<span className="furigana">と</span>
+                  </span>
+                  る　）
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    説<span className="furigana">せつ</span>
+                  </span>
+                  <span className="kanji">
+                    明<span className="furigana">めい</span>
+                  </span>
+                  をお
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  みください。
+                </td>
+                <td>
+                  <i>Please read the instruction.</i>
+                </td>
+                <td>
+                  （＜　
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  む　）
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Although such sentences end with ください, it is better to consider
+            that they are (courteously phrased) commands, rather than requests.
+            When somebody tells you お～ください, you are being encouraged to
+            perform the actions <i>for your own good</i>. It is wrong to say if
+            I want somebody to pass the salt for me:
+          </p>
+          <p className="tab">
+            <span className="text-red">X</span>　
+            <span className="kanji">
+              塩<span className="furigana">しお</span>
+            </span>
+            をお
+            <span className="kanji">
+              取<span className="furigana">と</span>
+            </span>
+            りください。
+            <br />
+            <i>Please take the salt (and pass it to me).</i>
+          </p>
+          <p>
+            You should say instead:　
+            <span className="kanji">
+              塩<span className="furigana">しお</span>
+            </span>
+            を
+            <span className="kanji">
+              取<span className="furigana">と</span>
+            </span>
+            っていただけませんか。
+          </p>
+          <p>
+            With most する compound verbs, for example, the prefix ご is used
+            instead of お. Note the examples with special honorific verbs:
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  ご
+                  <span className="kanji">
+                    注意<span className="furigana">ちゅうい</span>
+                  </span>
+                  ください。
+                </td>
+                <td>
+                  <i>Please watch out.</i>
+                </td>
+                <td>
+                  （＜　
+                  <span className="kanji">
+                    注意<span className="furigana">ちゅうい</span>
+                  </span>
+                  する　）
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  ご
+                  <span className="kanji">
+                    覧<span className="furigana">らん</span>
+                  </span>
+                  ください。
+                </td>
+                <td>
+                  <i>Please look.</i>
+                </td>
+                <td>
+                  （＜　ご
+                  <span className="kanji">
+                    覧<span className="furigana">らん</span>
+                  </span>
+                  になる　＜　見る　）
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  お
+                  <span className="kanji">
+                    召<span className="furigana">め</span>
+                  </span>
+                  し
+                  <span className="kanji">
+                    上<span className="furigana">あ</span>
+                  </span>
+                  がりください。
+                </td>
+                <td>
+                  <i>Please help yourself.</i>
+                </td>
+                <td>
+                  （＜　お
+                  <span className="kanji">
+                    召<span className="furigana">め</span>
+                  </span>
+                  し
+                  <span className="kanji">
+                    上<span className="furigana">あ</span>
+                  </span>
+                  がる　＜　食べる　）
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  お
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みください。
+                </td>
+                <td>
+                  <i>Please have a good rest.</i>
+                </td>
+                <td>
+                  （＜　お
+                  <span className="kanji">
+                    休<span className="furigana">やす</span>
+                  </span>
+                  みになる　＜　
+                  <span className="kanji">
+                    寝<span className="furigana">ね</span>
+                  </span>
+                  る　）
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
