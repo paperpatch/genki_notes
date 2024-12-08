@@ -596,7 +596,45 @@ function Lesson19() {
       <section id="section3">
         <h3>19.3: ～てくれてありがとう</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            YWhen you want to express gratitude to someone for a specific
+            action, you can use the <i>te</i>-form + くれてありがとう.
+          </p>
+          <p>
+            If you are thanking someone who needs to be talked to with the
+            honorific language, such as when you and the person are not close or
+            when the person ranks higher than you in any of the social
+            hierarchies, you should say "te-form +
+            くださってありがとうございました."
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              推薦状<span className="furigana">すいせんじょう</span>
+            </span>
+            を
+            <span className="kanji">
+              書<span className="furigana">か</span>
+            </span>
+            いてくださってありがとうございました。
+            <br />
+            <i>Thank you for writing a letter of recommendation for me.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>
+                  verb <i>te</i>-form +
+                </td>
+                <td>くれてありがとう　(casual)</td>
+                <td rowSpan={2}>
+                  <i>Thank you for doing...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>くださってありがとうございました　(polite)</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
