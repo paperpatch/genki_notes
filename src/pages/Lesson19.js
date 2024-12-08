@@ -639,9 +639,64 @@ function Lesson19() {
       </section>
 
       <section id="section4">
-        <h3>19.4: てよかったです</h3>
+        <h3>19.4: ～てよかったです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            <i>Te</i>-form + よかった means "I'm glad that such and scuh is/was
+            the case." If you want to mention something in the negative in the
+            part before よかった, you can use the negative <i>te</i>-form
+            なくて.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>～てよかったです</td>
+                <td>
+                  <i>I'm am glad that I did ... / ... was the case</i>
+                </td>
+              </tr>
+              <tr>
+                <td>～なくてよかったです</td>
+                <td>
+                  <i>I am glad that I didn't ... / ... was not the case</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            日本語を
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            してよかったです。
+            <br />
+            <i>I'm glad that I have studied Japanese.</i>
+          </p>
+          <p className="tab">
+            メアリーさんが
+            <span className="kanji">
+              元気<span className="furigana">げんき</span>
+            </span>
+            になってよかったです。
+            <br />
+            <i>I'm glad that Mary got well.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              約束<span className="furigana">やくそく</span>
+            </span>
+            の
+            <span className="kanji">
+              時間<span className="furigana">じかん</span>
+            </span>
+            に
+            <span className="kanji">
+              遅<span className="furigana">おく</span>
+            </span>
+            れなくてよかったです。
+            <br />
+            <i>I'm glad that I was not late for the appointment.</i>
+          </p>
         </div>
       </section>
 
