@@ -703,7 +703,120 @@ function Lesson19() {
       <section id="section5">
         <h3>19.5: ～はずです</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can say something is "supposed to be the case," by adding
+            はずです to a sentence ending in the short form.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              今日<span className="furigana">きょう</span>
+            </span>
+            は
+            <span className="kanji">
+              日曜日<span className="furigana">にちようび</span>
+            </span>
+            だから、
+            <span className="kanji">
+              銀行<span className="furigana">ぎんこう</span>
+            </span>
+            は
+            <span className="kanji">
+              閉<span className="furigana">し</span>
+            </span>
+            まっているはずです。
+            <br />
+            <i>Banks must be closed, because today is a Sunday.</i>
+          </p>
+          <p className="tab">
+            レポートの
+            <span className="kanji">
+              締<span className="furigana">し</span>
+            </span>
+            め
+            <span className="kanji">
+              切<span className="furigana">き</span>
+            </span>
+            りは
+            <span className="kanji">
+              明日<span className="furigana">あした</span>
+            </span>
+            じゃないはずです。
+            <br />
+            <i>I believe that the paper is not due tomorrow.</i>
+          </p>
+          <p>
+            A はずです sentence is a statement about what you believe is true or
+            likely, though you lack conclusive evidence. It is used when
+            situations surrounding the case and/or our common sense point
+            naturally to such a belief. はずです cannot be used in a situation
+            in which you are "supposed" to do something because of duty,
+            responsibility, or law.
+          </p>
+          <p>
+            You can turn はずです into the past tense to describe something that
+            was supposed to have been the case but actually turned out
+            otherwise. The part that precedes はずでした is in the present
+            tense.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              先週<span className="furigana">せんしゅう</span>
+            </span>
+            <span className="kanji">
+              電話<span className="furigana">でんわ</span>
+            </span>
+            をもらう<span className="underline-green">はずでした</span>が、
+            <span className="kanji">
+              電話<span className="furigana">でんわ</span>
+            </span>
+            がありませんでした。
+            <br />
+            <i>
+              I was supposed to receive a phone call last week, but I didn't.
+            </i>
+          </p>
+          <p>You can use はずです with adjectives, nouns, and verbs.</p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td colSpan={2}>
+                  short form + はずです　
+                  <i>It is supposed to be the case...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>• verbs:</td>
+                <td>
+                  <span className="kanji">
+                    来<span className="furigana">く</span>
+                  </span>
+                  るはずです
+                </td>
+              </tr>
+              <tr>
+                <td>• い-adjectives:</td>
+                <td>おもしろいはずです</td>
+              </tr>
+              <tr>
+                <td>• な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  なはずです
+                </td>
+              </tr>
+              <tr>
+                <td>• nouns:</td>
+                <td>
+                  <span className="kanji">
+                    日本人<span className="furigana">にほんじん</span>
+                  </span>
+                  のはずです
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
     </div>
