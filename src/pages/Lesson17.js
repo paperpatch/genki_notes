@@ -50,7 +50,7 @@ function Lesson17() {
                   <br />
                   <i>"Our Japanese class is fun."</i>
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td style={{ paddingLeft: "5px" }}>
                   <span className="kanji">
                     日<span className="furigana">に</span>
@@ -93,7 +93,7 @@ function Lesson17() {
                   <br />
                   <i>"Our professor is very kind."</i>
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td style={{ paddingLeft: "5px" }}>
                   <span className="kanji">
                     先<span className="furigana">せん</span>
@@ -126,7 +126,7 @@ function Lesson17() {
                   <br />
                   <i>"We did not have a class today."</i>
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td style={{ paddingLeft: "5px" }}>
                   その
                   <span className="kanji">
@@ -178,7 +178,7 @@ function Lesson17() {
                   </span>
                   す
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     話<span className="furigana">はな</span>
@@ -190,7 +190,7 @@ function Lesson17() {
               <tr>
                 <td>• い-adjectives:</td>
                 <td>さびしい</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>さびしいそうです</td>
                 <td>さびしそうです</td>
               </tr>
@@ -202,7 +202,7 @@ function Lesson17() {
                   </span>
                   きだ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     好<span className="furigana">す</span>
@@ -227,7 +227,7 @@ function Lesson17() {
                   </span>
                   だ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     学<span className="furigana">がく</span>
@@ -458,7 +458,7 @@ function Lesson17() {
                   </span>
                   む
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     読<span className="furigana">よ</span>
@@ -474,7 +474,7 @@ function Lesson17() {
                   </span>
                   まない
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     読<span className="furigana">よ</span>
@@ -485,13 +485,13 @@ function Lesson17() {
               <tr>
                 <td>• い-adjectives:</td>
                 <td>やさしい</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>やさしかったら</td>
               </tr>
               <tr>
                 <td></td>
                 <td>やさしくない</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>やさしくなかったら</td>
               </tr>
               <tr>
@@ -502,7 +502,7 @@ function Lesson17() {
                   </span>
                   かだ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     静<span className="furigana">しず</span>
@@ -518,7 +518,7 @@ function Lesson17() {
                   </span>
                   かじゃない
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     静<span className="furigana">しず</span>
@@ -534,7 +534,7 @@ function Lesson17() {
                   </span>
                   みだ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     休<span className="furigana">やす</span>
@@ -550,7 +550,7 @@ function Lesson17() {
                   </span>
                   みじゃない
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     休<span className="furigana">やす</span>
@@ -778,7 +778,7 @@ function Lesson17() {
             <tbody>
               <tr>
                 <td>～ない</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>～なくてもいいです</td>
                 <td>
                   <i>does not need to ...</i>
