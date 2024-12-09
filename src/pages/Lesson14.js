@@ -650,7 +650,7 @@ function Lesson14() {
                   <br />
                   <i>Uday is an Indian.</i>
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   ウデイさんはインド
                   <span className="kanji">
@@ -683,7 +683,7 @@ function Lesson14() {
                   <br />
                   <i>Professor Yamashita doesn't like dogs.</i>
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     山<span className="furigana">やま</span>
