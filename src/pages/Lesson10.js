@@ -217,7 +217,7 @@ function Lesson10() {
                 <td>
                   noun<sub>1</sub> の noun<sub>2</sub>
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   noun<sub>1</sub> の{" "}
                   <span className="strikethrough-orange">
@@ -312,7 +312,7 @@ function Lesson10() {
                   </span>
                   か<span className="underline-orange">い</span>
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   暖か<span className="underline-orange">くなる</span>
                 </td>
@@ -328,7 +328,7 @@ function Lesson10() {
                   </span>
                   か (な)
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   静か<span className="underline-orange">になる</span>
                 </td>
@@ -343,7 +343,7 @@ function Lesson10() {
                     会社員<span className="furigana">かいしゃいん</span>
                   </span>
                 </td>
-                <td style={{ padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   会社員<span className="underline-orange">になる</span>
                 </td>
