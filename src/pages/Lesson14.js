@@ -365,18 +365,22 @@ function Lesson14() {
             <br />
             <i>When I was young, I wanted a Pokémon game.</i>
           </p>
-          <div className="tab table-double-column">
-            <p>Q : プレゼントがほしい？</p>
-            <p>
-              <i>Do you want a present?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>A : ううん、ほしくない。</p>
-            <p>
-              <i>No, I don't.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>Q : プレゼントがほしい？</td>
+                <td>
+                  <i>Do you want a present?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>A : ううん、ほしくない。</td>
+                <td>
+                  <i>No, I don't.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <table className="table-list table-mini table-border-green">
             <tbody>
               <tr>
@@ -479,54 +483,58 @@ function Lesson14() {
             Because the core meaning of ほしい is "desire to possess", when you
             can use a verb + たい instead of ほしい, you should use the verb.
           </p>
-          <div className="tab table-double-column">
-            <p>
-              <span className="kanji">
-                昼<span className="furigana">ひる</span>
-              </span>
-              ご
-              <span className="kanji">
-                飯<span className="furigana">はん</span>
-              </span>
-              が
-              <span className="kanji">
-                食<span className="furigana">た</span>
-              </span>
-              べたい。
-            </p>
-            <p>
-              ( <i>not</i>{" "}
-              <span className="kanji">
-                昼<span className="furigana">ひる</span>
-              </span>
-              ご
-              <span className="kanji">
-                飯<span className="furigana">はん</span>
-              </span>
-              がほしい )
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>
-              <span className="kanji">
-                旅<span className="furigana">りょ</span>
-              </span>
-              <span className="kanji">
-                行<span className="furigana">こう</span>
-              </span>
-              に行きたい
-            </p>
-            <p>
-              ( <i>not</i>{" "}
-              <span className="kanji">
-                旅<span className="furigana">りょ</span>
-              </span>
-              <span className="kanji">
-                行<span className="furigana">こう</span>
-              </span>
-              がほしい )
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    昼<span className="furigana">ひる</span>
+                  </span>
+                  ご
+                  <span className="kanji">
+                    飯<span className="furigana">はん</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べたい。
+                </td>
+                <td>
+                  ( <i>not</i>{" "}
+                  <span className="kanji">
+                    昼<span className="furigana">ひる</span>
+                  </span>
+                  ご
+                  <span className="kanji">
+                    飯<span className="furigana">はん</span>
+                  </span>
+                  がほしい )
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    旅<span className="furigana">りょ</span>
+                  </span>
+                  <span className="kanji">
+                    行<span className="furigana">こう</span>
+                  </span>
+                  に行きたい。
+                </td>
+                <td>
+                  ( <i>not</i>{" "}
+                  <span className="kanji">
+                    旅<span className="furigana">りょ</span>
+                  </span>
+                  <span className="kanji">
+                    行<span className="furigana">こう</span>
+                  </span>
+                  がほしい )
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
@@ -869,33 +877,37 @@ function Lesson14() {
               </tr>
             </tbody>
           </table>
-          <div className="tab table-double-column">
-            <p>
-              <span className="kanji">
-                薬<span className="furigana">くすり</span>
-              </span>
-              を
-              <span className="kanji">
-                飲<span className="furigana">の</span>
-              </span>
-              んだらどうですか。
-            </p>
-            <p>
-              <i>How about taking some medicine?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>
-              もっと
-              <span className="kanji">
-                勉強<span className="furigana">べんきょう</span>
-              </span>
-              したらどう。
-            </p>
-            <p>
-              <i>Why don't you study harder?</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    薬<span className="furigana">くすり</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    飲<span className="furigana">の</span>
+                  </span>
+                  んだらどうですか。
+                </td>
+                <td>
+                  <i>How about taking some medicine?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  もっと
+                  <span className="kanji">
+                    勉強<span className="furigana">べんきょう</span>
+                  </span>
+                  したらどう。
+                </td>
+                <td>
+                  <i>Why don't you study harder?</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>
             たらどうですか may sometimes have a disapproving tone, expressing
             criticism of the person for not having performed the action already.
@@ -907,24 +919,28 @@ function Lesson14() {
             invitations. If you want to invite your friend to visit, do not use
             たらどうですか, but use ませんか.
           </p>
-          <div className="tab table-double-column">
-            <p>
-              うちに
-              <span className="kanji">
-                来<span className="furigana">き</span>
-              </span>
-              ませんか。
-              <br />
-              <i>Why don't you come to my place?</i>
-            </p>
-            <p>
-              Compare: <span className="text-red">X</span> うちに
-              <span className="kanji">
-                来<span className="furigana">き</span>
-              </span>
-              たらどうですか。
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  うちに
+                  <span className="kanji">
+                    来<span className="furigana">き</span>
+                  </span>
+                  ませんか。
+                  <br />
+                  <i>Why don't you come to my place?</i>
+                </td>
+                <td>
+                  Compare: <span className="text-red">X</span> うちに
+                  <span className="kanji">
+                    来<span className="furigana">き</span>
+                  </span>
+                  たらどうですか。
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
