@@ -61,7 +61,7 @@ function Lesson15() {
                 <td style={{ paddingLeft: "2em" }}>
                   見る (<i>mi-ru</i>)
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td colSpan="2">
                   見よう (<i>mi-yoo</i>)
                 </td>
@@ -78,7 +78,7 @@ function Lesson15() {
                   </span>
                   く (<i>ik-u</i>)
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     行<span className="furigana">い</span>
@@ -91,7 +91,7 @@ function Lesson15() {
                   </span>
                   る
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     作<span className="furigana">つく</span>
@@ -105,7 +105,7 @@ function Lesson15() {
                     話す<span className="furigana">はな</span>
                   </span>
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     話す<span className="furigana">はな</span>
@@ -118,7 +118,7 @@ function Lesson15() {
                   </span>
                   ぐ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     泳<span className="furigana">およ</span>
@@ -133,7 +133,7 @@ function Lesson15() {
                   </span>
                   つ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     待<span className="furigana">ま</span>
@@ -146,7 +146,7 @@ function Lesson15() {
                   </span>
                   ぶ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     遊<span className="furigana">あそ</span>
@@ -161,7 +161,7 @@ function Lesson15() {
                   </span>
                   ぬ
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     死<span className="furigana">し</span>
@@ -174,7 +174,7 @@ function Lesson15() {
                   </span>
                   う
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     買<span className="furigana">か</span>
@@ -189,7 +189,7 @@ function Lesson15() {
                   </span>
                   む
                 </td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
                     読<span className="furigana">よ</span>
@@ -202,10 +202,10 @@ function Lesson15() {
               </tr>
               <tr>
                 <td style={{ paddingLeft: "2em" }}>くる</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>こよう</td>
                 <td>する</td>
-                <td style={{ textAlign: "center", padding: 0 }}>→</td>
+                <td className="arrow-right">→</td>
                 <td>しよう</td>
               </tr>
             </tbody>
