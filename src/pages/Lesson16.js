@@ -752,8 +752,8 @@ function Lesson16() {
                 </td>
               </tr>
               <tr>
-                <td style={{ textAlign: "center", padding: 0 }}>↑</td>
-                <td style={{ textAlign: "center", padding: 0 }}>↑</td>
+                <td className="arrow-right">↑</td>
+                <td className="arrow-right">↑</td>
               </tr>
               <tr>
                 <td style={{ textAlign: "center" }}>
