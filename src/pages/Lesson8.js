@@ -32,8 +32,18 @@ function Lesson8() {
             <tbody>
               <tr>
                 <td>• verbs:</td>
-                <td>読みます (yomi)</td>
-                <td>読む</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  みます
+                </td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  む
+                </td>
                 <td>(= Dictionary form)</td>
               </tr>
               <tr>
@@ -44,14 +54,34 @@ function Lesson8() {
               </tr>
               <tr>
                 <td>• な-adjectives:</td>
-                <td>静かです (shizuka)</td>
-                <td>静かだ</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かです
+                </td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かだ
+                </td>
                 <td>(Replace です with だ.)</td>
               </tr>
               <tr>
                 <td>• noun + です:</td>
-                <td>学生です (gakusei)</td>
-                <td>学生だ</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  です (gakusei)
+                </td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  だ
+                </td>
                 <td>(Replace です with だ.)</td>
               </tr>
             </tbody>
@@ -71,8 +101,18 @@ function Lesson8() {
             <tbody>
               <tr>
                 <td>• verbs:</td>
-                <td>読みません</td>
-                <td>読まない</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  みません
+                </td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  まない
+                </td>
                 <td>→ See below for more info</td>
               </tr>
               <tr>
@@ -82,7 +122,7 @@ function Lesson8() {
                 <td>(Drop です)</td>
               </tr>
               <tr>
-                <td>(exception) いい:</td>
+                <td>　(exception) いい:</td>
                 <td>
                   <span className="underline-orange">よ</span>くないです
                 </td>
@@ -93,14 +133,34 @@ function Lesson8() {
               </tr>
               <tr>
                 <td>• な-adjectives:</td>
-                <td>静かじゃないです</td>
-                <td>静かじゃない</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃないです
+                </td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃない
+                </td>
                 <td>(Drop です)</td>
               </tr>
               <tr>
                 <td>• noun + です:</td>
-                <td>学生じゃないです</td>
-                <td>学生じゃない</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃないです
+                </td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃない
+                </td>
                 <td>(Drop です.)</td>
               </tr>
             </tbody>
@@ -125,7 +185,16 @@ function Lesson8() {
                 <td>Drop the final る and add ない</td>
               </tr>
               <tr>
-                <td>食べる → 食べない</td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べる →{" "}
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べない
+                </td>
               </tr>
               <td colSpan="2">
                 <div className="horizontal-line-orange"></div>
@@ -140,10 +209,28 @@ function Lesson8() {
                 </td>
               </tr>
               <tr>
-                <td>書く (kaku) → 書かない</td>
+                <td>
+                  <span className="kanji">
+                    書<span className="furigana">か</span>
+                  </span>
+                  く →{" "}
+                  <span className="kanji">
+                    書<span className="furigana">か</span>
+                  </span>
+                  かない
+                </td>
               </tr>
               <tr>
-                <td>会う (ao) → 会わない</td>
+                <td>
+                  <span className="kanji">
+                    会<span className="furigana">あ</span>
+                  </span>
+                  う (ao) →{" "}
+                  <span className="kanji">
+                    会<span className="furigana">あ</span>
+                  </span>
+                  わない
+                </td>
               </tr>
               <td colSpan="2">
                 <div className="horizontal-line-orange"></div>
@@ -268,33 +355,75 @@ function Lesson8() {
             forms. Long forms tends to imply the speaker's intention to "keep a
             proper distance" from the listener.
           </p>
-          <div className="tab table-double-column">
-            <p>Friend A: 今日、学校に行く？ (Short form)</p>
-            <p>
-              <i>Are you going to school today?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>Friend B: ううん、行かない。</p>
-            <p>
-              <i>No, I'm not.</i>
-            </p>
-          </div>
-          <br />
-          <div className="tab table-double-column">
-            <p>
-              Stranger A: すみません、この電車は新宿にいきますか。 (Long form)
-            </p>
-            <p>
-              <i>Excuse me, does this train go to Shinjuku?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>Stranger B: いいえ、行きませにょ。</p>
-            <p>
-              <i>No, it doesn't.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td rowSpan={4} style={{ verticalAlign: "top" }}>
+                  (Between friends)
+                </td>
+                <td>
+                  A:{" "}
+                  <span className="kanji">
+                    今日<span className="furigana">きょう</span>
+                  </span>
+                  、
+                  <span className="kanji">
+                    学校<span className="furigana">がっこう</span>
+                  </span>
+                  に行く？ (Short form)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <i>Are you going to school today?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>B: ううん、行かない。</td>
+              </tr>
+              <tr>
+                <td>
+                  <i>No, I'm not.</i>
+                </td>
+              </tr>
+              <br />
+              <tr>
+                <td rowSpan={4} style={{ verticalAlign: "top" }}>
+                  (To a stranger)
+                </td>
+                <td>
+                  A: すみません、この
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    新宿<span className="furigana">しんじゅく</span>
+                  </span>
+                  にいきますか。 (Long form)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <i>Excuse me, does this train go to Shinjuku?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  B: いいえ、
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  きませにょ。
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <i>No, it doesn't.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>
             Be wary when switching to short forms, as Japanese speakers are very
             concious of seniority. Just because someone uses short forms with
@@ -302,71 +431,109 @@ function Lesson8() {
             forms. Juniors often uses long forms to their senior while seniors
             are more free to use short forms to their juniors.
           </p>
-          <div className="tab table-double-column">
-            <p>Profesor: この漢字、わかる？</p>
-            <p>
-              <i>Do you know this kanji?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>
-              Student: はい、わかります。
-              <br />
-              <span style={{ marginRight: "50px" }}></span>(
-              <span className="text-red"> X </span>うん、わかる。)
-              <br />
-            </p>
-            <p>
-              <i>Yes, I do.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>Profesor: この漢字、わかる？</td>
+                <td>
+                  <i>Do you know this kanji?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Student: はい、わかります。
+                  <br />
+                  　　　　(
+                  <span className="text-red"> X </span>うん、わかる。)
+                </td>
+                <td>
+                  <i>Yes, I do.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>
             In casual conversations, you drop the question particle か, and use
             the rising intonation to ask a question.
           </p>
+          <p className="tab">
+            どんな
+            <span className="kanji">
+              音楽<span className="furigana">おんがく</span>
+            </span>
+            を
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            く？　　（ <span className="text-red">X</span> どな
+            <span className="kanji">
+              音楽<span className="furigana">おんがく</span>
+            </span>
+            を
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            く<span className="underline-orange">か</span>？）
+            <br />
+            <i>Do you know this kanji?</i>
+          </p>
+
           <p>
             In spoken language, you usually drop the sentence-final だ after a
             な-adjective or a noun. However, You keep the last だ in the written
             language.
           </p>
-          <div className="tab table-double-column">
-            <p>A: 元気？</p>
-            <p>
-              <i>Are you good?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>B: うん、元気。</p>
-            <p>
-              <i>Yes, I am.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>A: 元気？</td>
+                <td>
+                  <i>Are you good?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>B: うん、元気。</td>
+                <td>
+                  <i>Yes, I am.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>Keep だ when you follow it up with ね or よ.</p>
-          <div className="tab table-double-column">
-            <p>
-              メアリーさんは二年生<span className="underline-orange">だ</span>
-              よ。
-            </p>
-            <p>
-              <i>Mary is a sophomore.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  メアリーさんは二年生
+                  <span className="underline-orange">だ</span>
+                  よ。
+                </td>
+                <td>
+                  <i>Mary is a sophomore.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>
             はい and いいえ are usually replaced by the less formal うん and
             ううん.
           </p>
-          <div className="tab table-double-column">
-            <p>よくスポーツをする？</p>
-            <p>
-              <i>Do you often play sports?</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>うん、する。/ ううん、しない。</p>
-            <p>
-              <i>Yes, I do. / No, I don't.</i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>A: よくスポーツをする？</td>
+                <td>
+                  <i>Do you often play sports?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>B: うん、する。/ ううん、しない。</td>
+                <td>
+                  <i>Yes, I do. / No, I don't.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
@@ -379,27 +546,25 @@ function Lesson8() {
             both the English word "that" in indirect quotation and of quotation
             marks (" ") in direct quotation.
           </p>
-          <div className="tab table-double-column">
-            <p>(私は)たけしさんはメアリーさんが好きだと思います。</p>
-            <p>
-              <i>I think Takeshi likes Mary.</i>
-            </p>
-          </div>
+          <p className="tab">
+            (私は)たけしさんはメアリーさんが好きだと思います。
+            <br />
+            <i>I think Takeshi likes Mary.</i>
+          </p>
           <p>
             To say that you <i>don't think</i> something is the case, it is more
             common in Japanese to say ～ないと思います (I <i>think</i> that
             something is <i>not</i> the case) than ～と思いません (
             <i>I don't think</i>).
           </p>
-          <div className="tab table-double-column">
-            <p>(私は)メアリーさんはたけしさんが好きじゃないと思います。</p>
-            <p>
-              <i>
-                I don't think Mary likes Takeshi. (= I think Mary doesn't like
-                Takeshi.)
-              </i>
-            </p>
-          </div>
+          <p className="tab">
+            (私は)メアリーさんはたけしさんが好きじゃないと思います。
+            <br />
+            <i>
+              I don't think Mary likes Takeshi. ( = I think Mary doesn't like
+              Takeshi.)
+            </i>
+          </p>
         </div>
       </section>
 
@@ -410,18 +575,16 @@ function Lesson8() {
             To quote someone, use the short form plus と言っていました (They
             said "..."). Note that the present tense is preserved in the quote.
           </p>
-          <div className="tab table-double-column">
-            <p>ヤスミンさんは、あした試験があると言っていました。</p>
-            <p>
-              <i>Yasmin said that there would be an exam tomorrow.</i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>山下先生は結婚していないと言っていました。</p>
-            <p>
-              <i>Professor Yamashita said that he is not married.</i>
-            </p>
-          </div>
+          <p className="tab">
+            ヤスミンさんは、あした試験があると言っていました。
+            <br />
+            <i>Yasmin said that there would be an exam tomorrow.</i>
+          </p>
+          <p className="tab">
+            山下先生は結婚していないと言っていました。
+            <br />
+            <i>Professor Yamashita said that he is not married.</i>
+          </p>
         </div>
       </section>
 
@@ -457,12 +620,20 @@ function Lesson8() {
             <i>May I enter this room?</i>
           </p>
           <p className="tab">
-            B: 入らないでください。
+            B:{" "}
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            らないでください。
             <br />
-            <i>Please don't. (入 = はい)</i>
+            <i>Please don't.</i>
           </p>
           <p className="tab">
-            Compare: 入ってはいけません。
+            Compare:{" "}
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            ってはいけません。
             <br />
             (Implies that you are in a position of authority.)
           </p>
@@ -477,14 +648,30 @@ function Lesson8() {
             action. For example, you can describe what you like/dislike doing.
           </p>
           <p className="tab">
-            (私は)日本語を<span className="underline-black">勉強する</span>
+            (私は)日本語を
+            <span className="underline-black">
+              <span className="kanji">
+                勉強<span className="furigana">べんきょう</span>
+              </span>
+              する
+            </span>
             <span className="border-orange">の</span>
             が好きです。
             <br />
             <i>I like studying the Japanese language.</i>
           </p>
           <p className="tab">
-            私は部屋を<span className="underline-black">掃除する</span>
+            私は
+            <span className="kanji">
+              部屋<span className="furigana">へや</span>
+            </span>
+            を
+            <span className="underline-black">
+              <span className="kanji">
+                掃除<span className="furigana">そうじ</span>
+              </span>
+              する
+            </span>
             <span className="border-orange">の</span>
             がきらいです。
             <br />
@@ -495,14 +682,28 @@ function Lesson8() {
             and ～が下手です"
           </p>
           <p className="tab">
-            ロバートさんは料理を<span className="underline-black">作る</span>
+            ロバートさんは
+            <span className="kanji">
+              料理<span className="furigana">りょうり</span>
+            </span>
+            を
+            <span className="underline-black">
+              <span className="kanji">
+                作<span className="furigana">つく</span>
+              </span>
+              る
+            </span>
             <span className="border-orange">の</span>
             が上手です。
             <br />
             <i>Robert is good at cooking meals.</i>
           </p>
           <p className="tab">
-            たけしさんは英語を<span className="underline-black">話す</span>
+            たけしさんは
+            <span className="kanji">
+              英語<span className="furigana">えいご</span>
+            </span>
+            を<span className="underline-black">話す</span>
             <span className="border-orange">の</span>
             が下手です。
             <br />
@@ -525,13 +726,24 @@ function Lesson8() {
                 </td>
               </tr>
               <tr>
-                <td>上手</td>
+                <td>
+                  <span className="kanji">
+                    上手<span className="furigana">じょうず</span>
+                  </span>
+                </td>
                 <td>
                   <i>is good at doing ...</i>
                 </td>
               </tr>
               <tr>
-                <td>下手</td>
+                <td>
+                  <span className="kanji">
+                    下<span className="furigana">へ</span>
+                  </span>
+                  <span className="kanji">
+                    手<span className="furigana">た</span>
+                  </span>
+                </td>
                 <td>
                   <i>is poor at doing ...</i>
                 </td>
@@ -561,27 +773,32 @@ function Lesson8() {
             marks. が, the subject particle, does the opposite. It places
             emphasis on what comes before it.
           </p>
-          <div className="tab table-double-column">
-            <p>
-              これは<span className="underline-orange">大きい犬です</span>。
-            </p>
-            <p>
-              <i>
-                This, <span className="underline-orange">IS A BIG DOG</span>.
-              </i>
-            </p>
-          </div>
-          <div className="tab table-double-column">
-            <p>
-              <span className="underline-orange">これ</span>が大きい犬です。
-            </p>
-            <p>
-              <i>
-                <span className="underline-orange">THIS RIGHT HERE</span>, is a
-                big dog.
-              </i>
-            </p>
-          </div>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  これは<span className="underline-orange">大きい犬です</span>。
+                </td>
+                <td>
+                  <i>
+                    This, <span className="underline-orange">IS A BIG DOG</span>
+                    .
+                  </i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="underline-orange">これ</span>が大きい犬です。
+                </td>
+                <td>
+                  <i>
+                    <span className="underline-orange">THIS RIGHT HERE</span>,
+                    is a big dog.
+                  </i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
           <p>
             The は emphasize the 大きい犬です, while が is emphasize the これ.
           </p>
@@ -600,7 +817,7 @@ function Lesson8() {
           <p className="tab">
             だれ<span className="underline-orange">が</span>沖縄に行きましたか。
             <br />
-            Who went to Okinawa.
+            <i>Who went to Okinawa.</i>
           </p>
           <p className="tab">
             Compare: <span className="text-red">X</span> だれ
@@ -608,24 +825,24 @@ function Lesson8() {
             沖縄に行きましたか。
           </p>
           <p>
-            In Lesson 2, we learned that a question word that is the subject of
-            a sentence is never followed by the particle は, but always by the
-            particle が. A noun that will provide the answer to such a question
-            is also followed by the particle が.
+            A question word that is the subject of a sentence is never followed
+            by the particle は, but always by the particle が. A noun that will
+            provide the answer to such a question is also followed by the
+            particle が.
           </p>
           <p className="tab">
             A: どのクラス
             <span className="underline-orange">が</span>
             おもしろいですか。
             <br />
-            Which class is (the most) interesting?
+            <i>Which class is (the most) interesting?</i>
           </p>
           <p className="tab">
             B: 日本語のクラス
             <span className="underline-orange">が</span>
             おもしろいです。
             <br />
-            Japanese class is.
+            <i>Japanese class is.</i>
           </p>
         </div>
       </section>
@@ -634,8 +851,15 @@ function Lesson8() {
         <h3>8.8: 何か and 何も</h3>
         <div className="indent">
           <p>
-            The word for "something" is 何か, and the word for "anything" in
-            negative sentences is 何も.
+            The word for "something" is{" "}
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            か, and the word for "anything" in negative sentences is{" "}
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            も.
           </p>
           <table className="table-list table-mini table-border-orange">
             <tbody>
@@ -644,21 +868,36 @@ function Lesson8() {
               </tr>
               <tr>
                 <td>• positive statements:</td>
-                <td>何か</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  か
+                </td>
                 <td>
                   <i>something</i>
                 </td>
               </tr>
               <tr>
                 <td>• questions:</td>
-                <td>何か</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  か
+                </td>
                 <td>
                   <i>anything?</i>
                 </td>
               </tr>
               <tr>
                 <td>• negative statements:</td>
-                <td>何も + negative</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  も + negative
+                </td>
                 <td>
                   <i>not ... anything</i>
                 </td>
@@ -673,23 +912,31 @@ function Lesson8() {
           <p className="tab">
             猫が
             <span className="underline-orange">何か</span>
-            持ってきました。
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            ってきました。
             <br />
-            The cat has brought something.
+            <i>The cat has brought something.</i>
           </p>
           <p className="tab">
-            猫は
-            <span className="underline-orange">何か</span>
+            <span className="kanji">
+              猫<span className="furigana">ねこ</span>
+            </span>
+            は<span className="underline-orange">何か</span>
             食べましたか。
             <br />
-            Did the cat eat anything?
+            <i>Did the cat eat anything?</i>
           </p>
           <p className="tab">
-            いいえ、猫は
-            <span className="underline-orange">何も</span>
+            いいえ、
+            <span className="kanji">
+              猫<span className="furigana">ねこ</span>
+            </span>
+            は<span className="underline-orange">何も</span>
             食べませんでした。
             <br />
-            No, the cat did not eat anything.
+            <i>No, the cat did not eat anything.</i>
           </p>
         </div>
       </section>
