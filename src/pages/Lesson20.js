@@ -917,7 +917,55 @@ function Lesson20() {
       <section id="section5">
         <h3>20.5: Name という Item</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            When you want to talk about a person or a thing that goes by a
+            certain name, but if you believe the person you are talking to is
+            not familiar with it, you can use the following pattern.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="text-green">(name)</span> という{" "}
+                  <span className="text-green">(item)</span>
+                </td>
+                <td>
+                  <span className="text-green">(item)</span> <i>called</i> "
+                  <span className="text-green">(name)</span>"
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            ポチ<span className="underline-green">という</span>
+            <span className="kanji">
+              犬<span className="furigana">いぬ</span>
+            </span>
+            （を
+            <span className="kanji">
+              飼<span className="furigana">か</span>
+            </span>
+            っていました）。
+            <br />
+            <i>(I used to have) a dog called "Pochi".</i>
+          </p>
+          <p className="tab">
+            「
+            <span className="kanji">
+              花<span className="furigana">はな</span>
+            </span>
+            」<span className="underline-green">という</span>
+            <span className="kanji">
+              歌<span className="furigana">うた</span>
+            </span>
+            （を
+            <span className="kanji">
+              知<span className="furigana">し</span>
+            </span>
+            っていますか）。
+            <br />
+            <i>(Do you know) a song called "Hana"?</i>
+          </p>
         </div>
       </section>
 
