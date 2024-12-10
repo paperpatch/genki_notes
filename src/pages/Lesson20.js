@@ -702,9 +702,64 @@ function Lesson20() {
       </section>
 
       <section id="section3">
-        <h3>20.3: ないで</h3>
+        <h3>20.3: ～ないで</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If you do something without doing something else, the action not
+            performed can be expressed with ～ない (the short negative present)
+            plus で. Note that the present tense form ～ない is used for both
+            present and past actions.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb (short, negative) + で</td>
+                <td>
+                  <i>without doing X</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            きのうの
+            <span className="kanji">
+              夜<span className="furigana">よる</span>
+            </span>
+            は、
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            ないで、
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            しました。
+            <br />
+            <i>Last night, I studied without getting any sleep.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              辞<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              書<span className="furigana">しょ</span>
+            </span>
+            を
+            <span className="kanji">
+              使<span className="furigana">つか</span>
+            </span>
+            わないで、
+            <span className="kanji">
+              新聞<span className="furigana">しんぶん</span>
+            </span>
+            を
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            みます。
+            <br />
+            <i>I read newspapers without using dictionaries.</i>
+          </p>
         </div>
       </section>
 
