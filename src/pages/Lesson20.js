@@ -972,7 +972,206 @@ function Lesson20() {
       <section id="section6">
         <h3>20.6: ～やすい / ～にくい</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can describe that something is easy to do by adding the
+            adjective-forming suffix やすい to the verb stem. A verb stem +
+            やすい conjugates like an い-adjective.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  う
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  いやすい
+                </td>
+                <td>
+                  この
+                  <span className="kanji">
+                    電<span className="furigana">でん</span>
+                  </span>
+                  <span className="kanji">
+                    子<span className="furigana">じ</span>
+                  </span>
+                  レンジは
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  いやすいです。
+                  <br />
+                  <i>This microwave oven is easy to use.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  む
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  みやすい
+                </td>
+                <td>
+                  この
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  みやすかったです。
+                  <br />
+                  <i>This book was easy to read.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            To express tha tsomething is hard to do, you can use the
+            い-adjective-forming suffix にくい with the verb stem.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べる
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べにくい
+                </td>
+                <td>
+                  <span className="kanji">
+                    骨<span className="furigana">ほね</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    多<span className="furigana">おお</span>
+                  </span>
+                  いので、
+                  <span className="kanji">
+                    魚<span className="furigana">さかな</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べにくいです。
+                  <br />
+                  <i>Fish are hard to eat, because they have many bones.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td rowSpan={2}>verb stem +</td>
+                <td>やすい</td>
+                <td>
+                  <i>easy to do</i>
+                </td>
+              </tr>
+              <tr>
+                <td>にくい</td>
+                <td>
+                  <i>hard to do</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Sometimes, the subject of a ～やすい／にくい sentence is a place
+            (where it is easy/difficult to do something), a tool (that is
+            easy/difficult to use for some purpose), and so forth.
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              町<span className="furigana">まち</span>
+            </span>
+            はとても
+            <span className="kanji">
+              住<span className="furigana">す</span>
+            </span>
+            みやすいです。
+            <br />
+            <i>This town is quite livable.</i>
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              靴<span className="furigana">くつ</span>
+            </span>
+            は
+            <span className="kanji">
+              歩<span className="furigana">ある</span>
+            </span>
+            きにくいです。
+            <br />
+            <i>These shoes are not comfortable to walk in.</i>
+          </p>
+          <p>
+            ～やすい and ～にくい tend to focus on the psychological ease or
+            difficulty of doing something when you use them with verbs descibing
+            actions. It is odd to use やすい or にくい when the difficulty is
+            defined in terms of a physical or statistical <i>success rate</i>.
+            Compare:
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              漢<span className="furigana">かん</span>
+            </span>
+            <span className="kanji">
+              字<span className="furigana">じ</span>
+            </span>
+            は
+            <span className="kanji">
+              覚<span className="furigana">おぼ</span>
+            </span>
+            えにくい。
+            <br />
+            <i>Kanji are hard to memorize.</i>　( = I have kanji anxieties)
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              漢<span className="furigana">かん</span>
+            </span>
+            <span className="kanji">
+              字<span className="furigana">じ</span>
+            </span>
+            を
+            <span className="kanji">
+              覚<span className="furigana">おぼ</span>
+            </span>
+            えるのは
+            <span className="kanji">
+              難<span className="furigana">むずか</span>
+            </span>
+            しい。
+            <br />
+            <i>It is hard to memorize kanji.</i>　( = too complicated, too many)
+          </p>
         </div>
       </section>
     </div>
