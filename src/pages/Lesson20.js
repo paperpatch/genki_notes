@@ -766,7 +766,151 @@ function Lesson20() {
       <section id="section4">
         <h3>20.4: Questions within Larger Sentences</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can include a question as a part of a longer sentence and
+            express ideas such as "I don't know ...".
+          </p>
+          <p>
+            Embedded question clasuses are shown in boxes below. Embedded
+            questions are in short forms. Note (1) that the clause ends with the
+            question particle か when it contains a question word like だれ and
+            なに, and (2) that it ends with かとうか when it does not contain
+            such a question word.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              山下<span className="furigana">やました</span>
+            </span>
+            <span className="kanji">
+              先生<span className="furigana">せんせい</span>
+            </span>
+            は日
+            <span className="border-green">
+              きのう
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              を
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べたか
+            </span>
+            <span className="kanji">
+              覚<span className="furigana">おぼ</span>
+            </span>
+            えていません。
+            <br />
+            <i>Professor Yamashita does not remember what he ate yesterday.</i>
+          </p>
+          <p className="tab">
+            <span className="border-green">
+              メアリーさんがどこに
+              <span className="kanji">
+                住<span className="furigana">す</span>
+              </span>
+              んでいるか
+            </span>
+            <span className="kanji">
+              知<span className="furigana">し</span>
+            </span>
+            っていますか。
+            <br />
+            <i>Do you know where Mary lives?</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              週末<span className="furigana">しゅうまつ</span>
+            </span>
+            、
+            <span className="border-green">
+              <span className="kanji">
+                旅行<span className="furigana">りょこう</span>
+              </span>
+              に
+              <span className="kanji">
+                行<span className="furigana">い</span>
+              </span>
+              くかどうか
+            </span>
+            <span className="kanji">
+              決<span className="furigana">き</span>
+            </span>
+            めましょう。
+            <br />
+            <i>Let's decide whether we will go on a trip this weekend.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>Question-word question か</td>
+                <td rowSpan={2}>
+                  わかりません／
+                  <span className="kanji">
+                    知<span className="furigana">し</span>
+                  </span>
+                  っています／etc.
+                </td>
+              </tr>
+              <tr>
+                <td>Yes/no questions かどうか</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The present tense short form だ which is used with a な-adjective or
+            a noun at the end of the clause is usually dropped.
+          </p>
+          <p className="tab">
+            だれが
+            <span className="kanji">
+              一番<span className="furigana">いちばん</span>
+            </span>
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            <span className="strikethrough-green">だ</span>
+            　か　わかりません。
+            <br />
+            <i>I don't know who is the best.</i>
+          </p>
+          <p className="tab">
+            あの
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            が
+            <span className="kanji">
+              学生<span className="furigana">がくせい</span>
+            </span>
+            <span className="strikethrough-green">だ</span>
+            　かどうか　わかりません。
+            <br />
+            <i>I don't know if that person is a student.</i>
+          </p>
+          <p>
+            We often use the particle が with the subject of an embedded
+            sentence where は is expected. Thus, for the embedded question
+            corresponding to the direct question たけしさん
+            <span className="underline-green">は</span>だれが
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きですか, we say:
+          </p>
+          <p className="tab">
+            私はたけしさん<span className="underline-green">が</span>だれが
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きか
+            <span className="kanji">
+              知<span className="furigana">し</span>
+            </span>
+            っています。
+            <br />
+            <i>I know who Takeshi is in love with.</i>
+          </p>
         </div>
       </section>
 
