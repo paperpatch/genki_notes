@@ -1098,7 +1098,15 @@ const lessons = [
           "To specify the information source, you can preface a sentence with the phrase ～によると, as in トムさんによると (according to Tom), 新聞しんぶんによると (according to the newspaper report), and 天てん気き予よ報ぼうによると (according to the weather forecast)." +
           "天てん気き予よ報ぼうによると、台たい風ふうが来くるそうです。According to the weather forecast, a typhoon is approaching.",
       },
-      { number: "17.2", title: "", id: "section2", content: "17.2" },
+      {
+        number: "17.2",
+        title: "～って",
+        id: "section2",
+        content:
+          "17.2 ～って In informal speech, you can add って at the end of a sentence, instead of そうです, to quote what you have heard. って is the informal variant of the quotation particle と and follows the short forms in much the same way as と言っていました and そうです." +
+          "When your friend Mary says, 「今日きょうは忙いそがしいです。あした、試し験けんがあるんです。」you can report it as: メアリーさん、 今日きょうは忙いそがしいって。あした、試し験けんがあるんだって。Mary says she's busy today. She says she has an exam tomorrow." +
+          "You can also use って in place of the quotation particle と before verbs like言いう. ロバートさんは何なにて言いってた？ What did Robert say? チョコレートを食たべすぎたって言いってた。He said he ate too much chocolate.",
+      },
       { number: "17.3", title: "", id: "section3", content: "17.3" },
       { number: "17.4", title: "", id: "section4", content: "17.4" },
       { number: "17.5", title: "", id: "section5", content: "17.5" },
