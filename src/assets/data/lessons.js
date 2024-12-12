@@ -1107,7 +1107,23 @@ const lessons = [
           "When your friend Mary says, 「今日きょうは忙いそがしいです。あした、試し験けんがあるんです。」you can report it as: メアリーさん、 今日きょうは忙いそがしいって。あした、試し験けんがあるんだって。Mary says she's busy today. She says she has an exam tomorrow." +
           "You can also use って in place of the quotation particle と before verbs like言いう. ロバートさんは何なにて言いってた？ What did Robert say? チョコレートを食たべすぎたって言いってた。He said he ate too much chocolate.",
       },
-      { number: "17.3", title: "", id: "section3", content: "17.3" },
+      {
+        number: "17.3",
+        title: "～たら",
+        id: "section3",
+        content:
+          "17.3 ～たら たら is one of the several words in Japanese that refers to conditional (if) dependence. When we say A たら B, we mean that the event, action, or situation in B is realized if and when the condition in A is met." +
+          "日に本ほんに行いったら、着き物ものを買かいます。I will buy kimono if and when I go to Japan. The initial た in たら comes from the short form past tense endings of predicates." +
+          "short form (aff.) ～たら (if...) short form (neg.) • verbs:	読よむ	→	読よんだら 読よまない	→	読よまなかったら • い-adjectives:	やさしい	→	やさしかったら やさしくない	→	やさしくなかったら • な-adjectives:	静しずかだ	→	静しずかだったら 静しずかじゃない	→	静しずかじゃなかったら • noun + です:	休やすみだ	→	休やすみだったら 休やすみじゃない	→	休やすみじゃなかったら" +
+          "Sometimes, the clause before たら describes a possible condition and the clause after it the consequence which then follows. Whether or not the condition is actually met is largely an open issue with this set of sentences." +
+          "山やま下した先せん生せいに会あったら、そのことを聞きこうと思おもいます。I will ask about it, if I see Professor Yamashita. 日本人じんだったら、この言こと葉ばを知しっているでしょう。If somebody is a Japanese person, then they will probably know this word. 天気てんきがよくなかったら、キャンプに行いきません。We will not go camping, if the weather is not good." +
+          "When you say A たら B, you cannot express a sequence of events in which B occurs before A. B can only take place at the time A comes true or later. You cannot use たら to describe an if sentence like the following. (B = this weekend, which comes before A = next week.)" +
+          "X 来週らいしゅう試し験けんがあったら、今度こんどの週末しゅうまつは勉強べんきょうしたほうがいいですよ。It will be better for you to study this weekend, if you have an exam next week." +
+          "Sometimes, the たら clause describes a very probably condition, and the second clause describes the event that will take place as soon as the situation is realized. With this type of sentence, たら arranges future events and activities in a temporal sequence." +
+          "宿題しゅくだいが終おわったら、遊あそびに行いきましょう。Let's go out and have some fun once we are done with the homework." +
+          "Note that the sentences could be interpreted in different ways. The difference lies not in the sentences themselves, but in context. For example, if you think that you can finish your homework in due course, the sentence means that you want to go out when it is done. If you are not sure whether you can finish your homework, the sentence describes what you will do if it gets finished." +
+          "Finally, the たら clause describes a condition that is unreal and contrary to fact. You can express a purely hypothetical condition and its probably result. 私わたしが猫ねこがったら、一日中寝いちにちじゅうねているでしょう。If I were a cat, I would be asleep all day long. 百万円ひゃくまんえんあったら、車くるまを買かうんですけど。If I had a million yen, I would buy a car.",
+      },
       { number: "17.4", title: "", id: "section4", content: "17.4" },
       { number: "17.5", title: "", id: "section5", content: "17.5" },
       { number: "17.6", title: "", id: "section6", content: "17.6" },
