@@ -1124,7 +1124,14 @@ const lessons = [
           "Note that the sentences could be interpreted in different ways. The difference lies not in the sentences themselves, but in context. For example, if you think that you can finish your homework in due course, the sentence means that you want to go out when it is done. If you are not sure whether you can finish your homework, the sentence describes what you will do if it gets finished." +
           "Finally, the たら clause describes a condition that is unreal and contrary to fact. You can express a purely hypothetical condition and its probably result. 私わたしが猫ねこがったら、一日中寝いちにちじゅうねているでしょう。If I were a cat, I would be asleep all day long. 百万円ひゃくまんえんあったら、車くるまを買かうんですけど。If I had a million yen, I would buy a car.",
       },
-      { number: "17.4", title: "", id: "section4", content: "17.4" },
+      {
+        number: "17.4",
+        title: "～なくてもいいです",
+        id: "section4",
+        content:
+          "17.4 ～なくてもいいです To describe what you do not need to do, take a negative sentence in the short form, drop the final い of ない, and add くてもいいです. なくて is the negative te-form." +
+          "靴くつを脱ぬがなくてもいいです。You do not need to take off your shoes. プレゼントは高たかくなくてもいいです。The present does not need to be anything expensive. ～ない	→	～なくてもいいです	does not need to ...",
+      },
       { number: "17.5", title: "", id: "section5", content: "17.5" },
       { number: "17.6", title: "", id: "section6", content: "17.6" },
     ],
