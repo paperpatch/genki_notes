@@ -1132,7 +1132,14 @@ const lessons = [
           "17.4 ～なくてもいいです To describe what you do not need to do, take a negative sentence in the short form, drop the final い of ない, and add くてもいいです. なくて is the negative te-form." +
           "靴くつを脱ぬがなくてもいいです。You do not need to take off your shoes. プレゼントは高たかくなくてもいいです。The present does not need to be anything expensive. ～ない	→	～なくてもいいです	does not need to ...",
       },
-      { number: "17.5", title: "", id: "section5", content: "17.5" },
+      {
+        number: "17.5",
+        title: "～みたいです",
+        id: "section5",
+        content:
+          "17.5 ～みたいです みたいです follows a noun and expresses the idea that something or somebody resembles the thing or person described by the noun. The resemblance is usually noted in terms of external characteristics." +
+          "",
+      },
       { number: "17.6", title: "", id: "section6", content: "17.6" },
     ],
   },
