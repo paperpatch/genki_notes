@@ -1138,6 +1138,8 @@ const lessons = [
         id: "section5",
         content:
           "17.5 ～みたいです みたいです follows a noun and expresses the idea that something or somebody resembles the thing or person described by the noun. The resemblance is usually noted in terms of external characteristics." +
+          "私わたしの父ちちはカーネルおじさんみたいです。My dad looks/acts like Colonel Sanders, the KFC founder. (Has a portly figure? Has a white goatee? Stands on the street 24/7?)" +
+          "みたいです can also follow a verb and expresses the idea that something appears to be the case. It can follow the short form of the present tense and the past tense, both in the affirmative and in the negative." +
           "",
       },
       { number: "17.6", title: "", id: "section6", content: "17.6" },
