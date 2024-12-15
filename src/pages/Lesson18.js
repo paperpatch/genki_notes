@@ -292,7 +292,7 @@ function Lesson18() {
               <span className="kanji">
                 沸<span className="furigana">わ</span>
               </span>
-              きました 。
+              きました。
               <br />
               <i>The water boiled.</i>
             </p>
