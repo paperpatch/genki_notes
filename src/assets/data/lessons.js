@@ -1140,21 +1140,90 @@ const lessons = [
           "17.5 ～みたいです みたいです follows a noun and expresses the idea that something or somebody resembles the thing or person described by the noun. The resemblance is usually noted in terms of external characteristics." +
           "私わたしの父ちちはカーネルおじさんみたいです。My dad looks/acts like Colonel Sanders, the KFC founder. (Has a portly figure? Has a white goatee? Stands on the street 24/7?)" +
           "みたいです can also follow a verb and expresses the idea that something appears to be the case. It can follow the short form of the present tense and the past tense, both in the affirmative and in the negative." +
-          "",
+          "雨あめが降ふったみたいですね。It looks like it has rained, doesn't it? あの人ひとはおなかがすいているみたいです。It looks like that person is hungry. あの人ひとはきのうの夜よる寝ねなかったみたいです。It looks like that person did not sleep last night." +
+          "noun/verb + みたいです	It looks like ...",
       },
-      { number: "17.6", title: "", id: "section6", content: "17.6" },
+      {
+        number: "17.6",
+        title: "～前に / ～てから",
+        id: "section6",
+        content:
+          "17.6 ～前に / ～てから You can use the present tense short form and 前まえに to describe the event before which something happens." +
+          "verb A (short, present) + 前に　verb B	B before A. ジーンズを買かう前まえに、はいてみます。I try on jeans before I buy them. 日本に来くる前まえに、一学いちがっ期き日本語を勉強しました。I studied Japanese for one semester before I came to Japan." +
+          "The verb that precedes 前に、is always in the present tense. To describe an event after which another thing happens, use the te-form of a verb + から. verb A + てから　verb B	A, and then B. / B after A." +
+          "勉強べんきょうくしてから、遊あそびに行いきました。I studied and then went out. 健さんが来きてから、食たべましょう。Why don't we (start) eat(ing) after Ken has arrived?",
+      },
     ],
   },
   {
     title: "Lesson 18: John's Part-time Job",
     path: "/lesson18",
     sections: [
-      { number: "18.1", title: "", id: "section1", content: "18.1" },
-      { number: "18.2", title: "", id: "section2", content: "18.2" },
-      { number: "18.3", title: "", id: "section3", content: "18.3" },
-      { number: "18.4", title: "", id: "section4", content: "18.4" },
-      { number: "18.5", title: "", id: "section5", content: "18.5" },
-      { number: "18.6", title: "", id: "section6", content: "18.6" },
+      {
+        number: "18.1",
+        title: "Transitivity Pairs",
+        id: "section1",
+        content:
+          "18.1 Transitivity Pairs Some verbs describe situations in which people act on things. For example, I open the door, you turn on the TV, and they break the computer. Such verbs are called transitive verbs. Other verbs describe changes that things or people undergo. For example, the door opens, the TV turns on, and the computer breaks down. These verbs are called intransitive verbs." +
+          "While most verbs are loners and do not have a counterpart of the opposite transitivity, some important verbs come in pairs. Transitive		Intransitive" +
+          "開あける	open something 開あく	something opens 閉しめる	close something	閉しまる	something closes 入いれる	put something in	入いる	something goes inside 出だす	take something out	出だる	something goes out つける	turn something on	つく	something goes on" +
+          "消けす	turn something off;	消けえる	something goes off extinguish something 壊こわす	break something	壊こわれる	something breaks 汚よごす	make something dirty	汚よごれる	something becomes dirty 落おとす	drop something	落おちる	something drops 沸わかす	boil water	沸わく	water boils" +
+          "Transitive verbs call for both the subject (agent) and the object (the thing that is acted upon). Intransitive verbs call only for the subject (the thing or the person that goes through the change). たけしさんが天てん気きをつけました。Takeshi turned the light on. 天てん気きがつきました。The light came on." +
+          "たけしさんがお湯ゆを沸わかしました。Takeshi boiled the water. お湯ゆが沸わきました。The water boiled.",
+      },
+      {
+        number: "18.2",
+        title: "Paired Intransitive Verbs + ている",
+        id: "section2",
+        content:
+          "18.2 Paired Intransitive Verbs + ている Transitive verbs describe activities, while instransitive verbs decribe changes. They behave differently when they are followed by the helping verb ている. Activity verbs + ている refers to action in progress, while change verbs + ている refer to the states resulting from the change." +
+          "ソラさんは今いま、友ともだちと話はなしています。　(activity, action in progress) Sora is talking with a friend right now. 山やま下した先せん生せいは結けっ婚こんしています。　(change, result state) Professor Yamashita is married." +
+          "Similarly, when followed by ている, transitive verbs refer to actions in progress, while intransitive verbs refer to states that hold true after the change takes place. Transitive (action in progress): Intransitive (result of a change):" +
+          "ウデイさん窓まどを開けけています。Uday is opening the windows. 窓まどを開けいています。The windows are open. ともさんは電でん気きを消きしています。Tomo is turning the light off. 電でん気きは消きえています。The light is off. ゴジラが町まちを壊こわしています。Godzilla is destroying the city. このパソコンは壊こわれています。This computer is broken.",
+      },
+      {
+        number: "18.3",
+        title: "～てしもう",
+        id: "section3",
+        content:
+          "18.3 ～てしもう The te-form of a verb + しまう has two meanings. In the first instance, しまう indicates that one carries out with determination a plan described by the verb. It typically involves bringing something to a culmination. You, in other words, do something completely, or finish doing something, or have something done." +
+          "本ほんを読よんでしまいました。I read the book completely. / I finished reading the book. The second meaning of しまう is lack of premeditation or control over how things turn out. This often comes with the sense of regret; something regrettable happens, or you do something which you did not intend to." +
+          "電でん車しゃの中なかにかばんを忘わすれてしまいました。I inadvertently left my bag on the train. 宿題しゅくだいを忘わすれたので、先生せんせいは怒おこってしまいました。To my horror, my professor got angry because I had forgotten my homework. ～てしまう ＝	1. finish doing 2. regrettably" +
+          "Both nuanced meanings focus on the discrepancy between what we intend and what the world is like when it is left on its own. A しまう sentence may be ambiguous between the two meanings. A given しまう sentence should be interpreted depending on the context and assumptions the speaker has when uttering it." +
+          "In speech, ～てしまう and ～でしまう are often contracted to ～ちゃう and ～じゃう, respectively. 宿題しゅくだいをなくしちゃった。I lost my homework! 食べてしまいました	→	1. finish doing 	→	2. regrettably",
+      },
+      {
+        number: "18.4",
+        title: "～と",
+        id: "section4",
+        content:
+          "18.4 ～と The present tense short form of a predicate + と means whenever the situation described by the predicate holds true, another thing happens. In most と sentences, the first clause describes the cause, and the second the effect." +
+          "私わたしはその人ひとと話はなすと元げん気きになる。Whenever I talk with that person, I feel uplifted. 道みちが混こんでいると時じ間かんがかかる。Whenever the streets are crowded, it takes longer to get there." +
+          "clause A　と　clause B。	Whenever A happens, B happens, too. (short, present) Sometimes, a と sentence describes a cause-effect relationship between specific events. マアリーさんが国くにに帰かえるとさびしくなります。If Mary goes back home, we will be sad and lonely." +
+          "While the clause that comes before と is always in the present tense, the second clause can be in the present or in the past tense. 私わたしは子こ供どもの時とき、冬ふゆになるとかぜをひきました。When I was young, whenever winter arrived, I caught a cold." +
+          "The event described the second clause must follow the event described in the first half of the sentence. Thus it is wrong to say: X　私わたしはその人ひとと話はなすとカフェに行いきます。Whenever I talk with that person, we go to a cafe." +
+          "If you want an adjective idea in the second clause, it is usually expressed as a change. It is very common to find in the second clause an い-adjtive base + くなる, and a な-adjective base + になる. 私わたしになると木きが赤あかくなります。Whenever fall arrives, trees turn red. 夜よるになると町まちが静しずかになるます。Whenever night comes, the town becomes quiet.",
+      },
+      {
+        number: "18.5",
+        title: "～ながら",
+        id: "section5",
+        content:
+          "18.5 ～ながら You can connect two verbs with ながら to say that the two actions are performed at the same time. ながら follows a verb stem. The second verb, which goes after ながら, can be in any form." +
+          "私わたしはいつも音おん楽がくを聞ききながら日本語を勉強べんきょうします。I always study Japanese while listening to music. たけしさんは歌うたを歌うたいながら洗濯せんたくしています。Takeshi is doing laundry singing a song. アルバイトをしながら学がっ校こうに行いくのは大たい変へんです。It is not easy to go to school while holding a part-time job." +
+          "V1　＋　ながら、V2	while V1-ing, V2 Note that the two verbs that flank ながら must be two actions performed by the same person. ながら, in other words, cannot describe an action performed while another person does something. X　メアリーが買かい物ものしながら、たけしは部へ屋やを掃そう除じします。It is not easy to go to school while holding a part-time job. Compare: メアリーが買かい物ものする時とき、たけしは部へ屋やを掃そう除じします。",
+      },
+      {
+        number: "18.6",
+        title: "～ばよかったです",
+        id: "section6",
+        content:
+          "18.6 ～ばよかったです ばよかったです means I wish I had done or I should have done something. You can use it to describe an alternative course of action that you did not take (with regret)." +
+          "Affirmative:	～ばよかった	I wish I had done ... Negtaive:	～なければよかった	I wish I had not done ... あの時とき、「愛あいしている」と言いえばよかったです。I wish I had told her that I loved her. 彼女かのじょと別わかれなければよかったです。I should not have broken up with her." +
+          "All verbs can regularly be turend into a ばよかったです sentence with no exception or irregularity. You form the ば-form on the basis of the present tense short forms." +
+          "～ば-form • Verbs in the affirmative:		Drop the final -u and add -eba. 食たべる	→	食たべれば 行いく	→	行いけば 待まつ	→	待まてば 買かう	→	買かえば する	→	すれば くる	→	くれば" +
+          "• Verbs in the negative:		Drop the final -い and add ければ. 食たべない	→	食たなければ 行いかない	→	行いかなければ 待またない	→	待またなければ 買かわない	→	買かわなければ しない	→	しなければ こない	→	こなければ",
+      },
     ],
   },
   {
