@@ -692,7 +692,7 @@ function Lesson18() {
             say:
           </p>
           <p className="tab">
-            <span className="text-red">X</span>　
+            <span className="text-red">✕</span>　
             <span className="kanji">
               私<span className="furigana">わたし</span>
             </span>
@@ -844,7 +844,7 @@ function Lesson18() {
             describe an action performed while another person does something.
           </p>
           <p className="tab">
-            <span className="text-red">X</span>　メアリーが
+            <span className="text-red">✕</span>　メアリーが
             <span className="kanji">
               買<span className="furigana">か</span>
             </span>

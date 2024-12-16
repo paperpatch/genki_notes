@@ -701,7 +701,7 @@ function Lesson16() {
             </span>
             けるといいんですが。
             <br />
-            Compare: <span className="text-red">X</span>{" "}
+            Compare: <span className="text-red">✕</span>{" "}
             <span className="kanji">
               大<span className="furigana">だい</span>
             </span>

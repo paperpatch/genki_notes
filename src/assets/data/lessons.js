@@ -510,7 +510,7 @@ const lessons = [
           "8.2 Short Forms in Informal Speech Close friends or family members speak with each other using short forms. Long forms tends to imply the speaker's intention to keep a proper distance from the listener. Friend A: 今日、学校に行く？ (Short form) Are you going to school today?" +
           "Friend B: ううん、行かない。 No, I'm not. Stranger A: すみません、この電車は新宿にいきますか。 (Long form) Excuse me, does this train go to Shinjuku? Stranger B: いいえ、行きませにょ。No, it doesn't." +
           "Be wary when switching to short forms, as Japanese speakers are very concious of seniority. Just because someone uses short forms with you does not mean it's a mutual relationshi in using short/long forms. Juniors often uses long forms to their senior while seniors are more free to use short forms to their juniors." +
-          "Profesor: この漢字、わかる？ Do you know this kanji? Student: はい、わかります。(X うん、わかる。) Yes, I do. In casual conversations, you drop the question particle か, and use the rising intonation to ask a question." +
+          "Profesor: この漢字、わかる？ Do you know this kanji? Student: はい、わかります。(✕ うん、わかる。) Yes, I do. In casual conversations, you drop the question particle か, and use the rising intonation to ask a question." +
           "In spoken language, you usually drop the sentence-final だ after a な-adjective or a noun. However, You keep the last だ in the written language. A: 元気？ Are you good? B: うん、元気。 Yes, I am." +
           "Keep だ when you follow it up with ね or よ. メアリーさんは二年生だよ。Mary is a sophomore. はい and いいえ are usually replaced by the less formal うん and ううん. よくスポーツをする？ Do you often play sports? うん、する。/ ううん、しない。Yes, I do. / No, I don't.",
       },
@@ -865,7 +865,7 @@ const lessons = [
           "When you mention more than one reasons, you can use し in place of から. し usually follows a predicate in the short form. (reason1) し、(reason2) し、(situation)。日本語は面おも白しろいし、先せん生せいはいいし、私は日本語の授業じゅぎょうが大だい好きです。I really like my Japanese class, because Japanese is interesting, and our teacher is good." +
           "When you use just one し clause, you imply that it is not the only reason for the situation. 物ぶっ価かが安やすいし、この町まちの生せい活かつは楽らくです。Life in this city is easygoing. Things are inexpensive, for one thing. You can also add the し clause in a separate sentence, providing reasons for the situation mentioned." +
           "山やま下した先せん生せいはいい先せん生せいです。教おしえるのが上じょう手ずだし、親しん切せつだし。Professor Yamashita is a great teacher. He is good at teaching, and he is kind. Note that you find だ in the present tense with な-adjectives and nouns, but not with い-adjectives." +
-          "い-adjectives:	おもしろいし	(X おもしろいだし) な-adjectives:	好すきだし	(X 好すきし) noun + です:	学がく生せいだし	(X 学がく生せいし)",
+          "い-adjectives:	おもしろいし	(✕ おもしろいだし) な-adjectives:	好すきだし	(✕ 好すきし) noun + です:	学がく生せいだし	(✕ 学がく生せいし)",
       },
       {
         number: "13.3",

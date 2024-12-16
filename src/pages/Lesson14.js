@@ -932,7 +932,7 @@ function Lesson14() {
                   <i>Why don't you come to my place?</i>
                 </td>
                 <td>
-                  Compare: <span className="text-red">X</span> うちに
+                  Compare: <span className="text-red">✕</span> うちに
                   <span className="kanji">
                     来<span className="furigana">き</span>
                   </span>

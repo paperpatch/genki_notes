@@ -444,7 +444,7 @@ function Lesson8() {
                   Student: はい、わかります。
                   <br />
                   　　　　(
-                  <span className="text-red"> X </span>うん、わかる。)
+                  <span className="text-red"> ✕ </span>うん、わかる。)
                 </td>
                 <td>
                   <i>Yes, I do.</i>
@@ -465,7 +465,7 @@ function Lesson8() {
             <span className="kanji">
               聞<span className="furigana">き</span>
             </span>
-            く？　　（ <span className="text-red">X</span> どな
+            く？　　（ <span className="text-red">✕</span> どな
             <span className="kanji">
               音楽<span className="furigana">おんがく</span>
             </span>

@@ -795,7 +795,7 @@ function Lesson12() {
             <span className="kanji">
               菜<span className="furigana">さい</span>
             </span>
-            でしょうか。 ( <span className="text-red">X</span>{" "}
+            でしょうか。 ( <span className="text-red">✕</span>{" "}
             <span className="kanji">
               野<span className="furigana">や</span>
             </span>

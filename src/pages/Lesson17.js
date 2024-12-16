@@ -639,7 +639,7 @@ function Lesson17() {
             week.)
           </p>
           <p className="tab">
-            <span className="text-red">X</span>{" "}
+            <span className="text-red">✕</span>{" "}
             <span className="kanji">
               来週<span className="furigana">らいしゅう</span>
             </span>

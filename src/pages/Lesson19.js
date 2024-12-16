@@ -471,7 +471,7 @@ function Lesson19() {
             I want somebody to pass the salt for me:
           </p>
           <p className="tab">
-            <span className="text-red">X</span>　
+            <span className="text-red">✕</span>　
             <span className="kanji">
               塩<span className="furigana">しお</span>
             </span>

@@ -322,7 +322,7 @@ function Lesson20() {
             who is not in your group. It is wrong to say:
           </p>
           <p className="tab">
-            <span className="text-red">X</span>　
+            <span className="text-red">✕</span>　
             <span className="kanji">
               先生<span className="furigana">せんせい</span>
             </span>

@@ -406,7 +406,7 @@ function Lesson11() {
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;はい、あります。
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;(<span className="text-red"> X</span>{" "}
+            &nbsp;&nbsp;&nbsp;&nbsp;(<span className="text-red"> ✕</span>{" "}
             はい、ことがあります。)
             <br />
             <i>Yes, I have.</i>

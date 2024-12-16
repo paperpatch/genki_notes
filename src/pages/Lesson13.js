@@ -857,7 +857,7 @@ function Lesson13() {
                 <td>い-adjectives:</td>
                 <td>おもしろいし</td>
                 <td>
-                  (<span className="text-red">X</span> おもしろいだし)
+                  (<span className="text-red">✕</span> おもしろいだし)
                 </td>
               </tr>
               <tr>
@@ -869,7 +869,7 @@ function Lesson13() {
                   き<span className="underline-green">だ</span>し
                 </td>
                 <td>
-                  (<span className="text-red">X</span>{" "}
+                  (<span className="text-red">✕</span>{" "}
                   <span className="kanji">
                     好<span className="furigana">す</span>
                   </span>
@@ -888,7 +888,7 @@ function Lesson13() {
                   <span className="underline-green">だ</span>し
                 </td>
                 <td>
-                  (<span className="text-red">X</span>{" "}
+                  (<span className="text-red">✕</span>{" "}
                   <span className="kanji">
                     学<span className="furigana">がく</span>
                   </span>
@@ -1031,7 +1031,7 @@ function Lesson13() {
             In many そうです sentences, the guesswork is done on the basis of
             visual impressions. We use そうです when we{" "}
             <i>lack conclusive evidence</i>. We do not use そう for visual
-            evidence, such as <span className="text-red">X</span> きれいそうです
+            evidence, such as <span className="text-red">✕</span> きれいそうです
             for looking something pretty. If we can see it, then we have
             evidence to conclude that it is pretty.
           </p>
