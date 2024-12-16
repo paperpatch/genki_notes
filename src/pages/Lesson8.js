@@ -756,7 +756,7 @@ function Lesson8() {
             the <i>-ing</i> form in English.
           </p>
           <p className="tab">
-            <span className="text-red">X</span> たけしさんは英語を
+            <span className="text-red">✕</span> たけしさんは英語を
             <span className="underline-orange">話して</span>
             が下手です。
           </p>
@@ -820,7 +820,7 @@ function Lesson8() {
             <i>Who went to Okinawa.</i>
           </p>
           <p className="tab">
-            Compare: <span className="text-red">X</span> だれ
+            Compare: <span className="text-red">✕</span> だれ
             <span className="underline-orange">は</span>
             沖縄に行きましたか。
           </p>
