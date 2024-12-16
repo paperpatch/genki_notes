@@ -952,7 +952,148 @@ function Lesson21() {
       <section id="section4">
         <h3>21.4: Adjective + する</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Similar to Lesson 10 where something can "become" something, as in{" "}
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            くなる (become cold/colder) and{" "}
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            になる (become good/better at doing X), we can use adjectives
+            together with the irregular verb する, which in combination with
+            adjectives means "to make".
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    冷<span className="furigana">つめ</span>
+                  </span>
+                  たい
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    冷<span className="furigana">つめ</span>
+                  </span>
+                  たくする
+                </td>
+                <td>
+                  <i>to make something cold/colder</i>
+                </td>
+              </tr>
+              <tr>
+                <td>いい</td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="underline-green">よ</span>くする
+                </td>
+                <td>
+                  <i>to make something better</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    簡単<span className="furigana">かんたん</span>
+                  </span>
+                  な
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    簡単<span className="furigana">かんたん</span>
+                  </span>
+                  にする
+                </td>
+                <td>
+                  <i>to make something simple/simpler</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            この
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            の
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            は
+            <span className="kanji">
+              難<span className="furigana">むずか</span>
+            </span>
+            しすぎたので、
+            <span className="kanji">
+              次<span className="furigana">つぎ</span>
+            </span>
+            の
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            はやさしくしてください。
+            <br />
+            <i>
+              Please make the next exam easier, because the last one was too
+              difficult.
+            </i>
+          </p>
+          <p className="tab">
+            みんなで
+            <span className="kanji">
+              世<span className="furigana">せ</span>
+            </span>
+            <span className="kanji">
+              界<span className="furigana">かい</span>
+            </span>
+            をよくしましょう。
+            <br />
+            <i>Let's join our forces and make the world a better place.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
+            </span>
+            をきれいにしました。
+            <br />
+            <i>I cleaned the room. (lit., I made the room clean.)</i>
+          </p>
+          <p>Note that the following idiomatic use of this pattern:</p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かにする
+                </td>
+                <td>make it quiet</td>
+                <td className="arrow-right">→</td>
+                <td>keep quiet</td>
+                <td>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かにしてください。
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
