@@ -120,13 +120,14 @@ function Lesson13() {
               <tr>
                 <td style={{ paddingLeft: "2em" }}>
                   <span className="kanji">
-                    話す<span className="furigana">はな</span>
+                    話<span className="furigana">はな</span>
                   </span>
+                  す
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
-                    話す<span className="furigana">はな</span>
+                    話<span className="furigana">はな</span>
                   </span>
                   せる
                 </td>
