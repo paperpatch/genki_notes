@@ -609,7 +609,180 @@ function Lesson21() {
       <section id="section2">
         <h3>21.2: ～てある</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use the <i>te</i>-form of a verb + the helping verb ある to
+            characterize a situation that{" "}
+            <i>has been brought about on purpose</i> by somebody who remains
+            unnamed in the sentence.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>～が</td>
+                <td>verb + てある</td>
+                <td>
+                  <i>... has been done on purpose</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p className="tab">
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            いので、ヒーターがつけてあります。
+            <br />
+            <i>The heater is on, because it is cold.</i>
+            <br />( ={" "}
+            <i>The heater was turned on and has been kept that way.</i>)
+          </p>
+          <p className="tab">
+            テーブルの
+            <span className="kanji">
+              上<span className="furigana">うえ</span>
+            </span>
+            に
+            <span className="kanji">
+              花<span className="furigana">はな</span>
+            </span>
+            が
+            <span className="kanji">
+              置<span className="furigana">お</span>
+            </span>
+            いてあります。
+            <br />
+            <i>Flowers are on the table.</i>
+            <br />( ={" "}
+            <i>
+              Flowers were put on the table and they have remained there ever
+              since.
+            </i>
+            )
+          </p>
+          <p>
+            You can say ～てあります if somebody, possibly yourself, performed
+            an action on purpose earlier, which can be described in terms of
+            ～ておきました ("do something by way of prepraration" ref. Lesson
+            15), and if the result of that action can still be observed at this
+            moment. Note that ～てあります describes a current state, hence the
+            present tense.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  レストランの
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  がしてあります。
+                  <br />
+                  <i>A restaurant reservation has been made.</i>
+                </td>
+                <td style={{ padding: 0 }}>is the result of</td>
+                <td>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  をしておきました。
+                  <br />
+                  <i>(I) made a reservation in advance.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  パンが
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  ってあります。
+                  <br />
+                  <i>Bread has been bought (and is ready).</i>
+                </td>
+                <td style={{ padding: 0 }}>is the result of</td>
+                <td>
+                  パンを
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  っておきました。
+                  <br />
+                  <i>(I) bought bread (for future use).</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            てある normally assigns the particle が (or は) to the noun, which
+            is usually marked with を. てある almost exclusively goes with a
+            transitive verb.
+          </p>
+          <p>
+            Compare also てある sentences with ている sentences that describe
+            current states. ている goes with intransitive verbs, in contrast
+            with てある.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    窓<span className="furigana">まど</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    閉<span className="furigana">し</span>
+                  </span>
+                  めてあります。
+                  <br />
+                  <i>The window has been kept closed.</i>
+                </td>
+                <td>
+                  (
+                  <span className="kanji">
+                    閉<span className="furigana">し</span>
+                  </span>
+                  める = transitive)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    窓<span className="furigana">まど</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    閉<span className="furigana">し</span>
+                  </span>
+                  まっています。
+                  <br />
+                  <i>The window is closed.</i>
+                </td>
+                <td>
+                  (
+                  <span className="kanji">
+                    閉<span className="furigana">し</span>
+                  </span>
+                  まる = intransitive)
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            These sentences describe the same situation: the window is closed.
+            However, they differ in connotations. The transition てある
+            sentence, the current state of the window is the result of a human
+            action; somebody closed it and kept it that way. With the
+            intransitive ている sentence, there is no such clear implication of
+            human intervention. The window is closed, but may or may not be the
+            result of somebody closing it.
+          </p>
         </div>
       </section>
 
