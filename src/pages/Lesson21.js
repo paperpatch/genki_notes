@@ -1100,7 +1100,173 @@ function Lesson21() {
       <section id="section5">
         <h3>21.5: ～てほしい</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            When you want somebody to do something, you can describe your wish
+            by using the <i>te</i>-form of a verb and the adjective ほしい. The
+            person the wish is directed to is marked with the particle に.
+          </p>
+          <p className="tab">
+            私は　
+            <span className="kanji">
+              病気<span className="furigana">びょうき</span>
+            </span>
+            の
+            <span className="kanji">
+              友<span className="furigana">とも</span>
+            </span>
+            だちに　
+            <span className="kanji">
+              元気<span className="furigana">げんき</span>
+            </span>
+            になってほしいです。
+            <br />
+            <i>I want my sick friend to get well.</i>
+          </p>
+          <p className="tab">
+            私は　ルームメイトに　
+            <span className="kanji">
+              宿題<span className="furigana">しゅくだい</span>
+            </span>
+            を
+            <span className="kanji">
+              手伝<span className="furigana">てつだ</span>
+            </span>
+            ってほしかったです。
+            <br />
+            <i>I wanted my roommate to help me with my homework.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>（私は）person に</td>
+                <td>
+                  verb <i>te</i>-form ほしい
+                </td>
+                <td>
+                  <i>I want</i> (person) <i>to do</i>...
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            When you want to say you don't want them to do something, you can
+            negate ほしい and say ～てほしくないです or negate the verb and say
+            ～ないでほしいです.
+          </p>
+          <p className="tab">
+            私は　お
+            <span className="kanji">
+              父<span className="furigana">とう</span>
+            </span>
+            さんに　
+            <span className="kanji">
+              昔<span className="furigana">むかし</span>
+            </span>
+            の
+            <span className="kanji">
+              話<span className="furigana">はなし</span>
+            </span>
+            をし<span className="underline-green">てほしくない</span>です。
+            <br />
+            <i>I don't want my father to talk about the good old times.</i>
+          </p>
+          <p className="tab">
+            私は　
+            <span className="kanji">
+              日本人<span className="furigana">にほんじん</span>
+            </span>
+            の
+            <span className="kanji">
+              友<span className="furigana">とも</span>
+            </span>
+            だちに　
+            <span className="kanji">
+              英語<span className="furigana">えいご</span>
+            </span>
+            さ<span className="underline-green">ないでほしい</span>です。
+            <br />
+            <i>I don't want my Japanese friends to speak in English.</i>
+          </p>
+          <p>Summarization of "want":</p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb stem + たい (Lesson 11)</td>
+                <td>
+                  <i>I want to do ...</i>
+                </td>
+              </tr>
+              <tr>
+                <td>noun が　ほしい (Lesson 14)</td>
+                <td>
+                  <i>I want something.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  verb <i>te</i>-form + ほしい (this lesson)
+                </td>
+                <td>
+                  <i>I want somebody to do ...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  私はベトナムに
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  きたいです。
+                </td>
+                <td>
+                  <i>I want to go to Vietnam.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  私は
+                  <span className="kanji">
+                    歩<span className="furigana">ある</span>
+                  </span>
+                  きやすい
+                  <span className="kanji">
+                    靴<span className="furigana">くつ</span>
+                  </span>
+                  がほしいです。
+                </td>
+                <td>
+                  <i>I want comfortable shoes.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  私は
+                  <span className="kanji">
+                    妹<span className="furigana">いもうと</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    部<span className="furigana">へ</span>
+                  </span>
+                  <span className="kanji">
+                    屋<span className="furigana">や</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    片付<span className="furigana">かたづ</span>
+                  </span>
+                  けてほしいです。
+                </td>
+                <td>
+                  <i>I want my little sister to clean up her room.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
     </div>
