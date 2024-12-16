@@ -789,7 +789,163 @@ function Lesson21() {
       <section id="section3">
         <h3>21.3: ～間に</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            Use the pattern "A{" "}
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に B" when a certain event B takes place <i>in the middle of</i>{" "}
+            another event, A. Most often, event A is described with ている if
+            the verb takes ている for an action in progress. The verb for A is
+            in the present tense, even wehn clause A describes a situation in
+            the past.
+          </p>
+          <p className="tab">
+            お
+            <span className="kanji">
+              風<span className="furigana">ふ</span>
+            </span>
+            <span className="kanji">
+              呂<span className="furigana">ろ</span>
+            </span>
+            に
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            っている
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に
+            <span className="kanji">
+              電話<span className="furigana">でんわ</span>
+            </span>
+            がありました。
+            <br />
+            <i>There was a phone call while I was taking a bath.</i>
+          </p>
+          <p className="tab">
+            きのうの
+            <span className="kanji">
+              夜<span className="furigana">よる</span>
+            </span>
+            、
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            ている
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に
+            <span className="kanji">
+              地震<span className="furigana">じしん</span>
+            </span>
+            がありました。
+            <br />
+            <i>There was an earthquake while I was asleep last night.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              両親<span className="furigana">りょしん</span>
+            </span>
+            が
+            <span className="kanji">
+              日本<span className="furigana">にほん</span>
+            </span>
+            にいる
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に
+            <span className="kanji">
+              京都<span className="furigana">きょうと</span>
+            </span>
+            に
+            <span className="kanji">
+              連<span className="furigana">つ</span>
+            </span>
+            れていきたいです。　（<span className="text-red">✕</span>{" "}
+            日本にいている間に）
+            <br />
+            <i>I want to take my parents to Kyoto while they are in Japan.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <td>
+                A (ている){" "}
+                <span className="kanji">
+                  間<span className="furigana">あいだ</span>
+                </span>
+                に B
+              </td>
+              <td>
+                <i>B takes place while A occurs.</i>
+              </td>
+            </tbody>
+          </table>
+          <p>The "A" above can be a noun as well.</p>
+          <p className="tab">
+            <span className="kanji">
+              留<span className="furigana">る</span>
+            </span>
+            <span className="kanji">
+              守<span className="furigana">す</span>
+            </span>
+            の
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に
+            <span className="kanji">
+              友達<span className="furigana">ともだち</span>
+            </span>
+            が
+            <span className="kanji">
+              来<span className="furigana">き</span>
+            </span>
+            ました。
+            <br />
+            <i>A friend came while I was out.</i>
+          </p>
+          <p>
+            Event B must be of short duration and begin and end within the
+            bounds of activity A. If B extends <i>throughout</i> the time when A
+            occurs, we use{" "}
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>{" "}
+            instead of{" "}
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            に.
+          </p>
+          <p className="tab">
+            ルームメイトが
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            い
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            をしている
+            <span className="kanji">
+              間<span className="furigana">あいだ</span>
+            </span>
+            、私は本を
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            んで
+            <span className="kanji">
+              待<span className="furigana">ま</span>
+            </span>
+            ちました。
+            <br />
+            <i>I waited, reading a book, while my roommate was shopping.</i>
+          </p>
         </div>
       </section>
 
