@@ -768,7 +768,209 @@ function Lesson22() {
       <section id="section5">
         <h3>22.5: ～のに</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            のに connects two facts, A and B, which hold in spite of the
+            expectation that if A is the case, B is not to be the case. "A のに
+            B," means "A, but contrary to expectations, B, too" or "B, despite
+            the fact A."
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              会社<span className="furigana">かいしゃ</span>
+            </span>
+            はお
+            <span className="kanji">
+              金<span className="furigana">かね</span>
+            </span>
+            があるのに、
+            <span className="kanji">
+              給料<span className="furigana">きゅうりょう</span>
+            </span>
+            は
+            <span className="kanji">
+              安<span className="furigana">やす</span>
+            </span>
+            いです。
+            <br />
+            <i>This company is rich, but its workers' salaries are low.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              八時間<span className="furigana">はちじかん</span>
+            </span>
+            も
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            ができなかった。
+            <br />
+            <i>
+              I studied for eight hours, but I couldn't do well on the
+              examination.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>A (short form) のに B</td>
+                <td>
+                  <i>Despite the fact A, it is B.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The predicate in part A is in the short form. When A ends with a
+            な-adjective or with a noun + です, it apperas as な, just like in
+            the explanatory んです construction.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              田中<span className="furigana">たなか</span>
+            </span>
+            さんは
+            <span className="kanji">
+              親切<span className="furigana">しんせつ</span>
+            </span>
+            なのに、
+            <span className="kanji">
+              山田<span className="furigana">やまだ</span>
+            </span>
+            さんは
+            <span className="kanji">
+              田中<span className="furigana">たなか</span>
+            </span>
+            さんがきらいです。
+            <br />
+            <i>Ms.Tanaka is nice, but Ms.Yamada does not like her.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              大<span className="furigana">おお</span>
+            </span>
+            きい
+            <span className="kanji">
+              問題<span className="furigana">もんだい</span>
+            </span>
+            なのに、あの
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            はだれにも
+            <span className="kanji">
+              相談<span className="furigana">そうだん</span>
+            </span>
+            しません。
+            <br />
+            <i>It is a big issue, but he does not consult with anybody.</i>
+          </p>
+          <p>
+            Because のに connects two facts, you cannot have non-factual
+            sentences, like requests or suggestions, in the B clause:
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td className="text-red" style={{ textAlign: "right" }}>
+                  ✕
+                </td>
+                <td>
+                  この
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    日本語<span className="furigana">にほんご</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    少<span className="furigana">すこ</span>
+                  </span>
+                  し
+                  <span className="kanji">
+                    難<span className="furigana">むずか</span>
+                  </span>
+                  しいのに、
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  んでください。
+                </td>
+              </tr>
+              <tr>
+                <td style={{ textAlign: "right" }}>Compare:</td>
+                <td>
+                  この
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    日本語<span className="furigana">にほんご</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    少<span className="furigana">すこ</span>
+                  </span>
+                  し
+                  <span className="kanji">
+                    難<span className="furigana">むずか</span>
+                  </span>
+                  しい<span className="underline-green">ですが</span>、
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  んでください。
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <i>
+                    Japanese in this book is a little difficult, but please read
+                    it.
+                  </i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td className="text-red" style={{ textAlign: "right" }}>
+                  ✕
+                </td>
+                <td>
+                  あまりおいしそうじゃないのに、ここで
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べましょう。
+                </td>
+              </tr>
+              <tr>
+                <td style={{ textAlign: "right" }}>Compare:</td>
+                <td>
+                  あまりおいしそうじゃない
+                  <span className="underline-green">けど</span>、ここで
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べましょう。
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <i>
+                    The food does not look very promising, but let's eat here.
+                  </i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
