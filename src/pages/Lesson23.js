@@ -422,7 +422,355 @@ function Lesson23() {
       <section id="section2">
         <h3>23.2: ～ても</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            "A ても B" is "B, even if A". In short, B is still true in case of
+            A. Compare ても sentences with たら sentences, which have a more
+            straightforward "if-then" meaning:
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              雨<span className="furigana">あめ</span>
+            </span>
+            が
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            っ<span className="underline-green">ても</span>
+            、バーベキューをします。
+            <br />
+            <i>We will have a barbecue, even if it rains.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              雨<span className="furigana">あめ</span>
+            </span>
+            が
+            <span className="kanji">
+              降<span className="furigana">ふ</span>
+            </span>
+            ったら、バーベキューをしません。
+            <br />
+            <i>We will have a barbecue, even if it rains.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              暑<span className="furigana">あつ</span>
+            </span>
+            く<span className="underline-green">ても</span>
+            、エアコンをつけません。
+            <br />
+            <i>I will not turn on the air conditioner, even if it is hot.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              暑<span className="furigana">あつ</span>
+            </span>
+            かったら、エアコンをつけます。
+            <br />
+            <i>I will turn on the air conditioner, if it is hot.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              子供<span className="furigana">こども</span>
+            </span>
+            <span className="underline-green">でも</span>、わかります。
+            <br />
+            <i>
+              Even a child will get it. (You will be able to understand it, even
+              if you are a child.)
+            </i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              子供<span className="furigana">こども</span>
+            </span>
+            だったら、わかりません。
+            <br />
+            <i>If you are a child, you will not get it.</i>
+          </p>
+          <p>
+            You can form a ても clause by adding も to the verb or adjective{" "}
+            <i>te</i>-form. With な-adjectives and nouns, you have でも. Note
+            that verb たら and ても forms look very much alike, but adjective
+            たら and ても forms look distinct.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <thead>
+              <tr>
+                <th colSpan={5} className="table-header text-green">
+                  ～ても (affirmative)
+                </th>
+                <td>Compare:</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>• verbs:</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  う
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  っても
+                </td>
+                <td></td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  ったら
+                </td>
+              </tr>
+              <tr>
+                <td>• い-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しい
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しくても
+                </td>
+                <td>
+                  （　<span className="text-red">✕</span>　
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しかっても）
+                </td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しかったら
+                </td>
+              </tr>
+              <tr>
+                <td>• な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  （な）
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  でも
+                </td>
+                <td>
+                  （　<span className="text-red">✕</span>　
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  だっても）
+                </td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  だったら
+                </td>
+              </tr>
+              <tr>
+                <td>nouns:</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  でも
+                </td>
+                <td>
+                  （　<span className="text-red">✕</span>　
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  だっても）
+                </td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  だったら
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You can also form a negative ても clause, based on the short form
+            negative.
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <thead>
+              <tr>
+                <th colSpan={4} className="table-header text-green">
+                  ～ても (negative)
+                </th>
+                <td>Compare:</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>• verbs:</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  わない
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  わなくても
+                </td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  わなかったら
+                </td>
+              </tr>
+              <tr>
+                <td>• い-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しくない
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しくなくても
+                </td>
+                <td>
+                  <span className="kanji">
+                    悲<span className="furigana">かな</span>
+                  </span>
+                  しくなかったら
+                </td>
+              </tr>
+              <tr>
+                <td>• な-adjectives:</td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  じゃない
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  じゃなくても
+                </td>
+                <td>
+                  <span className="kanji">
+                    元気<span className="furigana">げんき</span>
+                  </span>
+                  じゃなかったら
+                </td>
+              </tr>
+              <tr>
+                <td>nouns:</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃない
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃなくても
+                </td>
+                <td>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃなかったら
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The ても clause itself does not have tense. It can be followed
+            either by a present tense clause, or by a past tense clause.
+          </p>
+          <p className="tab">
+            私は、
+            <span className="kanji">
+              風<span className="furigana">か</span>
+            </span>
+            <span className="kanji">
+              邪<span className="furigana">ぜ</span>
+            </span>
+            をひいていても、
+            <span className="kanji">
+              毎日<span className="furigana">まいにち</span>
+            </span>
+            、
+            <span className="kanji">
+              授業<span className="furigana">じゅぎょう</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きました。
+            <br />
+            <i>I went to class every day, even when I had a cold.</i>
+          </p>
+          <p className="tab">
+            日本
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            の
+            <span className="kanji">
+              授業<span className="furigana">じゅぎょう</span>
+            </span>
+            が
+            <span className="kanji">
+              難<span className="furigana">むずか</span>
+            </span>
+            しくても、
+            <span className="kanji">
+              取<span className="furigana">と</span>
+            </span>
+            ったでしょう。
+            <br />
+            <i>
+              I would have taken the Japanese class, even if it could have been
+              difficult.
+            </i>
+          </p>
         </div>
       </section>
 
