@@ -431,7 +431,58 @@ function Lesson22() {
       <section id="section3">
         <h3>22.3: Verb Stem + なさい</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The verb stem + なさい is a command. なさい has a strong implication
+            that you are "talking down" to somebody, or that you think you are
+            more mature, know better, and should be obeyed. なさい, therefore,
+            is appropriate for parents to use toward their children. You also
+            often see なさい in exam instructions.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              十時<span className="furigana">じゅうじ</span>
+            </span>
+            までに
+            <span className="kanji">
+              帰<span className="furigana">かえ</span>
+            </span>
+            りなさい。
+            <br />
+            <i>Come home by 10 o'clock.</i>
+          </p>
+          <p className="tab">
+            かっこの
+            <span className="kanji">
+              中<span className="furigana">なか</span>
+            </span>
+            に
+            <span className="kanji">
+              単語<span className="furigana">たんご</span>
+            </span>
+            を
+            <span className="kanji">
+              入<span className="furigana">い</span>
+            </span>
+            れなさい。
+            <br />
+            <i>Fill in the blanks with a word.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              文句<span className="furigana">もんく</span>
+            </span>
+            を
+            <span className="kanji">
+              言<span className="furigana">いい</span>
+            </span>
+            うのをやめなさい。
+            <br />
+            <i>Stop complaining.</i>
+          </p>
+          <p>
+            You can express the idea of the negative "don't do..." using a verb
+            followed by のを and やめなさい, which comes from the verb やめる.
+          </p>
         </div>
       </section>
 
