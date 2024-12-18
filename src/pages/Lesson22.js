@@ -89,7 +89,7 @@ function Lesson22() {
                 <td className="arrow-right">→</td>
                 <td>
                   <span className="kanji">
-                    話す<span className="furigana">はな</span>
+                    話<span className="furigana">はな</span>
                   </span>
                   させる
                 </td>
