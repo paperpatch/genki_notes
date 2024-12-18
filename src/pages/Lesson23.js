@@ -912,7 +912,106 @@ function Lesson23() {
       <section id="section5">
         <h3>23.5: ～まで</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            まで means "till A". The A in "A まで B" is the description of the
+            change that coincides with or causes the end of B. The A, therefore,
+            is usually a verb of the "change" kind. The verb in A is always in
+            the present tense and in the affirmative.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              晴<span className="furigana">は</span>
+            </span>
+            れるまで、カフェでコーヒーを
+            <span className="kanji">
+              飲<span className="furigana">の</span>
+            </span>
+            みながら、
+            <span className="kanji">
+              待<span className="furigana">ま</span>
+            </span>
+            ちます。
+            <br />
+            <i>I will wait in the cafe, drinking coffee, till it clears up.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              日本語<span className="furigana">にほんご</span>
+            </span>
+            が
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            になるまで、
+            <span className="kanji">
+              国<span className="furigana">くに</span>
+            </span>
+            に
+            <span className="kanji">
+              帰<span className="furigana">かえ</span>
+            </span>
+            りません。
+            <br />
+            <i>
+              I will not go back to my country, till I become fluent in
+              Japanese.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb (short, present, affirmative) + まで</td>
+                <td>
+                  <i>till A</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            When the subject of A is different from the subject of B, the former
+            is marked with the particle が rather than は.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              赤<span className="furigana">あか</span>
+            </span>
+            ちゃんが
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            るまで、（私は）
+            <span className="kanji">
+              歌<span className="furigana">うた</span>
+            </span>
+            を
+            <span className="kanji">
+              歌<span className="furigana">うた</span>
+            </span>
+            ってあげます。
+            <br />
+            <i>I will sing a lullaby till the baby falls asleep.</i>
+          </p>
+          <p>
+            You can use "A まで B" in a sentence describing a situation in the
+            past. Note that the verb in A is in the present tense nonetheless.
+          </p>
+          <p className="tab">
+            にほんの
+            <span className="kanji">
+              生活<span className="furigana">せいかつ</span>
+            </span>
+            に
+            <span className="kanji">
+              慣<span className="furigana">な</span>
+            </span>
+            れるまで、
+            <span className="kanji">
+              大変<span className="furigana">たいへん</span>
+            </span>
+            でした。
+            <br />
+            <i>It was tough until I got used to living in Japan.</i>
+          </p>
         </div>
       </section>
 
