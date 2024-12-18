@@ -333,7 +333,98 @@ function Lesson22() {
       <section id="section2">
         <h3>22.2: Causative + てあげる / てくれる / てもらう</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            If the helping verb てあげる, てくれる, or てもらう follows a
+            causative verb, you can assume in almost all cases that it is a
+            "let" causative (see Lesson 16 for helping verbs).
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              先生<span className="furigana">せんせい</span>
+            </span>
+            は私に
+            <span className="kanji">
+              英語<span className="furigana">えいご</span>
+            </span>
+            を
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            させてくれませんでした。
+            <br />
+            <i>The professor did not allow me to speak in English.</i>
+          </p>
+          <p className="tab">
+            私は
+            <span className="kanji">
+              自分<span className="furigana">じぶん</span>
+            </span>
+            の
+            <span className="kanji">
+              子供<span className="furigana">こども</span>
+            </span>
+            に
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きなことをさせてあげるつもりです。
+            <br />
+            <i>I think I will let my children do what they love.</i>
+          </p>
+          <p>
+            You can use the causative + てください to ask for permission to do
+            something and to volunteer to do something.
+          </p>
+          <p className="tab">
+            私にこの
+            <span className="kanji">
+              仕事<span className="furigana">しごと</span>
+            </span>
+            をやらせてください。
+            <br />
+            <i>Please let me do this job.</i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <thead>
+              <tr>
+                <th className="table-header text-green">
+                  Usage of causative verb
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style={{ paddingBottom: "5px", paddingLeft: "3em" }}>
+                  • <span className="text-green">(director)</span> は　
+                  <span className="text-green">(cast)</span> に　causative verb
+                </td>
+                <td style={{ paddingBottom: "5px" }}>
+                  <span className="text-green">(director)</span>{" "}
+                  <i>makes/lets</i> <span className="text-green">(cast)</span>{" "}
+                  do...
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingBottom: "5px", paddingLeft: "3em" }}>
+                  • <span className="text-green">(director)</span> は　
+                  <span className="text-green">(cast)</span> に　causative verb
+                  + てあげる／てくれる
+                </td>
+                <td style={{ paddingBottom: "5px" }}>
+                  <span className="text-green">(director)</span> <i>lets</i>{" "}
+                  <span className="text-green">(cast)</span> do...
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingBottom: "5px", paddingLeft: "3em" }}>
+                  • causative verb + てください
+                </td>
+                <td style={{ paddingBottom: "5px" }}>
+                  <i>please let me do...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
