@@ -857,7 +857,55 @@ function Lesson23() {
       <section id="section4">
         <h3>23.4: ～にとにしている</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            ことにしている means "do something as a regular practice", meaning
+            that you have made up your mind that you should do something and
+            have stuck to that resolution.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              毎日<span className="furigana">まいにち</span>
+            </span>
+            <span className="kanji">
+              十一時<span className="furigana">じゅういちじ</span>
+            </span>
+            までに
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            ることにしています。
+            <br />
+            <i>I make it a rule to go to bed by eleven every night.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              絶対<span className="furigana">ぜったい</span>
+            </span>
+            にお
+            <span className="kanji">
+              酒<span className="furigana">さけ</span>
+            </span>
+            を
+            <span className="kanji">
+              飲<span className="furigana">の</span>
+            </span>
+            まないことにしています。
+            <br />
+            <i>
+              I have made this firm decision not to drink and have strictly
+              followed it.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb (short, present) + ことにしている</td>
+                <td>
+                  <i>do ... as a regular practice</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </section>
 
