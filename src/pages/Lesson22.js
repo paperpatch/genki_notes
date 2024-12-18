@@ -489,7 +489,279 @@ function Lesson22() {
       <section id="section4">
         <h3>22.4: ～ば</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            "Clause A ば Clause B" is a conditional statement: "if A, then B".
+            See a previous reference in Lesson 18, where ば-form in the pattern
+            ばよかった (I wish I had done...).
+          </p>
+          <p>Conjugation rule of the verb ば-form:</p>
+          <table className="table-list table-mini table-border-green">
+            <thead>
+              <tr>
+                <th colSpan={3} className="table-header text-green">
+                  ば -form
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colSpan={6}>
+                  • Verbs in the affirmative: Drop the final -<i>u</i> and add -
+                  <i>eba</i>.
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べる
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べれば
+                </td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  う
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    買<span className="furigana">か</span>
+                  </span>
+                  えば
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  く
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  けば
+                </td>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  つ
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    待<span className="furigana">ま</span>
+                  </span>
+                  てば
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>する</td>
+                <td className="arrow-right">→</td>
+                <td>すれば</td>
+                <td>くる</td>
+                <td className="arrow-right">→</td>
+                <td>くれば</td>
+              </tr>
+              <tr>
+                <td colSpan={6}>
+                  • Verbs in the negative: Drop the final い and add ければ.
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  かない
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  かなければ
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            In an "A ば B" sentence, the "A" part describes the condition,{" "}
+            <i>provided</i> that the consequence described in "B" will follow.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              車<span className="furigana">くるま</span>
+            </span>
+            があれば、いろいろな
+            <span className="kanji">
+              所<span className="furigana">ところ</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            けます。
+            <br />
+            <i>If you have a car, you can go to various places.</i>
+          </p>
+          <p className="tab">
+            かぎをかけてあけば、どろぼうに
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            られません。
+            <br />
+            <i>
+              If you lock the doors and windows, you won't have your apartment
+              broken into.
+            </i>
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>Student：</td>
+                <td style={{ padding: 0 }}>
+                  <span className="kanji">
+                    試験<span className="furigana">しけん</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    難<span className="furigana">むずか</span>
+                  </span>
+                  しいでしょうか。
+                </td>
+                <td>
+                  <i>Will the exam be hard?</i>
+                </td>
+              </tr>
+              <tr>
+                <td>Teacher：</td>
+                <td style={{ padding: 0 }}>
+                  <span className="kanji">
+                    単語<span className="furigana">たんご</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    覚<span className="furigana">おぼ</span>
+                  </span>
+                  えれば、
+                  <span className="kanji">
+                    大丈夫<span className="furigana">だいじょうぶ</span>
+                  </span>
+                  ですよ。
+                </td>
+                <td>
+                  <i>If you memorizse the words, you should be good.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            You usually use the "A ば B" pattern when the condition "A"
+            guarantees a <i>good result</i> in "B". Therefore, sentence (i)
+            sounds natural, but sentence (ii), while it does makes sense, sounds
+            odd.
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>(i)</td>
+                <td style={{ padding: 0 }}>
+                  <span className="kanji">
+                    走<span className="furigana">はし</span>
+                  </span>
+                  れば、
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    間<span className="furigana">ま</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    合<span className="furigana">あ</span>
+                  </span>
+                  います。
+                </td>
+                <td>
+                  <i>If I run, I will be able to catch the train.</i>
+                </td>
+              </tr>
+              <tr>
+                <td>(ii)　？？</td>
+                <td style={{ padding: 0 }}>
+                  <span className="kanji">
+                    歩<span className="furigana">ある</span>
+                  </span>
+                  けば、
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    遅<span className="furigana">おく</span>
+                  </span>
+                  れます。
+                </td>
+                <td>
+                  <i>If I walk, I will be late for the train.</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Beacuse of this "good result" implication, "A ば B" is often used to
+            advise "A". Sometimes the part "B" contains generic expressions like{" "}
+            <span className="kanji">
+              大丈夫<span className="furigana">だいじょうぶ</span>
+            </span>
+            です or いいんです.
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              薬<span className="furigana">くすり</span>
+            </span>
+            を
+            <span className="kanji">
+              飲<span className="furigana">の</span>
+            </span>
+            めば
+            <span className="kanji">
+              大丈夫<span className="furigana">だいじょうぶ</span>
+            </span>
+            です。
+            <br />
+            <i>You will be okay, if you take this medicine.</i>
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              先生<span className="furigana">せんせい</span>
+            </span>
+            に
+            <span className="kanji">
+              聞<span className="furigana">き</span>
+            </span>
+            けばいいんです。
+            <br />
+            <i>
+              All you have to do is ask the teacher. (If you ask, everything
+              will be fine.)
+            </i>
+          </p>
         </div>
       </section>
 
