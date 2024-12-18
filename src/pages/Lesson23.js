@@ -1018,7 +1018,304 @@ function Lesson23() {
       <section id="section6">
         <h3>23.6: ～方</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            The noun-forming suffix{" "}
+            <span className="kanji">
+              方<span className="furigana">から</span>
+            </span>{" "}
+            follows the stem of a verb and means "the way in which the action is
+            performed" or "how to do..."
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>
+                  <span className="kanji">
+                    泳<span className="furigana">およ</span>
+                  </span>
+                  ぐ
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    泳<span className="furigana">およ</span>
+                  </span>
+                  ぎ
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>how to swim</i>
+                </td>
+              </tr>
+              <tr>
+                <td style={{ paddingLeft: "2em" }}>
+                  <span className="kanji">
+                    考<span className="furigana">かんが</span>
+                  </span>
+                  える
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    考<span className="furigana">かんが</span>
+                  </span>
+                  え
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>the way people think</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Nouns that are marked with other particles when they go with a verb
+            are marked with の before ～
+            <span className="kanji">
+              方<span className="furigana">から</span>
+            </span>
+            .
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    漢字<span className="furigana">かんじ</span>
+                  </span>
+                  <span className="underline-green">を</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  む
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    漢字<span className="furigana">かんじ</span>
+                  </span>
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  み
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>how to read the kanji</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  はし
+                  <span className="underline-green">を</span>
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  う
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  はし
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  い
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>how to use chopsticks</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span className="kanji">
+                    空港<span className="furigana">くうこう</span>
+                  </span>
+                  <span className="underline-green">に</span>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  く
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  <span className="kanji">
+                    空港<span className="furigana">くうこう</span>
+                  </span>
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  き
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>how to go to the airport</i>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  お
+                  <span className="kanji">
+                    風<span className="furigana">ふ</span>
+                  </span>
+                  <span className="kanji">
+                    呂<span className="furigana">ろ</span>
+                  </span>
+                  <span className="underline-green">に</span>
+                  <span className="kanji">
+                    入<span className="furigana">はい</span>
+                  </span>
+                  る
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  お
+                  <span className="kanji">
+                    風<span className="furigana">ふ</span>
+                  </span>
+                  <span className="kanji">
+                    呂<span className="furigana">ろ</span>
+                  </span>
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    入<span className="furigana">はい</span>
+                  </span>
+                  り
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+                <td>
+                  <i>how to take a bath</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            With compound する verbs, such as{" "}
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            する, we have:
+          </p>
+          <table className="table-list table-mini">
+            <tbody>
+              <tr>
+                <td>
+                  日本
+                  <span className="kanji">
+                    語<span className="furigana">ご</span>
+                  </span>
+                  <span className="underline-green">を</span>
+                  <span className="kanji">
+                    勉強<span className="furigana">べんきょう</span>
+                  </span>
+                  する
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  日本
+                  <span className="kanji">
+                    語<span className="furigana">ご</span>
+                  </span>
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    勉強<span className="furigana">べんきょう</span>
+                  </span>
+                  <span className="underline-green">の</span>し
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  ホテル
+                  <span className="underline-green">を</span>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  する
+                </td>
+                <td className="arrow-right">→</td>
+                <td>
+                  ホテル
+                  <span className="underline-green">の</span>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  <span className="underline-green">の</span>し
+                  <span className="kanji">
+                    方<span className="furigana">から</span>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            ～
+            <span className="kanji">
+              方<span className="furigana">から</span>
+            </span>{" "}
+            is a noun and is followed by particles like は and を.
+          </p>
+          <p className="tab">
+            この
+            <span className="kanji">
+              野菜<span className="furigana">やさい</span>
+            </span>
+            の
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ
+            <span className="kanji">
+              方<span className="furigana">から</span>
+            </span>
+            はいろいろあります。
+            <br />
+            <i>There are many ways to eat this vegetable.</i>
+          </p>
+          <p className="tab">
+            すみません。この
+            <span className="kanji">
+              漢字<span className="furigana">かんじ</span>
+            </span>
+            の
+            <span className="kanji">
+              書<span className="furigana">か</span>
+            </span>
+            き
+            <span className="kanji">
+              方<span className="furigana">から</span>
+            </span>
+            を
+            <span className="kanji">
+              教<span className="furigana">おし</span>
+            </span>
+            えていただけませんか。
+            <br />
+            <i>Excuse me, can you tell me how to write this kanji?</i>
+          </p>
         </div>
       </section>
     </div>
