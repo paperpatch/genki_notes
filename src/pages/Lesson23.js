@@ -777,7 +777,80 @@ function Lesson23() {
       <section id="section3">
         <h3>23.3: ～にとにする</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            ことにする means "decide to do..." It follows the short form present
+            tense of a verb. You can use a negated verb too.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              車<span className="furigana">くるま</span>
+            </span>
+            を
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            うことにしました。
+            <br />
+            <i>We have decided to buy a car.</i>
+          </p>
+          <p className="tab">
+            あの
+            <span className="kanji">
+              人<span className="furigana">ひと</span>
+            </span>
+            がかわいそうだから、あまり
+            <span className="kanji">
+              文句<span className="furigana">もんく</span>
+            </span>
+            を
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            わないことにします。
+            <br />
+            <i>
+              I will not make too many complaints. I am feeling sorry for him
+              already.
+            </i>
+          </p>
+          <table className="table-list table-mini table-border-green">
+            <tbody>
+              <tr>
+                <td>verb (short, present) + ことにする</td>
+                <td>
+                  <i>decide to do...</i>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            We sometimes use the volitional form of this construction, such as
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            くことにしょう, instead of the simple volitional form of a verb,{" "}
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            こう, in suggesting an activity. ことにしょう has the additional
+            implication that the suggestion is begin made after a deliberation.
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              今年<span className="furigana">ことし</span>
+            </span>
+            の
+            <span className="kanji">
+              夏<span className="furigana">なつ</span>
+            </span>
+            はベトナムに
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            くことにしょう。
+            <br />
+            <i>Let's take the plunge. Let's go to Vietnam this summer.</i>
+          </p>
         </div>
       </section>
 
