@@ -977,7 +977,66 @@ function Lesson22() {
       <section id="section6">
         <h3>22.6: ～のように / ～のような</h3>
         <div className="indent">
-          <p></p>
+          <p>
+            You can use "Noun A のように" when you want to describe an action
+            which is "done in the same way as A" or a characteristic which is
+            "comparable to A".
+          </p>
+          <p className="tab">
+            メアリーさんは
+            <span className="kanji">
+              魚<span className="furigana">さかな</span>
+            </span>
+            <span className="underline-green">のように</span>
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            に
+            <span className="kanji">
+              泳<span className="furigana">およ</span>
+            </span>
+            げます。
+            <br />
+            <i>Mary can swim very well, just like a fish.</i>
+          </p>
+          <p className="tab">
+            アントニオさんは
+            <span className="kanji">
+              孫悟空<span className="furigana">そんごくう</span>
+            </span>
+            <span className="underline-green">のように</span>
+            <span className="kanji">
+              強<span className="furigana">つよ</span>
+            </span>
+            いです。
+            <br />
+            <i>
+              Antonio is strong like Goku. (Goku is the martial arts hero of
+              Dragon Ball manga and anime series.)
+            </i>
+          </p>
+          <p>
+            "Noun A のような Noun B" means "a B like/similar to A." When you say
+            "A のような B," B has the same quality or appearance as A, or A is
+            an example of B.
+          </p>
+          <p className="tab">
+            私は
+            <span className="kanji">
+              鎌倉<span className="furigana">かまくら</span>
+            </span>
+            <span className="underline-green">のような</span>
+            <span className="kanji">
+              町<span className="furigana">まち</span>
+            </span>
+            が
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きです。
+            <br />
+            <i>I like towns like Kamakura.</i>
+          </p>
         </div>
       </section>
     </div>
