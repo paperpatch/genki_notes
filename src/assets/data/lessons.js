@@ -1230,58 +1230,288 @@ const lessons = [
     title: "Lesson 19: Meeting the Boss",
     path: "/lesson19",
     sections: [
-      { number: "19.1", title: "", id: "section1", content: "19.1" },
-      { number: "19.2", title: "", id: "section2", content: "19.2" },
-      { number: "19.3", title: "", id: "section3", content: "19.3" },
-      { number: "19.4", title: "", id: "section4", content: "19.4" },
-      { number: "19.5", title: "", id: "section5", content: "19.5" },
+      {
+        number: "19.1",
+        title: "Honorific Verbs",
+        id: "section1",
+        content:
+          "19.1 Honorific Verbs We use special verbs to describe the actions of people whom you respect. These special verbs are called honorific verbs, because they bestow honor on, or exalt, the person performing the activity." +
+          "Honorific verbs	Irregular conjugations いる	いらっしゃる	いらっしゃいます 行いく 来くる 食たべる	召めし上あがる 飲のむ くれる	くださる	くださいます する	なさる	なさいます 寝ねる	お休やすみになる 見みる	ご覧らんになる 言いう	おっしゃる	おっしゃいます ～ている	～ていらっしゃる	～ていらっしゃいます" +
+          "All the honorific verbs listed above are u-verbs, but some of them have irregular conjugations. The long forms of いらっしゃる, おっしゃる, なさる, くださる, and ～ていらっしゃる end with います, instead of the expected ります." +
+          "When we use an honorific verb instead of a normal verb, we will have sentences which mean that somebody graciously does something. Thus, we never use these verbs to describe our own actions. Instead, we use them when we talk about what is done by (1) somebody higher up in the social hierarchy, or (2) somebody whom you do not know very well, especially when addressing them directly." +
+          "先生せんせいは今日きょう学校がっこうにいらっしゃいません。　cf. 行きません・きません・いません The professor will (graciously) not go to/come to/be at the school.　(three-way ambiguous) 何なにを召めし上あがりますか。　cf. 食べますか・飲みますか What will you (graciously) eat/drink?" +
+          "田た中なかさんのお母かあさんがこの本ほんをくださいました。　cf. くれました Ms. Tanaka's mother (graciously) gave me this book. 心しん配ぱいなさらないでください。 　cf. 心しん配ぱいしないでください Please don't (graciously) worry." +
+          "先生せんせいは十時じゅうじごろお休やすみになるそうです。 　cf. 寝ねるそうです Please don't (graciously) worry. 社長しゃちょうはニュースをご覧らんになっています。　cf. 見みています The president is (graciously) watching the news." +
+          "For the activities for which we lack special honorific verbs, we add the respect factor as follows: (1) Using ていらっしゃいます instead of ています, if the sentence has the helping verb ている. 先生せんせいは電でん話わで話はなしていらっしゃいます。　（＜　話はなしています）The president is (graciously) talking on the phone. 部ぶ長ちょうは使つかれていらっしゃるみたいです。　（＜　使つかれているみたいです）It appears that the department manager is (graciously) tired." +
+          "(2) Flanking a verb stem with お and になる. お　＋　verb stem　＋　になる 先生せんせいはもうお帰かえりになりました。　（＜　帰かえりました）The professor has already (graciously) gone home. この雑ざっ誌しをお読よみになったことがありますか。　（＜　読よんだことがありますか） Have you ever (graciously) read this magazine? どうぞお使つかいになってください。　（＜　使つかってください）Please (graciously) use it.",
+      },
+      {
+        number: "19.2",
+        title: "Giving Respectful Advice",
+        id: "section2",
+        content:
+          "19.2 Giving Respectful Advice You may hear the form お ＋ verb stem ＋ ください in public service announcements and in the speech of store attendants. お　＋　verb stem　＋　ください" +
+          "切きっ符ぷをお取とりください。	Please take a ticket.	（＜　取とる　）説せつ明めいをお読よみください。	Please read the instruction.	（＜　読よむ　）" +
+          "Although such sentences end with ください, it is better to consider that they are (courteously phrased) commands, rather than requests. When somebody tells you お～ください, you are being encouraged to perform the actions for your own good. It is wrong to say if I want somebody to pass the salt for me: ✕　塩しおをお取とりください。Please take the salt (and pass it to me)." +
+          "You should say instead:　塩しおを取とっていただけませんか。With most する compound verbs, for example, the prefix ご is used instead of お. Note the examples with special honorific verbs: ご注意ちゅういください。	Please watch out.	（＜　注意ちゅういする　）ご覧らんください。	Please look.	（＜　ご覧らんになる　＜　見る　）お召めし上あがりください。	Please help yourself.	（＜　お召めし上あがる　＜　食べる　）お休やすみください。	Please have a good rest.	（＜　お休やすみになる　＜　寝ねる　）",
+      },
+      {
+        number: "19.3",
+        title: "～てくれてありがとう",
+        id: "section3",
+        content:
+          "19.3 ～てくれてありがとう When you want to express gratitude to someone for a specific action, you can use the te-form + くれてありがとう. f you are thanking someone who needs to be talked to with the honorific language, such as when you and the person are not close or when the person ranks higher than you in any of the social hierarchies, you should say te-form + くださってありがとうございました." +
+          "推薦状すいせんじょうを書かいてくださってありがとうございました。Thank you for writing a letter of recommendation for me. verb te-form +	くれてありがとう　(casual)	Thank you for doing...くださってありがとうございました　(polite)",
+      },
+      {
+        number: "19.4",
+        title: "～てよかったです",
+        id: "section4",
+        content:
+          "19.4 ～てよかったです Te-form + よかった means I'm glad that such and scuh is/was the case. If you want to mention something in the negative in the part before よかった, you can use the negative te-form なくて. ～てよかったです	I'm am glad that I did ... / ... was the case ～なくてよかったです	I am glad that I didn't ... / ... was not the case" +
+          "日本語を勉強べんきょうしてよかったです。I'm glad that I have studied Japanese. メアリーさんが元気げんきになってよかったです。I'm glad that Mary got well. 約束やくそくの時間じかんに遅おくれなくてよかったです。I'm glad that I was not late for the appointment.",
+      },
+      {
+        number: "19.5",
+        title: "～はずです",
+        id: "section5",
+        content:
+          "19.5 ～はずです You can say something is supposed to be the case, by adding はずです to a sentence ending in the short form. 今日きょうは日曜日にちようびだから、銀行ぎんこうは閉しまっているはずです。Banks must be closed, because today is a Sunday. レポートの締しめ切きりは明日あしたじゃないはずです。I believe that the paper is not due tomorrow." +
+          "A はずです sentence is a statement about what you believe is true or likely, though you lack conclusive evidence. It is used when situations surrounding the case and/or our common sense point naturally to such a belief. はずです cannot be used in a situation in which you are supposed to do something because of duty, responsibility, or law." +
+          "You can turn はずです into the past tense to describe something that was supposed to have been the case but actually turned out otherwise. The part that precedes はずでした is in the present tense. 先週せんしゅう電話でんわをもらうはずでしたが、電話でんわがありませんでした。I was supposed to receive a phone call last week, but I didn't." +
+          "You can use はずです with adjectives, nouns, and verbs. short form + はずです　It is supposed to be the case... • verbs:	来くるはずです • い-adjectives:	おもしろいはずです • な-adjectives:	元気げんきなはずです • nouns:	日本人にほんじんのはずです",
+      },
     ],
   },
   {
     title: "Lesson 20: Mary Goes Shopping",
     path: "/lesson20",
     sections: [
-      { number: "20.1", title: "", id: "section1", content: "20.1" },
-      { number: "20.2", title: "", id: "section2", content: "20.2" },
-      { number: "20.3", title: "", id: "section3", content: "20.3" },
-      { number: "20.4", title: "", id: "section4", content: "20.4" },
-      { number: "20.5", title: "", id: "section5", content: "20.5" },
-      { number: "20.6", title: "", id: "section6", content: "20.6" },
+      {
+        number: "20.1",
+        title: "Extra-modest Expressions",
+        id: "section1",
+        content:
+          "20.1 Extra-modest Expressions When we want to talk modestly of our own actions, we use the verbs below when we want to sound modest and respectful in our speech, to show an extra amount of deference to the listener. These verbs are almost always used in long forms, because the purpose of using them is to be polite to the person you are talking to. Having one of these verbs is like ending a sentence with words like sir or ma'am." +
+          "Extra-modest expressions いる	おります（おる）行いく	参まいります（参まいる）来くる 言い	申もうします	（申もうす ）する	いただきます	（いたす）食たべる	いただきます	（いただく）飲のむ ある	ございます	（ござる）～ている	～ております	（～ておる）～です	でございます	（～でござる）" +
+          "You can use these verbs instead of the normal ones on very formal occasions, for example, when you introduce yourself at a job interview. They typically use more stilted first-person word 私わたくし, rather than the normal 私わたし." +
+          "私わたくしは来年らいねんも日本いおります。cf. います I will be in Japan next year, too, sir/ma'am. 私わたくしは今年ことしの六月ろくがつに大学だいがくを卒業そつぎょういたしました。cf. 卒業そつぎょうしました I graduated from college this June, sir/ma'am." +
+          "私わたくしは一年間いちねんかん日本語を勉強べんきょうしております。	cf. 勉強べんきょうしています I have been studying Japanese for a year. 私わたくしは木き村むらたけしと申もうします。cf. 言いいます My name is Takeshi Kimura." +
+          "You can also use these expressions to talk modestly about your own family or about the company you work for. Extra-modest expressions are frequently used by people in business when they talk to customers. You hear many extra-modest sentences like the examples below in public service announcements, and in the speech of shop clerks." +
+          "電車でんしゃが参まいります。cf. 来きます A train is pulling in. お手て洗あらいは二に階かいでございます。cf. です The bathroom is on the second floor. ございます and でございます are very stylized and you would rarely hear them outside formal business-related situations." +
+          "Because the effect of the extra-modest expressions is to put the subject in a modest light, you cannot use them to describe the actions performed by the person you are talking to or by somebody who is not in your group. It is wrong to say: ✕　先生せんせいは明日あした学校がっこうに参まいりますか。Are you coming to school tomorrow, Professor?",
+      },
+      {
+        number: "20.2",
+        title: "Humble Expressions",
+        id: "section2",
+        content:
+          "20.2 Humble Expressions When you do something out of respect for somebody, you can sometimes describe your action using a verb in the humble pattern お + verb stem + する. Not all verbs use this pattern, so use the ones that you are familiar with. You can speak of humbly meeting, leading to, or borrowing from someone, for example. お + verb stem + する	I (humbly) do..." +
+          "私は昨日きのう社長しゃちょうのご主人しゅじんにお会あいしました。I (humbly) met the president's husband yesterday. 私は先生せんせいにお本ほんをお貸かしするつもりです。I intend to (humbly) lend my professor a book. 私は先生せんせいに辞書じしょをお借かりしました。I borrowed a dictionary from my professor (and feel very obliged)." +
+          "Note that this お + verb stem + する pattern demotes the action (I humble do something) while the お + stem + になる pattern promotes the actor (Somebody graciously does something). They look similar, but semantically they are polar opposites. する	する compound verbs do not follow this pattern. Instead they simply have the prefix ご or お, such as ご紹介しょうかいする, ご案内あんないする, ご説明せつめいする, and お電話でんわする." +
+          "外国人がいこくじんに人気にんきがある店みせをご しましょう。Let us tell you about a shop that is popular among foreigners. きのうお電話でんわした田中です。This is Tanaka. I called yesterday. もらう ／ あげる	もらう and あげる have special replacement verbs: もらう	→	いただく	私は先生せんせいにこの 本ほんをいただきました。I (humbly) received this book from my professor. 私先生せんせいに漢字かんじを教おしえていただきました。I (humbly) had my professor teach me kanji. あげる	→	さしあげる	私は先生せんせいに花はなをさしあげます。I will (humbly) give my professor flowers." +
+          "うかがう	うかがう is a verb with which you can portray yourself as humble in the actions of visiting and asking questions: 私は部長ぶちょうのお宅たくにうかがいました。I (humbly) visited my department manager's house. 私は先生せんせいにテストについてうかがいました。I (humbly) asked my professor about the exam." +
+          "The subject with I performs the action in deference to the person underlined. The difference between this pattern and the extra-modest expressions is that the extra-modest expressions show respect to the listeners you are talking to, while the humble pattern shows respect to someone that appears in the event you are describing. For example: （私はあなたを）駅えきまでお送おくりします。I will (humbly) walk you to the station." +
+          "Summary of the three types of respect language, with the up and down arrow indicating the person whose profile is raised or lowered, respectively. Honorific expressions exalt the subject of the sentence. 先生せんせいが ↑ いらっしゃいました／お帰かえりになりました。My professor has (graciously) arrived/left. Extra-modest expressions talk modestly of what you do. 私わたくしは ↓ メアリー・ハートと申します。(person listening to you ↑ ) My name is Mary Hart. Humble expressions demote the subject and raise the profile of another person. 私わたしは ↓ 先生せんせいに ↑ 本ほんをお返かえししました。I (humbly) returned the book to my professor.",
+      },
+      {
+        number: "20.3",
+        title: "～ないで",
+        id: "section3",
+        content:
+          "20.3 ～ないで If you do something without doing something else, the action not performed can be expressed with ～ない (the short negative present) plus で. Note that the present tense form ～ない is used for both present and past actions. verb (short, negative) + で	without doing X" +
+          "きのうの夜よるは、寝ねないで、勉強べんきょうしました。Last night, I studied without getting any sleep. 辞じ書しょを使つかわないで、新聞しんぶんを読よみます。I read newspapers without using dictionaries.",
+      },
+      {
+        number: "20.4",
+        title: "Questions within Larger Sentences",
+        id: "section4",
+        content:
+          "20.4 Questions within Larger Sentences You can include a question as a part of a longer sentence and express ideas such as I don't know ... Embedded question clasuses are shown in boxes below. Embedded questions are in short forms. Note (1) that the clause ends with the question particle か when it contains a question word like だれ and なに, and (2) that it ends with かとうか when it does not contain such a question word." +
+          "山下やました先生せんせいは日きのう何なにを食たべたか覚おぼえていません。Professor Yamashita does not remember what he ate yesterday. メアリーさんがどこに住すんでいるか知しっていますか。Do you know where Mary lives? 週末しゅうまつ、旅行りょこうに行いくかどうか決きめましょう。Let's decide whether we will go on a trip this weekend. Question-word question か	わかりません／知しっています／etc. Yes/no questions かどうか" +
+          "The present tense short form だ which is used with a な-adjective or a noun at the end of the clause is usually dropped. だれが一番いちばん上手じょうずだ　か　わかりません。I don't know who is the best. あの人ひとが学生がくせいだ　かどうか　わかりません。I don't know if that person is a student. We often use the particle が with the subject of an embedded sentence where は is expected. Thus, for the embedded question corresponding to the direct question たけしさんはだれが好すきですか, we say: 私はたけしさんがだれが好すきか知しっています。I know who Takeshi is in love with.",
+      },
+      {
+        number: "20.5",
+        title: "Name という Item",
+        id: "section5",
+        content:
+          "20.5 Name という Item When you want to talk about a person or a thing that goes by a certain name, but if you believe the person you are talking to is not familiar with it, you can use the following pattern." +
+          "(name) という (item)	(item) called (name) ポチという犬いぬ（を飼かっていました）。(I used to have) a dog called Pochi.「花はな」という歌うた（を知しっていますか）。(Do you know) a song called Hana?",
+      },
+      {
+        number: "20.6",
+        title: "～やすい / ～にくい",
+        id: "section6",
+        content:
+          "20.6 ～やすい / ～にくい You can describe that something is easy to do by adding the adjective-forming suffix やすい to the verb stem. A verb stem + やすい conjugates like an い-adjective." +
+          "使つかう	→	使つかいやすい	この電でん子じレンジは使つかいやすいです。This microwave oven is easy to use. 読よむ	→	読よみやすい	この本ほんは読よみやすかったです。This book was easy to read. To express tha tsomething is hard to do, you can use the い-adjective-forming suffix にくい with the verb stem. 食たべる	→	食たべにくい	骨ほねが多おおいので、魚さかなは食たべにくいです。Fish are hard to eat, because they have many bones." +
+          "verb stem +	やすい	easy to do にくい	hard to do Sometimes, the subject of a ～やすい／にくい sentence is a place (where it is easy/difficult to do something), a tool (that is easy/difficult to use for some purpose), and so forth. この町まちはとても住すみやすいです。This town is quite livable. この靴くつは歩あるきにくいです。These shoes are not comfortable to walk in." +
+          "～やすい and ～にくい tend to focus on the psychological ease or difficulty of doing something when you use them with verbs descibing actions. It is odd to use やすい or にくい when the difficulty is defined in terms of a physical or statistical success rate. Compare: 漢かん字じは覚おぼえにくい。Kanji are hard to memorize.　( = I have kanji anxieties) 漢かん字じを覚おぼえるのは難むずかしい。It is hard to memorize kanji.　( = too complicated, too many)",
+      },
     ],
   },
   {
     title: "Lesson 21: Burglar",
     path: "/lesson21",
     sections: [
-      { number: "21.1", title: "", id: "section1", content: "21.1" },
-      { number: "21.2", title: "", id: "section2", content: "21.2" },
-      { number: "21.3", title: "", id: "section3", content: "21.3" },
-      { number: "21.4", title: "", id: "section4", content: "21.4" },
-      { number: "21.5", title: "", id: "section5", content: "21.5" },
+      {
+        number: "21.1",
+        title: "Passive Sentences",
+        id: "section1",
+        content:
+          "21.1 Passive Sentences When you are inconvenienced by something somebody else has done, you can express your dissatisfaction using a passive sentence. (a)　友達ともだちが車くるまを使つかいました。	A friend of mine used my car. (b)　私わたしは友達ともだちに車くるまを使つかわれました。	I had my car used by a friend of mine (and I am mad/sad about it)." +
+          "The basic makeup of a passive sentence is like the following: Passive sentence 私わたしは	友達ともだちに	車くるまを使つかわれました。(victim) は	(villain) に	(evil act) I had my car used by a friend. • The villain is affected by an event. Marked with the particle は or が. • The villain performs an action which causes the suffering. Marked with に. • The evil act is described with the passive form of a verb." +
+          "Passive form of a verb: Passive form • ru-verbs: Drop the final -ru and add -rare-ru. 食たべる	→	食たべられる • u-verbs: Drop the final -u and add -are-ru. 行いく	→	行いかれる	死しぬ	→	死しなれる	泳およぐ	→	泳およがれる 話はなす	→	話はなされる	読よむ	→	読よまれる	遊あそぶ	→	遊あそばれる 待まつ	→	待またれる	取とる	→	取とられる	買かう	→	買かわれる • irregular verbs: くる	→	こられる	する	→	される" +
+          "The passive forms of ru-verbs and the irregular くる are the same as the potential verbs (reference Lesson 13), but the passive form of an u-verb looks different from the potential verb. For example, the verb 読よむ, the passive is読よまれる, while the potential is 読よめる. Passive forms of verbs themselves conjugate as regular ru-verbs. Conjugation of passive form e.g. 読よまめる	short forms	long forms affirmative	negative	affirmative	negative [Present]	読よまれる	読よまれない	読よまれます	読よまれません [Past]	読よまれた	読よなかった	読よまれました	読よまれませんでした [Te-form]	読よまれて" +
+          "In most passive sentences, the victim has been unfavorably affected by the villain's act. They may be unfavorably affected in various ways, such as being angry, embarrassed, sad, or hurt. 私わたしは　となりの人ひとに　たばこを吸すわれました。I was annoyed with the person sitting next to me for smoking. たけしさんは　メアリーさんに　よく笑わらわれます。Takeshi is often laughed at by Mary. 山下やました先生せんせいは　だれかに　パスワードを盗ぬすまれたそうです。I hear that Professor Yamashita had his password stolen by someone. Compare the inadvertent/unfavorable focus of a passive sentence with the intended/favorable focus of a てもらう sentence (ref. Lesson 16). 子供こどもの時とき　姉あねに　日記にっきを　読よまれました。I was annoyed with my big sister for reading my diary when I was a kid. 子供こどもの時とき　寝ねる前まえに　父ちちに　本ほんを　読よんでもらいました。I had my dad read a book for me before I went to sleep when I was a kid." +
+          "We have some passive sentences that are not perceptibly unfavorable. 私は　その人ひとに　デートに誘さそわれました。I was asked out by that person for a date. 私は　兄あにに　友達ともだちに紹介しょうかいされました。I was introduced by my big brother to a friend of his. その人ひとは　みんなに　尊敬そんけいされています。That person is looked up to by most people. When someone says these phrases, they probably do not mean that they were inconvenienced by how things have turned out. There are relatively few verbs that come out neutral in their meaning when they are turned into the passive form.",
+      },
+      {
+        number: "21.2",
+        title: "～てある",
+        id: "section2",
+        content:
+          "21.2 ～てある You can use the te-form of a verb + the helping verb ある to characterize a situation that has been brought about on purpose by somebody who remains unnamed in the sentence. ～が	verb + てある	... has been done on purpose 寒さむいので、ヒーターがつけてあります。The heater is on, because it is cold. ( = The heater was turned on and has been kept that way.) テーブルの上うえに花はなが置おいてあります。Flowers are on the table. ( = Flowers were put on the table and they have remained there ever since.)" +
+          "You can say ～てあります if somebody, possibly yourself, performed an action on purpose earlier, which can be described in terms of ～ておきました (do something by way of prepraration ref. Lesson 15), and if the result of that action can still be observed at this moment. Note that ～てあります describes a current state, hence the present tense. レストランの予よ約やくがしてあります。A restaurant reservation has been made.	is the result of	予よ約やくをしておきました。(I) made a reservation in advance. パンが買かってあります。Bread has been bought (and is ready).	is the result of	パンを買かっておきました。(I) bought bread (for future use)." +
+          "てある normally assigns the particle が (or は) to the noun, which is usually marked with を. てある almost exclusively goes with a transitive verb. Compare also てある sentences with ている sentences that describe current states. ている goes with intransitive verbs, in contrast with てある. 窓まどが閉しめてあります。The window has been kept closed.	(閉しめる = transitive) 窓まどが閉しまっています。The window is closed.	(閉しまる = intransitive) These sentences describe the same situation: the window is closed. However, they differ in connotations. The transition てある sentence, the current state of the window is the result of a human action; somebody closed it and kept it that way. With the intransitive ている sentence, there is no such clear implication of human intervention. The window is closed, but may or may not be the result of somebody closing it.",
+      },
+      {
+        number: "21.3",
+        title: "～間に",
+        id: "section3",
+        content:
+          "21.3 ～間に Use the pattern A 間あいだに B when a certain event B takes place in the middle of another event, A. Most often, event A is described with ている if the verb takes ている for an action in progress. The verb for A is in the present tense, even wehn clause A describes a situation in the past." +
+          "お風ふ呂ろに入はいっている間あいだに電話でんわがありました。There was a phone call while I was taking a bath. きのうの夜よる、寝ねている間あいだに地震じしんがありました。There was an earthquake while I was asleep last night. 両親りょしんが日本にほんにいる間あいだに京都きょうとに連つれていきたいです。　（✕ 日本にいている間に）I want to take my parents to Kyoto while they are in Japan." +
+          "A (ている) 間あいだに B	B takes place while A occurs. The A above can be a noun as well. 留る守すの間あいだに友達ともだちが来きました。A friend came while I was out. Event B must be of short duration and begin and end within the bounds of activity A. If B extends throughout the time when A occurs, we use 間あいだ instead of 間あいだに. ルームメイトが買かい物ものをしている間あいだ、私は本を読よんで待まちました。I waited, reading a book, while my roommate was shopping.",
+      },
+      {
+        number: "21.4",
+        title: "Adjective + する",
+        id: "section4",
+        content:
+          "21.4 Adjective + する Similar to Lesson 10 where something can become something, as in 寒さむくなる (become cold/colder) and 上手じょうずになる (become good/better at doing X), we can use adjectives together with the irregular verb する, which in combination with adjectives means to make. 冷つめたい	→	冷つめたくする	to make something cold/colder いい	→	よくする	to make something better 簡単かんたんな	→	簡単かんたんにする	to make something simple/simpler" +
+          "この間あいだの試し験けんは難むずかしすぎたので、次つぎの試し験けんはやさしくしてください。Please make the next exam easier, because the last one was too difficult. みんなで世せ界かいをよくしましょう。Let's join our forces and make the world a better place. 部へ屋やをきれいにしました。I cleaned the room. (lit., I made the room clean.) Note that the following idiomatic use of this pattern: 静しずかにする	make it quiet	→	keep quiet	静しずかにしてください。",
+      },
+      {
+        number: "21.5",
+        title: "～てほしい",
+        id: "section5",
+        content:
+          "21.5 ～てほしい When you want somebody to do something, you can describe your wish by using the te-form of a verb and the adjective ほしい. The person the wish is directed to is marked with the particle に. 私は　病気びょうきの友ともだちに　元気げんきになってほしいです。I want my sick friend to get well. 私は　ルームメイトに　宿題しゅくだいを手伝てつだってほしかったです。I wanted my roommate to help me with my homework.（私は）person に	verb te-form ほしい	I want (person) to do..." +
+          "When you want to say you don't want them to do something, you can negate ほしい and say ～てほしくないです or negate the verb and say ～ないでほしいです. 私は　お父とうさんに　昔むかしの話はなしをしてほしくないです。I don't want my father to talk about the good old times. 私は　日本人にほんじんの友ともだちに　英語えいごさないでほしいです。I don't want my Japanese friends to speak in English." +
+          "Summarization of want: verb stem + たい (Lesson 11)	I want to do ... noun が　ほしい (Lesson 14)	I want something. verb te-form + ほしい (this lesson)	I want somebody to do ... 私はベトナムに行いきたいです。	I want to go to Vietnam. 私は歩あるきやすい靴くつがほしいです。	I want comfortable shoes. 私は妹いもうとに部へ屋やを片付かたづけてほしいです。	I want my little sister to clean up her room.",
+      },
     ],
   },
   {
     title: "Lesson 22: Education in Japan",
     path: "/lesson22",
     sections: [
-      { number: "22.1", title: "", id: "section1", content: "22.1" },
-      { number: "22.2", title: "", id: "section2", content: "22.2" },
-      { number: "22.3", title: "", id: "section3", content: "22.3" },
-      { number: "22.4", title: "", id: "section4", content: "22.4" },
-      { number: "22.5", title: "", id: "section5", content: "22.5" },
-      { number: "22.6", title: "", id: "section6", content: "22.6" },
+      {
+        number: "22.1",
+        title: "Causative Sentences",
+        id: "section1",
+        content:
+          "22.1 Causative Sentences There's another verb derivation called the causative form. When you use the causative form of a verb, you can describe who makes someone do something, and who lets someone do something. Derive the causative form of a verb:" +
+          "Causative form • ru-verbs: Drop the final -ru and add -sase-ru. 食たべる	→	食たべさせる • u-verbs: Drop the final -u and add -are-ru. 行いく	→	行いかせる	取とる	→	取とらせる 話はなす	→	話はなさせる	泳およぐ	→	泳およがせる 待まつ	→	待またせる	遊あそぶ	→	遊あそばせる 死しぬ	→	死しなせる	買かう	→	買かわせる 読よむ	→	読よませる • irregular verbs: くる	→	こさせる	する	→	させる" +
+          "Basic structure of a causative sentence: Causative sentence 先生せんせいは	学生がくせいに	会かい話わを覚おぼえさせました。(director) は	(cast) に	(action) The professor made the students memorize the dialogue. • The director decides what is allowed and what is to be done. Marked with は or が. • The cast performs the action. Marked with に. • The action is described with a causative form of a verb." +
+          "A causative verb can be interpreted either with the make somebody do reading or with the let somebody do reading. For example, you cannot conclude from the sentences below in isolation whether they describe an authoritarian parent (forcing children) or a doting parent (allowing the children what they want). Only our general knowledge about the parents' personalities, the children's attitudes, and the linguistic context of the sentence solves the issue. お父とうさんは子供こどもに野菜やさいを食たたべさせました。The father made/let his child eat vegetables. お母かあさんは子供こどもに本ほんを読よませました。The mother made/let her child read the book.",
+      },
+      {
+        number: "22.2",
+        title: "Causative + てあげる / てくれる / てもらう",
+        id: "section2",
+        content:
+          "22.2 Causative + てあげる / てくれる / てもらう If the helping verb てあげる, てくれる, or てもらう follows a causative verb, you can assume in almost all cases that it is a let causative (see Lesson 16 for helping verbs). 先生せんせいは私に英語えいごを話はなさせてくれませんでした。The professor did not allow me to speak in English. 私は自分じぶんの子供こどもに好すきなことをさせてあげるつもりです。I think I will let my children do what they love." +
+          "You can use the causative + てください to ask for permission to do something and to volunteer to do something. 私にこの仕事しごとをやらせてください。Please let me do this job. Usage of causative verb • (director) は　(cast) に　causative verb	(director) makes/lets (cast) do... • (director) は　(cast) に　causative verb + てあげる／てくれる	(director) lets (cast) do... • causative verb + てください	please let me do...",
+      },
+      {
+        number: "22.3",
+        title: "Verb Stem + なさい",
+        id: "section3",
+        content:
+          "22.3 Verb Stem + なさい The verb stem + なさい is a command. なさい has a strong implication that you are talking down to somebody, or that you think you are more mature, know better, and should be obeyed. なさい, therefore, is appropriate for parents to use toward their children. You also often see なさい in exam instructions." +
+          "十時じゅうじまでに帰かえりなさい。Come home by 10 o'clock. かっこの中なかに単語たんごを入いれなさい。Fill in the blanks with a word. 文句もんくを言いいうのをやめなさい。Stop complaining. You can express the idea of the negative don't do... using a verb followed by のを and やめなさい, which comes from the verb やめる.",
+      },
+      {
+        number: "22.4",
+        title: "～ば",
+        id: "section4",
+        content:
+          "22.4 ～ば Clause A ば Clause B is a conditional statement: if A, then B. See a previous reference in Lesson 18, where ば-form in the pattern ばよかった (I wish I had done...). Conjugation rule of the verb ば-form:" +
+          "ば -form • Verbs in the affirmative: Drop the final -u and add -eba. 食たべる	→	食たべれば	買かう	→	買かえば 行いく	→	行いけば	待まつ	→	待まてば する	→	すれば	くる	→	くれば • Verbs in the negative: Drop the final い and add ければ. 行いかない	→	行いかなければ In an A ば B sentence, the A part describes the condition, provided that the consequence described in B will follow. 車くるまがあれば、いろいろな所ところに行いけます。If you have a car, you can go to various places. かぎをかけてあけば、どろぼうに入はいられません。If you lock the doors and windows, you won't have your apartment broken into. Student：	試験しけんは難むずかしいでしょうか。	Will the exam be hard? Teacher：	単語たんごを覚おぼえれば、大丈夫だいじょうぶですよ。	If you memorizse the words, you should be good." +
+          "You usually use the A ば B pattern when the condition A guarantees a good result in B. Therefore, sentence (i) sounds natural, but sentence (ii), while it does makes sense, sounds odd. (i)	走はしれば、電車でんしゃに間まに合あいます。	If I run, I will be able to catch the train. (ii)　？？	歩あるけば、電車でんしゃに遅おくれます。	If I walk, I will be late for the train. Beacuse of this good result implication, A ば B is often used to advise A. Sometimes the part B contains generic expressions like 大丈夫だいじょうぶです or いいんです. この薬くすりを飲のめば大丈夫だいじょうぶです。You will be okay, if you take this medicine. 先生せんせいに聞きけばいいんです。All you have to do is ask the teacher. (If you ask, everything will be fine.)",
+      },
+      {
+        number: "22.5",
+        title: "～のに",
+        id: "section5",
+        content:
+          "22.5 ～のに のに connects two facts, A and B, which hold in spite of the expectation that if A is the case, B is not to be the case. A のに B, means A, but contrary to expectations, B, too or B, despite the fact A. この会社かいしゃはお金かねがあるのに、給料きゅうりょうは安やすいです。This company is rich, but its workers' salaries are low. 八時間はちじかんも勉強べんきょうができなかった。I studied for eight hours, but I couldn't do well on the examination. A (short form) のに B	Despite the fact A, it is B." +
+          "The predicate in part A is in the short form. When A ends with a な-adjective or with a noun + です, it apperas as な, just like in the explanatory んです construction. 田中たなかさんは親切しんせつなのに、山田やまださんは田中たなかさんがきらいです。Ms.Tanaka is nice, but Ms.Yamada does not like her. 大おおきい問題もんだいなのに、あの人ひとはだれにも相談そうだんしません。It is a big issue, but he does not consult with anybody. Because のに connects two facts, you cannot have non-factual sentences, like requests or suggestions, in the B clause: ✕	この本ほんは日本語にほんごが少すこし難むずかしいのに、読よんでください。Compare:	この本ほんは日本語にほんごが少すこし難むずかしいですが、読よんでください。Japanese in this book is a little difficult, but please read it. ✕	あまりおいしそうじゃないのに、ここで食たべましょう。Compare:	あまりおいしそうじゃないけど、ここで食たべましょう。The food does not look very promising, but let's eat here.",
+      },
+      {
+        number: "22.6",
+        title: "～のように / ～のような",
+        id: "section6",
+        content:
+          "22.6 ～のように / ～のような You can use Noun A のように when you want to describe an action which is done in the same way as A or a characteristic which is comparable to A. メアリーさんは魚さかなのように上手じょうずに泳およげます。Mary can swim very well, just like a fish. アントニオさんは孫悟空そんごくうのように強つよいです。Antonio is strong like Goku. (Goku is the martial arts hero of Dragon Ball manga and anime series.) Noun A のような Noun B means a B like/similar to A. When you say A のような B, B has the same quality or appearance as A, or A is an example of B. 私は鎌倉かまくらのような町まちが好すきです。I like towns like Kamakura.",
+      },
     ],
   },
   {
     title: "Lesson 23: Good-bye",
     path: "/lesson23",
     sections: [
-      { number: "23.1", title: "", id: "section1", content: "23.1" },
-      { number: "23.2", title: "", id: "section2", content: "23.2" },
-      { number: "23.3", title: "", id: "section3", content: "23.3" },
-      { number: "23.4", title: "", id: "section4", content: "23.4" },
-      { number: "23.5", title: "", id: "section5", content: "23.5" },
-      { number: "23.6", title: "", id: "section6", content: "23.6" },
+      {
+        number: "23.1",
+        title: "Causative-passive Sentences",
+        id: "section1",
+        content:
+          "23.1 Causative-passive Sentences Causative-passive sentences are the passive version of causative sentences. You can use causative-passive sentences when you want to say that you were made to do, or haraased or talked into doing something you did not want to.（下へ手たがから歌うたいたくなかったのに）歌うたを歌うたわされました。(I didn't want to sing because I'm not a good singer, but) I was forced to sing. You can make the causative-passive forms in the following: Causative-passive form • ru-verbs: Drop the final -ru and add -sase-rare-ru. 食たべる	→	食たべさせられる • u-verbs that end with す: Drop -u and add -ase-rare-ru. 話はなす	→	話はなさせられる • all other u-verbs: Drop -u and add -asare-ru. 行いく	→	行いかされる	泳およぐ	→	泳およがされる 待まつ	→	待またされる	遊あそぶ	→	遊あそばされる 読よむ	→	読よまされる	買かう	→	買かわされる 取とる	→	取とらされる • irregular verbs: する	→	させられる	くる	→	こさせられる" +
+          "Notice that the causative-passive in ru-verbs, u-verbs ending with す, and irregular verbs is the combination of causative and the passive forms: -(s)ase-rare. In u-verbs other than those that end with す, the causative passive suffix -asare is shorter than the sum of the causative (-ase) and the passive (-rare) suffixes. Basic structure of a causative-passive sentence: Causative-passive sentence 私わたしは	彼女かのじょに	車くるまを洗あらわされました。(puppet) は	(puppet master) に	(action) I was tricked by my girlfriend into washing her car. • The puppet is forced into performing an action. Marked with は or が. • The puppet master wields power over, and manipulates, the puppet. Marked with に. • The action forced upon the puppet is described with a causative-passive verb." +
+          "If you compare a causative-passive sentence with a causative sentence, notice that the actors are switched between the two: Causative-passive:	私　は　友達ともだち　に	宿題しゅくだいを手伝てつだわされました。I was forced by my friend into helping with with his homework. Causative:	友達ともだち　は　私　に	宿題しゅくだいを手伝てつだわされました。My friend made me help him with his homework. Compare a causative-passive sentence with a plain (noncausative, nonpassive) sentence. These two sentences have the same subject. You add the puppet master role to a plain sentence and make the verb longer, and you get a causative-passive sentence. Causative-passive:	まなは　お母かあさんに　勉強べんきょうさせられました。Mana was ordered by her mother to study. Plain:	まなは　―――――　勉強べんきょうしました。Mana studied.",
+      },
+      {
+        number: "23.2",
+        title: "～ても",
+        id: "section2",
+        content:
+          "23.2 ～ても A ても B is B, even if A. In short, B is still true in case of A. Compare ても sentences with たら sentences, which have a more straightforward if-then meaning: 雨あめが降ふっても、バーベキューをします。We will have a barbecue, even if it rains. 雨あめが降ふったら、バーベキューをしません。We will have a barbecue, even if it rains. 暑あつくても、エアコンをつけません。I will not turn on the air conditioner, even if it is hot. 暑あつかったら、エアコンをつけます。I will turn on the air conditioner, if it is hot. 子供こどもでも、わかります。Even a child will get it. (You will be able to understand it, even if you are a child.) 子供こどもだったら、わかりません。If you are a child, you will not get it. You can form a ても clause by adding も to the verb or adjective te-form. With な-adjectives and nouns, you have でも. Note that verb たら and ても forms look very much alike, but adjective たら and ても forms look distinct." +
+          "～ても (affirmative)	Compare: • verbs:	買かう	→	買かっても		買かったら • い-adjectives:	悲かなしい	→	悲かなしくても	（　✕　悲かなしかっても）	悲かなしかったら • な-adjectives:	元気げんき（な）	→	元気げんきでも	（　✕　元気げんきだっても）	元気げんきだったら nouns:	学生がくせい	→	学生がくせいでも	（　✕　学生がくせいだっても）	学生がくせいだったら You can also form a negative ても clause, based on the short form negative. ～ても (negative)	Compare: • verbs:	買かわない	→	買かわなくても	買かわなかったら • い-adjectives:	悲かなしくない	→	悲かなしくなくても	悲かなしくなかったら • な-adjectives:	元気げんきじゃない	→	元気げんきじゃなくても	元気げんきじゃなかったら nouns:	学生がくせいじゃない	→	学生がくせいじゃなくても	学生がくせいじゃなかったら The ても clause itself does not have tense. It can be followed either by a present tense clause, or by a past tense clause. 私は、風か邪ぜをひいていても、毎日まいにち、授業じゅぎょうに行いきました。I went to class every day, even when I had a cold. 日本語ごの授業じゅぎょうが難むずかしくても、取とったでしょう。I would have taken the Japanese class, even if it could have been difficult.",
+      },
+      {
+        number: "23.3",
+        title: "～にとにする",
+        id: "section3",
+        content:
+          "23.3 ～にとにする ことにする means decide to do... It follows the short form present tense of a verb. You can use a negated verb too. 車くるまを買かうことにしました。We have decided to buy a car. あの人ひとがかわいそうだから、あまり文句もんくを言いわないことにします。I will not make too many complaints. I am feeling sorry for him already." +
+          "verb (short, present) + ことにする	decide to do... We sometimes use the volitional form of this construction, such as行いくことにしょう, instead of the simple volitional form of a verb, 行いこう, in suggesting an activity. ことにしょう has the additional implication that the suggestion is begin made after a deliberation. 今年ことしの夏なつはベトナムに行いくことにしょう。Let's take the plunge. Let's go to Vietnam this summer.",
+      },
+      {
+        number: "23.4",
+        title: "～にとにしている",
+        id: "section4",
+        content:
+          "23.4 ～にとにしている ことにしている means do something as a regular practice, meaning that you have made up your mind that you should do something and have stuck to that resolution. 毎日まいにち十一時じゅういちじまでに寝ねることにしています。I make it a rule to go to bed by eleven every night. 絶対ぜったいにお酒さけを飲のまないことにしています。I have made this firm decision not to drink and have strictly followed it. verb (short, present) + ことにしている	do ... as a regular practice",
+      },
+      {
+        number: "23.5",
+        title: "～まで",
+        id: "section5",
+        content:
+          "23.5 ～まで まで means till A. The A in A まで B is the description of the change that coincides with or causes the end of B. The A, therefore, is usually a verb of the change kind. The verb in A is always in the present tense and in the affirmative. 晴はれるまで、カフェでコーヒーを飲のみながら、待まちます。I will wait in the cafe, drinking coffee, till it clears up. 日本語にほんごが上手じょうずになるまで、国くにに帰かえりません。I will not go back to my country, till I become fluent in Japanese." +
+          "verb (short, present, affirmative) + まで	till A When the subject of A is different from the subject of B, the former is marked with the particle が rather than は. 赤あかちゃんが寝ねるまで、（私は）歌うたを歌うたってあげます。I will sing a lullaby till the baby falls asleep. You can use A まで B in a sentence describing a situation in the past. Note that the verb in A is in the present tense nonetheless. にほんの生活せいかつに慣なれるまで、大変たいへんでした。It was tough until I got used to living in Japan.",
+      },
+      {
+        number: "23.6",
+        title: "～方",
+        id: "section6",
+        content:
+          "23.6 ～方 The noun-forming suffix 方から follows the stem of a verb and means the way in which the action is performed or how to do... 泳およぐ	→	泳およぎ方から	how to swim 考かんがえる	→	考かんがえ方から	the way people think Nouns that are marked with other particles when they go with a verb are marked with の before ～方から. 漢字かんじを読よむ	→	漢字かんじの読よみ方から	how to read the kanji はしを使つかう	→	はしの使つかい方から	how to use chopsticks 空港くうこうに行いく	→	空港くうこうの行いき方から	how to go to the airport お風ふ呂ろに入はいる	→	お風ふ呂ろの入はいり方から	how to take a bath" +
+          "With compound する verbs, such as 勉強べんきょうする, we have: 日本語ごを勉強べんきょうする	→	日本語ごの勉強べんきょうのし方から ホテルを予よ約やくする	→	ホテルの予よ約やくのし方から ～方から is a noun and is followed by particles like は and を. この野菜やさいの食たべ方からはいろいろあります。There are many ways to eat this vegetable. すみません。この漢字かんじの書かき方からを教おしえていただけませんか。Excuse me, can you tell me how to write this kanji?",
+      },
     ],
   },
 ];
