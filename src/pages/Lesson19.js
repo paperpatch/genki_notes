@@ -597,7 +597,7 @@ function Lesson19() {
         <h3>19.3: ～てくれてありがとう</h3>
         <div className="indent">
           <p>
-            YWhen you want to express gratitude to someone for a specific
+            When you want to express gratitude to someone for a specific
             action, you can use the <i>te</i>-form + くれてありがとう.
           </p>
           <p>

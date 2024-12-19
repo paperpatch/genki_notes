@@ -213,7 +213,7 @@ function Lesson23() {
             </tbody>
           </table>
           <p>
-            Notice tha tthe causative-passive in <i>ru</i>-verbs, <i>u</i>-verbs
+            Notice that the causative-passive in <i>ru</i>-verbs, <i>u</i>-verbs
             ending with す, and irregular verbs is the combination of causative
             and the passive forms: -<i>(s)ase-rare</i>. In <i>u</i>-verbs other
             than those that end with す, the causative passive suffix -
