@@ -27,7 +27,7 @@ Designed to be a user-friendly tool for learners, it provides a comprehensive gr
 ## Deployment
 
 
-[Deployed Link]()
+[Deployed Link](https://paperpatch.github.io/genki_notes/)
 
 ## Contributing
 
