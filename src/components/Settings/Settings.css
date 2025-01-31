@@ -48,6 +48,10 @@
   background-color: #0056b3;
 }
 
+.settings-modal button:active {
+  transform: scale(0.98);
+}
+
 /* Slider for Dark Mode */
 .switch {
   position: relative;

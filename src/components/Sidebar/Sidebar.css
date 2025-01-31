@@ -18,16 +18,16 @@
 
 .sidebar h2 {
   font-size: 1.2rem;
-  margin-bottom: 20px;
+  margin: 0;
   color: #333;
-  padding-left: 2rem;
-  padding-right: 1rem;
+  padding: 1rem;
 }
 
 /* Table of Contents Styles */
-.toc ul {
+.toc {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 
 .toc button {
@@ -36,7 +36,7 @@
   font-size: 1.1rem;
   text-align: left;
   width: 100%;
-  padding: 10px 1em 10px 2em;
+  padding: 10px 1em 10px 1em;
   cursor: pointer;
   color: #007bff;
 }
@@ -57,6 +57,7 @@ body.dark-mode .toc button:hover {
 
 .nested li {
   margin: 5px 0;
+  padding-right: 10px;
 }
 
 .nested li a {
@@ -73,8 +74,17 @@ body.dark-mode .toc button:hover {
   border-radius: 5px;
 }
 
+.nested li a:active {
+  background-color: #d0d0d0;
+  transform: scale(0.98);
+}
+
 body.dark-mode .nested li a:hover {
   background-color: #3a3d42;
+}
+
+body.dark-mode .nested li a:active {
+  background-color: #3a3d42d7;
 }
 
 /* Sidebar Toggle Button */
@@ -116,6 +126,18 @@ body.dark-mode .nested li a:hover {
   .sidebar.visible {
     top: 0;
     left: 0;
+  }
+
+  .sidebar h2 {
+    padding-left: 2.5rem;
+  }
+
+  .toc button {
+    padding-left: 3rem;
+  }
+
+  .toc ul {
+    padding-left: 2rem;
   }
 
   /* Toggle Button */
