@@ -299,7 +299,7 @@ ol li {
   text-underline-offset: 4px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   table {
     display: block;
     overflow-x: auto;

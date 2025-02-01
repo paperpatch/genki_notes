@@ -26,7 +26,7 @@
 }
 
 /* Mobile-Specific Styles */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .footer {
     margin-top: 1rem;
   }

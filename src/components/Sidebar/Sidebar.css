@@ -8,7 +8,6 @@
   max-width: 300px;
   min-height: calc(100vh - 100px);
   background-color: #f8f9fa;
-  border-right: 1px solid #e0e0e0;
   transition: left 0.3s ease;
 }
 
@@ -97,7 +96,7 @@ body.dark-mode .nested li a:active {
 }
 
 /* Mobile-Specific Styles */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .app-container {
     margin-left: -20px;
   }

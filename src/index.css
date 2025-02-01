@@ -3,9 +3,6 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   width: 100%;
-  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -16,6 +13,7 @@ code {
 }
 
 .app-container {
+  background-color: #f8f9fa;
   display: flex;
 }
 
@@ -26,10 +24,29 @@ ul {
 .content {
   flex-grow: 1;
   padding: 20px;
-  margin-left: 30px;
-  height: auto;
+  margin: 0 auto;
   max-width: 100%;
+  height: auto;
+}
+
+section {
+  width: 0 auto;
+  max-width: 1000px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
   background-color: #ffffff;
+}
+
+body.dark-mode section {
+  box-shadow: 1px 1px 10px rgba(77, 77, 77, 0.464);
+  background-color: #353535;
+}
+
+h3 {
+  margin: 0;
 }
 
 .noSelect {
@@ -49,7 +66,7 @@ h1:active {
   outline: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .app-container {
     flex-direction: column;
   }

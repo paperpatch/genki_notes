@@ -18,7 +18,7 @@ function Table() {
   // Check screen size for mobile view
   useEffect(() => {
     const checkScreenSize = () => {
-      setIsMobile(window.innerWidth <= 768);
+      setIsMobile(window.innerWidth <= 1000);
     };
 
     checkScreenSize();

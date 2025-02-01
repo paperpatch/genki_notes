@@ -182,7 +182,8 @@ body.dark-mode .settings-modal  {
 /* Dark Mode for Search Bar */
 
 body.dark-mode .header {
-  background-color: #111112;
+  box-shadow: 1px 1px 10px rgba(77, 77, 77, 0.464);
+  background-color: #353535;
 }
 
 body.dark-mode .searchbar,
@@ -190,6 +191,10 @@ body.dark-mode .searchbar input,
 body.dark-mode .searchbar a {
   background-color: #3a3d42;
   color: #e0e0e0;
+}
+
+body.dark-mode .searchbar input::placeholder {
+  color: #e0e0e0ae;
 }
 
 body.dark-mode .search-item.active,
@@ -255,7 +260,7 @@ body.dark-mode .footer-content {
   background-color: #111112;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   /* Font Sizes */
   html.font-size--2 {
     font-size: 8px;

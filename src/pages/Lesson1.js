@@ -17,7 +17,7 @@ function Lesson1() {
       </section>
 
       <section id="section2">
-        <h3>1.2 : Question Sentences</h3>
+        <h3>1.2: Question Sentences</h3>
         <div className="indent">
           <p>To ask a question, add a ka to です ={">"} ですか?.</p>
           <p>
@@ -29,7 +29,7 @@ function Lesson1() {
 
       <section id="section3">
         <h3>
-          1.3 Noun<sub>1</sub> の Noun<sub>2</sub>
+          1.3: Noun<sub>1</sub> の Noun<sub>2</sub>
         </h3>
         <div className="indent">
           <p>の (pronounced no) is a particle that connects two noun.</p>
