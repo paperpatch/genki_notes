@@ -212,7 +212,7 @@ function Header() {
                 </Link>
               ))
             ) : (
-              <p>No results found</p>
+              <p className="results">No results found.</p>
             )}
           </ul>
         )}

@@ -207,6 +207,11 @@ body.dark-mode .search-item li:hover {
   background-color: #b9b9ba;
 }
 
+body.dark-mode .results {
+  background-color: #3a3d42;
+  color: white;
+}
+
 /* Dark Mode for Sidebar */
 
 body.dark-mode .sidebar {
