@@ -16,6 +16,16 @@ code {
 .app-container {
   background-color: #f8f9fa;
   display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  min-height: 100vh;
+}
+
+body.dark-mode .app-container {
+  background-color: #111112;
 }
 
 ul {
@@ -25,14 +35,12 @@ ul {
 .content {
   flex-grow: 1;
   padding: 20px;
-  margin: 0 auto;
-  max-width: 100%;
+  max-width: 1000px;
   height: auto;
 }
 
 section {
   width: 0 auto;
-  max-width: 1000px;
   margin-top: 10px;
   margin-bottom: 20px;
   padding: 15px;

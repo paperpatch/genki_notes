@@ -250,6 +250,14 @@ body.dark-mode text.diagram-black-text {
   fill: #e0e0e0;
 }
 
+body.dark-mode .text-black {
+  color: white;
+}
+
+body.dark-mode .underline-black {
+  text-decoration-color: white;
+}
+
 /* Footer */
 
 body.dark-mode .footer {
