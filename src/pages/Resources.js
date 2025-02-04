@@ -5,10 +5,7 @@ function Resources() {
     <div>
       <h1>Terms of Service:</h1>
       <section>
-        <p>
-          This site is for personal learning. No legal jargon here, just enjoy
-          the content.
-        </p>
+        <p>This site is for personal learning. No legal jargon here.</p>
       </section>
       <h1>FAQ (Frequently Asked Questions):</h1>
       <section>
@@ -17,15 +14,14 @@ function Resources() {
         </p>
         <p>
           A: This site is mainly for my own review, but if you find it helpful,
-          feel free to use it!
+          feel free to use it.
         </p>
         <p>
           <strong>Q: Will this site be updated?</strong>
         </p>
         <p>
-          A: Yes! I plan to improve and expand the content over time. I'm
-          looking to add cheatsheets for learning kanjis, particularly geared
-          for the JLPT (Japanese-Language Proficiency Test).
+          A: I intend to enhance the expand the content gradually. Subject to
+          change.
         </p>
         <p>
           <strong>
@@ -41,7 +37,7 @@ function Resources() {
       <h1>Contact:</h1>
       <section>
         <p>
-          Check out this project on{" "}
+          Project on{" "}
           <a
             href="https://github.com/paperpatch/genki_notes"
             target="_blank"
@@ -57,7 +53,7 @@ function Resources() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            personal portfolio
+            portfolio
           </a>
         </p>
       </section>
