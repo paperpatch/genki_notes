@@ -1,14 +1,14 @@
 /* Basic Modal Styling */
 .settings-modal {
   position: fixed;
-  top: 17em;
+  top: 15em;
   right: -140px;
   transform: translate(-50%, -50%);
   width: 300px;
   background-color: #fff;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
   z-index: 100;
 }
 
@@ -172,6 +172,10 @@ body.dark-mode a {
 }
 
 /* Dark Mode for Settings */
+
+body.dark-mode .icon-container {
+  background-color: #1b1b1c;
+}
 
 body.dark-mode .settings-modal  {
   background-color: #1b1b1c;

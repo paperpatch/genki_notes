@@ -218,6 +218,7 @@ function Header() {
         )}
       </div>
       <a
+        className="icon-container"
         href="https://www.github.com/paperpatch/genki_notes"
         target="_blank"
         rel="noreferrer"
@@ -228,13 +229,17 @@ function Header() {
           alt="icon-github"
         />
       </a>
-      <img
-        className="icon icon-gear"
-        src={darkMode ? iconGearDark : iconGear}
-        alt="settings-gear"
+      <div
+        className="icon-container"
         onClick={toggleSettingsModal}
         ref={settingsIconRef}
-      />
+      >
+        <img
+          className="icon icon-gear"
+          src={darkMode ? iconGearDark : iconGear}
+          alt="settings-gear"
+        />
+      </div>
       {isSettingsModalVisible && (
         <div ref={settingsModalRef}>
           <SettingsModal
