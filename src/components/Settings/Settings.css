@@ -229,6 +229,22 @@ body.dark-mode .sidebar a {
   color: #ffffff;
 }
 
+body.dark-mode .toc button:hover {
+  background-color: #3a3d42;
+}
+
+body.dark-mode .toc li.active a {
+  background-color: #353535;
+}
+
+body.dark-mode .nested li a:hover {
+  background-color: #3a3d42;
+}
+
+body.dark-mode .nested li a:active {
+  background-color: #3a3d42d7;
+}
+
 /* Dark Mode for Content */
 
 body.dark-mode .content {

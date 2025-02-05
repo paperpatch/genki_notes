@@ -42,8 +42,9 @@
   background-color: #f0f0f0;
 }
 
-body.dark-mode .toc button:hover {
-  background-color: #3a3d42;
+.toc li.active a {
+  background-color: #ededed;
+  border-radius: 5px;
 }
 
 /* Nested List Styles */
@@ -74,14 +75,6 @@ body.dark-mode .toc button:hover {
 .nested li a:active {
   background-color: #d0d0d0;
   transform: scale(0.98);
-}
-
-body.dark-mode .nested li a:hover {
-  background-color: #3a3d42;
-}
-
-body.dark-mode .nested li a:active {
-  background-color: #3a3d42d7;
 }
 
 /* Sidebar Toggle Button */
