@@ -230,7 +230,7 @@ function Header() {
         />
       </a>
       <div
-        className="icon-container"
+        className={`icon-container ${isSettingsModalVisible ? "rotated" : ""}`}
         onClick={toggleSettingsModal}
         ref={settingsIconRef}
       >

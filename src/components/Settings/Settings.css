@@ -177,6 +177,11 @@ body.dark-mode .icon-container {
   background-color: #1b1b1c;
 }
 
+body.dark-mode .icon-container.rotated .icon-gear {
+  transform: rotate(90deg);
+  filter: invert(29%) sepia(99%) saturate(4000%) hue-rotate(190deg) brightness(95%) contrast(102%);
+}
+
 body.dark-mode .settings-modal  {
   background-color: #1b1b1c;
   color: #e0e0e0;
