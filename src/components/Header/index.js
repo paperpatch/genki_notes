@@ -243,24 +243,24 @@ function Header() {
             alt="settings-gear"
           />
         </div>
+        {isSettingsModalVisible && (
+          <div ref={settingsModalRef}>
+            <SettingsModal
+              isVisible={isSettingsModalVisible}
+              onClose={toggleSettingsModal}
+              onSettingsChange={handleSettingsChange}
+              initialSettings={{
+                darkMode,
+                fontSize:
+                  JSON.parse(localStorage.getItem("settings"))?.fontSize || 0,
+                fontFamily:
+                  JSON.parse(localStorage.getItem("settings"))?.fontFamily ||
+                  "arial",
+              }}
+            />
+          </div>
+        )}
       </div>
-      {isSettingsModalVisible && (
-        <div ref={settingsModalRef}>
-          <SettingsModal
-            isVisible={isSettingsModalVisible}
-            onClose={toggleSettingsModal}
-            onSettingsChange={handleSettingsChange}
-            initialSettings={{
-              darkMode,
-              fontSize:
-                JSON.parse(localStorage.getItem("settings"))?.fontSize || 0,
-              fontFamily:
-                JSON.parse(localStorage.getItem("settings"))?.fontFamily ||
-                "arial",
-            }}
-          />
-        </div>
-      )}
     </header>
   );
 }
