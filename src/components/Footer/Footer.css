@@ -28,6 +28,6 @@
 /* Mobile-Specific Styles */
 @media (max-width: 1000px) {
   .footer {
-    margin-top: 1rem;
+    margin: 1rem;
   }
 }
