@@ -170,6 +170,13 @@
     width: 90%;
   }
 
+  .icon-container {
+    position: absolute;
+    top: 3px;
+    right: 15px;
+    width: 0px;
+  }
+
   .icon {
     position: absolute;
     top: 3px;

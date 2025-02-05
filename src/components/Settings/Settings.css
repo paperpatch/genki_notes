@@ -299,6 +299,12 @@ body.dark-mode .footer-content {
 }
 
 @media (max-width: 1000px) {
+  .settings-modal {
+    width: 250px;
+    top: 16em;
+    right: -120px;
+  }
+
   /* Font Sizes */
   html.font-size--2 {
     font-size: 8px;
