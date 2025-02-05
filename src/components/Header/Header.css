@@ -37,6 +37,7 @@
   flex: 1;
   margin-left: 7em;
   margin-right: 5rem;
+  max-width: 600px;
 }
 
 .searchbar input {
@@ -138,10 +139,11 @@
 
 @media (max-width: 1000px) {
   .header {
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin-left: 20px;
     padding: 0.5rem;
+    width: 100%;
   }
 
   .header-title {
@@ -152,14 +154,18 @@
   }
 
   .header-title h1 {
+    margin-left: 20px;
     font-size: 1.5rem;
   }
 
   .searchbar {
+    display: flex;
     flex-direction: column;
     align-items: center;
-    width: 95%;
-    margin: 0.5rem 0;
+    width: 100%;
+    padding: 2px;
+    margin: 0 auto;
+    max-width: 300px;
   }
 
   .searchresult-title {

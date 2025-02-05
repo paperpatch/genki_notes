@@ -217,28 +217,32 @@ function Header() {
           </ul>
         )}
       </div>
-      <a
-        className="icon-container"
-        href="https://www.github.com/paperpatch/genki_notes"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          className="icon icon-github"
-          src={darkMode ? iconGithubDark : iconGithub}
-          alt="icon-github"
-        />
-      </a>
-      <div
-        className={`icon-container ${isSettingsModalVisible ? "rotated" : ""}`}
-        onClick={toggleSettingsModal}
-        ref={settingsIconRef}
-      >
-        <img
-          className="icon icon-gear"
-          src={darkMode ? iconGearDark : iconGear}
-          alt="settings-gear"
-        />
+      <div>
+        <a
+          className="icon-container"
+          href="https://www.github.com/paperpatch/genki_notes"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            className="icon icon-github"
+            src={darkMode ? iconGithubDark : iconGithub}
+            alt="icon-github"
+          />
+        </a>
+        <div
+          className={`icon-container ${
+            isSettingsModalVisible ? "rotated" : ""
+          }`}
+          onClick={toggleSettingsModal}
+          ref={settingsIconRef}
+        >
+          <img
+            className="icon icon-gear"
+            src={darkMode ? iconGearDark : iconGear}
+            alt="settings-gear"
+          />
+        </div>
       </div>
       {isSettingsModalVisible && (
         <div ref={settingsModalRef}>
