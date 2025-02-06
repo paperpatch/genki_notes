@@ -301,7 +301,7 @@ body.dark-mode .footer-content {
 @media (max-width: 1000px) {
   .settings-modal {
     width: 250px;
-    top: 16em;
+    top: 18em;
     right: -120px;
   }
 

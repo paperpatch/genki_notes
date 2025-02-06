@@ -176,7 +176,7 @@ function Header() {
     <header className="header">
       <div className="header-title">
         <Link to="/">
-          <h1>Genki Notes</h1>
+          <h1 className="site-title"></h1>
         </Link>
       </div>
       <div className="searchbar" ref={searchRef}>
@@ -219,7 +219,7 @@ function Header() {
       </div>
       <div>
         <a
-          className="icon-container"
+          className="icon-container icon-container-github"
           href="https://www.github.com/paperpatch/genki_notes"
           target="_blank"
           rel="noreferrer"

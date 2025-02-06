@@ -32,6 +32,10 @@
   color: inherit;
 }
 
+.site-title::before {
+  content: "Genki Notes";
+}
+
 .searchbar,
 .searchbar input,
 .searchbar ul {
@@ -145,60 +149,37 @@
 }
 
 @media (max-width: 1000px) {
-  .header {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0.5rem;
-    width: 100%;
-  }
-
-  .header-title {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-  }
-
   .header-title h1 {
-    margin-left: 30px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-title h1 {
+    margin-left: 10px;
+    padding: 0 10px;
     font-size: 1.5rem;
   }
 
+  .site-title::before {
+    content: "GN";
+  }
+
   .searchbar {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
     padding: 2px;
     margin: 0 auto;
     max-width: 300px;
+  }
+
+  .searchbar input {
+    padding: 5px;
   }
 
   .searchresult-title {
     padding-left: 10px;
   }
 
-  .searchbar ul {
-    width: 90%;
-  }
-
-  .icon-container {
-    position: absolute;
-    top: 3px;
-    right: 15px;
-    width: 0px;
-  }
-
-  .icon {
-    position: absolute;
-    top: 3px;
-    right: 10px;
-    width: 22px;
-    height: 22px;
-  }
-
-  .icon-github {
-    right: 45px;
+  .icon-container-github {
+    display: none;
   }
 }
