@@ -6,7 +6,13 @@ function Lesson5() {
 
   return (
     <div>
-      <h2>Lesson 5: 沖縄旅行 (A Trip to Okinawa)</h2>
+      <h2>
+        Lesson 5:{" "}
+        <span className="kanji">
+          沖縄旅行<span className="furigana">おきなわりょこう</span>
+        </span>{" "}
+        (A Trip to Okinawa)
+      </h2>
       <section id="section1">
         <h3>5.1: Adjectives (Present Tense)</h3>
         <div className="indent">
@@ -42,12 +48,12 @@ function Lesson5() {
                 <td>
                   さむい<span className="underline-orange">です</span>
                   <br />
-                  It is cold.
+                  <i>It is cold.</i>
                 </td>
                 <td>
                   さむ<span className="underline-orange">くないです</span>
                   <br />
-                  It is not cold.
+                  <i>It is not cold.</i>
                 </td>
               </tr>
               <tr>
@@ -57,27 +63,43 @@ function Lesson5() {
                   <span className="text-orange">e.g.</span> 元気 (な)
                 </td>
                 <td>
-                  元気<span className="underline-orange">です</span>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  <span className="underline-orange">です</span>
                   <br />
-                  She is healthy.
+                  <i>She is healthy.</i>
                 </td>
                 <td>
-                  元気<span className="underline-orange">じゃないです</span>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  <span className="underline-orange">じゃないです</span>
                   <br />
-                  She is not healthy.
+                  <i>She is not healthy.</i>
                 </td>
               </tr>
             </tbody>
           </table>
           <p className="tab">
-            A: その本は面白いですか。
+            A: その本は
+            <span className="kanji">
+              面白<span className="furigana">おもしろ</span>
+            </span>
+            いですか。
             <br />
-            Is that book interesting?
+            <i>Is that book interesting?</i>
           </p>
           <p className="tab">
             B: いいえ, あまりおもしろくないです。
             <br />
-            No, it is not very interesting.
+            <i>No, it is not very interesting.</i>
           </p>
           <p>
             One irregularity worth noticing is the adjective いい (good). The
@@ -115,21 +137,38 @@ function Lesson5() {
             </tbody>
           </table>
           <p>
-            If you want to say things like "very hot", and "a littlehot", you
+            If you want to say things like "very hot", and "a little hot", you
             can add "degree adverbs" like すごく (extremely), とても (very) and
             ちょっと (a little; slightly) before adjectives.
           </p>
           <p className="tab">
-            沖縄の海は<span className="underline-orange">とても</span>
+            <span className="kanji">
+              沖縄<span className="furigana">おきなわ</span>
+            </span>
+            の
+            <span className="kanji">
+              海<span className="furigana">うみ</span>
+            </span>
+            は<span className="underline-orange">とても</span>
             きれいです。
             <br />
-            The sea is very beautiful in Okinawa.
+            <i>The sea is very beautiful in Okinawa.</i>
           </p>
           <p className="tab">
-            この部屋は<span className="underline-orange">ちょっと</span>
-            暑いです。
+            この
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
+            </span>
+            は<span className="underline-orange">ちょっと</span>
+            <span className="kanji">
+              暑<span className="furigana">あつ</span>
+            </span>
+            いです。
             <br />
-            This room is a little hot.
+            <i>This room is a little hot.</i>
           </p>
         </div>
       </section>
@@ -165,12 +204,12 @@ function Lesson5() {
                 <td>
                   さむい<span className="underline-orange">かったです</span>
                   <br />
-                  It was cold.
+                  <i>It was cold.</i>
                 </td>
                 <td>
                   さむ<span className="underline-orange">くなかったです</span>
                   <br />
-                  It was not cold.
+                  <i>It was not cold.</i>
                 </td>
               </tr>
               <tr>
@@ -182,12 +221,12 @@ function Lesson5() {
                 <td>
                   元気<span className="underline-orange">でした</span>
                   <br />
-                  She was healthy.
+                  <i>She was healthy.</i>
                 </td>
                 <td>
                   元気<span className="underline-orange">じゃなかったです</span>
                   <br />
-                  She was not healthy.
+                  <i>She was not healthy.</i>
                 </td>
               </tr>
             </tbody>
@@ -278,31 +317,70 @@ function Lesson5() {
             </tbody>
           </table>
           <p>
-            If you like ro dislike something (or somebody) a lot, you can use
-            the intensidifed forms of 好きです and きらいです, by adjusting to
-            大好きです (like a lot) and 大きらいです (hate), which are more
-            often used than the degree modifier とても.
+            If you like or dislike something (or somebody) a lot, you can use
+            the intensified forms of{" "}
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きです and きらいです, by adjusting to
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きです (like a lot) and{" "}
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            きらいです (hate), which are more often used than the degree
+            modifier とても.
           </p>
           <p className="tab">
-            たけしさんはコーヒーが大好きです。
+            たけしさんはコーヒーが
+            <span className="kanji">
+              大<span className="furigana">だい</span>
+            </span>
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きです。
             <br />
-            Takeshi likes coffee a lot.
+            <i>Takeshi likes coffee a lot.</i>
           </p>
           <p>
             If you want to be neutral and say that you neither like or dislike
             something, you can say the following:
           </p>
           <p className="tab">
-            好きでもきらいでもないです。
-            <br />I neither like nor dislike (it).
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きでもきらいでもないです。
+            <br />
+            <i>I neither like nor dislike (it).</i>
           </p>
           <p>
             You can use 好きな and きらいな as modifiers of nouns. For example:
           </p>
           <p className="tab">
-            これは<span className="underline-orange">私の好な</span>本です。
+            これは
+            <span className="underline-orange">
+              私の
+              <span className="kanji">
+                好<span className="furigana">す</span>
+              </span>
+              きな
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            です。
             <br />
-            This is <span className="underline-orange">my favorite</span> book.
+            <i>
+              This is <span className="underline-orange">my favorite</span>{" "}
+              book.
+            </i>
           </p>
         </div>
       </section>
@@ -316,9 +394,20 @@ function Lesson5() {
             "let's...", which you can use to suggest a plan of action.
           </p>
           <p className="tab">
-            一緒に図書館で勉強しましょう。
+            <span className="kanji">
+              一緒<span className="furigana">いっしょ</span>
+            </span>
+            に
+            <span className="kanji">
+              図書館<span className="furigana">としょかん</span>
+            </span>
+            で
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            しましょう。
             <br />
-            Let's study in the library together.
+            <i>Let's study in the library together.</i>
           </p>
         </div>
       </section>
@@ -331,14 +420,27 @@ function Lesson5() {
             different kinds of items, like counting people or counting books.
           </p>
           <p className="tab">
-            リーさんは Tシャツを三枚買いました。
+            リーさんは <span className="underline-orange">Tシャツ</span>を{" "}
+            <span className="kanji">
+              三枚<span className="furigana">さんまい</span>
+            </span>{" "}
+            <span className="kanji">
+              買<span className="furigana">か</span>
+            </span>
+            いました。
             <br />
-            Lee bought three T-shirts.
+            <i>Lee bought three T-shirts.</i>
           </p>
           <p>
-            The number word, 三枚 (san mai), is made up of the numeral 三 and
-            the "counter" 枚. This counter is used for sheets of paper and other
-            flat objects.
+            The number word,{" "}
+            <span className="kanji">
+              三枚<span className="furigana">さんまい</span>
+            </span>
+            , is made up of the numeral 三 and the "counter"{" "}
+            <span className="kanji">
+              枚<span className="furigana">まい</span>
+            </span>
+            . This counter is used for sheets of paper and other flat objects.
           </p>
         </div>
       </section>
