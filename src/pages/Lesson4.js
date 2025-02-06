@@ -16,7 +16,8 @@ function Lesson4() {
           <p>It's accompanied by the particle が, instead of は.</p>
           <p className="tab">
             テレビがありません。
-            <br />I don't have a TV.
+            <br />
+            <i>I don't have a TV.</i>
           </p>
         </div>
       </section>
@@ -82,9 +83,16 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            銀行は図書館の<span className="underline-orange">となり</span>です。
+            <span className="kanji">
+              銀行<span className="furigana">ぎんこう</span>
+            </span>
+            は
+            <span className="kanji">
+              図書館<span className="furigana">としょかん</span>
+            </span>
+            の<span className="underline-orange">となり</span>です。
             <br />
-            The bank is next to the library.
+            <i>The bank is next to the library.</i>
           </p>
         </div>
       </section>
@@ -124,9 +132,13 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            あれは日本の映画じゃなかったです。
+            あれは日本の
+            <span className="kanji">
+              映画<span className="furigana">えいが</span>
+            </span>
+            じゃなかったです。
             <br />
-            That was not a Japanese movie.
+            <i>That was not a Japanese movie.</i>
           </p>
         </div>
       </section>
@@ -166,9 +178,20 @@ function Lesson4() {
             </tbody>
           </table>
           <p className="tab">
-            メリーさんはく時頃家に帰りました。
+            メリーさんはく時
+            <span className="kanji">
+              頃<span className="furigana">ごろ</span>
+            </span>
+            <span className="kanji">
+              家<span className="furigana">うち</span>
+            </span>
+            に
+            <span className="kanji">
+              帰<span className="furigana">かえ</span>
+            </span>
+            りました。
             <br />
-            Mary returned home at about nine.
+            <i>Mary returned home at about nine.</i>
           </p>
         </div>
       </section>
@@ -183,13 +206,14 @@ function Lesson4() {
           </p>
           <p className="tab">
             私は昨日京都に行きました。
-            <br />I went to Kyoto yesterday.
+            <br />
+            <i>I went to Kyoto yesterday.</i>
           </p>
           <p className="tab">
             山下先生<span className="underline-orange">も</span>
             昨日京都に行きました。
             <br />
-            Professor Yamashita went to Kyoto yesterday, too.
+            <i>Professor Yamashita went to Kyoto yesterday, too.</i>
           </p>
           <p>
             You replace は or を with も, but with other particles such as に
@@ -218,24 +242,36 @@ function Lesson4() {
           <p>The duration of an activity is expressed with a bare noun.</p>
           <p className="tab">
             メリーさんはそこで たけしさんを
-            <span className="underline-orange">一時間</span>に待ちました。
+            <span className="underline-orange">一時間</span>に
+            <span className="kanji">
+              待<span className="furigana">ま</span>
+            </span>
+            ちました。
             <br />
-            Mary waited for Takeshi there for an hour.
+            <i>Mary waited for Takeshi there for an hour.</i>
           </p>
           <p>Use ぐらい after ～時間 for an approximate measurement.</p>
           <p className="tab">
             私は昨日 日本語を
             <span className="underline-orange">三時間ぐらい</span>
             勉強しました。
-            <br />I studied Japanese for about three hours yesterday.
+            <br />
+            <i>I studied Japanese for about three hours yesterday.</i>
           </p>
           <p>
             To say one hour an a half, you can add 半 immediately after ～時間.
           </p>
           <p className="tab">
-            昨日<span className="underline-orange">七時間半</span>寝ました。
+            <span className="kanji">
+              昨日<span className="furigana">きのう</span>
+            </span>
+            <span className="underline-orange">七時間半</span>
+            <span className="kanji">
+              寝<span className="furigana">ね</span>
+            </span>
+            ました。
             <br />
-            (I) slept for seven and a half hours last night.
+            <i>(I) slept for seven and a half hours last night.</i>
           </p>
           <p>
             You can combine 半 and ぐらい, where ぐらい comes last, as in
@@ -255,15 +291,32 @@ function Lesson4() {
           <table className="table-short table-mini">
             <tbody>
               <tr>
-                <td rowSpan="2">京都で</td>
-                <td>
-                  写真を<span className="underline-orange">たくさん</span>
+                <td rowSpan="2">
+                  <span className="kanji">
+                    京都<span className="furigana">きょうと</span>
+                  </span>
+                  で
                 </td>
-                <td rowSpan="2">撮りました。</td>
+                <td>
+                  <span className="kanji">
+                    写真<span className="furigana">しゃしん</span>
+                  </span>
+                  を<span className="underline-orange">たくさん</span>
+                </td>
+                <td rowSpan="2">
+                  <span className="kanji">
+                    撮<span className="furigana">と</span>
+                  </span>
+                  りました。
+                </td>
               </tr>
               <tr>
                 <td>
-                  <span className="underline-orange">たくさん</span>写真を
+                  <span className="underline-orange">たくさん</span>
+                  <span className="kanji">
+                    写真<span className="furigana">しゃしん</span>
+                  </span>
+                  を
                 </td>
               </tr>
             </tbody>
@@ -280,11 +333,20 @@ function Lesson4() {
           </p>
           <p className="tab">
             日本語
-            <span className="underline-orange">と</span>英語を話します。
-            <br />I speak Japanese <span className="underline-orange">
-              and
-            </span>{" "}
-            English.
+            <span className="underline-orange">と</span>
+            <span className="kanji">
+              英語<span className="furigana">えいご</span>
+            </span>
+            を
+            <span className="kanji">
+              話<span className="furigana">はな</span>
+            </span>
+            します。
+            <br />
+            <i>
+              I speak Japanese <span className="underline-orange">and</span>{" "}
+              English.
+            </i>
           </p>
           <p>
             The other meaning of と is "together with". It describes <i>with</i>{" "}
@@ -292,12 +354,16 @@ function Lesson4() {
           </p>
           <p className="tab">
             メリーさんはソラさん
-            <span className="underline-orange">と</span>韓国に行きます。
+            <span className="underline-orange">と</span>
+            <span className="kanji">
+              韓国<span className="furigana">かんこく</span>
+            </span>
+            に行きます。
             <br />
-            Mary will go to Korea <span className="underline-orange">
-              with
-            </span>{" "}
-            Sora.
+            <i>
+              Mary will go to Korea{" "}
+              <span className="underline-orange">with</span> Sora.
+            </i>
           </p>
         </div>
       </section>
