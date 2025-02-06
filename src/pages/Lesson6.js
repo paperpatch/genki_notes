@@ -11,7 +11,7 @@ function Lesson6() {
         <span className="kanji">
           一日<span className="furigana">いちにち</span>
         </span>{" "}
-        A Day in Robert's Life
+        (A Day in Robert's Life)
       </h2>
       <section id="section1">
         <h3>6.1: Te-form</h3>
