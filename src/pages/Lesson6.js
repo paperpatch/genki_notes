@@ -6,7 +6,13 @@ function Lesson6() {
 
   return (
     <div>
-      <h2>Lesson 6: ロバートさんの一日 A Day in Robert's Life</h2>
+      <h2>
+        Lesson 6: ロバートさんの
+        <span className="kanji">
+          一日<span className="furigana">いちにち</span>
+        </span>{" "}
+        A Day in Robert's Life
+      </h2>
       <section id="section1">
         <h3>6.1: Te-form</h3>
         <div className="indent">
@@ -176,9 +182,16 @@ function Lesson6() {
             request to another person "please do ... for me."
           </p>
           <p className="tab">
-            教科書を読んでください。
+            <span className="kanji">
+              教科書<span className="furigana">きょうかしょ</span>
+            </span>
+            を
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            んでください。
             <br />
-            Please read the textbook.
+            <i>Please read the textbook.</i>
           </p>
         </div>
       </section>
@@ -192,13 +205,43 @@ function Lesson6() {
             by と, which only connects nouns.
           </p>
           <p className="tab">
-            図書館に行って，本を帰ります。
-            <br />I will go to the library and check out the books.
+            <span className="kanji">
+              図書館<span className="furigana">としょかん</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            って，本を
+            <span className="kanji">
+              借<span className="furigana">か</span>
+            </span>
+            ります。
+            <br />
+            <i>I will go to the library and check out the books.</i>
           </p>
           <p className="tab">
-            今日は，六時に起きて，勉強しました。
+            <span className="kanji">
+              今日<span className="furigana">きょう</span>
+            </span>
+            は，
+            <span className="kanji">
+              六<span className="furigana">ろく</span>
+            </span>
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            に
+            <span className="kanji">
+              起<span className="furigana">お</span>
+            </span>
+            きて，
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            しました。
             <br />
-            Today I got up at six and studied.
+            <i>Today I got up at six and studied.</i>
           </p>
           <p>
             The <i>te</i>-form of a verb can also be used to connect a verb more
@@ -207,13 +250,36 @@ function Lesson6() {
             can describe the situation for which an apology is made.
           </p>
           <p className="tab">
-            バスに乗って，会社に行きます。
-            <br />I go to work by bus. (I take a bus to work.)
+            バスに
+            <span className="kanji">
+              乗<span className="furigana">の</span>
+            </span>
+            って，
+            <span className="kanji">
+              会社<span className="furigana">かいしゃ</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
+            <br />
+            <i>I go to work by bus. (I take a bus to work.)</i>
           </p>
           <p className="tab">
-            教科書を忘れて，すみません。
-            <br />I am sorry for not bringing in the textbook. (I left the book
-            at home, and I am sorry.)
+            <span className="kanji">
+              教科書<span className="furigana">きょうかしょ</span>
+            </span>
+            を
+            <span className="kanji">
+              忘<span className="furigana">わす</span>
+            </span>
+            れて，すみません。
+            <br />
+            <i>
+              I am sorry for not bringing in the textbook. (I left the book at
+              home, and I am sorry.)
+            </i>
           </p>
         </div>
       </section>
@@ -230,19 +296,26 @@ function Lesson6() {
             The polite and graceful way to grant permission is to say どうぞ.
           </p>
           <p className="tab">
-            教科書を見てもいいですよ。
+            <span className="kanji">
+              教科書<span className="furigana">きょうかしょ</span>
+            </span>
+            を
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            てもいいですよ。
             <br />
-            You may use the textbook.
+            <i>You may use the textbook.</i>
           </p>
           <p className="tab">
             A: トイレに行ってもいいですか。
             <br />
-            May I go to the bathroom?
+            <i>May I go to the bathroom?</i>
           </p>
           <p className="tab">
             B: はい，いいですよ。/ どうぞ。
             <br />
-            You may. / Please.
+            <i>You may. / Please.</i>
           </p>
         </div>
       </section>
@@ -255,9 +328,17 @@ function Lesson6() {
             ...", a strong prohibition statement, as in rules and regulations.
           </p>
           <p className="tab">
-            ここで写真を撮ってはいけません。
+            ここで
+            <span className="kanji">
+              写真<span className="furigana">しゃしん</span>
+            </span>
+            を
+            <span className="kanji">
+              撮<span className="furigana">と</span>
+            </span>
+            ってはいけません。
             <br />
-            You must not take pictures here.
+            <i>You must not take pictures here.</i>
           </p>
           <p>
             If somebody asks for permission but you want to deny it, you could
@@ -286,9 +367,23 @@ function Lesson6() {
             </tbody>
           </table>
           <p className="tab">
-            私は今晩勉強します。明日はテストがありますから。
-            <br />I will study this evening. (Because) we will have an exam
-            tomorrow.
+            私は
+            <span className="kanji">
+              今晩<span className="furigana">こんばん</span>
+            </span>
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            します。
+            <span className="kanji">
+              明日<span className="furigana">あした</span>
+            </span>
+            テストがありますから。
+            <br />
+            <i>
+              I will study this evening. (Because) we will have an exam
+              tomorrow.
+            </i>
           </p>
         </div>
       </section>
@@ -297,13 +392,20 @@ function Lesson6() {
         <h3>6.7: ～ましょうか (Offering Assistance)</h3>
         <div className="indent">
           <p>
-            In Lesson 5, ましょうか means "Let's ...". ～ましょうか is also used
+            In Lesson 5, ましょうか means "Let's ..." ～ましょうか is also used
             in the sense of "let me do ...", as in offering assistance.
           </p>
           <p className="tab">
-            荷物を持ちましょうか。
+            <span className="kanji">
+              荷物<span className="furigana">にもつ</span>
+            </span>
+            を
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            ちましょうか。
             <br />
-            Shall I carry your bag?
+            <i>Shall I carry your bag?</i>
           </p>
         </div>
       </section>
