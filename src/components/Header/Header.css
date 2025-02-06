@@ -32,6 +32,12 @@
   color: inherit;
 }
 
+.searchbar,
+.searchbar input,
+.searchbar ul {
+  box-sizing: border-box;
+}
+
 .searchbar {
   position: relative;
   flex: 1;
@@ -60,6 +66,7 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
+  margin-top: 5px;
   border: 1px solid #ddd;
   z-index: 300;
 }
