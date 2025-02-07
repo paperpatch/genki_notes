@@ -9,11 +9,11 @@ function Lesson9() {
       <section id="section1">
         <h3>9.1: Past Tense Short Forms</h3>
         <div className="indent">
-          <p>
-            For past tense paradign of short forms, there are three rules to
+          <p style={{ marginBottom: "0px" }}>
+            For past tense paradigm of short forms, there are three rules to
             understand:
           </p>
-          <ol>
+          <ol style={{ marginTop: "5px" }}>
             <li>
               Verbs: Replace the <i>te</i>-form endings て and で with た and
               だ.
@@ -45,18 +45,30 @@ function Lesson9() {
                   • verbs:
                 </td>
                 <td>
-                  食べ<span className="underline-orange">た</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">た</span>
                 </td>
                 <td>
-                  食べ<span className="underline-orange">て</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">て</span>
                 </td>
               </tr>
               <tr>
                 <td>
-                  読ん<span className="underline-orange">だ</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  ん<span className="underline-orange">だ</span>
                 </td>
                 <td>
-                  読ん<span className="underline-orange">で</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  ん<span className="underline-orange">で</span>
                 </td>
               </tr>
               <tr>
@@ -65,26 +77,38 @@ function Lesson9() {
                   かわい<span className="underline-orange">かった</span>
                 </td>
                 <td>
-                  かわいい / かわい
+                  かわいい ／ かわい
                   <span className="underline-orange">かったです</span>
                 </td>
               </tr>
               <tr>
                 <td>• な-adjectives:</td>
                 <td>
-                  静か<span className="underline-orange">だった</span>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  か<span className="underline-orange">だった</span>
                 </td>
                 <td>
-                  静か<span className="underline-orange">でした</span>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  か<span className="underline-orange">でした</span>
                 </td>
               </tr>
               <tr>
                 <td>• noun + です:</td>
                 <td>
-                  学生<span className="underline-orange">だった</span>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  <span className="underline-orange">だった</span>
                 </td>
                 <td>
-                  学生<span className="underline-orange">でした</span>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  <span className="underline-orange">でした</span>
                 </td>
               </tr>
             </tbody>
@@ -99,10 +123,16 @@ function Lesson9() {
               <tr>
                 <td>• verbs:</td>
                 <td>
-                  読んな<span className="underline-orange">かった</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  んな<span className="underline-orange">かった</span>
                 </td>
                 <td>
-                  読んな<span className="underline-orange">い</span>
+                  <span className="kanji">
+                    読<span className="furigana">よ</span>
+                  </span>
+                  んな<span className="underline-orange">い</span>
                 </td>
               </tr>
               <tr>
@@ -118,19 +148,31 @@ function Lesson9() {
               <tr>
                 <td>• な-adjectives:</td>
                 <td>
-                  静かじゃな<span className="underline-orange">かった</span>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃな<span className="underline-orange">かった</span>
                 </td>
                 <td>
-                  静かじゃな<span className="underline-orange">い</span>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  かじゃな<span className="underline-orange">い</span>
                 </td>
               </tr>
               <tr>
                 <td>• noun + です:</td>
                 <td>
-                  学生じゃな<span className="underline-orange">かった</span>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃな<span className="underline-orange">かった</span>
                 </td>
                 <td>
-                  学生じゃな<span className="underline-orange">い</span>
+                  <span className="kanji">
+                    学生<span className="furigana">がくせい</span>
+                  </span>
+                  じゃな<span className="underline-orange">い</span>
                 </td>
               </tr>
             </tbody>
@@ -147,7 +189,20 @@ function Lesson9() {
             informal speech.
           </p>
           <div className="tab table-double-column">
-            <p>今朝、朝ご飯の食べた？</p>
+            <p>
+              <span className="kanji">
+                今朝<span className="furigana">けさ</span>
+              </span>
+              、
+              <span className="kanji">
+                朝<span className="furigana">あさ</span>
+              </span>
+              ご
+              <span className="kanji">
+                飯<span className="furigana">はん</span>
+              </span>
+              の食べた？
+            </p>
             <p>
               <i>Did you have breakfast this morning?</i>
             </p>
@@ -157,13 +212,29 @@ function Lesson9() {
             speech.
           </p>
           <div className="tab table-double-column">
-            <p>A: 先週は忙しかった？</p>
+            <p>
+              A:{" "}
+              <span className="kanji">
+                先週<span className="furigana">せんしゅう</span>
+              </span>
+              は
+              <span className="kanji">
+                忙<span className="furigana">いそが</span>
+              </span>
+              しかった？
+            </p>
             <p>
               <i>Were you busy last week?</i>
             </p>
           </div>
           <div className="tab table-double-column">
-            <p>B: ううん、忙しくなかった。ひまだった。</p>
+            <p>
+              B: ううん、
+              <span className="kanji">
+                忙<span className="furigana">いそが</span>
+              </span>
+              しくなかった。ひまだった。
+            </p>
             <p>
               <i>No, I wasn't. I had free time.</i>
             </p>
@@ -172,12 +243,22 @@ function Lesson9() {
       </section>
 
       <section id="section3">
-        <h3>9.3: Past Tense Short Forms in Quoted Speech: ～と思います</h3>
+        <h3>
+          9.3: Past Tense Short Forms in Quoted Speech: ～と
+          <span className="kanji">
+            思<span className="furigana">おも</span>
+          </span>
+          います
+        </h3>
         <div className="indent">
           <p>
             Like the present tense, you use the short form in the past tense
-            with ～と思います (to omoi masu), which means "I think", to report
-            what you think took place in the past.
+            with ～と
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います (to omoi masu), which means "I think", to report what you
+            think took place in the past.
           </p>
           <div className="tab table-double-column">
             <p>A: あ、私のとんかつがない！</p>
@@ -186,7 +267,13 @@ function Lesson9() {
             </p>
           </div>
           <div className="tab table-double-column">
-            <p>B: トムさんが食べたと思います。</p>
+            <p>
+              B: トムさんが食べたと
+              <span className="kanji">
+                思<span className="furigana">おも</span>
+              </span>
+              います。
+            </p>
             <p>
               <i>I think Tom ate it.</i>
             </p>
@@ -218,11 +305,21 @@ function Lesson9() {
       </section>
 
       <section id="section4">
-        <h3>9.4: Past Tense Short Forms in Quoted Speech: ～と言っていました</h3>
+        <h3>
+          9.4: Past Tense Short Forms in Quoted Speech: ～と
+          <span className="kanji">
+            言<span className="furigana">い</span>
+          </span>
+          っていました
+        </h3>
         <div className="indent">
           <p>
             If you heard somebody utter a sentence in the past tense, you can
-            report it with the short form past tense with ～と言っていました.
+            report it with the short form past tense with ～と
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            っていました.
           </p>
           <p className="tab">
             ヤスミンさんは、
@@ -237,7 +334,11 @@ function Lesson9() {
             <span className="kanji">
               食<span className="furigana">た</span>
             </span>
-            べなかったと言っていました。
+            べなかったと
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            っていました。
             <br />
             <i>Yasmin said that she didn't have lunch.</i>
           </p>
@@ -264,7 +365,11 @@ function Lesson9() {
               食<span className="furigana">た</span>
             </span>
             べて
-            <span className="underline-orange">いる</span>と言っていました。
+            <span className="underline-orange">いる</span>と
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            っていました。
             <br />
             <i>
               Yasmin said that she <span className="underline-orange">was</span>{" "}
@@ -277,8 +382,8 @@ function Lesson9() {
       <section id="section5">
         <h3>9.5: Qualifying Nouns with Verbs and Adjectives</h3>
         <div className="indent">
-          <p>Examples of noun modifications.</p>
-          <ol>
+          <p style={{ marginBottom: "0px" }}>Examples of noun modifications.</p>
+          <ol style={{ marginTop: "5px" }}>
             <li>adjectival modification</li>
             <li>phrase describing a person's attribute</li>
             <li>な-adjective with a grammatical object</li>
@@ -383,7 +488,17 @@ function Lesson9() {
           <div className="tab table-double-column">
             <p>
               B:{" "}
-              <span className="underline-orange">あそこで本を読んでいる</span>
+              <span className="underline-orange">
+                あそこで
+                <span className="kanji">
+                  本<span className="furigana">ほん</span>
+                </span>
+                を
+                <span className="kanji">
+                  読<span className="furigana">よ</span>
+                </span>
+                んでいる
+              </span>
               人です。
             </p>
             <p>
@@ -391,8 +506,21 @@ function Lesson9() {
             </p>
           </div>
           <p className="tab">
-            <span className="underline-orange">あそこで写真を撮っている</span>
-            学生はロバートさんです。
+            <span className="underline-orange">
+              あそこで
+              <span className="kanji">
+                写真<span className="furigana">しゃしん</span>
+              </span>
+              を
+              <span className="kanji">
+                撮<span className="furigana">と</span>
+              </span>
+              っている
+            </span>
+            <span className="kanji">
+              学生<span className="furigana">がくせい</span>
+            </span>
+            はロバートさんです。
             <br />
             <i>The student taking pictures over there is Robert.</i>
           </p>
@@ -403,15 +531,19 @@ function Lesson9() {
         <h3>9.6: もう～ました and まだ～ていません</h3>
         <div className="indent">
           <p>
-            Use affirmative past tense of a verb ～ ました both (i) to talk about
-            an event that happened at a certain time in the past (きのう{" "}
+            Use affirmative past tense of a verb ～ ました both (i) to talk
+            about an event that happened at a certain time in the past (きのう{" "}
             <i>yesterday</i>), and also (ii) to talk about a past event that
             still has an effect at present (used with adverbs like もう{" "}
             <i>already</i>).
           </p>
           <div className="tab table-double-column">
             <p>
-              きのう宿題をし<span className="underline-orange">ました</span>。
+              きのう
+              <span className="kanji">
+                宿題<span className="furigana">しゅくだい</span>
+              </span>
+              をし<span className="underline-orange">ました</span>。
             </p>
             <p>
               <i>I did the homework yesterday.</i>
@@ -419,7 +551,11 @@ function Lesson9() {
           </div>
           <div className="tab table-double-column">
             <p>
-              もう宿題をし
+              もう
+              <span className="kanji">
+                宿題<span className="furigana">しゅくだい</span>
+              </span>
+              をし
               <span className="underline-orange">ました</span>。
             </p>
             <p>
@@ -433,7 +569,11 @@ function Lesson9() {
           </p>
           <div className="tab table-double-column">
             <p>
-              きのう宿題をし
+              きのう
+              <span className="kanji">
+                宿題<span className="furigana">しゅくだい</span>
+              </span>
+              をし
               <span className="underline-orange">ませんでした</span>。
             </p>
             <p>
@@ -442,7 +582,11 @@ function Lesson9() {
           </div>
           <div className="tab table-double-column">
             <p>
-              もう宿題をし
+              もう
+              <span className="kanji">
+                宿題<span className="furigana">しゅくだい</span>
+              </span>
+              をし
               <span className="underline-orange">ていません</span>。
             </p>
             <p>
@@ -483,27 +627,42 @@ function Lesson9() {
             <tbody>
               <tr>
                 <td>
-                  <span className="border-orange">explanation</span>から、
+                  <span className="border-orange">explanation</span> から、
                   <span className="border-orange">situation</span>。
                 </td>
               </tr>
               <tr>
                 <td style={{ paddingLeft: "50px" }}>
-                  = <span className="border-orange">situation</span>, because
+                  = <span className="border-orange">situation</span>,{" "}
+                  <i>because</i>{" "}
                   <span className="border-orange">explanation</span>.
                 </td>
               </tr>
               <tr>
                 <td style={{ paddingLeft: "50px" }}>
-                  = <span className="border-orange">explanation</span>;
-                  therefore,
+                  = <span className="border-orange">explanation</span>;{" "}
+                  <i>therefore,</i>
                   <span className="border-orange">situation</span>.
                 </td>
               </tr>
             </tbody>
           </table>
           <p className="tab">
-            あした試験があるから、今晩勉強します。
+            あした
+            <span className="kanji">
+              試<span className="furigana">し</span>
+            </span>
+            <span className="kanji">
+              験<span className="furigana">けん</span>
+            </span>
+            があるから、
+            <span className="kanji">
+              今晩<span className="furigana">こんばん</span>
+            </span>
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            します。
             <br />
             <i>
               I will study this evening, beacuse we will have an exam tomorrow.
@@ -515,7 +674,14 @@ function Lesson9() {
             </i>
           </p>
           <p className="tab">
-            寒かったから、出かけませんでした。
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            かったから、
+            <span className="kanji">
+              出<span className="furigana">で</span>
+            </span>
+            かけませんでした。
             <br />
             <i>We didn't go out, because it was cold.</i>
             <br />
