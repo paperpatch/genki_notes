@@ -7,7 +7,16 @@ function Lesson3() {
 
   return (
     <div>
-      <h2>Lesson 3: デートの約束 (Making a Date)</h2>
+      <h2>
+        Lesson 3: デートの
+        <span className="kanji">
+          約<span className="furigana">やく</span>
+        </span>
+        <span className="kanji">
+          束<span className="furigana">そく</span>
+        </span>{" "}
+        (Making a Date)
+      </h2>
       <section id="section1">
         <h3>3.1: Verb Conjugation</h3>
         <div className="indent">
@@ -267,7 +276,14 @@ function Lesson3() {
             <strong>Habitual action:</strong>
           </p>
           <p className="tab">
-            私はよくテレビを見ます。
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            はよくテレビを
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            ます。
             <br />
             <i>I often watch TV.</i>
           </p>
@@ -275,7 +291,15 @@ function Lesson3() {
             <strong>Future action:</strong>
           </p>
           <p className="tab">
-            私は明日京都に行きます。
+            私は
+            <span className="kanji">
+              明日<span className="furigana">あした</span>
+            </span>
+            京都に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
             <br />
             <i>I will go to Kyoto tomorrow.</i>
           </p>
@@ -291,7 +315,11 @@ function Lesson3() {
             or affected by, the event.
           </p>
           <p className="tab">
-            コーヒー<span className="underline-orange">を</span>飲みます。
+            コーヒー<span className="underline-orange">を</span>
+            <span className="kanji">
+              飲<span className="furigana">の</span>
+            </span>
+            みます。
             <br />
             <i>I drink coffee.</i>
           </p>
@@ -303,18 +331,32 @@ function Lesson3() {
             <span className="kanji">
               書館<span className="furigana">しょかん</span>
             </span>
-            <span className="underline-orange">で</span>本を読みます。
+            <span className="underline-orange">で</span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            を
+            <span className="kanji">
+              読<span className="furigana">よ</span>
+            </span>
+            みます。
             <br />
             <i>I will read books in the library.</i>
           </p>
           <p>に has many meanings, but usually means:</p>
           <p className="indent">(1) Goal of movement</p>
           <p className="tab">
-            今日
+            <span className="kanji">
+              今日<span className="furigana">きょう</span>
+            </span>
             <span className="kanji">
               学校<span className="furigana">がっこう</span>
             </span>
-            <span className="underline-orange">に</span>行きません。
+            <span className="underline-orange">に</span>
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きません。
             <br />
             <i>I will not go to school today.</i>
           </p>
@@ -323,7 +365,11 @@ function Lesson3() {
             <span className="kanji">
               日曜日<span className="furigana">にちようび</span>
             </span>
-            <span className="underline-orange">に</span>京都に行きます。
+            <span className="underline-orange">に</span>京都に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
             <br />
             <i>I will go to Kyoto on Sunday.</i>
           </p>
@@ -351,7 +397,16 @@ function Lesson3() {
         <div className="indent">
           <p>Use に for days of week and numerical time expressions.</p>
           <p className="tab">
-            <span className="underline-orange">日曜日に</span>行きます。
+            <span className="underline-orange">
+              <span className="kanji">
+                日曜日<span className="furigana">にちようび</span>
+              </span>
+              に
+            </span>
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
             <br />
             <i>I will go on Sunday.</i>
           </p>
@@ -360,7 +415,12 @@ function Lesson3() {
             "tomorrow"
           </p>
           <p className="tab">
-            <span className="underline-orange">明日</span>来ます。
+            <span className="underline-orange">
+              <span className="kanji">
+                明日<span className="furigana">あした</span>
+              </span>
+            </span>
+            来ます。
             <br />
             <i>I will come tomorrow.</i>
           </p>
@@ -375,7 +435,18 @@ function Lesson3() {
             question, not an invitation.
           </p>
           <p className="tab">
-            昼ご飯を食べませんか。
+            <span className="kanji">
+              昼<span className="furigana">ひる</span>
+            </span>
+            ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            を
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べませんか。
             <br />
             <i>Would you like to have lunch?</i>
           </p>
@@ -418,7 +489,11 @@ function Lesson3() {
             <span className="kanji">
               書館<span className="furigana">しょかん</span>
             </span>
-            に行きます。
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きます。
             <br />
             <i>I sometimes go to the library.</i>
           </p>
