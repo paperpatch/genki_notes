@@ -6,7 +6,16 @@ function Lesson19() {
 
   return (
     <div>
-      <h2>Lesson 19: 出迎え (Meeting the Boss)</h2>
+      <h2>
+        Lesson 19:{" "}
+        <span className="kanji">
+          出<span className="furigana">で</span>
+        </span>
+        <span className="kanji">
+          迎<span className="furigana">むか</span>
+        </span>
+        え (Meeting the Boss)
+      </h2>
       <section id="section1">
         <h3>19.1: Honorific Verbs</h3>
         <div className="indent">
@@ -597,8 +606,8 @@ function Lesson19() {
         <h3>19.3: ～てくれてありがとう</h3>
         <div className="indent">
           <p>
-            When you want to express gratitude to someone for a specific
-            action, you can use the <i>te</i>-form + くれてありがとう.
+            When you want to express gratitude to someone for a specific action,
+            you can use the <i>te</i>-form + くれてありがとう.
           </p>
           <p>
             If you are thanking someone who needs to be talked to with the

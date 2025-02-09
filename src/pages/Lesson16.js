@@ -329,7 +329,17 @@ function Lesson16() {
 
   return (
     <div>
-      <h2>Lesson 16: 忘れ物 (Lost and Found)</h2>
+      <h2>
+        Lesson 16:{" "}
+        <span className="kanji">
+          忘<span className="furigana">わす</span>
+        </span>
+        れ
+        <span className="kanji">
+          物<span className="furigana">もの</span>
+        </span>{" "}
+        (Lost and Found)
+      </h2>
       <section id="section1">
         <h3>16.1: ～てあげる / てくれる / てもらう</h3>
         <div className="indent">

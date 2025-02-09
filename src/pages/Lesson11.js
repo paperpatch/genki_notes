@@ -6,7 +6,13 @@ function Lesson11() {
 
   return (
     <div>
-      <h2>Lesson 11: 休みのあと (After the Vacation)</h2>
+      <h2>
+        Lesson 11:{" "}
+        <span className="kanji">
+          休<span className="furigana">やす</span>
+        </span>
+        みのあと (After the Vacation)
+      </h2>
       <section id="section1">
         <h3>11.1: ～たい</h3>
         <div className="indent">

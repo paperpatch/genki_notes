@@ -6,7 +6,13 @@ function Lesson23() {
 
   return (
     <div>
-      <h2>Lesson 23: 別れ (Good-bye)</h2>
+      <h2>
+        Lesson 23:{" "}
+        <span className="kanji">
+          別<span className="furigana">わか</span>
+        </span>
+        れ (Good-bye)
+      </h2>
       <section id="section1">
         <h3>23.1: Causative-passive Sentences</h3>
         <div className="indent">

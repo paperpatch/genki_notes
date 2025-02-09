@@ -6,7 +6,13 @@ function Lesson13() {
 
   return (
     <div>
-      <h2>Lesson 13: アルバイト探し (Looking for a Part-time Job)</h2>
+      <h2>
+        Lesson 13: アルバイト
+        <span className="kanji">
+          探<span className="furigana">さが</span>
+        </span>
+        し (Looking for a Part-time Job)
+      </h2>
       <section id="section1">
         <h3>13.1: Potential Verbs</h3>
         <div className="indent">

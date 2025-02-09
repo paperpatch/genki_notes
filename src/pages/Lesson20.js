@@ -6,7 +6,17 @@ function Lesson20() {
 
   return (
     <div>
-      <h2>Lesson 20: メアリーさんの買い物 (Mary Goes Shopping)</h2>
+      <h2>
+        Lesson 20: メアリーさんの
+        <span className="kanji">
+          買<span className="furigana">かい</span>
+        </span>
+        い
+        <span className="kanji">
+          物<span className="furigana">もの</span>
+        </span>{" "}
+        (Mary Goes Shopping)
+      </h2>
       <section id="section1">
         <h3>20.1: Extra-modest Expressions</h3>
         <div className="indent">
