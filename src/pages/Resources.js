@@ -3,11 +3,11 @@ import "./Pages.css";
 function Resources() {
   return (
     <div>
-      <h1>Terms of Service:</h1>
+      <h2>Terms of Service</h2>
       <section>
         <p>This site is for personal learning. No legal jargon here.</p>
       </section>
-      <h1>FAQ (Frequently Asked Questions):</h1>
+      <h2>Frequently Asked Questions</h2>
       <section>
         <p>
           <strong>Q: Can I use this to learn Japanese?</strong>
@@ -34,7 +34,7 @@ function Resources() {
           consistent and practice regularly.
         </p>
       </section>
-      <h1>Contact:</h1>
+      <h2>Contact</h2>
       <section>
         <p>
           Project on{" "}
