@@ -22,7 +22,10 @@ function Lesson11() {
           </p>
           <p className="tab">
             <span className="kanji">
-              今度<span className="furigana">こんど</span>
+              今<span className="furigana">こん</span>
+            </span>
+            <span className="kanji">
+              度<span className="furigana">ど</span>
             </span>
             の
             <span className="kanji">
@@ -30,9 +33,16 @@ function Lesson11() {
             </span>
             は、
             <span className="kanji">
-              映画<span className="furigana">いえが</span>
+              映<span className="furigana">いえ</span>
             </span>
-            を見<span className="underline-orange">たい</span>です。
+            <span className="kanji">
+              画<span className="furigana">が</span>
+            </span>
+            を
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            <span className="underline-orange">たい</span>です。
             <br />
             <i>I want to see a film this weekend.</i>
           </p>
@@ -160,7 +170,10 @@ function Lesson11() {
           <p className="tab">
             メアリーさんは
             <span className="kanji">
-              着物<span className="furigana">きもの</span>
+              着<span className="furigana">き</span>
+            </span>
+            <span className="kanji">
+              物<span className="furigana">もの</span>
             </span>
             <span className="underline-orange">を</span>
             <span className="kanji">
@@ -311,7 +324,11 @@ function Lesson11() {
             <span className="kanji">
               勉強<span className="furigana">べんきょう</span>
             </span>
-            したり、友だちと
+            したり、
+            <span className="kanji">
+              友<span className="furigana">とも</span>
+            </span>
+            だちと
             <span className="kanji">
               話<span className="furigana">はな</span>
             </span>
