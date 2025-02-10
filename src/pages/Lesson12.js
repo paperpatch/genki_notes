@@ -250,7 +250,14 @@ function Lesson12() {
             <i>That's a cute notebook.</i>
           </p>
           <p className="tab">
-            B: ええ。日本んで
+            B: ええ。
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            んで
             <span className="kanji">
               買<span className="furigana">か</span>
             </span>
@@ -463,12 +470,31 @@ function Lesson12() {
             </tbody>
           </table>
           <p className="tab">
-            いつも日本語で
+            いつも
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            で
             <span className="kanji">
               話<span className="furigana">はな</span>
             </span>
-            す<span className="underline-orange">ので</span>
-            、日本語が
+            す<span className="underline-orange">ので</span>、
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            が
             <span className="kanji">
               上手<span className="furigana">じょうず</span>
             </span>
@@ -501,7 +527,7 @@ function Lesson12() {
           </p>
           <div className="tab table-double-column">
             <p>
-              その{" "}
+              その
               <span className="kanji">
                 人<span className="furigana">ひと</span>
               </span>
@@ -514,7 +540,6 @@ function Lesson12() {
           </div>
           <div className="tab table-double-column">
             <p>
-              今日
               <span className="kanji">
                 今日<span className="furigana">きょう</span>
               </span>
