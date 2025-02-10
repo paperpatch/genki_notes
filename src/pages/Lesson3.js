@@ -295,7 +295,10 @@ function Lesson3() {
             <span className="kanji">
               明日<span className="furigana">あした</span>
             </span>
-            京都に
+            <span className="kanji">
+              京都<span className="furigana">きょうと</span>
+            </span>
+            に
             <span className="kanji">
               行<span className="furigana">い</span>
             </span>
@@ -365,7 +368,11 @@ function Lesson3() {
             <span className="kanji">
               日曜日<span className="furigana">にちようび</span>
             </span>
-            <span className="underline-orange">に</span>京都に
+            <span className="underline-orange">に</span>
+            <span className="kanji">
+              京都<span className="furigana">きょうと</span>
+            </span>
+            に
             <span className="kanji">
               行<span className="furigana">い</span>
             </span>
@@ -420,7 +427,10 @@ function Lesson3() {
                 明日<span className="furigana">あした</span>
               </span>
             </span>
-            来ます。
+            <span className="kanji">
+              来<span className="furigana">き</span>
+            </span>
+            ます。
             <br />
             <i>I will come tomorrow.</i>
           </p>
@@ -477,7 +487,10 @@ function Lesson3() {
             (never)
           </p>
           <p className="tab">
-            私は
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は
             <span className="underline-orange">
               <span className="kanji">
                 時々<span className="furigana">ときどき</span>
@@ -510,7 +523,12 @@ function Lesson3() {
           <table className="table-short table-mini">
             <tbody>
               <tr>
-                <td>私は</td>
+                <td>
+                  <span className="kanji">
+                    私<span className="furigana">わたし</span>
+                  </span>
+                  は
+                </td>
                 <td>
                   <span className="kanji">
                     今日<span className="furigana">きょう</span>
@@ -526,7 +544,12 @@ function Lesson3() {
                   で
                 </td>
                 <td>
-                  日本
+                  <span className="kanji">
+                    日<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
                   <span className="kanji">
                     語<span className="furigana">ご</span>
                   </span>
