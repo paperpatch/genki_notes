@@ -212,7 +212,11 @@ function Lesson6() {
             <span className="kanji">
               行<span className="furigana">い</span>
             </span>
-            って，本を
+            って，
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            を
             <span className="kanji">
               借<span className="furigana">か</span>
             </span>
@@ -367,7 +371,10 @@ function Lesson6() {
             </tbody>
           </table>
           <p className="tab">
-            私は
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は
             <span className="kanji">
               今晩<span className="furigana">こんばん</span>
             </span>
@@ -397,7 +404,10 @@ function Lesson6() {
           </p>
           <p className="tab">
             <span className="kanji">
-              荷物<span className="furigana">にもつ</span>
+              荷<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              物<span className="furigana">もつ</span>
             </span>
             を
             <span className="kanji">
