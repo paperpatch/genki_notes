@@ -88,7 +88,11 @@ function Lesson5() {
             </tbody>
           </table>
           <p className="tab">
-            A: その本は
+            A: その
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            は
             <span className="kanji">
               面白<span className="furigana">おもしろ</span>
             </span>
@@ -216,15 +220,34 @@ function Lesson5() {
                 <td>
                   <strong>な-adjectives</strong>
                   <br />
-                  <span className="text-orange">e.g.</span> 元気 (な)
+                  <span className="text-orange">e.g.</span>{" "}
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>{" "}
+                  (な)
                 </td>
                 <td>
-                  元気<span className="underline-orange">でした</span>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  <span className="underline-orange">でした</span>
                   <br />
                   <i>She was healthy.</i>
                 </td>
                 <td>
-                  元気<span className="underline-orange">じゃなかったです</span>
+                  <span className="kanji">
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
+                  </span>
+                  <span className="underline-orange">じゃなかったです</span>
                   <br />
                   <i>She was not healthy.</i>
                 </td>
@@ -277,14 +300,30 @@ function Lesson5() {
             <tbody>
               <tr>
                 <td>い-adjectives:</td>
-                <td>おもしろい映画</td>
+                <td>
+                  おもしろい
+                  <span className="kanji">
+                    映<span className="furigana">えい</span>
+                  </span>
+                  <span className="kanji">
+                    画<span className="furigana">が</span>
+                  </span>
+                </td>
                 <td>
                   <i>an interesting movie</i>
                 </td>
               </tr>
               <tr>
                 <td>な-adjectives:</td>
-                <td>きれいな写真</td>
+                <td>
+                  きれいな
+                  <span className="kanji">
+                    写<span className="furigana">しゃ</span>
+                  </span>
+                  <span className="kanji">
+                    真<span className="furigana">しん</span>
+                  </span>
+                </td>
                 <td>
                   <i>a beautiful picture</i>
                 </td>
@@ -366,7 +405,10 @@ function Lesson5() {
           <p className="tab">
             これは
             <span className="underline-orange">
-              私の
+              <span className="kanji">
+                私<span className="furigana">わたし</span>
+              </span>
+              の
               <span className="kanji">
                 好<span className="furigana">す</span>
               </span>
@@ -436,7 +478,11 @@ function Lesson5() {
             <span className="kanji">
               三枚<span className="furigana">さんまい</span>
             </span>
-            , is made up of the numeral 三 and the "counter"{" "}
+            , is made up of the numeral{" "}
+            <span className="kanji">
+              三<span className="furigana">さん</span>
+            </span>{" "}
+            and the "counter"{" "}
             <span className="kanji">
               枚<span className="furigana">まい</span>
             </span>
