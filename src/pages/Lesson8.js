@@ -505,7 +505,10 @@ function Lesson8() {
                 <td>
                   A:{" "}
                   <span className="kanji">
-                    元気<span className="furigana">げんき</span>
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
                   </span>
                   ？
                 </td>
@@ -517,7 +520,10 @@ function Lesson8() {
                 <td>
                   B: うん、
                   <span className="kanji">
-                    元気<span className="furigana">げんき</span>
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
                   </span>
                   。
                 </td>
@@ -587,7 +593,11 @@ function Lesson8() {
             marks (" ") in direct quotation.
           </p>
           <p className="tab">
-            (私は)たけしさんはメアリーさんが
+            （
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は）たけしさんはメアリーさんが
             <span className="kanji">
               好<span className="furigana">す</span>
             </span>
@@ -613,7 +623,11 @@ function Lesson8() {
             いません (<i>I don't think</i>).
           </p>
           <p className="tab">
-            (私は)メアリーさんはたけしさんが
+            （
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は）メアリーさんはたけしさんが
             <span className="kanji">
               好<span className="furigana">す</span>
             </span>
@@ -775,7 +789,17 @@ function Lesson8() {
             action. For example, you can describe what you like/dislike doing.
           </p>
           <p className="tab">
-            (私は)日本
+            （
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は）
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
             <span className="kanji">
               語<span className="furigana">ご</span>
             </span>
@@ -792,14 +816,24 @@ function Lesson8() {
             <i>I like studying the Japanese language.</i>
           </p>
           <p className="tab">
-            私は
+            （
             <span className="kanji">
-              部屋<span className="furigana">へや</span>
+              私<span className="furigana">わたし</span>
+            </span>
+            は）
+            <span className="kanji">
+              部<span className="furigana">へ</span>
+            </span>
+            <span className="kanji">
+              屋<span className="furigana">や</span>
             </span>
             を
             <span className="underline-black">
               <span className="kanji">
-                掃除<span className="furigana">そうじ</span>
+                掃<span className="furigana">そう</span>
+              </span>
+              <span className="kanji">
+                除<span className="furigana">じ</span>
               </span>
               する
             </span>
@@ -847,7 +881,13 @@ function Lesson8() {
             <span className="kanji">
               英語<span className="furigana">えいご</span>
             </span>
-            を<span className="underline-black">話す</span>
+            を
+            <span className="underline-black">
+              <span className="kanji">
+                話<span className="furigana">はな</span>
+              </span>
+              す
+            </span>
             <span className="border-orange">の</span>が
             <span className="kanji">
               下<span className="furigana">へ</span>
@@ -908,7 +948,10 @@ function Lesson8() {
           <p className="tab">
             <span className="text-red">✕</span> たけしさんは
             <span className="kanji">
-              英語<span className="furigana">えいご</span>
+              英<span className="furigana">えい</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
             </span>
             を
             <span className="underline-orange">
@@ -1035,14 +1078,24 @@ function Lesson8() {
             particle が.
           </p>
           <p className="tab">
-            A: どのクラス
+            A:　どのクラス
             <span className="underline-orange">が</span>
             おもしろいですか。
             <br />
             <i>Which class is (the most) interesting?</i>
           </p>
           <p className="tab">
-            B: 日本語のクラス
+            B:　
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            のクラス
             <span className="underline-orange">が</span>
             おもしろいです。
             <br />
@@ -1127,7 +1180,13 @@ function Lesson8() {
             <span className="kanji">
               猫<span className="furigana">ねこ</span>
             </span>
-            が<span className="underline-orange">何か</span>
+            が
+            <span className="underline-orange">
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              か
+            </span>
             <span className="kanji">
               持<span className="furigana">も</span>
             </span>
@@ -1139,8 +1198,17 @@ function Lesson8() {
             <span className="kanji">
               猫<span className="furigana">ねこ</span>
             </span>
-            は<span className="underline-orange">何か</span>
-            食べましたか。
+            は
+            <span className="underline-orange">
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              か
+            </span>
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べましたか。
             <br />
             <i>Did the cat eat anything?</i>
           </p>
@@ -1150,7 +1218,10 @@ function Lesson8() {
               猫<span className="furigana">ねこ</span>
             </span>
             は<span className="underline-orange">何も</span>
-            食べませんでした。
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べませんでした。
             <br />
             <i>No, the cat did not eat anything.</i>
           </p>
