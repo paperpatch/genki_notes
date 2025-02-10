@@ -201,7 +201,11 @@ function Lesson9() {
               <span className="kanji">
                 飯<span className="furigana">はん</span>
               </span>
-              の食べた？
+              の
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べた？
             </p>
             <p>
               <i>Did you have breakfast this morning?</i>
@@ -261,14 +265,24 @@ function Lesson9() {
             think took place in the past.
           </p>
           <div className="tab table-double-column">
-            <p>A: あ、私のとんかつがない！</p>
+            <p>
+              A: あ、
+              <span className="kanji">
+                私<span className="furigana">わたし</span>
+              </span>
+              のとんかつがない！
+            </p>
             <p>
               <i>Hey, my pork cutlet is gone!</i>
             </p>
           </div>
           <div className="tab table-double-column">
             <p>
-              B: トムさんが食べたと
+              B: トムさんが
+              <span className="kanji">
+                食<span className="furigana">た</span>
+              </span>
+              べたと
               <span className="kanji">
                 思<span className="furigana">おも</span>
               </span>
@@ -399,8 +413,9 @@ function Lesson9() {
                   <span className="border-orange">おもしろい</span>
                 </td>
                 <td>
-                  <span className="text-main">人</span>
-                  <span className="text-sub">ひと</span>
+                  <span className="kanji">
+                    人<span className="furigana">ひと</span>
+                  </span>
                 </td>
                 <td>
                   <i>
@@ -417,8 +432,9 @@ function Lesson9() {
                   <span className="border-orange">髪が長い</span>
                 </td>
                 <td>
-                  <span className="text-main">人</span>
-                  <span className="text-sub">ひと</span>
+                  <span className="kanji">
+                    人<span className="furigana">ひと</span>
+                  </span>
                 </td>
                 <td>
                   <i>
@@ -435,8 +451,9 @@ function Lesson9() {
                   <span className="border-orange">おもしろい</span>
                 </td>
                 <td>
-                  <span className="text-main">人</span>
-                  <span className="text-sub">ひと</span>
+                  <span className="kanji">
+                    人<span className="furigana">ひと</span>
+                  </span>
                 </td>
                 <td>
                   <i>
@@ -453,8 +470,9 @@ function Lesson9() {
                   <span className="border-orange">おもしろい</span>
                 </td>
                 <td>
-                  <span className="text-main">人</span>
-                  <span className="text-sub">ひと</span>
+                  <span className="kanji">
+                    人<span className="furigana">ひと</span>
+                  </span>
                 </td>
                 <td>
                   <i>
@@ -480,7 +498,13 @@ function Lesson9() {
             people on the basis of their current actions and states.
           </p>
           <div className="tab table-double-column">
-            <p>A: ゆいさんはどの人ですか？</p>
+            <p>
+              A: ゆいさんはどの
+              <span className="kanji">
+                人<span className="furigana">ひと</span>
+              </span>
+              ですか？
+            </p>
             <p>
               <i>Which one is Yui?</i>
             </p>
@@ -499,7 +523,10 @@ function Lesson9() {
                 </span>
                 んでいる
               </span>
-              人です。
+              <span className="kanji">
+                人<span className="furigana">ひと</span>
+              </span>
+              です。
             </p>
             <p>
               <i>Yui is the one who is reading a book over there.</i>
