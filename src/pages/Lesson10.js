@@ -53,8 +53,18 @@ function Lesson10() {
             <span className="kanji">
               中国<span className="furigana">ちゅうごく</span>
             </span>
-            <span className="underline-orange">のほうが</span>日本
-            <span className="underline-orange">より</span>大きいです。
+            <span className="underline-orange">のほうが</span>
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="underline-orange">より</span>
+            <span className="kanji">
+              大<span className="furigana">おお</span>
+            </span>
+            きいです。
             <br />
             <i>China is larger than Japan.</i>
           </p>
@@ -81,30 +91,63 @@ function Lesson10() {
             In comparing three or more items, the degree qualifier いちばん is
             used.
           </p>
-          <p className="tab">一番 (いちばん) = number one; first</p>
-          <p className="tab">中 (なか) = inside; interior</p>
+          <p className="tab">
+            <span className="kanji">
+              一<span className="furigana">いち</span>
+            </span>
+            <span className="kanji">
+              番<span className="furigana">ばん</span>
+            </span>{" "}
+            = number one; first
+          </p>
+          <p className="tab">
+            <span className="kanji">
+              中<span className="furigana">なか</span>
+            </span>{" "}
+            = inside; interior
+          </p>
           <table className="table-list table-mini table-border-orange">
             <tbody>
               <tr>
                 <td>[ A と B と C ]</td>
                 <td>
-                  の
-                  <span className="kanji">
-                    中<span className="furigana">なか</span>
-                  </span>
-                  で A がいちばん (property)。
+                  <span className="underline-orange">
+                    の
+                    <span className="kanji">
+                      中<span className="furigana">なか</span>
+                    </span>
+                    で
+                  </span>{" "}
+                  A <span className="underline-orange">がいちばん</span>{" "}
+                  (property)。
                 </td>
               </tr>
               <tr>
                 <td colSpan="2" style={{ textAlign: "right" }}>
-                  <i>= Between A and B, which is more (property)?</i>
+                  <i>
+                    = <span className="underline-orange">A is</span> the most
+                    (property) [<span className="underline-orange">among</span>{" "}
+                    the group of items].
+                  </i>
                 </td>
               </tr>
             </tbody>
           </table>
           <p className="tab">
-            A: カナダとフランスと日本
-            <span className="underline-orange">の中で</span>
+            A: カナダとフランスと
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="underline-orange">
+              の
+              <span className="kanji">
+                中<span className="furigana">なか</span>
+              </span>
+              で
+            </span>
             、どこが<span className="underline-orange">いちばん</span>
             <span className="kanji">
               寒<span className="furigana">さむ</span>
@@ -118,7 +161,11 @@ function Lesson10() {
           </p>
           <p className="tab">
             B: カナダが
-            <span className="underline-orange">いちばん</span>寒いと
+            <span className="underline-orange">いちばん</span>
+            <span className="kanji">
+              寒<span className="furigana">さむ</span>
+            </span>
+            いと
             <span className="kanji">
               思<span className="furigana">おも</span>
             </span>
@@ -147,7 +194,10 @@ function Lesson10() {
             repetition. の mostly stands for things, not people.
           </p>
           <p className="tab">
-            私は
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は
             <span className="kanji">
               黒<span className="furigana">くろ</span>
             </span>
@@ -160,7 +210,10 @@ function Lesson10() {
               赤<span className="furigana">あか</span>
             </span>
             い<span className="underline-orange">の</span>
-            持っています。（の = ケーキ）
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            っています。（の = セーター）
             <br />
             <i>I have a black sweater. I have a red one, too.</i>
           </p>
@@ -214,7 +267,14 @@ function Lesson10() {
                 車<span className="furigana">くるま</span>
               </span>
             </span>
-            のほうがに日本の
+            のほうがに
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            の
             <span className="kanji">
               <span className="strikethrough-orange">車</span>
               <span className="furigana">くるま</span>
@@ -266,7 +326,11 @@ function Lesson10() {
             </tbody>
           </table>
           <p className="tab">
-            （私は）
+            （
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は）
             <span className="kanji">
               週末<span className="furigana">しゅうまつ</span>
             </span>
@@ -276,7 +340,17 @@ function Lesson10() {
             <i>I intend to play tennis with Takeshi this weekend.</i>
           </p>
           <p className="tab">
-            山下先生はあした大学に
+            <span className="kanji">
+              山下<span className="furigana">やました</span>
+            </span>
+            <span className="kanji">
+              先生<span className="furigana">せんせい</span>
+            </span>
+            はあした
+            <span className="kanji">
+              大学<span className="furigana">だいがく</span>
+            </span>
+            に
             <span className="kanji">
               来<span className="furigana">こ</span>
             </span>
@@ -296,12 +370,27 @@ function Lesson10() {
             <span className="kanji">
               寺<span className="furigana">てら</span>
             </span>
-            を見に行く<span className="underline-orange">つもりでした</span>
+            を
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            く<span className="underline-orange">つもりでした</span>
             が、
             <span className="kanji">
-              天気<span className="furigana">てんき</span>
+              天<span className="furigana">てん</span>
             </span>
-            がよくなかったから、行きませんでした。
+            <span className="kanji">
+              気<span className="furigana">き</span>
+            </span>
+            がよくなかったから、
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            きませんでした。
             <br />
             <i>
               We were planning to visit a temple, but we didn't, because the
@@ -330,7 +419,10 @@ function Lesson10() {
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
-                  暖か<span className="underline-orange">くなる</span>
+                  <span className="kanji">
+                    暖<span className="furigana">あたた</span>
+                  </span>
+                  か<span className="underline-orange">くなる</span>
                 </td>
                 <td>
                   <i>to become warm/warmer</i>
@@ -346,7 +438,10 @@ function Lesson10() {
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
-                  静か<span className="underline-orange">になる</span>
+                  <span className="kanji">
+                    静<span className="furigana">しず</span>
+                  </span>
+                  か<span className="underline-orange">になる</span>
                 </td>
                 <td>
                   <i>to become quiet/quieter</i>
@@ -361,7 +456,10 @@ function Lesson10() {
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
-                  会社員<span className="underline-orange">になる</span>
+                  <span className="kanji">
+                    会社員<span className="furigana">かいしゃいん</span>
+                  </span>
+                  <span className="underline-orange">になる</span>
                 </td>
                 <td>
                   <i>to become a company employee</i>
@@ -370,13 +468,29 @@ function Lesson10() {
             </tbody>
           </table>
           <p className="tab">
-            日本語の勉強が
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            の
+            <span className="kanji">
+              勉強<span className="furigana">べんきょう</span>
+            </span>
+            が
             <span className="kanji">
               楽<span className="furigana">たの</span>
             </span>
             しくなりました。
             <br />
-            <i>Studying the Japanese language is fun now.</i>
+            <i>
+              Studying the Japanese language is fun now (though it was like
+              torture before).
+            </i>
           </p>
           <p>With い-adjectives, the final い is dropped and く is added.</p>
           <p>
@@ -394,7 +508,16 @@ function Lesson10() {
               </span>
               より
             </span>
-            日本語が
+            <span className="kanji">
+              日<span className="furigana">に</span>
+            </span>
+            <span className="kanji">
+              本<span className="furigana">ほん</span>
+            </span>
+            <span className="kanji">
+              語<span className="furigana">ご</span>
+            </span>
+            が
             <span className="kanji">
               上手<span className="furigana">じょうず</span>
             </span>
@@ -418,7 +541,10 @@ function Lesson10() {
                   <i>something</i>
                 </td>
                 <td style={{ paddingLeft: 0 }}>
-                  何か
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  か
                   <span className="underline-orange">
                     &nbsp;&nbsp;&nbsp;&nbsp;
                   </span>
@@ -447,7 +573,9 @@ function Lesson10() {
                   <i>not anything</i>
                 </td>
                 <td style={{ paddingLeft: 0 }}>
-                  何
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
                   <span className="underline-orange">
                     &nbsp;&nbsp;&nbsp;&nbsp;
                   </span>
@@ -525,15 +653,24 @@ function Lesson10() {
           </div>
           <br />
           <div className="tab table-double-column">
-            <p>A: 何かしましたか。</p>
+            <p>
+              A:{" "}
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              かしましたか。
+            </p>
             <p>
               <i>Did you do anything?</i>
             </p>
           </div>
           <div className="tab table-double-column">
             <p>
-              B: いいえ、何<span className="underline-orange">も</span>*
-              しませんでした。
+              B: いいえ、
+              <span className="kanji">
+                何<span className="furigana">なに</span>
+              </span>
+              <span className="underline-orange">も</span>* しませんでした。
             </p>
             <p>
               <i>No, I didn't do anything.</i>
@@ -571,7 +708,18 @@ function Lesson10() {
           </div>
           <div className="tab table-double-column">
             <p>
-              <span className="underline-orange">日本語で</span>
+              <span className="underline-orange">
+                <span className="kanji">
+                  日<span className="furigana">に</span>
+                </span>
+                <span className="kanji">
+                  本<span className="furigana">ほん</span>
+                </span>
+                <span className="kanji">
+                  語<span className="furigana">ご</span>
+                </span>
+                で
+              </span>
               <span className="kanji">
                 話<span className="furigana">はな</span>
               </span>
@@ -603,7 +751,10 @@ function Lesson10() {
             <p>
               <span className="underline-orange">テレビで</span>
               <span className="kanji">
-                映画<span className="furigana">えいが</span>
+                映<span className="furigana">えい</span>
+              </span>
+              <span className="kanji">
+                画<span className="furigana">が</span>
               </span>
               を
               <span className="kanji">
