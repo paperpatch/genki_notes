@@ -83,7 +83,10 @@ function Lesson7() {
             does by occupation or by habit.
           </p>
           <p className="tab">
-            私は
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            は
             <span className="kanji">
               英語<span className="furigana">えいご</span>
             </span>
@@ -105,7 +108,10 @@ function Lesson7() {
                 <th colSpan="3" className="table-header text-orange">
                   e.g.{" "}
                   <span className="text-black">
-                    食べ<span className="underline-orange">ている</span>
+                    <span className="kanji">
+                      食<span className="furigana">た</span>
+                    </span>
+                    べ<span className="underline-orange">ている</span>
                   </span>
                 </th>
               </tr>
@@ -119,12 +125,18 @@ function Lesson7() {
               <tr>
                 <td>[Present]</td>
                 <td>
-                  食べ<span className="underline-orange">ています</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">ています</span>
                   <br />
                   <i>He is eating.</i>
                 </td>
                 <td>
-                  食べ<span className="underline-orange">ていません</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">ていません</span>
                   <br />
                   <i>He is not eating.</i>
                 </td>
@@ -132,12 +144,18 @@ function Lesson7() {
               <tr>
                 <td>[Past]</td>
                 <td>
-                  食べ<span className="underline-orange">ていました</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">ていました</span>
                   <br />
                   <i>He was eating.</i>
                 </td>
                 <td>
-                  食べ<span className="underline-orange">ていませんでした</span>
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べ<span className="underline-orange">ていませんでした</span>
                   <br />
                   <i>He was not eating.</i>
                 </td>
@@ -239,7 +257,11 @@ function Lesson7() {
                   <span className="kanji">
                     先生<span className="furigana">せんせい</span>
                   </span>
-                  は母を
+                  は
+                  <span className="kanji">
+                    母<span className="furigana">はは</span>
+                  </span>
+                  を
                   <span className="kanji">
                     知<span className="furigana">し</span>
                   </span>
@@ -283,7 +305,10 @@ function Lesson7() {
                   (is thin)
                 </td>
                 <td>
-                  私の
+                  <span className="kanji">
+                    私<span className="furigana">わたし</span>
+                  </span>
+                  の
                   <span className="kanji">
                     弟<span className="furigana">おとうと</span>
                   </span>
@@ -425,7 +450,17 @@ function Lesson7() {
       </section>
 
       <section id="section3">
-        <h3>7.3: メリーさんは髪が長いです</h3>
+        <h3>
+          7.3: メリーさんは
+          <span className="kanji">
+            髪<span className="furigana">かみ</span>
+          </span>
+          が
+          <span className="kanji">
+            長<span className="furigana">なが</span>
+          </span>
+          いです
+        </h3>
         <div className="indent">
           <p>Normally, we would describe someone who has long hair with:</p>
           <p className="tab">
@@ -657,14 +692,20 @@ function Lesson7() {
                 <td>な-adjectives:</td>
                 <td>
                   <span className="kanji">
-                    元気<span className="furigana">げんき</span>
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
                   </span>{" "}
                   (な)
                 </td>
                 <td>→</td>
                 <td>
                   <span className="kanji">
-                    元気<span className="furigana">げんき</span>
+                    元<span className="furigana">げん</span>
+                  </span>
+                  <span className="kanji">
+                    気<span className="furigana">き</span>
                   </span>
                   <span className="underline-orange">で</span>
                 </td>
@@ -673,14 +714,26 @@ function Lesson7() {
                 <td>noun + です:</td>
                 <td>
                   <span className="kanji">
-                    日本人<span className="furigana">にほんじん</span>
+                    日<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  <span className="kanji">
+                    人<span className="furigana">じん</span>
                   </span>
                   です
                 </td>
                 <td>→</td>
                 <td>
                   <span className="kanji">
-                    日本人<span className="furigana">にほんじん</span>
+                    日<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  <span className="kanji">
+                    人<span className="furigana">じん</span>
                   </span>
                   <span className="underline-orange">で</span>
                 </td>
@@ -692,7 +745,11 @@ function Lesson7() {
             <span className="kanji">
               店<span className="furigana">みせ</span>
             </span>
-            の食べ
+            の
+            <span className="kanji">
+              食<span className="furigana">た</span>
+            </span>
+            べ
             <span className="kanji">
               物<span className="furigana">もの</span>
             </span>
@@ -724,7 +781,13 @@ function Lesson7() {
       </section>
 
       <section id="section5">
-        <h3>7.5: Verb Stem + に行く</h3>
+        <h3>
+          7.5: Verb Stem + に
+          <span className="kanji">
+            行<span className="furigana">い</span>
+          </span>
+          く
+        </h3>
         <div className="indent">
           <p>
             If a person moves to another place in order to do something, we can
@@ -739,11 +802,21 @@ function Lesson7() {
                   <span className="border-orange">the purpose of movement</span>
                 </td>
                 <td rowSpan="3">に</td>
-                <td>行く</td>
+                <td>
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  く
+                </td>
               </tr>
               <tr>
                 <td>へ</td>
-                <td>来る</td>
+                <td>
+                  <span className="kanji">
+                    来<span className="furigana">く</span>
+                  </span>
+                  る
+                </td>
               </tr>
               <tr>
                 <td colSpan="1"></td>
@@ -774,7 +847,13 @@ function Lesson7() {
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
-                  <span className="underline-orange">食べ</span> (ます)
+                  <span className="underline-orange">
+                    <span className="kanji">
+                      食<span className="furigana">た</span>
+                    </span>
+                    べ
+                  </span>{" "}
+                  (ます)
                 </td>
                 <td></td>
                 <td>
@@ -785,7 +864,13 @@ function Lesson7() {
                 </td>
                 <td className="arrow-right">→</td>
                 <td>
-                  <span className="underline-orange">読み</span> (ます)
+                  <span className="underline-orange">
+                    <span className="kanji">
+                      読<span className="furigana">よ</span>
+                    </span>
+                    み
+                  </span>{" "}
+                  (ます)
                 </td>
                 <td>etc.</td>
               </tr>
@@ -883,7 +968,10 @@ function Lesson7() {
             </tbody>
           </table>
           <p className="tab">
-            私のクラスに（は）インドネシア
+            <span className="kanji">
+              私<span className="furigana">わたし</span>
+            </span>
+            のクラスに（は）インドネシア
             <span className="kanji">
               人<span className="furigana">にん</span>
             </span>
