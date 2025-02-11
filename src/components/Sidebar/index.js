@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./Sidebar.css";
-import Footer from "../Footer";
 
 function Table() {
   const [genkiOneOpen, setGenkiOneOpen] = useState(true);
@@ -218,7 +217,15 @@ function Table() {
             )}
           </li>
         </ul>
-        <Footer />
+        <footer id="footer" className="footer">
+          <div className="footer-content">
+            <nav>
+              <Link to="/Resources">Terms of Service</Link>
+              <Link to="/Resources">FAQ</Link>
+              <Link to="/Resources">Contact</Link>
+            </nav>
+          </div>
+        </footer>
       </nav>
     </>
   );
