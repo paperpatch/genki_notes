@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import "./Sidebar.css";
 
 function Table() {
+  const [travelOpen, setTravelOpen] = useState(true);
   const [genkiOneOpen, setGenkiOneOpen] = useState(true);
   const [genkiTwoOpen, setGenkiTwoOpen] = useState(true);
   const [isSidebarVisible, setIsSidebarVisible] = useState(false);
@@ -11,6 +12,7 @@ function Table() {
   const toggleButtonRef = useRef(null);
   const location = useLocation();
 
+  const toggleTravel = () => setTravelOpen(!travelOpen);
   const toggleGenkiOne = () => setGenkiOneOpen(!genkiOneOpen);
   const toggleGenkiTwo = () => setGenkiTwoOpen(!genkiTwoOpen);
 
@@ -81,6 +83,43 @@ function Table() {
       >
         <h2>Table of Contents</h2>
         <ul className="toc">
+          <li>
+            <button onClick={toggleTravel}>
+              Travel {genkiOneOpen ? "▼" : "☰"}
+            </button>
+            {travelOpen && (
+              <ul className="nested">
+                <li className={location.hash === "#greetings" ? "active" : ""}>
+                  <Link to="/travel#greetings">Greetings</Link>
+                </li>
+                <li className={location.hash === "#airport" ? "active" : ""}>
+                  <Link to="/travel#airport">Airport</Link>
+                </li>
+                <li className={location.hash === "#directions" ? "active" : ""}>
+                  <Link to="/travel#directions">Directions</Link>
+                </li>
+                <li
+                  className={
+                    location.hash === "#transportation" ? "active" : ""
+                  }
+                >
+                  <Link to="/travel#transportation">Transportation</Link>
+                </li>
+                <li className={location.hash === "#hotel" ? "active" : ""}>
+                  <Link to="/travel#hotel">Hotel</Link>
+                </li>
+                <li className={location.hash === "#restaurant" ? "active" : ""}>
+                  <Link to="/travel#restaurant">Restaurant</Link>
+                </li>
+                <li className={location.hash === "#shopping" ? "active" : ""}>
+                  <Link to="/travel#shopping">Shopping</Link>
+                </li>
+                <li className={location.hash === "#numbers" ? "active" : ""}>
+                  <Link to="/travel#numbers">Numbers</Link>
+                </li>
+              </ul>
+            )}
+          </li>
           <li>
             <button onClick={toggleGenkiOne}>
               Genki I {genkiOneOpen ? "▼" : "☰"}
