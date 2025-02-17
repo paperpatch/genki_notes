@@ -4,7 +4,7 @@ function Travel() {
   return (
     <div>
       <div id="greetings">
-        <h2>Greetings</h2>
+        <h2>Greetings / Basic Phrases</h2>
         <section id="section1">
           <div>
             <h3>1. Hello</h3>
@@ -31,7 +31,18 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>4. Goodbye</h3>
+            <h3>4. Nice to meet you</h3>
+            <p>
+              <span className="kanji">
+                初<span className="furigana">はじ</span>
+              </span>
+              めまして
+              <br />
+              <i>hajimemashite</i>
+            </p>
+          </div>
+          <div>
+            <h3>5. Goodbye</h3>
             <p>
               さようなら
               <br />
@@ -39,7 +50,19 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>5. Thank You</h3>
+            <h3>6. Please</h3>
+            <p>
+              お
+              <span className="kanji">
+                願<span className="furigana">ねが</span>
+              </span>
+              いします
+              <br />
+              <i>onegaishimasu</i>
+            </p>
+          </div>
+          <div>
+            <h3>7. Thank You</h3>
             <p>
               ありがとうございます
               <br />
@@ -47,7 +70,7 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>6. Excuse Me</h3>
+            <h3>8. Excuse Me / Sorry</h3>
             <p>
               すみません
               <br />
@@ -55,7 +78,7 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>7. Yes</h3>
+            <h3>9. Yes</h3>
             <p>
               はい
               <br />
@@ -63,7 +86,7 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>8. No</h3>
+            <h3>10. No</h3>
             <p>
               いいえ
               <br />
@@ -71,59 +94,80 @@ function Travel() {
             </p>
           </div>
           <div>
-            <h3>9. Please</h3>
+            <h3>11. I don't understand</h3>
             <p>
-              お願いします
+              <span className="kanji">
+                分<span className="furigana">わ</span>
+              </span>
+              かりません
               <br />
-              <i>onegai shimasu</i>
+              <i>wakarimasen</i>
             </p>
           </div>
           <div>
-            <h3>10. I'm Sorry</h3>
+            <h3>12. I don't speak Japanese</h3>
             <p>
-              ごめんなさい
+              <span className="kanji">
+                日<span className="furigana">に</span>
+              </span>
+              <span className="kanji">
+                本<span className="furigana">ほん</span>
+              </span>
+              <span className="kanji">
+                語<span className="furigana">ご</span>
+              </span>
+              を
+              <span className="kanji">
+                話<span className="furigana">はな</span>
+              </span>
+              しません
               <br />
-              <i>gomen nasai</i>
+              <i>nihongo o hanashimasen</i>
             </p>
           </div>
           <div>
-            <h3>11. How Are You?</h3>
+            <h3>13. Do you speak English?</h3>
             <p>
-              お元気ですか
+              <span className="kanji">
+                英<span className="furigana">えい</span>
+              </span>
+              <span className="kanji">
+                語<span className="furigana">ご</span>
+              </span>
+              を
+              <span className="kanji">
+                話<span className="furigana">はな</span>
+              </span>
+              しますか？
               <br />
-              <i>ogenki desu ka</i>
+              <i>Eigo o hanashimasu ka?</i>
             </p>
           </div>
           <div>
-            <h3>12. I'm Fine</h3>
+            <h3>14. Can you please repeat that?</h3>
             <p>
-              元気です
+              もう
+              <span className="kanji">
+                一度<span className="furigana">いちど</span>
+              </span>
+              <span className="kanji">
+                言<span className="furigana">い</span>
+              </span>
+              ってください？
               <br />
-              <i>genki desu</i>
+              <i>mou ichido itte kudasai?</i>
             </p>
           </div>
           <div>
-            <h3>13. What is Your Name?</h3>
+            <h3>15. Can you please speak slowly?</h3>
             <p>
-              お名前は何ですか
+              ゆっくり
+              <span className="kanji">
+                話<span className="furigana">はな</span>
+              </span>
+              しておください
               <br />
-              <i>onamae wa nan desu ka</i>
-            </p>
-          </div>
-          <div>
-            <h3>14. My Name is...</h3>
-            <p>
-              私の名前は...です
-              <br />
-              <i>watachi no namae wa ... desu</i>
-            </p>
-          </div>
-          <div>
-            <h3>15. Nice to Meet You</h3>
-            <p>
-              初めまして
-              <br />
-              <i>hajimemashite</i>
+              <i>yukkuri hanashite kudasai</i>
             </p>
           </div>
         </section>
@@ -151,7 +195,15 @@ function Travel() {
 
       <div id="restaurant">
         <h2>Restaurant</h2>
-        {/* Content for Restaurant */}
+
+        <div>
+          <h3>15. Please refill</h3>
+          <p>
+            おかわり(を)ください
+            <br />
+            <i>okawari o kudasai</i>
+          </p>
+        </div>
       </div>
 
       <div id="shopping">
