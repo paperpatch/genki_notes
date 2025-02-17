@@ -85,7 +85,7 @@ function Table() {
         <ul className="toc">
           <li>
             <button onClick={toggleTravel}>
-              Travel {genkiOneOpen ? "▼" : "☰"}
+              Travel {travelOpen ? "▼" : "☰"}
             </button>
             {travelOpen && (
               <ul className="nested">
