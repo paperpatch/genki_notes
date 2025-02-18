@@ -1,6 +1,10 @@
+import React from "react";
+import { useSmoothScrollToSection } from "../utils/Helpers";
 import "./Pages.css";
 
 function Travel() {
+  useSmoothScrollToSection();
+
   return (
     <div>
       <div id="greetings">
