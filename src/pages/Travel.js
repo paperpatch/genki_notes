@@ -169,7 +169,7 @@ function Travel() {
               <span className="kanji">
                 話<span className="furigana">はな</span>
               </span>
-              しておください
+              してください
               <br />
               <i>yukkuri hanashite kudasai</i>
             </p>
