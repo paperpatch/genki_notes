@@ -9,7 +9,7 @@ function Travel() {
     <div>
       <div id="greetings">
         <h2>Greetings / Basic Phrases</h2>
-        <section id="section1">
+        <section>
           <div>
             <h3>1. Hello</h3>
             <p>
@@ -179,7 +179,146 @@ function Travel() {
 
       <div id="airport">
         <h2>Airport</h2>
-        {/* Content for Airport --> */}
+        <section>
+          <h3>1. Please come in</h3>
+          <div className="indent">
+            <p className="tab">
+              いらっしゃいませ。どうぞお入りください。
+              <br />
+              <i>Irasshaimase. Dōzo o-hairi kudasai.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              ありがとうございます。
+              <br />
+              <i>Arigatō gozaimasu.</i>
+            </p>
+          </div>
+
+          <h3>2. Please show your ticket</h3>
+          <div className="indent">
+            <p className="tab">
+              チケットをお見せください。
+              <br />
+              <i>Chiketto o o-mise kudasai.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              はい、どうぞ。
+              <br />
+              <i>Hai, dōzo.</i>
+            </p>
+          </div>
+
+          <h3>3. Please show your passport</h3>
+          <div className="indent">
+            <p className="tab">
+              パスポートをお見せください。
+              <br />
+              <i>Pasupōto o o-mise kudasai.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              はい、どうぞ。
+              <br />
+              <i>Hai, dōzo.</i>
+            </p>
+          </div>
+
+          <h3>4. The flight is delayed</h3>
+          <div className="indent">
+            <p className="tab">
+              フライトが遅れています。
+              <br />
+              <i>Furaito ga okurete imasu.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              どのくらい遅れますか？
+              <br />
+              <i>Dono kurai okuremasu ka?</i>
+              <br />
+              <i>How long is the delay?</i>
+            </p>
+          </div>
+
+          <h3>5. Flight has been cancelled</h3>
+          <div className="indent">
+            <p className="tab">
+              フライトがキャンセルされました。
+              <br />
+              <i>Furaito ga kyanseru saremashita.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              次の便はいつですか？
+              <br />
+              <i>Tsugi no bin wa itsu desu ka?</i>
+              <br />
+              <i>When is the next flight?</i>
+            </p>
+          </div>
+
+          <h3>6. Can I get a window seat?</h3>
+          <div className="indent">
+            <p className="tab">
+              両替所はどこですか？
+              <br />
+              <i>Ryōgai-sho wa doko desu ka?</i>
+            </p>
+          </div>
+
+          <h3>7. Your luggage is too heavy.</h3>
+          <div className="indent">
+            <p className="tab">
+              お荷物が重すぎます。
+              <br />
+              <i>O-nimotsu ga omosugimasu.</i>
+            </p>
+            <b className="indent">Response:</b>
+            <p className="tab">
+              追加料金はいくらですか？
+              <br />
+              <i>Tsuika ryōkin wa ikura desu ka?</i>
+              <br />
+              <i>How much is the extra fee?</i>
+            </p>
+            <p className="tab">
+              いくつか減らせますか？
+              <br />
+              <i>Ikutsuka herasemasu ka?</i>
+              <br />
+              <i>Can I remove some items?</i>
+            </p>
+          </div>
+
+          <h3>8. We will depart for ... Airport</h3>
+          <div className="indent">
+            <p className="tab">
+              ...空港に向けて出発します。
+              <br />
+              <i>... kūkō ni mukete shuppatsu shimasu.</i>
+            </p>
+          </div>
+
+          <h3>9. We have arrived at ... Airport</h3>
+          <div className="indent">
+            <p className="tab">
+              ...空港に到着しました。
+              <br />
+              <i>... kūkō ni tōchaku shimashita.</i>
+            </p>
+          </div>
+
+          <h3>10. Where can I exchange money?</h3>
+          <div className="indent">
+            <p className="tab">
+            両替所はどこですか？
+              <br />
+              <i>Ryōgai-sho wa doko desu ka?</i>
+            </p>
+          </div>
+        </section>
       </div>
 
       <div id="directions">
