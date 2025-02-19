@@ -10,32 +10,35 @@ function Travel() {
       <div id="greetings">
         <h2>Greetings / Basic Phrases</h2>
         <section>
-          <div>
-            <h3>1. Hello</h3>
+          <h3>1. Hello</h3>
+          <div className="tab">
             <p>
               こんにちは
               <br />
               <i>konnichiwa</i>
             </p>
           </div>
-          <div>
-            <h3>2. Good Morning</h3>
+
+          <h3>2. Good Morning</h3>
+          <div className="tab">
             <p>
               おはようございます
               <br />
               <i>ohayou gozaimasu</i>
             </p>
           </div>
-          <div>
-            <h3>3. Good Evening</h3>
+
+          <h3>3. Good Evening</h3>
+          <div className="tab">
             <p>
               こんばんは
               <br />
               <i>konbanwa</i>
             </p>
           </div>
-          <div>
-            <h3>4. Nice to meet you</h3>
+
+          <h3>4. Nice to meet you</h3>
+          <div className="tab">
             <p>
               <span className="kanji">
                 初<span className="furigana">はじ</span>
@@ -45,16 +48,18 @@ function Travel() {
               <i>hajimemashite</i>
             </p>
           </div>
-          <div>
-            <h3>5. Goodbye</h3>
+
+          <h3>5. Goodbye</h3>
+          <div className="tab">
             <p>
               さようなら
               <br />
               <i>sayonara</i>
             </p>
           </div>
-          <div>
-            <h3>6. Please</h3>
+
+          <h3>6. Please</h3>
+          <div className="tab">
             <p>
               お
               <span className="kanji">
@@ -65,40 +70,45 @@ function Travel() {
               <i>onegaishimasu</i>
             </p>
           </div>
-          <div>
-            <h3>7. Thank You</h3>
+
+          <h3>7. Thank You</h3>
+          <div className="tab">
             <p>
               ありがとうございます
               <br />
               <i>arigatou gozaimasu</i>
             </p>
           </div>
-          <div>
-            <h3>8. Excuse Me / Sorry</h3>
+
+          <h3>8. Excuse Me / Sorry</h3>
+          <div className="tab">
             <p>
               すみません
               <br />
               <i>sumimasen</i>
             </p>
           </div>
-          <div>
-            <h3>9. Yes</h3>
+
+          <h3>9. Yes</h3>
+          <div className="tab">
             <p>
               はい
               <br />
               <i>hai</i>
             </p>
           </div>
-          <div>
-            <h3>10. No</h3>
+
+          <h3>10. No</h3>
+          <div className="tab">
             <p>
               いいえ
               <br />
               <i>iie</i>
             </p>
           </div>
-          <div>
-            <h3>11. I don't understand</h3>
+
+          <h3>11. I don't understand</h3>
+          <div className="tab">
             <p>
               <span className="kanji">
                 分<span className="furigana">わ</span>
@@ -108,8 +118,9 @@ function Travel() {
               <i>wakarimasen</i>
             </p>
           </div>
-          <div>
-            <h3>12. I don't speak Japanese</h3>
+
+          <h3>12. I don't speak Japanese</h3>
+          <div className="tab">
             <p>
               <span className="kanji">
                 日<span className="furigana">に</span>
@@ -129,8 +140,9 @@ function Travel() {
               <i>nihongo o hanashimasen</i>
             </p>
           </div>
-          <div>
-            <h3>13. Do you speak English?</h3>
+
+          <h3>13. Do you speak English?</h3>
+          <div className="tab">
             <p>
               <span className="kanji">
                 英<span className="furigana">えい</span>
@@ -147,8 +159,9 @@ function Travel() {
               <i>Eigo o hanashimasu ka?</i>
             </p>
           </div>
-          <div>
-            <h3>14. Can you please repeat that?</h3>
+
+          <h3>14. Can you please repeat that?</h3>
+          <div className="tab">
             <p>
               もう
               <span className="kanji">
@@ -162,8 +175,9 @@ function Travel() {
               <i>mou ichido itte kudasai?</i>
             </p>
           </div>
-          <div>
-            <h3>15. Can you please speak slowly?</h3>
+
+          <h3>15. Can you please speak slowly?</h3>
+          <div className="tab">
             <p>
               ゆっくり
               <span className="kanji">
@@ -181,14 +195,14 @@ function Travel() {
         <h2>Airport</h2>
         <section>
           <h3>1. Please come in</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               いらっしゃいませ。どうぞお入りください。
               <br />
               <i>Irasshaimase. Dōzo o-hairi kudasai.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               ありがとうございます。
               <br />
               <i>Arigatō gozaimasu.</i>
@@ -196,14 +210,14 @@ function Travel() {
           </div>
 
           <h3>2. Please show your ticket</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               チケットをお見せください。
               <br />
               <i>Chiketto o o-mise kudasai.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               はい、どうぞ。
               <br />
               <i>Hai, dōzo.</i>
@@ -211,14 +225,14 @@ function Travel() {
           </div>
 
           <h3>3. Please show your passport</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               パスポートをお見せください。
               <br />
               <i>Pasupōto o o-mise kudasai.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               はい、どうぞ。
               <br />
               <i>Hai, dōzo.</i>
@@ -226,14 +240,14 @@ function Travel() {
           </div>
 
           <h3>4. The flight is delayed</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               フライトが遅れています。
               <br />
               <i>Furaito ga okurete imasu.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               どのくらい遅れますか？
               <br />
               <i>Dono kurai okuremasu ka?</i>
@@ -243,14 +257,14 @@ function Travel() {
           </div>
 
           <h3>5. Flight has been cancelled</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               フライトがキャンセルされました。
               <br />
               <i>Furaito ga kyanseru saremashita.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               次の便はいつですか？
               <br />
               <i>Tsugi no bin wa itsu desu ka?</i>
@@ -260,8 +274,8 @@ function Travel() {
           </div>
 
           <h3>6. Can I get a window seat?</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               両替所はどこですか？
               <br />
               <i>Ryōgai-sho wa doko desu ka?</i>
@@ -269,21 +283,21 @@ function Travel() {
           </div>
 
           <h3>7. Your luggage is too heavy.</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               お荷物が重すぎます。
               <br />
               <i>O-nimotsu ga omosugimasu.</i>
             </p>
-            <b className="indent">Response:</b>
-            <p className="tab">
+            <b>Response:</b>
+            <p>
               追加料金はいくらですか？
               <br />
               <i>Tsuika ryōkin wa ikura desu ka?</i>
               <br />
               <i>How much is the extra fee?</i>
             </p>
-            <p className="tab">
+            <p>
               いくつか減らせますか？
               <br />
               <i>Ikutsuka herasemasu ka?</i>
@@ -293,8 +307,8 @@ function Travel() {
           </div>
 
           <h3>8. We will depart for ... Airport</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               ...空港に向けて出発します。
               <br />
               <i>... kūkō ni mukete shuppatsu shimasu.</i>
@@ -302,8 +316,8 @@ function Travel() {
           </div>
 
           <h3>9. We have arrived at ... Airport</h3>
-          <div className="indent">
-            <p className="tab">
+          <div className="tab">
+            <p>
               ...空港に到着しました。
               <br />
               <i>... kūkō ni tōchaku shimashita.</i>
@@ -311,9 +325,9 @@ function Travel() {
           </div>
 
           <h3>10. Where can I exchange money?</h3>
-          <div className="indent">
-            <p className="tab">
-            両替所はどこですか？
+          <div className="tab">
+            <p>
+              両替所はどこですか？
               <br />
               <i>Ryōgai-sho wa doko desu ka?</i>
             </p>
