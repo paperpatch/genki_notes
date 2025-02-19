@@ -75,10 +75,6 @@ h1:active {
 }
 
 @media (max-width: 1000px) {
-  .app-container {
-    flex-direction: column;
-  }
-
   .content {
     margin-left: 0px;
     width: 100%;
