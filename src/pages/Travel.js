@@ -486,7 +486,270 @@ function Travel() {
 
       <div id="transportation">
         <h2>Transportation</h2>
-        {/* Content for Transportation */}
+        <section>
+          <h2>1. Common Phrases for Transportation (交通 – Kōtsū)</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the station?</td>
+                <td>駅はどこですか？</td>
+                <td>Eki wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the bus stop?</td>
+                <td>バス停はどこですか？</td>
+                <td>Basutei wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the taxi stand?</td>
+                <td>タクシー乗り場はどこですか？</td>
+                <td>Takushī noriba wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Does this train go to ~?</td>
+                <td>この電車は～に行きますか？</td>
+                <td>Kono densha wa ~ ni ikimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the train going to ~?</td>
+                <td>～行きの電車はどこですか？</td>
+                <td>~ iki no densha wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Which platform number?</td>
+                <td>何番線ですか？</td>
+                <td>Nanbansen desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>A ticket, please.</td>
+                <td>切符をください。</td>
+                <td>Kippu o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>How much is it?</td>
+                <td>いくらですか？</td>
+                <td>Ikura desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>One-way or round trip?</td>
+                <td>片道ですか？往復ですか？</td>
+                <td>Katamichi desu ka? Ōfuku desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>A ticket to ~, please.</td>
+                <td>～までの切符をください。</td>
+                <td>~ made no kippu o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where do I transfer?</td>
+                <td>乗り換えはどこですか？</td>
+                <td>Norikae wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Which bus should I take?</td>
+                <td>どのバスに乗ればいいですか？</td>
+                <td>Dono basu ni noreba ii desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the timetable?</td>
+                <td>時刻表はどこですか？</td>
+                <td>Jikokuhyō wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>What time is the next train?</td>
+                <td>次の電車は何時ですか？</td>
+                <td>Tsugi no densha wa nanji desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>What time is the last train?</td>
+                <td>終電は何時ですか？</td>
+                <td>Shūden wa nanji desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Is it delayed?</td>
+                <td>遅れていますか？</td>
+                <td>Okurete imasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>I will get off here.</td>
+                <td>ここで降ります。</td>
+                <td>Koko de orimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Is this ~ station?</td>
+                <td>ここは～駅ですか？</td>
+                <td>Koko wa ~ eki desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>The doors are closing.</td>
+                <td>ドアが閉まります。</td>
+                <td>Doa ga shimarimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Next is ~ station.</td>
+                <td>次は～駅です。</td>
+                <td>Tsugi wa ~ eki desu.</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>2. Sample Conversation for Buying a Train Ticket</h2>
+          <b className="indent">Situation: Buying a Ticket at the Station</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            すみません、新宿駅までの切符をください。
+            <br />
+            <i>Sumimasen, Shinjuku-eki made no kippu o kudasai.</i>
+            <br />
+            <i>Excuse me, a ticket to Shinjuku Station, please.</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            3番線の電車です。5分後に出発します。
+            <br />
+            <i>San-bansen no densha desu. Go-fun go ni shuppatsu shimasu.</i>
+            <br />
+            <i>It’s on platform 3. It departs in 5 minutes.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            片道でお願いします。
+            <br />
+            <i>Katamichi de onegaishimasu.</i>
+            <br />
+            <i>One-way, please.</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            150円になります。
+            <br />
+            <i>Hyaku gojū en ni narimasu.</i>
+            <br />
+            <i>That will be 150 yen.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            ありがとうございます。
+            <br />
+            <i>Arigatou gozaimasu.</i>
+            <br />
+            <i>Thank you very much.</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            どうぞ、切符です。
+            <br />
+            <i>Dōzo, kippu desu.</i>
+            <br />
+            <i>Here’s your ticket.</i>
+          </p>
+
+          <h2>3. Sample Conversation for Asking for the Right Train</h2>
+          <b className="indent">
+            Situation: Asking a Station Worker Which Train to Take
+          </b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            すみません、東京駅へ行く電車はどれですか？
+            <br />
+            <i>Sumimasen, Tōkyō-eki e iku densha wa dore desu ka?</i>
+            <br />
+            <i>Excuse me, which train goes to Tokyo Station?</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            3番線の電車です。5分後に出発します。
+            <br />
+            <i>San-bansen no densha desu. Go-fun go ni shuppatsu shimasu.</i>
+            <br />
+            <i>It’s on platform 3. It departs in 5 minutes.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            ありがとうございます！
+            <br />
+            <i>Arigatou gozaimasu!</i>
+            <br />
+            <i>Thank you very much!</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            どういたしまして。
+            <br />
+            <i>Dōitashimashite.</i>
+            <br />
+            <i>You’re welcome.</i>
+          </p>
+
+          <h2>4. Sample Conversation for Asking About a Bus</h2>
+          <b className="indent">Situation: Asking a Local About a Bus Stop</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            すみません、成田空港行きのバス停はどこですか？
+            <br />
+            <i>Sumimasen, Narita kūkō yuki no basutei wa doko desu ka?</i>
+            <br />
+            <i>Excuse me, where is the bus stop for Narita Airport?</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            あの交差点を渡って、右側にありますよ。
+            <br />
+            <i>Ano kōsaten o watatte, migi-gawa ni arimasu yo.</i>
+            <br />
+            <i>Cross that intersection, and it’s on the right side.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            ありがとうございます！何番のバスですか？
+            <br />
+            <i>Arigatou gozaimasu! Nan-ban no basu desu ka?</i>
+            <br />
+            <i>Thank you! Which bus number is it?</i>
+          </p>
+          <p className="tab">
+            🚉 (Staff):
+            <br />
+            16番のバスです。20分ごとに来ます。
+            <br />
+            <i>Jū-roku-ban no basu desu. Nijuppun-goto ni kimasu.</i>
+            <br />
+            <i>It’s bus number 16. It comes every 20 minutes.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            助かりました！
+            <br />
+            <i>Tasukarimashita!</i>
+            <br />
+            <i>That was helpful!</i>
+          </p>
+        </section>
       </div>
 
       <div id="hotel">

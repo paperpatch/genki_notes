@@ -72,6 +72,19 @@
   padding: 10px;
 }
 
+.table-travel {
+  border-collapse: collapse;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.table-travel th,
+.table-travel td {
+  border: 1px solid black;
+  text-align: left;
+  padding: 10px;
+}
+
 table td.arrow-right {
   padding: 0;
   text-align: center;
