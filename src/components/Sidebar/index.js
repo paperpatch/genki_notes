@@ -258,11 +258,11 @@ function Table() {
         </ul>
         <footer id="footer" className="footer">
           <div className="footer-content">
-            <nav>
-              <Link to="/Resources">Terms of Service</Link>
-              <Link to="/Resources">FAQ</Link>
-              <Link to="/Resources">Contact</Link>
-            </nav>
+            <Link to="/Resources">Terms of Service</Link>
+            <span>·</span>
+            <Link to="/Resources">FAQ</Link>
+            <span>·</span>
+            <Link to="/Resources">Contact</Link>
           </div>
         </footer>
       </nav>

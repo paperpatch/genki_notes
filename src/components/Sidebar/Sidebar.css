@@ -2,15 +2,22 @@
 .sidebar {
   display: flex;
   flex-direction: column;
+  position: sticky;
+  top: 3.5em;
+  overflow-y: hidden;
   min-width: 300px;
   max-width: 300px;
-  min-height: calc(100vh - 100px);
+  height: 90vh;
   background-color: #f8f9fa;
   transition: left 0.3s ease;
 }
 
 .sidebar.visible {
   left: 0;
+}
+
+.sidebar:hover {
+  overflow-y: auto;
 }
 
 .sidebar h2 {
@@ -89,27 +96,28 @@
 .footer {
   padding: 10px;
   margin-top: auto;
+  top: -15rem;
   background-color: #f8f9fa;
   color: #222;
   text-align: left;
   font-size: 14px;
-  clear: both;
 }
 
 .footer-content {
-  display: flex;
+  display: block;
+  font-size: 12px;
   background-color: #f8f9fa;
-  max-width: 960px;
+  /* max-width: 960px; */
   margin: auto;
 }
 
-.footer nav a {
+.footer-content a {
   color: #222;
   text-decoration: none;
   margin: 0px 10px;
 }
 
-.footer nav a:hover {
+.footer-content a:hover {
   text-decoration: underline;
 }
 
@@ -128,11 +136,10 @@
   .sidebar {
     top: 0;
     width: 80%;
+    height: 100vh;
     position: fixed;
-    max-height: 100%;
     left: -100%;
     z-index: 100;
-    overflow-y: auto;
     border-right: 3px solid #808080;
     transition: left 0.3s ease;
   }

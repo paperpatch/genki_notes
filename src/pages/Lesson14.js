@@ -329,7 +329,7 @@ function Lesson14() {
 
   return (
     <div>
-      <h2>Lesson 14: バレンタインデー (Valentime’s Day)</h2>
+      <h2>Lesson 14: バレンタインデー (Valentine’s Day)</h2>
       <section id="section1">
         <h3>14.1: ほしい</h3>
         <div className="indent">
