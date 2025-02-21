@@ -313,7 +313,7 @@ function Travel() {
           <h3>10. Where can I exchange money?</h3>
           <div className="indent">
             <p className="tab">
-            両替所はどこですか？
+              両替所はどこですか？
               <br />
               <i>Ryōgai-sho wa doko desu ka?</i>
             </p>
@@ -323,7 +323,151 @@ function Travel() {
 
       <div id="directions">
         <h2>Directions</h2>
-        {/* Content for Directions */}
+        <section>
+          <h3>1. Where is it?</h3>
+          <div className="indent">
+            <p className="tab">
+              どこですか？
+              <br />
+              <i>Doko desu ka?</i>
+            </p>
+          </div>
+
+          <h3>2. I want to go to ~.</h3>
+          <div className="indent">
+            <p className="tab">
+              ～へ行きたいです。
+              <br />
+              <i>~ e ikitai desu.</i>
+            </p>
+          </div>
+
+          <h3>3. How do I get there?</h3>
+          <div className="indent">
+            <p className="tab">
+              どうやって行きますか？
+              <br />
+              <i>Dō yatte ikimasu ka?</i>
+            </p>
+          </div>
+
+          <h3>4. Please go straight.</h3>
+          <div className="indent">
+            <p className="tab">
+              まっすぐ行ってください。
+              <br />
+              <i>Massugu itte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>5. Please turn right.</h3>
+          <div className="indent">
+            <p className="tab">
+              右に曲がってください。
+              <br />
+              <i>Migi ni magatte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>6. Please turn left.</h3>
+          <div className="indent">
+            <p className="tab">
+              左に曲がってください。
+              <br />
+              <i>Hidari ni magatte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>7. Is it close from here?</h3>
+          <div className="indent">
+            <p className="tab">
+              ここから近いですか？
+              <br />
+              <i>Koko kara chikai desu ka?</i>
+            </p>
+          </div>
+
+          <h3>8. Is it far?</h3>
+          <div className="indent">
+            <p className="tab">
+              遠いですか？
+              <br />
+              <i>Tōi desu ka?</i>
+            </p>
+          </div>
+
+          <h3>9. It’s next to it.</h3>
+          <div className="indent">
+            <p className="tab">
+              隣にあります。
+              <br />
+              <i>Tonari ni arimasu.</i>
+            </p>
+          </div>
+
+          <h3>10. It’s across from it.</h3>
+          <div className="indent">
+            <p className="tab">
+              向かいにあります。
+              <br />
+              <i>Mukai ni arimasu.</i>
+            </p>
+          </div>
+
+          <h3>11. Follow this road.</h3>
+          <div className="indent">
+            <p className="tab">
+              この道を進んでください。
+              <br />
+              <i>Kono michi o susunde kudasai.</i>
+            </p>
+          </div>
+
+          <h3>12. Turn at the corner.</h3>
+          <div className="indent">
+            <p className="tab">
+              角を曲がってください。
+              <br />
+              <i>Kado o magatte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>13. Go up the stairs.</h3>
+          <div className="indent">
+            <p className="tab">
+              階段を上がってください。
+              <br />
+              <i>Kaidan o agatte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>14. Take the elevator down.</h3>
+          <div className="indent">
+            <p className="tab">
+              エレベーターで降りてください。
+              <br />
+              <i>Erebētā de orite kudasai.</i>
+            </p>
+          </div>
+
+          <h3>15. Cross the traffic light.</h3>
+          <div className="indent">
+            <p className="tab">
+              信号を渡ってください。
+              <br />
+              <i>Shingō o watatte kudasai.</i>
+            </p>
+          </div>
+
+          <h3>16. It’s a little further ahead.</h3>
+          <div className="indent">
+            <p className="tab">
+              もう少し先です。
+              <br />
+              <i>Mō sukoshi saki desu.</i>
+            </p>
+          </div>
+        </section>
       </div>
 
       <div id="transportation">
