@@ -754,7 +754,261 @@ function Travel() {
 
       <div id="hotel">
         <h2>Hotel</h2>
-        {/* Content for Hotel */}
+        <section>
+          <h2>1. Common Hotel Related Phrases</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>I’d like to check in.</td>
+                <td>チェックインをお願いします。</td>
+                <td>Chekku in o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>I have a reservation.</td>
+                <td>予約しています。</td>
+                <td>Yoyaku shite imasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>
+                  I don’t have a reservation. Do you have any rooms available?
+                </td>
+                <td>予約していませんが、部屋はありますか？</td>
+                <td>Yoyaku shite imasen ga, heya wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>My name is 〇〇.</td>
+                <td>名前は〇〇です。</td>
+                <td>Namae wa 〇〇 desu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please show your passport.</td>
+                <td>パスポートを見せてください。</td>
+                <td>Pasupōto o misete kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Is breakfast included?</td>
+                <td>朝食はついていますか？</td>
+                <td>Chōshoku wa tsuite imasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>What time is breakfast served?</td>
+                <td>何時から何時まで朝食を食べられますか？</td>
+                <td>Nanji kara nanji made chōshoku o taberaremasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Where is the elevator?</td>
+                <td>エレベーターはどこですか？</td>
+                <td>Erebētā wa doko desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Is there Wi-Fi?</td>
+                <td>Wi-Fiはありますか？</td>
+                <td>Waifai wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please tell me the Wi-Fi password.</td>
+                <td>Wi-Fiのパスワードを教えてください。</td>
+                <td>Waifai no pasuwādo o oshiete kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>What time is check-out?</td>
+                <td>チェックアウトは何時ですか？</td>
+                <td>Chekku auto wa nanji desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Is there room service?</td>
+                <td>ルームサービスはありますか？</td>
+                <td>Rūmu sābisu wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you have a laundry service?</td>
+                <td>クリーニングサービスはありますか？</td>
+                <td>Kurīningu sābisu wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you have a hot spring?</td>
+                <td>温泉はありますか？</td>
+                <td>Onsen wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>I lost my key.</td>
+                <td>鍵をなくしました。</td>
+                <td>Kagi o nakushimashita.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please clean my room.</td>
+                <td>部屋を掃除してください。</td>
+                <td>Heya o sōji shite kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>The air conditioner isn’t working.</td>
+                <td>エアコンが動きません。</td>
+                <td>Eakon ga ugokimasen.</td>
+              </tr>
+              <tr className="background-white">
+                <td>There’s no hot water.</td>
+                <td>お湯が出ません。</td>
+                <td>Oyu ga demasen.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please give me one more towel.</td>
+                <td>タオルをもう一枚ください。</td>
+                <td>Tauru o mō ichimai kudasai.</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>2. Sample Conversations at a Hotel</h2>
+          <b className="indent">Check-in Conversation</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「チェックインをお願いします。」
+            <br />
+            <i>Chekku in o onegai shimasu.</i>
+            <br />
+            <i>I’d like to check in.</i>
+          </p>
+          <p className="tab">
+            💁 (Hotel Staff):
+            <br />
+            「お名前をお願いします。」
+            <br />
+            <i>Onamae o onegai shimasu.</i>
+            <br />
+            <i>May I have your name?</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「名前はスミスです。」
+            <br />
+            <i>Namae wa Sumisu desu.</i>
+            <br />
+            <i>My name is Smith.</i>
+          </p>
+          <p className="tab">
+            💁 (Staff):
+            <br />
+            「パスポートを見せてください。」
+            <br />
+            <i>Pasupōto o misete kudasai.</i>
+            <br />
+            <i>Please show your passport.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「はい、どうぞ。」
+            <br />
+            <i>Hai, dōzo.</i>
+            <br />
+            <i>Here you go.</i>
+          </p>
+          <p className="tab">
+            💁 (Staff):
+            <br />
+            「ありがとうございます。こちらが鍵です。お部屋は 305 号室です。」
+            <br />
+            <i>
+              Arigatō gozaimasu. Kochira ga kagi desu. Oheya wa san-zero-go
+              gōshitsu desu.
+            </i>
+            <br />
+            <i>Thank you. Here is your key. Your room is 305.</i>
+          </p>
+
+          <b className="indent">Asking About Breakfast</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「朝食はついていますか？」
+            <br />
+            <i>Chōshoku wa tsuite imasu ka?</i>
+            <br />
+            <i>Is breakfast included?</i>
+          </p>
+          <p className="tab">
+            💁 (Hotel Staff):
+            <br />
+            「はい、ついています。朝食は 7 時から 10 時までです。」
+            <br />
+            <i>
+              Hai, tsuite imasu. Chōshoku wa shichi-ji kara jū-ji made desu.
+            </i>
+            <br />
+            <i>Yes, it is included. Breakfast is from 7 AM to 10 AM.</i>
+          </p>
+
+          <b className="indent">Requesting More Towels</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「すみません、タオルをもう一枚ください。」
+            <br />
+            <i>Sumimasen, taoru o mō ichimai kudasai.</i>
+            <br />
+            <i>Excuse me, can I have one more towel?</i>
+          </p>
+          <p className="tab">
+            💁 (Hotel Staff):
+            <br />
+            「かしこまりました。すぐにお持ちします。」
+            <br />
+            <i>Kashikomarimashita. Sugu ni omochi shimasu.</i>
+            <br />
+            <i>Certainly. I will bring it right away.</i>
+          </p>
+
+          <b className="indent">Checking Out</b>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「チェックアウトをお願いします。」
+            <br />
+            <i>Chekku auto o onegai shimasu.</i>
+            <br />
+            <i>I’d like to check out.</i>
+          </p>
+          <p className="tab">
+            💁 (Hotel Staff):
+            <br />
+            「かしこまりました。お部屋の鍵をお願いします。」
+            <br />
+            <i>Kashikomarimashita. Oheya no kagi o onegai shimasu.</i>
+            <br />
+            <i>Understood. Please return your room key.</i>
+          </p>
+          <p className="tab">
+            👤 (You):
+            <br />
+            「はい、どうぞ。」
+            <br />
+            <i>Hai, dōzo.</i>
+            <br />
+            <i>Here you go.</i>
+          </p>
+          <p className="tab">
+            💁 (Hotel Staff):
+            <br />
+            「ありがとうございました。またのお越しをお待ちしております。」
+            <br />
+            <i>Arigatō gozaimashita. Mata no okoshi o omachi shite orimasu.</i>
+            <br />
+            <i>Thank you very much. We look forward to your next visit.</i>
+          </p>
+        </section>
       </div>
 
       <div id="restaurant">
