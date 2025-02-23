@@ -1013,15 +1013,434 @@ function Travel() {
 
       <div id="restaurant">
         <h2>Restaurant</h2>
+        <section>
+          <h2>1. Common Restaurant Related Phrases</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Arriving at the Restaurant
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Welcome! (Said by staff when you enter)</td>
+                <td>いらっしゃいませ！</td>
+                <td>Irasshaimase!</td>
+              </tr>
+              <tr className="background-white">
+                <td>How many people are in your party?</td>
+                <td>何名様ですか？</td>
+                <td>Nanmei-sama desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>I’m alone.</td>
+                <td>一人です。</td>
+                <td>Hitori desu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>We are two people.</td>
+                <td>二人です。</td>
+                <td>Futari desu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Would you like a non-smoking or smoking seat?</td>
+                <td>禁煙席と喫煙席、どちらがよろしいですか？</td>
+                <td>
+                  Kinen seki to kitsuen seki, dochira ga yoroshii desu ka?
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>A non-smoking seat, please.</td>
+                <td>禁煙席をお願いします。</td>
+                <td>Kinen seki o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>I have a reservation. My name is 〇〇.</td>
+                <td>予約しています。名前は〇〇です。</td>
+                <td>Yoyaku shite imasu. Namae wa 〇〇 desu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>
+                  I don’t have a reservation. Do you have a table available?
+                </td>
+                <td>予約していませんが、席はありますか？</td>
+                <td>Yoyaku shite imasen ga, seki wa arimasu ka?</td>
+              </tr>
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Ordering Food & Drinks
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>The menu, please.</td>
+                <td>メニューをお願いします。</td>
+                <td>Menyū o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>What do you recommend?</td>
+                <td>おすすめは何ですか？</td>
+                <td>Osusume wa nan desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Excuse me, I’d like to order.</td>
+                <td>すみません、注文をお願いします。</td>
+                <td>Sumimasen, chūmon o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>I’ll have this. (Pointing at the menu)</td>
+                <td>これをください。</td>
+                <td>Kore o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>I’d like to order 〇〇.</td>
+                <td>〇〇をお願いします。</td>
+                <td>〇〇 o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>What drinks do you have?</td>
+                <td>飲み物は何がありますか？</td>
+                <td>Nomimono wa nani ga arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Water, please.</td>
+                <td>お水をください。</td>
+                <td>O-mizu o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>One beer, please.</td>
+                <td>ビールを一本ください。</td>
+                <td>Bīru o ippon kudasai.</td>
+              </tr>
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Dietary Restrictions & Special Requests
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>I can’t eat 〇〇.</td>
+                <td>〇〇は食べられません。</td>
+                <td>〇〇 wa taberaremasen.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please make it not spicy.</td>
+                <td>辛くしないでください。</td>
+                <td>Karakushinaide kudasai.</td>
+              </tr>
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  During the Meal
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>
+                  Said before eating (like "Let's eat!" or "Thank you for the
+                  food").
+                </td>
+                <td>いただきます！</td>
+                <td>Itadakimasu!</td>
+              </tr>
+              <tr className="background-white">
+                <td>Excuse me, please give me chopsticks.</td>
+                <td>すみません、お箸をください。</td>
+                <td>Sumimasen, o-hashi o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>This is very delicious!</td>
+                <td>とても美味しいです！</td>
+                <td>Totemo oishii desu!</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please give me a little more time.</td>
+                <td>もう少し時間をください。</td>
+                <td>Mō sukoshi jikan o kudasai.</td>
+              </tr>
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Paying the Bill & Leaving
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>The bill, please.</td>
+                <td>お会計をお願いします。</td>
+                <td>O-kaikei o onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please split the bill.</td>
+                <td>別々にお願いします。</td>
+                <td>Betsubetsu ni onegai shimasu.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you accept credit cards?</td>
+                <td>カードは使えますか？</td>
+                <td>Kādo wa tsukaemasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Said after eating (like "Thank you for the meal!").</td>
+                <td>ごちそうさまでした！</td>
+                <td>Gochisōsama deshita!</td>
+              </tr>
+            </tbody>
+          </table>
 
-        <div>
-          <h3>15. Please refill</h3>
-          <p>
-            おかわり(を)ください
+          <h2>2. Sample Conversations at a Restaurant</h2>
+          <b className="indent">Getting Seated</b>
+          <p className="tab">
+            💁 Staff:
             <br />
-            <i>okawari o kudasai</i>
+            「いらっしゃいませ！何名様ですか？」
+            <br />
+            <i>Irasshaimase! Nanmei-sama desu ka?</i>
+            <br />
+            <i>Welcome! How many people?</i>
           </p>
-        </div>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「二人です。」
+            <br />
+            <i>Futari desu.</i>
+            <br />
+            <i>Two people.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「禁煙席と喫煙席、どちらがよろしいですか？」
+            <br />
+            <i>Kinen seki to kitsuen seki, dochira ga yoroshii desu ka?</i>
+            <br />
+            <i>Non-smoking or smoking section?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「禁煙席をお願いします。」
+            <br />
+            <i>Kinen seki o onegai shimasu.</i>
+            <br />
+            <i>Non-smoking, please.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「こちらへどうぞ。」
+            <br />
+            <i>Kochira e dōzo.</i>
+            <br />
+            <i>This way, please.</i>
+          </p>
+
+          <b className="indent">Ordering Food</b>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「すみません、注文をお願いします。」
+            <br />
+            <i>Sumimasen, chūmon o onegai shimasu.</i>
+            <br />
+            <i>Excuse me, I’d like to order.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「はい、どうぞ。」
+            <br />
+            <i>Hai, dōzo.</i>
+            <br />
+            <i>Yes, go ahead.</i>
+          </p>
+          <p className="tab">
+            👤 (Customer):
+            <br />
+            「ラーメンとビールをください。」
+            <br />
+            <i>Rāmen to bīru o kudasai.</i>
+            <br />
+            <i>I’ll have ramen and a beer.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「かしこまりました。」
+            <br />
+            <i>Kashikomarimashita.</i>
+            <br />
+            <i>Understood.</i>
+          </p>
+
+          <b className="indent">Ordering Multiple Set Meals</b>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「ご注文はお決まりですか？」
+            <br />
+            <i>Gochūmon wa okimari desu ka?</i>
+            <br />
+            <i>Have you decided on your order?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「はい、4番のセットを三つと、緑茶を三つお願いします。」
+            <br />
+            <i>
+              Hai, yonban no setto o mittsu to, ryokucha o mittsu onegai
+              shimasu.
+            </i>
+            <br />
+            <i>Yes, three No. 4 set meals and three green teas, please.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「かしこまりました。お飲み物は、緑茶三つでよろしいですか？」
+            <br />
+            <i>
+              Kashikomarimashita. Onomimono wa, ryokucha mittsu de yoroshii desu
+              ka?
+            </i>
+            <br />
+            <i>Understood. For drinks, is three green teas correct?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「はい、お願いします。」
+            <br />
+            <i>Hai, onegai shimasu.</i>
+            <br />
+            <i>Yes, please.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「ありがとうございます。少々お待ちください。」
+            <br />
+            <i>Arigatō gozaimasu. Shōshō omachi kudasai.</i>
+            <br />
+            <i>Thank you. Please wait a moment.</i>
+          </p>
+          <p className="tab">
+            セット (setto) is commonly used in casual and fast-food-style
+            restaurants in Japan, especially for Western-style meals or combo
+            meals. If you are at a traditional Japanese restaurant, the word
+            定食 (ていしょく, teishoku) is more appropriate for set meals that
+            come with rice, miso soup, and side dishes.
+          </p>
+
+          <b className="indent">Asking for Refills</b>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「お茶（または お水）のおかわりをお願いします。」
+            <br />
+            <i>Ocha [mata wa omizu] no okawari o onegai shimasu.</i>
+            <br />
+            <i>Can I have a refill of tea (or water), please?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「ご飯のおかわりをお願いします。」
+            <br />
+            <i>Gohan no okawari o onegai shimasu.</i>
+            <br />
+            <i>Can I have a refill of rice, please?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「ご飯はおかわり無料ですか？」
+            <br />
+            <i>Gohan wa okawari muryō desu ka?</i>
+            <br />
+            <i>
+              Are rice refills free? (Some restaurants offer free rice refills)
+            </i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「替え玉（かえだま）をお願いします。」
+            <br />
+            <i>Kaedama o onegai shimasu.</i>
+            <br />
+            <i>I'd like a noodle refill, please.</i>
+          </p>
+          <p className="tab">
+            You can probably use おかわり(を)ください as a short form depending
+            on context (if it's obvious on what you're referring to). Refilling
+            noodles is common in ramen or udon shops. Typically, ramen shops
+            offer extra noodles for a small fee, called 替え玉 (kaedama).
+          </p>
+
+          <b className="indent">Asking for the Bill</b>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「お会計をお願いします。」
+            <br />
+            <i>O-kaikei o onegai shimasu.</i>
+            <br />
+            <i>The bill, please.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「はい、〇〇円になります。」
+            <br />
+            <i>Hai, 〇〇-en ni narimasu.</i>
+            <br />
+            <i>Sure, it will be 〇〇 yen.</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「カードは使えますか？」
+            <br />
+            <i>Kādo wa tsukaemasu ka?</i>
+            <br />
+            <i>Can I use a credit card?</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「はい、使えます。」
+            <br />
+            <i>Hai, tsukaemasu.</i>
+            <br />
+            <i>Yes, you can.</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「ごちそうさまでした！」
+            <br />
+            <i>Gochisōsama deshita!</i>
+            <br />
+            <i>Thank you for the meal!</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「ありがとうございました！」
+            <br />
+            <i>Arigatō gozaimashita!</i>
+            <br />
+            <i>Thank you very much!</i>
+          </p>
+        </section>
       </div>
 
       <div id="shopping">
