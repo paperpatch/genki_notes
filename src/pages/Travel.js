@@ -8,186 +8,158 @@ function Travel() {
   return (
     <div>
       <div id="greetings">
-        <h2>Greetings / Basic Phrases</h2>
+        <h2>Greetings</h2>
         <section>
-          <h3>1. Hello</h3>
-          <div className="tab">
-            <p>
-              こんにちは
-              <br />
-              <i>konnichiwa</i>
-            </p>
-          </div>
+        <h2>1. Common Phrases</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Hello</td>
+                <td>こんにちは</td>
+                <td>konnichiwa</td>
+              </tr>
+              <tr className="background-white">
+                <td>Good Morning</td>
+                <td>おはようございます</td>
+                <td>ohayou gozaimasu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Good Evening</td>
+                <td>こんばんは</td>
+                <td>konbanwa</td>
+              </tr>
+              <tr className="background-white">
+                <td>Nice to meet you</td>
+                <td>
+                  <span className="kanji">
+                    初<span className="furigana">はじ</span>
+                  </span>
+                  めまして
+                </td>
+                <td>hajimemashite</td>
+              </tr>
+              <tr className="background-white">
+                <td>Goodbye</td>
+                <td>さようなら</td>
+                <td>sayonara</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please</td>
+                <td>
+                  お
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします
+                </td>
+                <td>onegaishimasu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Thank You</td>
+                <td>ありがとうございます</td>
+                <td>arigatou gozaimasu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Excuse Me / Sorry</td>
+                <td>すみません</td>
+                <td>sumimasen</td>
+              </tr>
+              <tr className="background-white">
+                <td>Yes</td>
+                <td>はい</td>
+                <td>hai</td>
+              </tr>
+              <tr className="background-white">
+                <td>No</td>
+                <td>いいえ</td>
+                <td>iie</td>
+              </tr>
+              <tr className="background-white">
+                <td>I don't understand</td>
+                <td>
+                  <span className="kanji">
+                    分<span className="furigana">わ</span>
+                  </span>
+                  かりません
+                </td>
+                <td>wakarimasen</td>
+              </tr>
+              <tr className="background-white">
+                <td>I don't speak Japanese</td>
+                <td>
+                  <span className="kanji">
+                    日<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    本<span className="furigana">ほん</span>
+                  </span>
+                  <span className="kanji">
+                    語<span className="furigana">ご</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    話<span className="furigana">はな</span>
+                  </span>
+                  しません
+                </td>
+                <td>nihongo o hanashimasen</td>
+              </tr>
 
-          <h3>2. Good Morning</h3>
-          <div className="tab">
-            <p>
-              おはようございます
-              <br />
-              <i>ohayou gozaimasu</i>
-            </p>
-          </div>
-
-          <h3>3. Good Evening</h3>
-          <div className="tab">
-            <p>
-              こんばんは
-              <br />
-              <i>konbanwa</i>
-            </p>
-          </div>
-
-          <h3>4. Nice to meet you</h3>
-          <div className="tab">
-            <p>
-              <span className="kanji">
-                初<span className="furigana">はじ</span>
-              </span>
-              めまして
-              <br />
-              <i>hajimemashite</i>
-            </p>
-          </div>
-
-          <h3>5. Goodbye</h3>
-          <div className="tab">
-            <p>
-              さようなら
-              <br />
-              <i>sayonara</i>
-            </p>
-          </div>
-
-          <h3>6. Please</h3>
-          <div className="tab">
-            <p>
-              お
-              <span className="kanji">
-                願<span className="furigana">ねが</span>
-              </span>
-              いします
-              <br />
-              <i>onegaishimasu</i>
-            </p>
-          </div>
-
-          <h3>7. Thank You</h3>
-          <div className="tab">
-            <p>
-              ありがとうございます
-              <br />
-              <i>arigatou gozaimasu</i>
-            </p>
-          </div>
-
-          <h3>8. Excuse Me / Sorry</h3>
-          <div className="tab">
-            <p>
-              すみません
-              <br />
-              <i>sumimasen</i>
-            </p>
-          </div>
-
-          <h3>9. Yes</h3>
-          <div className="tab">
-            <p>
-              はい
-              <br />
-              <i>hai</i>
-            </p>
-          </div>
-
-          <h3>10. No</h3>
-          <div className="tab">
-            <p>
-              いいえ
-              <br />
-              <i>iie</i>
-            </p>
-          </div>
-
-          <h3>11. I don't understand</h3>
-          <div className="tab">
-            <p>
-              <span className="kanji">
-                分<span className="furigana">わ</span>
-              </span>
-              かりません
-              <br />
-              <i>wakarimasen</i>
-            </p>
-          </div>
-
-          <h3>12. I don't speak Japanese</h3>
-          <div className="tab">
-            <p>
-              <span className="kanji">
-                日<span className="furigana">に</span>
-              </span>
-              <span className="kanji">
-                本<span className="furigana">ほん</span>
-              </span>
-              <span className="kanji">
-                語<span className="furigana">ご</span>
-              </span>
-              を
-              <span className="kanji">
-                話<span className="furigana">はな</span>
-              </span>
-              しません
-              <br />
-              <i>nihongo o hanashimasen</i>
-            </p>
-          </div>
-
-          <h3>13. Do you speak English?</h3>
-          <div className="tab">
-            <p>
-              <span className="kanji">
-                英<span className="furigana">えい</span>
-              </span>
-              <span className="kanji">
-                語<span className="furigana">ご</span>
-              </span>
-              を
-              <span className="kanji">
-                話<span className="furigana">はな</span>
-              </span>
-              しますか？
-              <br />
-              <i>Eigo o hanashimasu ka?</i>
-            </p>
-          </div>
-
-          <h3>14. Can you please repeat that?</h3>
-          <div className="tab">
-            <p>
-              もう
-              <span className="kanji">
-                一度<span className="furigana">いちど</span>
-              </span>
-              <span className="kanji">
-                言<span className="furigana">い</span>
-              </span>
-              ってください？
-              <br />
-              <i>mou ichido itte kudasai?</i>
-            </p>
-          </div>
-
-          <h3>15. Can you please speak slowly?</h3>
-          <div className="tab">
-            <p>
-              ゆっくり
-              <span className="kanji">
-                話<span className="furigana">はな</span>
-              </span>
-              してください
-              <br />
-              <i>yukkuri hanashite kudasai</i>
-            </p>
-          </div>
+              <tr className="background-white">
+                <td>Do you speak English?</td>
+                <td>
+                  <span className="kanji">
+                    英<span className="furigana">えい</span>
+                  </span>
+                  <span className="kanji">
+                    語<span className="furigana">ご</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    話<span className="furigana">はな</span>
+                  </span>
+                  しますか？
+                </td>
+                <td>Eigo o hanashimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Can you please repeat that?</td>
+                <td>
+                  もう
+                  <span className="kanji">
+                    一度<span className="furigana">いちど</span>
+                  </span>
+                  <span className="kanji">
+                    言<span className="furigana">い</span>
+                  </span>
+                  ってください？
+                </td>
+                <td>mou ichido itte kudasai?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Can you please speak slowly?</td>
+                <td>
+                  ゆっくり
+                  <span className="kanji">
+                    話<span className="furigana">はな</span>
+                  </span>
+                  してください
+                </td>
+                <td>yukkuri hanashite kudasai</td>
+              </tr>
+            </tbody>
+          </table>
         </section>
       </div>
 
