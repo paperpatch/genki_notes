@@ -1028,6 +1028,7 @@ function Travel() {
                   <span>Romanji</span>
                 </td>
               </tr>
+
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Arriving at the Restaurant
@@ -1077,6 +1078,7 @@ function Travel() {
                 <td>予約していませんが、席はありますか？</td>
                 <td>Yoyaku shite imasen ga, seki wa arimasu ka?</td>
               </tr>
+
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Ordering Food & Drinks
@@ -1122,6 +1124,7 @@ function Travel() {
                 <td>ビールを一本ください。</td>
                 <td>Bīru o ippon kudasai.</td>
               </tr>
+
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Dietary Restrictions & Special Requests
@@ -1137,6 +1140,7 @@ function Travel() {
                 <td>辛くしないでください。</td>
                 <td>Karakushinaide kudasai.</td>
               </tr>
+
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   During the Meal
@@ -1165,6 +1169,7 @@ function Travel() {
                 <td>もう少し時間をください。</td>
                 <td>Mō sukoshi jikan o kudasai.</td>
               </tr>
+
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Paying the Bill & Leaving
@@ -1445,7 +1450,203 @@ function Travel() {
 
       <div id="shopping">
         <h2>Shopping</h2>
-        {/* Content for Shopping */}
+        <section>
+          <h2>🛍 Common Shopping Phrases</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Entering a Store
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Welcome! (Said by staff when you enter)</td>
+                <td>いらっしゃいませ！</td>
+                <td>Irasshaimase!</td>
+              </tr>
+              <tr className="background-white">
+                <td>Are you looking for something?</td>
+                <td>何かお探しですか？</td>
+                <td>Nanika osagashi desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>I'm just looking.</td>
+                <td>見ているだけです。</td>
+                <td>Miteiru dake desu.</td>
+              </tr>
+
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Asking About Products
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>How much is this?</td>
+                <td>これはいくらですか？</td>
+                <td>Kore wa ikura desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you have this in a different color?</td>
+                <td>これの色違いはありますか？</td>
+                <td>Kore no iro chigai wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you have a larger size?</td>
+                <td>もっと大きいサイズはありますか？</td>
+                <td>Motto ōkii saizu wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Can I try this on?"</td>
+                <td>試着できますか？</td>
+                <td>Shichaku dekimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you have other designs?</td>
+                <td>他のデザインはありますか？</td>
+                <td>Hoka no dezain wa arimasu ka?</td>
+              </tr>
+
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Discounts & Payments
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Is this on sale?</td>
+                <td>これはセール中ですか？</td>
+                <td>Kore wa seeru-chū desu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you offer discounts?</td>
+                <td>割引はありますか？</td>
+                <td>Waribiki wa arimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Can I pay by card?</td>
+                <td>カードで払えますか？</td>
+                <td>Kaado de haraemasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>We only accept cash.</td>
+                <td>現金のみです。</td>
+                <td>Genkin nomi desu.</td>
+              </tr>
+
+              <tr>
+                <td colSpan={3} className="background-grey table-text-center">
+                  Buying & Leaving
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>I'll take this.</td>
+                <td>これをください。</td>
+                <td>Kore o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Do you need a bag?</td>
+                <td>袋はいりますか？</td>
+                <td>Fukuro wa irimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please give me a receipt.</td>
+                <td>レシートをください。</td>
+                <td>Reshīto o kudasai.</td>
+              </tr>
+              <tr className="background-white">
+                <td>Please come again!</td>
+                <td>またお越しくださいませ！</td>
+                <td>Mata okoshi kudasaimase!</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>🛒 Sample Conversations for Shopping</h2>
+          <b className="indent">🏬 At a Clothing Store</b>
+          <p className="tab">
+            👩 Customer:
+            <br />
+            「すみません、試着できますか？」
+            <br />
+            <i>Sumimasen, shichaku dekimasu ka?</i>
+            <br />
+            <i>Excuse me, can I try this on?</i>
+          </p>
+          <p className="tab">
+            🛍 Store Staff:
+            <br />
+            「はい、試着室はあちらです。」
+            <br />
+            <i>Hai, shichakushitsu wa achira desu.</i>
+            <br />
+            <i>Yes, the fitting room is over there.</i>
+          </p>
+          <p className="tab">
+            👩 Customer:
+            <br />
+            「もう少し大きいサイズはありますか？」
+            <br />
+            <i>Mō sukoshi ōkii saizu wa arimasu ka?</i>
+            <br />
+            <i>Do you have a slightly larger size?</i>
+          </p>
+          <p className="tab">
+            🛍 Store Staff:
+            <br />
+            「はい、こちらのLサイズはいかがですか？」
+            <br />
+            <i>Hai, kochira no L saizu wa ikaga desu ka?</i>
+            <br />
+            <i>Yes, how about this L size?</i>
+          </p>
+          <p className="tab">
+            👩 Customer:
+            <br />
+            「これをください。」
+            <br />
+            <i>Kore o kudasai.</i>
+            <br />
+            <i>I'll take this.</i>
+          </p>
+          <p className="tab">
+            🛍 Store Staff:
+            <br />
+            「袋はいりますか？」
+            <br />
+            <i>Fukuro wa irimasu ka?</i>
+            <br />
+            <i>Do you need a bag?</i>
+          </p>
+          <p className="tab">
+            👩 Customer:
+            <br />
+            「はい、お願いします。」
+            <br />
+            <i>Hai, onegai shimasu.</i>
+            <br />
+            <i>Yes, please.</i>
+          </p>
+          <p className="tab">
+            🛍 Store Staff:
+            <br />
+            「ありがとうございました！」
+            <br />
+            <i>Arigatou gozaimashita!</i>
+            <br />
+            <i>Thank you very much!</i>
+          </p>
+        </section>
       </div>
 
       <div id="numbers">
