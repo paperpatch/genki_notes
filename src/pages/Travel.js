@@ -10,7 +10,7 @@ function Travel() {
       <div id="greetings">
         <h2>Greetings</h2>
         <section>
-        <h2>1. Common Phrases</h2>
+          <h2>1. Common Phrases</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -164,146 +164,183 @@ function Travel() {
       </div>
 
       <div id="airport">
-        <h2>Airport</h2>
+        <h2>✈️ Airport</h2>
         <section>
-          <h3>1. Please come in</h3>
-          <div className="tab">
-            <p>
-              いらっしゃいませ。どうぞお入りください。
-              <br />
-              <i>Irasshaimase. Dōzo o-hairi kudasai.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              ありがとうございます。
-              <br />
-              <i>Arigatō gozaimasu.</i>
-            </p>
-          </div>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Airport</td>
+                <td>空港</td>
+                <td>kūkō</td>
+              </tr>
+              <tr className="background-white">
+                <td>Check-in</td>
+                <td>チェックイン</td>
+                <td>chekku in</td>
+              </tr>
+              <tr className="background-white">
+                <td>Airline ticket</td>
+                <td>航空券</td>
+                <td>kōkūken</td>
+              </tr>
+              <tr className="background-white">
+                <td>Security check</td>
+                <td>保安検査</td>
+                <td>hoan kensa</td>
+              </tr>
+              <tr className="background-white">
+                <td>Baggage</td>
+                <td>荷物</td>
+                <td>nimotsu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Carry-on luggage</td>
+                <td>手荷物</td>
+                <td>tenimotsu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Passport</td>
+                <td>パスポート</td>
+                <td>pasupōto</td>
+              </tr>
+              <tr className="background-white">
+                <td>Boarding gate</td>
+                <td>搭乗口</td>
+                <td>tōjōguchi</td>
+              </tr>
+              <tr className="background-white">
+                <td>Departure</td>
+                <td>出発</td>
+                <td>shuppatsu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Arrival</td>
+                <td>到着</td>
+                <td>tōchaku</td>
+              </tr>
+              <tr className="background-white">
+                <td>Boarding pass</td>
+                <td>搭乗券</td>
+                <td>tōjōken</td>
+              </tr>
 
-          <h3>2. Please show your ticket</h3>
-          <div className="tab">
-            <p>
-              チケットをお見せください。
-              <br />
-              <i>Chiketto o o-mise kudasai.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              はい、どうぞ。
-              <br />
-              <i>Hai, dōzo.</i>
-            </p>
-          </div>
+              <tr className="background-white">
+                <td>Length of stay</td>
+                <td>滞在期間</td>
+                <td>taizai kikan</td>
+              </tr>
+              <tr className="background-white">
+                <td>Tourism</td>
+                <td>観光</td>
+                <td>kankō</td>
+              </tr>
+              <tr className="background-white">
+                <td>Immigration check</td>
+                <td>入国審査</td>
+                <td>nyūkoku shinsa</td>
+              </tr>
+              <tr className="background-white">
+                <td>Have a good trip</td>
+                <td>良い旅を</td>
+                <td>yoi tabi o</td>
+              </tr>
+            </tbody>
+          </table>
 
-          <h3>3. Please show your passport</h3>
-          <div className="tab">
-            <p>
-              パスポートをお見せください。
-              <br />
-              <i>Pasupōto o o-mise kudasai.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              はい、どうぞ。
-              <br />
-              <i>Hai, dōzo.</i>
-            </p>
-          </div>
-
-          <h3>4. The flight is delayed</h3>
-          <div className="tab">
-            <p>
-              フライトが遅れています。
-              <br />
-              <i>Furaito ga okurete imasu.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              どのくらい遅れますか？
-              <br />
-              <i>Dono kurai okuremasu ka?</i>
-              <br />
-              <i>How long is the delay?</i>
-            </p>
-          </div>
-
-          <h3>5. Flight has been cancelled</h3>
-          <div className="tab">
-            <p>
-              フライトがキャンセルされました。
-              <br />
-              <i>Furaito ga kyanseru saremashita.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              次の便はいつですか？
-              <br />
-              <i>Tsugi no bin wa itsu desu ka?</i>
-              <br />
-              <i>When is the next flight?</i>
-            </p>
-          </div>
-
-          <h3>6. Can I get a window seat?</h3>
-          <div className="tab">
-            <p>
-              両替所はどこですか？
-              <br />
-              <i>Ryōgai-sho wa doko desu ka?</i>
-            </p>
-          </div>
-
-          <h3>7. Your luggage is too heavy.</h3>
-          <div className="tab">
-            <p>
-              お荷物が重すぎます。
-              <br />
-              <i>O-nimotsu ga omosugimasu.</i>
-            </p>
-            <b>Response:</b>
-            <p>
-              追加料金はいくらですか？
-              <br />
-              <i>Tsuika ryōkin wa ikura desu ka?</i>
-              <br />
-              <i>How much is the extra fee?</i>
-            </p>
-            <p>
-              いくつか減らせますか？
-              <br />
-              <i>Ikutsuka herasemasu ka?</i>
-              <br />
-              <i>Can I remove some items?</i>
-            </p>
-          </div>
-
-          <h3>8. We will depart for ... Airport</h3>
-          <div className="tab">
-            <p>
-              ...空港に向けて出発します。
-              <br />
-              <i>... kūkō ni mukete shuppatsu shimasu.</i>
-            </p>
-          </div>
-
-          <h3>9. We have arrived at ... Airport</h3>
-          <div className="tab">
-            <p>
-              ...空港に到着しました。
-              <br />
-              <i>... kūkō ni tōchaku shimashita.</i>
-            </p>
-          </div>
-
-          <h3>10. Where can I exchange money?</h3>
-          <div className="tab">
-            <p>
-              両替所はどこですか？
-              <br />
-              <i>Ryōgai-sho wa doko desu ka?</i>
-            </p>
-          </div>
+          <h2>2. Sample Conversation for Airport Scenarios</h2>
+          <b className="indent">🛄 Check-in Counter (チェックインカウンター)</b>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「すみません、チェックインをお願いします。」
+            <br />
+            <i>Sumimasen, chekku in o onegai shimasu.</i>
+            <br />
+            <i>Excuse me, I'd like to check in.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「パスポートと航空券を拝見できますか？」
+            <br />
+            <i>Pasupōto to kōkūken o haiken dekimasu ka?</i>
+            <br />
+            <i>May I see your passport and ticket?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、どうぞ。」
+            <br />
+            <i>Hai, dōzo.</i>
+            <br />
+            <i>Yes, here you go.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「お預けの荷物はございますか？」
+            <br />
+            <i>Oazuke no nimotsu wa gozaimasu ka?</i>
+            <br />
+            <i>Do you have any checked luggage?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、このスーツケースをお願いします。」
+            <br />
+            <i>Hai, kono sūtsukēsu o onegai shimasu.</i>
+            <br />
+            <i>Yes, this suitcase, please.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「こちら、荷物タグになります。」
+            <br />
+            <i>Kochira, nimotsu tagu ni narimasu.</i>
+            <br />
+            <i>Here is your baggage tag.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「お座席の希望はございますか？」
+            <br />
+            <i>O-zaseki no kibō wa gozaimasu ka?</i>
+            <br />
+            <i>Do you have a seating preference?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「窓側をお願いします。」
+            <br />
+            <i>Mado-gawa o onegai shimasu.</i>
+            <br />
+            <i>Window seat, please.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「かしこまりました。」
+            <br />
+            <i>Kashikomarimashita.</i>
+            <br />
+            <i>Understood.</i>
+          </p>
         </section>
       </div>
 
