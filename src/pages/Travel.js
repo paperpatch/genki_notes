@@ -341,6 +341,62 @@ function Travel() {
             <br />
             <i>Understood.</i>
           </p>
+
+          <b className="indent">🛃 Security Check (保安検査, Hoan Kensa)</b>
+          <p className="tab">
+            ✈️ Security Staff:
+            <br />
+            「手荷物をトレイに置いてください。」
+            <br />
+            <i>Tenimotsu o tore ni oite kudasai.</i>
+            <br />
+            <i>Please place your carry-on baggage in the tray.</i>
+          </p>
+          <p className="tab">
+            ✈️ Security Staff:
+            <br />
+            「金属類、ベルト、スマートフォンを外してください。」
+            <br />
+            <i>Kinzokurui, beruto, sumātofon o hazushite kudasai.</i>
+            <br />
+            <i>Please remove any metal items, your belt, and smartphone.</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、わかりました。」
+            <br />
+            <i>Hai, wakarimashita.</i>
+            <br />
+            <i>Okay, understood.</i>
+          </p>
+          <p className="tab">
+            ✈️ Security Staff:
+            <br />
+            「この中に液体物は入っていますか？」
+            <br />
+            <i>Kono naka ni ekitaimono wa haitteimasu ka?</i>
+            <br />
+            <i>Do you have any liquids inside?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「いいえ、入っていません。」
+            <br />
+            <i>Iie, haitteimasen.</i>
+            <br />
+            <i>No, I don’t (have anything inside).</i>
+          </p>
+          <p className="tab">
+            ✈️ Security Staff:
+            <br />
+            「ご協力ありがとうございます。」
+            <br />
+            <i>Go-kyōryoku arigatō gozaimasu.</i>
+            <br />
+            <i>Thank you for your cooperation.</i>
+          </p>
         </section>
       </div>
 
