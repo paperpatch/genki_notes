@@ -397,6 +397,62 @@ function Travel() {
             <br />
             <i>Thank you for your cooperation.</i>
           </p>
+
+          <b className="indent">🛫 Boarding Gate (搭乗口, Tōjōguchi)</b>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「すみません、搭乗口はどこですか？」
+            <br />
+            <i>Sumimasen, tōjōguchi wa doko desu ka?</i>
+            <br />
+            <i>Excuse me, where is the boarding gate?</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「搭乗口はあちらです。」
+            <br />
+            <i>Tōjōguchi wa achira desu.</i>
+            <br />
+            <i>The boarding gate is over there.</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「ありがとうございます。」
+            <br />
+            <i>Arigatō gozaimasu.</i>
+            <br />
+            <i>Thank you very much.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「こちらが搭乗券になります。どうぞお持ちください。」
+            <br />
+            <i>Kochira ga tōjōken ni narimasu. Dōzo o-mochi kudasai.</i>
+            <br />
+            <i>Here is your boarding pass. Please take it.</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、ありがとうございます。」
+            <br />
+            <i>Hai, arigatō gozaimasu.</i>
+            <br />
+            <i>Yes, thank you.</i>
+          </p>
+          <p className="tab">
+            ✈️ Staff:
+            <br />
+            「搭乗開始は○○時です。」
+            <br />
+            <i>Tōjō kaishi wa ○○-ji desu.</i>
+            <br />
+            <i>Boarding starts at ○○ o'clock.</i>
+          </p>
         </section>
       </div>
 
