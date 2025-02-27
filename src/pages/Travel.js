@@ -453,6 +453,98 @@ function Travel() {
             <br />
             <i>Boarding starts at ○○ o'clock.</i>
           </p>
+
+          <b className="indent">🛂 Immigration (入国審査, Nyūkoku Shinsa)</b>
+          <p className="tab">
+            👮 Officer:
+            <br />
+            「パスポートを見せてください。」
+            <br />
+            <i>Pasupōto o misete kudasai.</i>
+            <br />
+            <i>Please show me your passport.</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、どうぞ。」
+            <br />
+            <i>Hai, dōzo.</i>
+            <br />
+            <i>Here you go.</i>
+          </p>
+          <p className="tab">
+            👮 Officer:
+            <br />
+            「滞在の目的は何ですか？」
+            <br />
+            <i>Taizai no mokuteki wa nan desu ka?</i>
+            <br />
+            <i>What is the purpose of your stay?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「観光です。」
+            <br />
+            <i>Kankō desu.</i>
+            <br />
+            <i>Tourism.</i>
+          </p>
+          <p className="tab">
+            👮 Officer:
+            <br />
+            「滞在期間はどのくらいですか？」
+            <br />
+            <i>Taizai kikan wa dono kurai desu ka?</i>
+            <br />
+            <i>How long will you be staying?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「一週間です。」
+            <br />
+            <i>Isshūkan desu.</i>
+            <br />
+            <i>One week.</i>
+          </p>
+          <p className="tab">
+            👮 Officer:
+            <br />
+            「どこに宿泊しますか？」
+            <br />
+            <i>Doko ni shukuhaku shimasu ka?</i>
+            <br />
+            <i>Where will you be staying?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「東京のホテルに泊まります。」
+            <br />
+            <i>Tōkyō no hoteru ni tomarimasu.</i>
+            <br />
+            <i>I'll be staying at a hotel in Tokyo.</i>
+          </p>
+          <p className="tab">
+            👮 Officer:
+            <br />
+            「良い旅を。」
+            <br />
+            <i>Yoi tabi o.</i>
+            <br />
+            <i>Have a good trip.</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「ありがとうございます。」
+            <br />
+            <i>Arigatō gozaimasu.</i>
+            <br />
+            <i>Thank you very much.</i>
+          </p>
         </section>
       </div>
 
