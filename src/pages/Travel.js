@@ -551,149 +551,173 @@ function Travel() {
       <div id="directions">
         <h2>Directions</h2>
         <section>
-          <h3>1. Where is it?</h3>
-          <div className="indent">
-            <p className="tab">
-              どこですか？
-              <br />
-              <i>Doko desu ka?</i>
-            </p>
-          </div>
+          <h2>1. Vocabulary for Directions</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>English</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese</span>
+                </td>
+                <td className="background-grey">
+                  <span>Romanji</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>Road / Street</td>
+                <td>道</td>
+                <td>michi</td>
+              </tr>
+              <tr className="background-white">
+                <td>Station</td>
+                <td>駅</td>
+                <td>eki</td>
+              </tr>
+              <tr className="background-white">
+                <td>Corner</td>
+                <td>角</td>
+                <td> kado</td>
+              </tr>
+              <tr className="background-white">
+                <td>Traffic light</td>
+                <td>信号</td>
+                <td>shingō</td>
+              </tr>
+              <tr className="background-white">
+                <td>Intersection</td>
+                <td>交差点</td>
+                <td>kōsaten</td>
+              </tr>
+              <tr className="background-white">
+                <td>Go straight</td>
+                <td>まっすぐ行く</td>
+                <td>massugu iku</td>
+              </tr>
+              <tr className="background-white">
+                <td>Turn right</td>
+                <td>右に曲がる</td>
+                <td>migi ni magaru</td>
+              </tr>
+              <tr className="background-white">
+                <td>Turn left</td>
+                <td>左に曲がる</td>
+                <td>hidari ni magaru</td>
+              </tr>
+              <tr className="background-white">
+                <td>Close / Near</td>
+                <td>近い</td>
+                <td>chikai</td>
+              </tr>
+              <tr className="background-white">
+                <td>Far</td>
+                <td>遠い</td>
+                <td>tōi</td>
+              </tr>
+              <tr className="background-white">
+                <td>This area</td>
+                <td>この辺</td>
+                <td>kono hen</td>
+              </tr>
+              <tr className="background-white">
+                <td>How long does it take?</td>
+                <td>どのくらいかかりますか？</td>
+                <td>dono kurai kakarimasu ka?</td>
+              </tr>
+              <tr className="background-white">
+                <td>On foot</td>
+                <td>徒歩</td>
+                <td>toho</td>
+              </tr>
+              <tr className="background-white">
+                <td>Train</td>
+                <td>電車</td>
+                <td>densha</td>
+              </tr>
+              <tr className="background-white">
+                <td>Bus</td>
+                <td>バス</td>
+                <td>basu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Taxi</td>
+                <td>タクシー</td>
+                <td>takushī</td>
+              </tr>
+              <tr className="background-white">
+                <td>Subway</td>
+                <td>地下鉄</td>
+                <td>chikatetsu</td>
+              </tr>
+              <tr className="background-white">
+                <td>Exit</td>
+                <td>出口</td>
+                <td>deguchi</td>
+              </tr>
+              <tr className="background-white">
+                <td>Entrance</td>
+                <td>入り口</td>
+                <td>iriguchi</td>
+              </tr>
+            </tbody>
+          </table>
 
-          <h3>2. I want to go to ~.</h3>
-          <div className="indent">
+          <h2>2. Sample Conversation for Airport Scenarios</h2>
+          <b className="indent">
+            🏙 Asking for Directions (道を尋ねる, Michi o Tazuneru)
+          </b>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「すみません、ちょっとお尋ねしますが…」
+            <br />
+            <i>Sumimasen, chotto o-tazune shimasu ga…</i>
+            <br />
+            <i>Excuse me, may I ask something…?</i>
+          </p>
+          <p className="tab">
+            🧑 Local:
+            <br />
+            「はい、どうしましたか？」
+            <br />
+            <i>Hai, dō shimashita ka?</i>
+            <br />
+            <i>Yes, how can I help you?</i>
+          </p>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「〇〇駅はどこですか？」
+            <br />
+            <i>〇〇-eki wa doko desu ka?</i>
+            <br />
+            <i>Where is ○○ Station?</i>
+          </p>
+          <p className="tab">
+            🧑 Local:
+            <br />
+            「この道をまっすぐ行って、二つ目の信号を右に曲がると見えます。」
+            <br />
+            <i>
+              Kono michi o massugu itte, futatsume no shingō o migi ni magaru to
+              miemasu.
+            </i>
+            <br />
+            <i>
+              Go straight down this road, then turn right at the second traffic
+              light. You'll see it.
+            </i>
             <p className="tab">
-              ～へ行きたいです。
+              👤 Traveler:
               <br />
-              <i>~ e ikitai desu.</i>
-            </p>
-          </div>
-
-          <h3>3. How do I get there?</h3>
-          <div className="indent">
-            <p className="tab">
-              どうやって行きますか？
+              「ありがとうございます！」
               <br />
-              <i>Dō yatte ikimasu ka?</i>
-            </p>
-          </div>
-
-          <h3>4. Please go straight.</h3>
-          <div className="indent">
-            <p className="tab">
-              まっすぐ行ってください。
+              <i>Arigatō gozaimasu!</i>
               <br />
-              <i>Massugu itte kudasai.</i>
+              <i>Thank you very much!</i>
             </p>
-          </div>
-
-          <h3>5. Please turn right.</h3>
-          <div className="indent">
-            <p className="tab">
-              右に曲がってください。
-              <br />
-              <i>Migi ni magatte kudasai.</i>
-            </p>
-          </div>
-
-          <h3>6. Please turn left.</h3>
-          <div className="indent">
-            <p className="tab">
-              左に曲がってください。
-              <br />
-              <i>Hidari ni magatte kudasai.</i>
-            </p>
-          </div>
-
-          <h3>7. Is it close from here?</h3>
-          <div className="indent">
-            <p className="tab">
-              ここから近いですか？
-              <br />
-              <i>Koko kara chikai desu ka?</i>
-            </p>
-          </div>
-
-          <h3>8. Is it far?</h3>
-          <div className="indent">
-            <p className="tab">
-              遠いですか？
-              <br />
-              <i>Tōi desu ka?</i>
-            </p>
-          </div>
-
-          <h3>9. It’s next to it.</h3>
-          <div className="indent">
-            <p className="tab">
-              隣にあります。
-              <br />
-              <i>Tonari ni arimasu.</i>
-            </p>
-          </div>
-
-          <h3>10. It’s across from it.</h3>
-          <div className="indent">
-            <p className="tab">
-              向かいにあります。
-              <br />
-              <i>Mukai ni arimasu.</i>
-            </p>
-          </div>
-
-          <h3>11. Follow this road.</h3>
-          <div className="indent">
-            <p className="tab">
-              この道を進んでください。
-              <br />
-              <i>Kono michi o susunde kudasai.</i>
-            </p>
-          </div>
-
-          <h3>12. Turn at the corner.</h3>
-          <div className="indent">
-            <p className="tab">
-              角を曲がってください。
-              <br />
-              <i>Kado o magatte kudasai.</i>
-            </p>
-          </div>
-
-          <h3>13. Go up the stairs.</h3>
-          <div className="indent">
-            <p className="tab">
-              階段を上がってください。
-              <br />
-              <i>Kaidan o agatte kudasai.</i>
-            </p>
-          </div>
-
-          <h3>14. Take the elevator down.</h3>
-          <div className="indent">
-            <p className="tab">
-              エレベーターで降りてください。
-              <br />
-              <i>Erebētā de orite kudasai.</i>
-            </p>
-          </div>
-
-          <h3>15. Cross the traffic light.</h3>
-          <div className="indent">
-            <p className="tab">
-              信号を渡ってください。
-              <br />
-              <i>Shingō o watatte kudasai.</i>
-            </p>
-          </div>
-
-          <h3>16. It’s a little further ahead.</h3>
-          <div className="indent">
-            <p className="tab">
-              もう少し先です。
-              <br />
-              <i>Mō sukoshi saki desu.</i>
-            </p>
-          </div>
+          </p>
         </section>
       </div>
 
