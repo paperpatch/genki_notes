@@ -549,9 +549,9 @@ function Travel() {
       </div>
 
       <div id="directions">
-        <h2>Directions</h2>
+        <h2>🗺️ Directions</h2>
         <section>
-          <h2>1. Vocabulary for Directions</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -663,10 +663,7 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>2. Sample Conversation for Airport Scenarios</h2>
-          <b className="indent">
-            🏙 Asking for Directions (道を尋ねる, Michi o Tazuneru)
-          </b>
+          <h2>🚶‍♂️ Asking for Directions</h2>
           <p className="tab">
             👤 Traveler:
             <br />
@@ -708,15 +705,165 @@ function Travel() {
               Go straight down this road, then turn right at the second traffic
               light. You'll see it.
             </i>
-            <p className="tab">
-              👤 Traveler:
-              <br />
-              「ありがとうございます！」
-              <br />
-              <i>Arigatō gozaimasu!</i>
-              <br />
-              <i>Thank you very much!</i>
-            </p>
+          </p>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「ありがとうございます！」
+            <br />
+            <i>Arigatō gozaimasu!</i>
+            <br />
+            <i>Thank you very much!</i>
+          </p>
+
+          <h2>🚏 Giving More Detailed Directions</h2>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「この近くにコンビニはありますか？」
+            <br />
+            <i>Kono chikaku ni konbini wa arimasu ka?</i>
+            <br />
+            <i>Is there a convenience store nearby?</i>
+          </p>
+          <p className="tab">
+            🧑 Local:
+            <br />
+            「はい、ありますよ。ここを左に曲がると、すぐ右側にあります。」
+            <br />
+            <i>
+              Hai, arimasu yo. Koko o hidari ni magaru to, sugu migi-gawa ni
+              arimasu.
+            </i>
+            <br />
+            <i>
+              Yes, there is. Turn left here, and you'll see it immediately on
+              your right.
+            </i>
+          </p>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「どのくらいかかりますか？」
+            <br />
+            <i>Dono kurai kakarimasu ka?</i>
+            <br />
+            <i>How long will it take?</i>
+          </p>
+          <p className="tab">
+            🧑 Local:
+            <br />
+            「歩いて５分くらいです。」
+            <br />
+            <i>Aruite go-fun kurai desu.</i>
+            <br />
+            <i>It's about a five-minute walk.</i>
+          </p>
+
+          <h2>🚆 Asking for Directions in a Train Station</h2>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「すみません、新宿駅へ行きたいのですが、どの電車に乗ればいいですか？」
+            <br />
+            <i>
+              Sumimasen, Shinjuku-eki e ikitai no desu ga, dono densha ni noreba
+              ii desu ka?
+            </i>
+            <br />
+            <i>
+              Excuse me, I want to go to Shinjuku Station. Which train should I
+              take?
+            </i>
+          </p>
+          <p className="tab">
+            🚉 Station Staff:
+            <br />
+            「山手線に乗れば、新宿駅に行けます。」
+            <br />
+            <i>Yamanote-sen ni noreba, Shinjuku-eki ni ikemasu.</i>
+            <br />
+            <i>
+              If you take the Yamanote Line, you can get to Shinjuku Station.
+            </i>
+          </p>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「何番ホームですか？」
+            <br />
+            <i>Nan-ban hōmu desu ka?</i>
+            <br />
+            <i>Which platform is it?</i>
+          </p>
+          <p className="tab">
+            🚉 Station Staff:
+            <br />
+            「３番ホームです。」
+            <br />
+            <i>San-ban hōmu desu.</i>
+            <br />
+            <i>Platform 3.</i>
+          </p>
+          <p className="tab">
+            👤 Traveler:
+            <br />
+            「ありがとうございます！」
+            <br />
+            <i>Arigatō gozaimasu!</i>
+            <br />
+            <i>Thank you very much!</i>
+          </p>
+
+          <h2>🚕 Asking for Directions in a Taxi</h2>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「すみません、東京タワーまでお願いします。」
+            <br />
+            <i>Sumimasen, Tōkyō Tawā made onegai shimasu.</i>
+            <br />
+            <i>Excuse me, please take me to Tokyo Tower.</i>
+          </p>
+          <p className="tab">
+            🚖 Driver:
+            <br />
+            「わかりました。高速道路を使いますか？」
+            <br />
+            <i>Wakarimashita. Kōsoku-dōro o tsukaimasu ka?</i>
+            <br />
+            <i>Understood. Would you like to take the highway?</i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「はい、お願いします。」
+            <br />
+            <i>Hai, onegai shimasu.</i>
+            <br />
+            <i>Yes, please.</i>
+          </p>
+          <p className="tab">
+            🚖 Driver:
+            <br />
+            「渋滞があるかもしれませんので、少し時間がかかります。」
+            <br />
+            <i>
+              Jūtai ga aru kamo shiremasen no de, sukoshi jikan ga kakarimasu.
+            </i>
+            <br />
+            <i>
+              There might be some traffic, so it could take a little longer.
+            </i>
+          </p>
+          <p className="tab">
+            👤 Passenger:
+            <br />
+            「大丈夫です。」
+            <br />
+            <i>Daijōbu desu.</i>
+            <br />
+            <i>That's fine.</i>
           </p>
         </section>
       </div>
