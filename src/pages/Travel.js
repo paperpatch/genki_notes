@@ -8,9 +8,9 @@ function Travel() {
   return (
     <div>
       <div id="greetings">
-        <h2>Greetings</h2>
+        <h2>👋 Greetings</h2>
         <section>
-          <h2>1. Common Phrases</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -166,6 +166,7 @@ function Travel() {
       <div id="airport">
         <h2>✈️ Airport</h2>
         <section>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -258,8 +259,7 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>2. Sample Conversation for Airport Scenarios</h2>
-          <b className="indent">🛄 Check-in Counter (チェックインカウンター)</b>
+          <h2>🛄 Check-in Counter</h2>
           <p className="tab">
             👤 Passenger:
             <br />
@@ -342,7 +342,7 @@ function Travel() {
             <i>Understood.</i>
           </p>
 
-          <b className="indent">🛃 Security Check (保安検査, Hoan Kensa)</b>
+          <h2>🛃 Security Check</h2>
           <p className="tab">
             ✈️ Security Staff:
             <br />
@@ -398,7 +398,7 @@ function Travel() {
             <i>Thank you for your cooperation.</i>
           </p>
 
-          <b className="indent">🛫 Boarding Gate (搭乗口, Tōjōguchi)</b>
+          <h2>🛫 Boarding Gate (搭乗口, Tōjōguchi)</h2>
           <p className="tab">
             👤 Passenger:
             <br />
@@ -454,7 +454,7 @@ function Travel() {
             <i>Boarding starts at ○○ o'clock.</i>
           </p>
 
-          <b className="indent">🛂 Immigration (入国審査, Nyūkoku Shinsa)</b>
+          <h2>🛂 Immigration (入国審査, Nyūkoku Shinsa)</h2>
           <p className="tab">
             👮 Officer:
             <br />
@@ -869,9 +869,9 @@ function Travel() {
       </div>
 
       <div id="transportation">
-        <h2>Transportation</h2>
+        <h2>🚆 Transportation</h2>
         <section>
-          <h2>1. Common Phrases for Transportation (交通 – Kōtsū)</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -988,10 +988,9 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>2. Sample Conversation for Buying a Train Ticket</h2>
-          <b className="indent">Situation: Buying a Ticket at the Station</b>
+          <h2 className="indent">🚉 Buying a Ticket at the Station</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             すみません、新宿駅までの切符をください。
             <br />
@@ -1000,7 +999,7 @@ function Travel() {
             <i>Excuse me, a ticket to Shinjuku Station, please.</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             3番線の電車です。5分後に出発します。
             <br />
@@ -1009,7 +1008,7 @@ function Travel() {
             <i>It’s on platform 3. It departs in 5 minutes.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             片道でお願いします。
             <br />
@@ -1018,7 +1017,7 @@ function Travel() {
             <i>One-way, please.</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             150円になります。
             <br />
@@ -1027,7 +1026,7 @@ function Travel() {
             <i>That will be 150 yen.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             ありがとうございます。
             <br />
@@ -1036,7 +1035,7 @@ function Travel() {
             <i>Thank you very much.</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             どうぞ、切符です。
             <br />
@@ -1045,12 +1044,9 @@ function Travel() {
             <i>Here’s your ticket.</i>
           </p>
 
-          <h2>3. Sample Conversation for Asking for the Right Train</h2>
-          <b className="indent">
-            Situation: Asking a Station Worker Which Train to Take
-          </b>
+          <h2>👩‍💼 Asking a Station Worker Which Train to Take</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             すみません、東京駅へ行く電車はどれですか？
             <br />
@@ -1059,7 +1055,7 @@ function Travel() {
             <i>Excuse me, which train goes to Tokyo Station?</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             3番線の電車です。5分後に出発します。
             <br />
@@ -1068,7 +1064,7 @@ function Travel() {
             <i>It’s on platform 3. It departs in 5 minutes.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             ありがとうございます！
             <br />
@@ -1077,7 +1073,7 @@ function Travel() {
             <i>Thank you very much!</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             どういたしまして。
             <br />
@@ -1086,10 +1082,9 @@ function Travel() {
             <i>You’re welcome.</i>
           </p>
 
-          <h2>4. Sample Conversation for Asking About a Bus</h2>
-          <b className="indent">Situation: Asking a Local About a Bus Stop</b>
+          <h2>🚏 Asking a Local About a Bus Stop</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             すみません、成田空港行きのバス停はどこですか？
             <br />
@@ -1098,7 +1093,7 @@ function Travel() {
             <i>Excuse me, where is the bus stop for Narita Airport?</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             あの交差点を渡って、右側にありますよ。
             <br />
@@ -1107,7 +1102,7 @@ function Travel() {
             <i>Cross that intersection, and it’s on the right side.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             ありがとうございます！何番のバスですか？
             <br />
@@ -1116,7 +1111,7 @@ function Travel() {
             <i>Thank you! Which bus number is it?</i>
           </p>
           <p className="tab">
-            🚉 (Staff):
+            🚉 Staff:
             <br />
             16番のバスです。20分ごとに来ます。
             <br />
@@ -1125,7 +1120,7 @@ function Travel() {
             <i>It’s bus number 16. It comes every 20 minutes.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             助かりました！
             <br />
@@ -1137,9 +1132,9 @@ function Travel() {
       </div>
 
       <div id="hotel">
-        <h2>Hotel</h2>
+        <h2>🏨 Hotel</h2>
         <section>
-          <h2>1. Common Hotel Related Phrases</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1253,10 +1248,9 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>2. Sample Conversations at a Hotel</h2>
-          <b className="indent">Check-in Conversation</b>
+          <h2>🛎️ Check-in Conversation</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「チェックインをお願いします。」
             <br />
@@ -1265,7 +1259,7 @@ function Travel() {
             <i>I’d like to check in.</i>
           </p>
           <p className="tab">
-            💁 (Hotel Staff):
+            💁 Hotel Staff:
             <br />
             「お名前をお願いします。」
             <br />
@@ -1274,7 +1268,7 @@ function Travel() {
             <i>May I have your name?</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「名前はスミスです。」
             <br />
@@ -1283,7 +1277,7 @@ function Travel() {
             <i>My name is Smith.</i>
           </p>
           <p className="tab">
-            💁 (Staff):
+            💁 Staff:
             <br />
             「パスポートを見せてください。」
             <br />
@@ -1292,7 +1286,7 @@ function Travel() {
             <i>Please show your passport.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「はい、どうぞ。」
             <br />
@@ -1301,7 +1295,7 @@ function Travel() {
             <i>Here you go.</i>
           </p>
           <p className="tab">
-            💁 (Staff):
+            💁 Staff:
             <br />
             「ありがとうございます。こちらが鍵です。お部屋は 305 号室です。」
             <br />
@@ -1313,9 +1307,9 @@ function Travel() {
             <i>Thank you. Here is your key. Your room is 305.</i>
           </p>
 
-          <b className="indent">Asking About Breakfast</b>
+          <h2>☕ Asking About Breakfast</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「朝食はついていますか？」
             <br />
@@ -1324,7 +1318,7 @@ function Travel() {
             <i>Is breakfast included?</i>
           </p>
           <p className="tab">
-            💁 (Hotel Staff):
+            💁 Hotel Staff:
             <br />
             「はい、ついています。朝食は 7 時から 10 時までです。」
             <br />
@@ -1335,9 +1329,9 @@ function Travel() {
             <i>Yes, it is included. Breakfast is from 7 AM to 10 AM.</i>
           </p>
 
-          <b className="indent">Requesting More Towels</b>
+          <h2>🧴 Requesting More Towels</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「すみません、タオルをもう一枚ください。」
             <br />
@@ -1346,7 +1340,7 @@ function Travel() {
             <i>Excuse me, can I have one more towel?</i>
           </p>
           <p className="tab">
-            💁 (Hotel Staff):
+            💁 Hotel Staff:
             <br />
             「かしこまりました。すぐにお持ちします。」
             <br />
@@ -1355,9 +1349,9 @@ function Travel() {
             <i>Certainly. I will bring it right away.</i>
           </p>
 
-          <b className="indent">Checking Out</b>
+          <h2>🏷️ Checking Out</h2>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「チェックアウトをお願いします。」
             <br />
@@ -1366,7 +1360,7 @@ function Travel() {
             <i>I’d like to check out.</i>
           </p>
           <p className="tab">
-            💁 (Hotel Staff):
+            💁 Hotel Staff:
             <br />
             「かしこまりました。お部屋の鍵をお願いします。」
             <br />
@@ -1375,7 +1369,7 @@ function Travel() {
             <i>Understood. Please return your room key.</i>
           </p>
           <p className="tab">
-            👤 (You):
+            👤 You:
             <br />
             「はい、どうぞ。」
             <br />
@@ -1384,7 +1378,7 @@ function Travel() {
             <i>Here you go.</i>
           </p>
           <p className="tab">
-            💁 (Hotel Staff):
+            💁 Hotel Staff:
             <br />
             「ありがとうございました。またのお越しをお待ちしております。」
             <br />
@@ -1396,9 +1390,9 @@ function Travel() {
       </div>
 
       <div id="restaurant">
-        <h2>Restaurant</h2>
+        <h2>🍽️ Restaurant</h2>
         <section>
-          <h2>1. Common Restaurant Related Phrases</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1412,7 +1406,6 @@ function Travel() {
                   <span>Romanji</span>
                 </td>
               </tr>
-
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Arriving at the Restaurant
@@ -1582,8 +1575,7 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>2. Sample Conversations at a Restaurant</h2>
-          <b className="indent">Getting Seated</b>
+          <h2>🪑 Getting Seated</h2>
           <p className="tab">
             💁 Staff:
             <br />
@@ -1630,7 +1622,7 @@ function Travel() {
             <i>This way, please.</i>
           </p>
 
-          <b className="indent">Ordering Food</b>
+          <h2>📜 Ordering Food</h2>
           <p className="tab">
             👤 Customer:
             <br />
@@ -1668,7 +1660,7 @@ function Travel() {
             <i>Understood.</i>
           </p>
 
-          <b className="indent">Ordering Multiple Set Meals</b>
+          <h2>🍱 Ordering Multiple Set Meals</h2>
           <p className="tab">
             💁 Staff:
             <br />
@@ -1728,7 +1720,7 @@ function Travel() {
             come with rice, miso soup, and side dishes.
           </p>
 
-          <b className="indent">Asking for Refills</b>
+          <h2>🫖 Asking for Refills</h2>
           <p className="tab">
             👤 Customer:
             <br />
@@ -1774,7 +1766,7 @@ function Travel() {
             offer extra noodles for a small fee, called 替え玉 (kaedama).
           </p>
 
-          <b className="indent">Asking for the Bill</b>
+          <h2>💳 Asking for the Bill</h2>
           <p className="tab">
             👤 Customer:
             <br />
@@ -1833,9 +1825,9 @@ function Travel() {
       </div>
 
       <div id="shopping">
-        <h2>Shopping</h2>
+        <h2>🛍️ Shopping</h2>
         <section>
-          <h2>🛍 Common Shopping Phrases</h2>
+          <h2>📖 Vocabulary</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1956,8 +1948,7 @@ function Travel() {
             </tbody>
           </table>
 
-          <h2>🛒 Sample Conversations for Shopping</h2>
-          <b className="indent">🏬 At a Clothing Store</b>
+          <h2>🏬 At a Clothing Store</h2>
           <p className="tab">
             👩 Customer:
             <br />
@@ -2034,8 +2025,8 @@ function Travel() {
       </div>
 
       <div id="numbers">
-        <h2>Numbers</h2>
-        {/* Content for Numbers */}
+        <h2>🔢 Numbers</h2>
+        <section></section>
       </div>
     </div>
   );
