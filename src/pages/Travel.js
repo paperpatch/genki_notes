@@ -1959,7 +1959,7 @@ function Travel() {
             <i>Excuse me, can I try this on?</i>
           </p>
           <p className="tab">
-            🛍 Store Staff:
+            🏪 Store Staff:
             <br />
             「はい、試着室はあちらです。」
             <br />
@@ -1977,7 +1977,7 @@ function Travel() {
             <i>Do you have a slightly larger size?</i>
           </p>
           <p className="tab">
-            🛍 Store Staff:
+            🏪 Store Staff:
             <br />
             「はい、こちらのLサイズはいかがですか？」
             <br />
@@ -1995,7 +1995,7 @@ function Travel() {
             <i>I'll take this.</i>
           </p>
           <p className="tab">
-            🛍 Store Staff:
+            🏪 Store Staff:
             <br />
             「袋はいりますか？」
             <br />
@@ -2013,7 +2013,7 @@ function Travel() {
             <i>Yes, please.</i>
           </p>
           <p className="tab">
-            🛍 Store Staff:
+            🏪 Store Staff:
             <br />
             「ありがとうございました！」
             <br />
