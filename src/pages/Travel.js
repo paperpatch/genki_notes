@@ -1884,7 +1884,7 @@ function Travel() {
                 <td>Motto ōkii saizu wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
-                <td>Can I try this on?"</td>
+                <td>Can I try this on?</td>
                 <td>試着できますか？</td>
                 <td>Shichaku dekimasu ka?</td>
               </tr>
@@ -2026,7 +2026,249 @@ function Travel() {
 
       <div id="numbers">
         <h2>🔢 Numbers</h2>
-        <section></section>
+        <section>
+          <h2>📖 Vocabulary</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>Number</span>
+                </td>
+                <td className="background-grey">
+                  <span>Kanji</span>
+                </td>
+                <td className="background-grey">
+                  <span>Japanese (Hirigana)</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>1</td>
+                <td>一</td>
+                <td>いち (ichi)</td>
+              </tr>
+              <tr className="background-white">
+                <td>2</td>
+                <td>二</td>
+                <td>に (ni)</td>
+              </tr>
+              <tr className="background-white">
+                <td>3</td>
+                <td>三</td>
+                <td>さん (san)</td>
+              </tr>
+              <tr className="background-white">
+                <td>4</td>
+                <td>四</td>
+                <td>し / よん (shi / yon)</td>
+              </tr>
+              <tr className="background-white">
+                <td>5</td>
+                <td>五</td>
+                <td>ご (go)</td>
+              </tr>
+              <tr className="background-white">
+                <td>6</td>
+                <td>六</td>
+                <td>ろく (roku)</td>
+              </tr>
+              <tr className="background-white">
+                <td>7</td>
+                <td>七</td>
+                <td>しち / なな (shichi / nana)</td>
+              </tr>
+              <tr className="background-white">
+                <td>8</td>
+                <td>八</td>
+                <td>はち (hachi)</td>
+              </tr>
+              <tr className="background-white">
+                <td>9</td>
+                <td>九</td>
+                <td>きゅう / く (kyuu / ku)</td>
+              </tr>
+              <tr className="background-white">
+                <td>10</td>
+                <td>十</td>
+                <td>じゅう (juu)</td>
+              </tr>
+              <tr className="background-white">
+                <td>100</td>
+                <td>百</td>
+                <td>ひゃく (hyaku)</td>
+              </tr>
+              <tr className="background-white">
+                <td>1,000</td>
+                <td>千</td>
+                <td>せん (sen)</td>
+              </tr>
+              <tr className="background-white">
+                <td>10,000</td>
+                <td>一万</td>
+                <td>いちまん (ichiman)</td>
+              </tr>
+            </tbody>
+          </table>
+          <div className="indent">
+            <p>
+              "し (shi)" and "しち (shichi)" are sometimes avoided due to
+              associations with bad luck, so "よん (yon)" and "なな (nana)" are
+              more commonly used.
+            </p>
+            <p>
+              When counting objects, counters (like 個, 本, 枚, etc.) are
+              required.
+            </p>
+          </div>
+
+          <h2>🛒 Using Numbers in Shopping</h2>
+          <ol className="indent">
+            <li>How much is this?</li>
+            <span>👉 これは いくら ですか？ (Kore wa ikura desu ka?)</span>
+            <li>I'll take two of these.</li>
+            <span>👉 これを 二つ ください。 (Kore o futatsu kudasai.)</span>
+            <li>Do you have this in size M?</li>
+            <span>👉 Mサイズは ありますか？ (Emu saizu wa arimasu ka?)</span>
+            <li>The total is 3,200 yen.</li>
+            <span>
+              👉 全部で さんぜんにひゃくえん です。 (Zenbu de sanzen nihyaku en
+              desu.)
+            </span>
+            <li>I’ll pay with a 10,000 yen bill.</li>
+            <span>
+              👉 一万円札で 払います。 (Ichiman en satsu de haraimasu.)
+            </span>
+            <li>Do you accept credit cards?</li>
+            <span>
+              👉 クレジットカードは 使えますか？ (Kurejitto kaado wa tsukaemasu
+              ka?)
+            </span>
+          </ol>
+
+          <h2>🍽️ Using Numbers in Restaurants</h2>
+          <ol className="indent">
+            <li>Table for three, please.</li>
+            <span>👉 三人 です。 (San-nin desu.)</span>
+            <li>I'd like to order two of the number 4 set meals.</li>
+            <span>
+              👉 4番のセットを二つください。 (Yon-ban no setto o futatsu
+              kudasai.)
+            </span>
+            <li>Can I get one more glass of water?</li>
+            <span>
+              👉 お水を もう一杯 ください。 (Omizu o mou ippai kudasai.)
+            </span>
+            <li>Check, please.</li>
+            <span>👉 お会計を お願いします。 (Okaikei o onegai shimasu.)</span>
+            <li>That costs 2,580 yen.</li>
+            <span>
+              👉 二千五百八十円 です。 (Nisen gohyaku hachijuu en desu.)
+            </span>
+          </ol>
+
+          <h2>🚆 Using Numbers in Transportation</h2>
+          <ol className="indent">
+            <li>I’d like one ticket to Tokyo.</li>
+            <span>
+              👉 東京までの 切符を一枚ください。 (Tokyo made no kippu o ichimai
+              kudasai.)
+            </span>
+            <li>What platform is train number 7 on?</li>
+            <span>👉 7番線 はどこですか？ (Nanaban-sen wa doko desu ka?)</span>
+            <li>The next train arrives at 3:45 PM.</li>
+            <span>
+              👉 次の電車は 午後三時四十五分 です。 (Tsugi no densha wa gogo
+              sanji yonjuu gofun desu.)
+            </span>
+            <li>I want to take the 9:00 AM bus.</li>
+            <span>
+              👉 午前九時 のバスに乗りたいです。 (Gozen kuji no basu ni noritai
+              desu.)
+            </span>
+            <li>Does this train stop at Kyoto?</li>
+            <span>
+              👉 この電車は 京都に止まりますか？ (Kono densha wa Kyoto ni
+              tomarimasu ka?)
+            </span>
+          </ol>
+
+          <h2>🏨 Using Numbers in Hotels</h2>
+          <ol className="indent">
+            <li>I have a reservation for two nights.</li>
+            <span>
+              👉 二泊 の予約があります。 (Nihaku no yoyaku ga arimasu.)
+            </span>
+            <li>The room number is 305.</li>
+            <span>
+              👉 部屋番号は 305 です。 (Heya bangou wa sanmarugo desu.)
+            </span>
+            <li>Check-out is at 11:00 AM.</li>
+            <span>
+              👉 チェックアウトは 午前十一時 です。 (Chekkuauto wa gozen
+              juuichiji desu.)
+            </span>
+            <li>Can I get two extra towels?</li>
+            <span>
+              👉 タオルを 二枚 追加できますか？ (Tauru o nimai tsuika dekimasu
+              ka?)
+            </span>
+          </ol>
+
+          <h2>📦 Common Counters</h2>
+          <table className="table-travel">
+            <tbody>
+              <tr>
+                <td className="background-grey">
+                  <span>Counter</span>
+                </td>
+                <td className="background-grey">
+                  <span>Used For</span>
+                </td>
+                <td className="background-grey">
+                  <span>Example</span>
+                </td>
+              </tr>
+              <tr className="background-white">
+                <td>個 (こ, ko)</td>
+                <td>Small objects, general counter </td>
+                <td>りんご 三個 (Ringo sanko → 3 apples)</td>
+              </tr>
+              <tr className="background-white">
+                <td>本 (ほん, hon)</td>
+                <td>Long cylindrical objects (bottles, pens)</td>
+                <td>水 二本 (Mizu nihon → 2 bottles of water)</td>
+              </tr>
+              <tr className="background-white">
+                <td>枚 (まい, mai) </td>
+                <td>Flat/thin objects (paper, towels, tickets)</td>
+                <td>チケット 一枚 (Chiketto ichimai → 1 ticket)</td>
+              </tr>
+              <tr className="background-white">
+                <td>人 (にん, nin)</td>
+                <td>People (except 1 and 2)</td>
+                <td>五人 (Gonin → 5 people)</td>
+              </tr>
+              <tr className="background-white">
+                <td>杯 (はい, hai)</td>
+                <td>Cups/glasses of drinks</td>
+                <td>お茶 三杯 (Ocha sanbai → 3 cups of tea)</td>
+              </tr>
+              <tr className="background-white">
+                <td>泊 (はく, haku) </td>
+                <td>Nights of stay</td>
+                <td>二泊 (Nihaku → 2 nights)</td>
+              </tr>
+            </tbody>
+          </table>
+          <div className="indent">
+            <p>
+              Japanese numbers change slightly depending on the counter used.
+            </p>
+            <p>
+              "ひとつ, ふたつ, みっつ" (native Japanese) is used when no
+              specific counter is needed.
+            </p>
+          </div>
+        </section>
       </div>
     </div>
   );
