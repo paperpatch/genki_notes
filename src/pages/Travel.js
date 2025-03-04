@@ -8,9 +8,8 @@ function Travel() {
   return (
     <div>
       <div id="greetings">
-        <h2>👋 Greetings</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h1>👋 Greetings</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -164,9 +163,8 @@ function Travel() {
       </div>
 
       <div id="airport">
-        <h2>✈️ Airport</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>✈️ Airport</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -549,9 +547,8 @@ function Travel() {
       </div>
 
       <div id="directions">
-        <h2>🗺️ Directions</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🗺️ Directions</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -869,9 +866,8 @@ function Travel() {
       </div>
 
       <div id="transportation">
-        <h2>🚆 Transportation</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🚆 Transportation</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1132,9 +1128,8 @@ function Travel() {
       </div>
 
       <div id="hotel">
-        <h2>🏨 Hotel</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🏨 Hotel</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1390,9 +1385,8 @@ function Travel() {
       </div>
 
       <div id="restaurant">
-        <h2>🍽️ Restaurant</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🍽️ Restaurant</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1825,9 +1819,8 @@ function Travel() {
       </div>
 
       <div id="shopping">
-        <h2>🛍️ Shopping</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🛍️ Shopping</h2>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -2025,9 +2018,8 @@ function Travel() {
       </div>
 
       <div id="numbers">
-        <h2>🔢 Numbers</h2>
         <section>
-          <h2>📖 Vocabulary</h2>
+          <h2>🔢 Numbers</h2>
           <table className="table-travel">
             <tbody>
               <tr>
