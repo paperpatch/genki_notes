@@ -85,7 +85,7 @@ function Table() {
         <ul className="toc">
           <li>
             <button onClick={toggleTravel}>
-              Travel {travelOpen ? "▼" : "☰"}
+              Travel {travelOpen ? "⮟" : "⮝"}
             </button>
             {travelOpen && (
               <ul className="nested">
@@ -122,7 +122,7 @@ function Table() {
           </li>
           <li>
             <button onClick={toggleGenkiOne}>
-              Genki I {genkiOneOpen ? "▼" : "☰"}
+              Genki I {genkiOneOpen ? "⮟" : "⮝"}
             </button>
             {genkiOneOpen && (
               <ul className="nested">
@@ -191,7 +191,7 @@ function Table() {
           </li>
           <li>
             <button onClick={toggleGenkiTwo}>
-              Genki II {genkiTwoOpen ? "▼" : "☰"}
+              Genki II {genkiTwoOpen ? "⮟" : "⮝"}
             </button>
             {genkiTwoOpen && (
               <ul className="nested">
