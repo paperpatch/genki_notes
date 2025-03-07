@@ -20,7 +20,7 @@ function Resources() {
           <strong>Q: Will this site be updated?</strong>
         </p>
         <p>
-          A: I intend to enhance the expand the content gradually. Subject to
+          A: I plan to gradually expand the content. Subject to
           change.
         </p>
         <p>
