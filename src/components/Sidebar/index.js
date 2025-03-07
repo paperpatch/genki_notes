@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
+import { scrollToSection } from "../../utils/Helpers.js";
 import "./Sidebar.css";
 
 function Sidebar({ activeSection }) {
@@ -90,30 +91,61 @@ function Sidebar({ activeSection }) {
             {travelOpen && (
               <ul className="nested">
                 <li className={activeSection === "greetings" ? "active" : ""}>
-                  <Link to="/travel#greetings">Greetings</Link>
+                  <Link
+                    to="/travel"
+                    onClick={() => scrollToSection("greetings")}
+                  >
+                    Greetings
+                  </Link>
                 </li>
                 <li className={activeSection === "airport" ? "active" : ""}>
-                  <Link to="/travel#airport">Airport</Link>
+                  <Link to="/travel" onClick={() => scrollToSection("airport")}>
+                    Airport
+                  </Link>
                 </li>
                 <li className={activeSection === "directions" ? "active" : ""}>
-                  <Link to="/travel#directions">Directions</Link>
+                  <Link
+                    to="/travel"
+                    onClick={() => scrollToSection("directions")}
+                  >
+                    Directions
+                  </Link>
                 </li>
                 <li
                   className={activeSection === "transportation" ? "active" : ""}
                 >
-                  <Link to="/travel#transportation">Transportation</Link>
+                  <Link
+                    to="/travel"
+                    onClick={() => scrollToSection("transportation")}
+                  >
+                    Transportation
+                  </Link>
                 </li>
                 <li className={activeSection === "hotel" ? "active" : ""}>
-                  <Link to="/travel#hotel">Hotel</Link>
+                  <Link to="/travel" onClick={() => scrollToSection("hotel")}>
+                    Hotel
+                  </Link>
                 </li>
                 <li className={activeSection === "restaurant" ? "active" : ""}>
-                  <Link to="/travel#restaurant">Restaurant</Link>
+                  <Link
+                    to="/travel"
+                    onClick={() => scrollToSection("restaurant")}
+                  >
+                    Restaurant
+                  </Link>
                 </li>
                 <li className={activeSection === "shopping" ? "active" : ""}>
-                  <Link to="/travel#shopping">Shopping</Link>
+                  <Link
+                    to="/travel"
+                    onClick={() => scrollToSection("shopping")}
+                  >
+                    Shopping
+                  </Link>
                 </li>
                 <li className={activeSection === "numbers" ? "active" : ""}>
-                  <Link to="/travel#numbers">Numbers</Link>
+                  <Link to="/travel" onClick={() => scrollToSection("numbers")}>
+                    Numbers
+                  </Link>
                 </li>
               </ul>
             )}

@@ -1,8 +1,17 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import { useSmoothScrollToSection } from "../utils/Helpers";
 import "./Pages.css";
 
 function Travel({ setActiveSection }) {
+  const greetingsRef = useRef(null);
+  const airportRef = useRef(null);
+  const directionsRef = useRef(null);
+  const transportationRef = useRef(null);
+  const hotelRef = useRef(null);
+  const restaurantRef = useRef(null);
+  const shoppingRef = useRef(null);
+  const numbersRef = useRef(null);
+
   useSmoothScrollToSection();
 
   // detect scroll and update activeSection
@@ -31,7 +40,7 @@ function Travel({ setActiveSection }) {
 
   return (
     <div>
-      <div id="greetings" className="travel-section">
+      <div id="greetings" ref={greetingsRef} className="travel-section">
         <section>
           <h1>👋 Greetings</h1>
           <table className="table-travel">
@@ -186,7 +195,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="airport" className="travel-section">
+      <div id="airport" ref={airportRef} className="travel-section">
         <section>
           <h2>✈️ Airport</h2>
           <table className="table-travel">
@@ -570,7 +579,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="directions" className="travel-section">
+      <div id="directions" ref={directionsRef} className="travel-section">
         <section>
           <h2>🗺️ Directions</h2>
           <table className="table-travel">
@@ -889,7 +898,11 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="transportation" className="travel-section">
+      <div
+        id="transportation"
+        ref={transportationRef}
+        className="travel-section"
+      >
         <section>
           <h2>🚆 Transportation</h2>
           <table className="table-travel">
@@ -1151,7 +1164,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="hotel" className="travel-section">
+      <div id="hotel" ref={hotelRef} className="travel-section">
         <section>
           <h2>🏨 Hotel</h2>
           <table className="table-travel">
@@ -1408,7 +1421,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="restaurant" className="travel-section">
+      <div id="restaurant" ref={restaurantRef} className="travel-section">
         <section>
           <h2>🍽️ Restaurant</h2>
           <table className="table-travel">
@@ -1842,7 +1855,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="shopping" className="travel-section">
+      <div id="shopping" ref={shoppingRef} className="travel-section">
         <section>
           <h2>🛍️ Shopping</h2>
           <table className="table-travel">
@@ -2041,7 +2054,7 @@ function Travel({ setActiveSection }) {
         </section>
       </div>
 
-      <div id="numbers" className="travel-section">
+      <div id="numbers" ref={numbersRef} className="travel-section">
         <section>
           <h2>🔢 Numbers</h2>
           <table className="table-travel">
