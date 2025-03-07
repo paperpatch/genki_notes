@@ -1,4 +1,5 @@
 // React
+import { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 // components
@@ -34,16 +35,21 @@ import Lesson23 from "./pages/Lesson23";
 import Resources from "./pages/Resources";
 
 function App() {
+  const [activeSection, setActiveSection] = useState("");
+
   return (
     <Router basename="/">
       <div>
         <Header />
         <div className="app-container">
-          <Sidebar />
+          <Sidebar activeSection={activeSection} />
           <div className="content">
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/Travel" element={<Travel />} />
+              <Route
+                path="/travel"
+                element={<Travel setActiveSection={setActiveSection} />}
+              />
               <Route path="/lesson1" element={<Lesson1 />} />
               <Route path="/lesson2" element={<Lesson2 />} />
               <Route path="/lesson3" element={<Lesson3 />} />
@@ -67,7 +73,7 @@ function App() {
               <Route path="/lesson21" element={<Lesson21 />} />
               <Route path="/lesson22" element={<Lesson22 />} />
               <Route path="/lesson23" element={<Lesson23 />} />
-              <Route path="/Resources" element={<Resources />} />
+              <Route path="/resources" element={<Resources />} />
               <Route path="*" element={<Home />} />
             </Routes>
           </div>

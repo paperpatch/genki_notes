@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./Sidebar.css";
 
-function Table() {
+function Sidebar({ activeSection }) {
   const [travelOpen, setTravelOpen] = useState(true);
   const [genkiOneOpen, setGenkiOneOpen] = useState(true);
   const [genkiTwoOpen, setGenkiTwoOpen] = useState(true);
@@ -89,32 +89,30 @@ function Table() {
             </button>
             {travelOpen && (
               <ul className="nested">
-                <li className={location.hash === "#greetings" ? "active" : ""}>
+                <li className={activeSection === "greetings" ? "active" : ""}>
                   <Link to="/travel#greetings">Greetings</Link>
                 </li>
-                <li className={location.hash === "#airport" ? "active" : ""}>
+                <li className={activeSection === "airport" ? "active" : ""}>
                   <Link to="/travel#airport">Airport</Link>
                 </li>
-                <li className={location.hash === "#directions" ? "active" : ""}>
+                <li className={activeSection === "directions" ? "active" : ""}>
                   <Link to="/travel#directions">Directions</Link>
                 </li>
                 <li
-                  className={
-                    location.hash === "#transportation" ? "active" : ""
-                  }
+                  className={activeSection === "transportation" ? "active" : ""}
                 >
                   <Link to="/travel#transportation">Transportation</Link>
                 </li>
-                <li className={location.hash === "#hotel" ? "active" : ""}>
+                <li className={activeSection === "hotel" ? "active" : ""}>
                   <Link to="/travel#hotel">Hotel</Link>
                 </li>
-                <li className={location.hash === "#restaurant" ? "active" : ""}>
+                <li className={activeSection === "restaurant" ? "active" : ""}>
                   <Link to="/travel#restaurant">Restaurant</Link>
                 </li>
-                <li className={location.hash === "#shopping" ? "active" : ""}>
+                <li className={activeSection === "shopping" ? "active" : ""}>
                   <Link to="/travel#shopping">Shopping</Link>
                 </li>
-                <li className={location.hash === "#numbers" ? "active" : ""}>
+                <li className={activeSection === "numbers" ? "active" : ""}>
                   <Link to="/travel#numbers">Numbers</Link>
                 </li>
               </ul>
@@ -258,11 +256,11 @@ function Table() {
         </ul>
         <footer id="footer" className="footer">
           <div className="footer-content">
-            <Link to="/Resources">Terms of Service</Link>
+            <Link to="/resources">Terms of Service</Link>
             <span>·</span>
-            <Link to="/Resources">FAQ</Link>
+            <Link to="/resources">FAQ</Link>
             <span>·</span>
-            <Link to="/Resources">Contact</Link>
+            <Link to="/resources">Contact</Link>
           </div>
         </footer>
       </nav>
@@ -270,4 +268,4 @@ function Table() {
   );
 }
 
-export default Table;
+export default Sidebar;
