@@ -195,9 +195,7 @@ body.dark-mode .header {
   background-color: #353535;
 }
 
-body.dark-mode .searchbar,
-body.dark-mode .searchbar input,
-body.dark-mode .searchbar a {
+body.dark-mode .searchbar input {
   background-color: #3a3d42;
   color: #e0e0e0;
 }
