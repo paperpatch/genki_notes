@@ -1021,7 +1021,7 @@ function Travel({ setActiveSection }) {
             </tbody>
           </table>
 
-          <h2 className="indent">🚉 Buying a Ticket at the Station</h2>
+          <h2>🚉 Buying a Ticket at the Station</h2>
           <p className="tab">
             👤 You:
             <br />
