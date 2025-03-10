@@ -6,9 +6,18 @@ function Lesson1() {
 
   return (
     <div>
-      <h2>Lesson 1: あたらしいともだち (New Friends)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 1:</h2>
+        <h2 className="lesson-title-after text-orange">
+          あたらしいともだち (New Friends)
+        </h2>
+      </div>
+
       <section id="section1">
-        <h3>1.1: X は Y です</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">X は Y です</h3>
+        </h3>
         <div className="indent">
           <p>です (noun) = It is...</p>
           <p>は = topic particle (read as wa)</p>
