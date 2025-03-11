@@ -6,13 +6,16 @@ function Lesson23() {
 
   return (
     <div>
-      <h2>
-        Lesson 23:{" "}
-        <span className="kanji">
-          別<span className="furigana">わか</span>
-        </span>
-        れ (Good-bye)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 23</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            別<span className="furigana">わか</span>
+          </span>
+          れ (Good-bye)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>23.1: Causative-passive Sentences</h3>
         <div className="indent">

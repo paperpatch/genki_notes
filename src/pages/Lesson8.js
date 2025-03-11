@@ -6,7 +6,11 @@ function Lesson8() {
 
   return (
     <div>
-      <h2>Lesson 8: バーベキュー (Barbecue)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 8</h2>
+        <h2 className="lesson-title-orange">バーベキュー (Barbecue)</h2>
+      </div>
+
       <section id="section1">
         <h3>8.1: Short Forms</h3>
         <div className="indent">

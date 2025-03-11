@@ -329,7 +329,13 @@ function Lesson14() {
 
   return (
     <div>
-      <h2>Lesson 14: バレンタインデー (Valentine’s Day)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 14</h2>
+        <h2 className="lesson-title-orange">
+          バレンタインデー (Valentine’s Day)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>14.1: ほしい</h3>
         <div className="indent">

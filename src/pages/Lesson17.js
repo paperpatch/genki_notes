@@ -6,13 +6,17 @@ function Lesson17() {
 
   return (
     <div>
-      <h2>
-        Lesson 17: ぐちとうわさ
-        <span className="kanji">
-          話<span className="furigana">ばなし</span>
-        </span>{" "}
-        (Grumble and Gossip)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 17</h2>
+        <h2 className="lesson-title-orange">
+          ぐちとうわさ
+          <span className="kanji">
+            話<span className="furigana">ばなし</span>
+          </span>{" "}
+          (Grumble and Gossip)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>17.1: ～そうです (I hear)</h3>
         <div className="indent">

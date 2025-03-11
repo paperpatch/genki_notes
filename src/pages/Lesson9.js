@@ -5,7 +5,11 @@ function Lesson9() {
   useSmoothScrollToSection();
   return (
     <div>
-      <h2>Lesson 9: かぶき (Kabuki)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 9</h2>
+        <h2 className="lesson-title-orange">かぶき (Kabuki)</h2>
+      </div>
+
       <section id="section1">
         <h3>9.1: Past Tense Short Forms</h3>
         <div className="indent">

@@ -6,16 +6,19 @@ function Lesson19() {
 
   return (
     <div>
-      <h2>
-        Lesson 19:{" "}
-        <span className="kanji">
-          出<span className="furigana">で</span>
-        </span>
-        <span className="kanji">
-          迎<span className="furigana">むか</span>
-        </span>
-        え (Meeting the Boss)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 19</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            出<span className="furigana">で</span>
+          </span>
+          <span className="kanji">
+            迎<span className="furigana">むか</span>
+          </span>
+          え (Meeting the Boss)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>19.1: Honorific Verbs</h3>
         <div className="indent">

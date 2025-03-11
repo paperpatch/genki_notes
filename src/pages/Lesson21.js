@@ -6,7 +6,11 @@ function Lesson21() {
 
   return (
     <div>
-      <h2>Lesson 21: どろぼう (Burglar)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 21</h2>
+        <h2 className="lesson-title-orange">どろぼう (Burglar)</h2>
+      </div>
+
       <section id="section1">
         <h3>21.1: Passive Sentences</h3>
         <div className="indent">

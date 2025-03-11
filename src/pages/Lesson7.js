@@ -6,20 +6,23 @@ function Lesson7() {
 
   return (
     <div>
-      <h2>
-        Lesson 7:{" "}
-        <span className="kanji">
-          家<span className="furigana">か</span>
-        </span>
-        <span className="kanji">
-          族<span className="furigana">ぞく</span>
-        </span>
-        の
-        <span className="kanji">
-          写真<span className="furigana">しゃしん</span>
-        </span>{" "}
-        (Family Picture)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 7</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            家<span className="furigana">か</span>
+          </span>
+          <span className="kanji">
+            族<span className="furigana">ぞく</span>
+          </span>
+          の
+          <span className="kanji">
+            写真<span className="furigana">しゃしん</span>
+          </span>{" "}
+          (Family Picture)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>7.1: ～ている (Action in Progress)</h3>
         <div className="indent">

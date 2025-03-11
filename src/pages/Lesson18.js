@@ -6,7 +6,13 @@ function Lesson18() {
 
   return (
     <div>
-      <h2>Lesson 18: ジョンさんのアルバイト (John’s Part-time Job)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 18</h2>
+        <h2 className="lesson-title-orange">
+          ジョンさんのアルバイト (John’s Part-time Job)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>18.1: Transitivity Pairs</h3>
         <div className="indent">

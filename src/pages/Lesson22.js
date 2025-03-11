@@ -6,20 +6,23 @@ function Lesson22() {
 
   return (
     <div>
-      <h2>
-        Lesson 22:{" "}
-        <span className="kanji">
-          日<span className="furigana">に</span>
-        </span>
-        <span className="kanji">
-          本<span className="furigana">ほん</span>
-        </span>
-        の
-        <span className="kanji">
-          教育<span className="furigana">きょういく</span>
-        </span>{" "}
-        (Education in Japan)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 22</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            日<span className="furigana">に</span>
+          </span>
+          <span className="kanji">
+            本<span className="furigana">ほん</span>
+          </span>
+          の
+          <span className="kanji">
+            教育<span className="furigana">きょういく</span>
+          </span>{" "}
+          (Education in Japan)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>22.1: Causative Sentences</h3>
         <div className="indent">

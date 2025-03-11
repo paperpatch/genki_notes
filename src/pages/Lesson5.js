@@ -6,13 +6,16 @@ function Lesson5() {
 
   return (
     <div>
-      <h2>
-        Lesson 5:{" "}
-        <span className="kanji">
-          沖縄旅行<span className="furigana">おきなわりょこう</span>
-        </span>{" "}
-        (A Trip to Okinawa)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 5</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            沖縄旅行<span className="furigana">おきなわりょこう</span>
+          </span>{" "}
+          (A Trip to Okinawa)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>5.1: Adjectives (Present Tense)</h3>
         <div className="indent">

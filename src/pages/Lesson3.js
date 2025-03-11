@@ -7,16 +7,20 @@ function Lesson3() {
 
   return (
     <div>
-      <h2>
-        Lesson 3: デートの
-        <span className="kanji">
-          約<span className="furigana">やく</span>
-        </span>
-        <span className="kanji">
-          束<span className="furigana">そく</span>
-        </span>{" "}
-        (Making a Date)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 3</h2>
+        <h2 className="lesson-title-orange">
+          デートの
+          <span className="kanji">
+            約<span className="furigana">やく</span>
+          </span>
+          <span className="kanji">
+            束<span className="furigana">そく</span>
+          </span>{" "}
+          (Making a Date)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>3.1: Verb Conjugation</h3>
         <div className="indent">

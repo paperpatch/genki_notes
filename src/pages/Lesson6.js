@@ -6,13 +6,17 @@ function Lesson6() {
 
   return (
     <div>
-      <h2>
-        Lesson 6: ロバートさんの
-        <span className="kanji">
-          一日<span className="furigana">いちにち</span>
-        </span>{" "}
-        (A Day in Robert's Life)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 6</h2>
+        <h2 className="lesson-title-orange">
+          ロバートさんの
+          <span className="kanji">
+            一日<span className="furigana">いちにち</span>
+          </span>{" "}
+          (A Day in Robert's Life)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>6.1: Te-form</h3>
         <div className="indent">

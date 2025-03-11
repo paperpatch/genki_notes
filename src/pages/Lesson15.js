@@ -6,22 +6,25 @@ function Lesson15() {
 
   return (
     <div>
-      <h2>
-        Lesson 15:
-        <span className="kanji">
-          長<span className="furigana">なが</span>
-        </span>
-        <span className="kanji">
-          野<span className="furigana">の</span>
-        </span>
-        <span className="kanji">
-          旅<span className="furigana">りょ</span>
-        </span>
-        <span className="kanji">
-          行<span className="furigana">こう</span>
-        </span>
-        (A Trip to Nagano)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 15</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            長<span className="furigana">なが</span>
+          </span>
+          <span className="kanji">
+            野<span className="furigana">の</span>
+          </span>
+          <span className="kanji">
+            旅<span className="furigana">りょ</span>
+          </span>
+          <span className="kanji">
+            行<span className="furigana">こう</span>
+          </span>
+          (A Trip to Nagano)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>15.1: Volitional Form</h3>
         <div className="indent">

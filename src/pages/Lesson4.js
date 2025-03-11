@@ -6,13 +6,16 @@ function Lesson4() {
 
   return (
     <div>
-      <h2>
-        Lesson 4:{" "}
-        <span className="kanji">
-          初<span className="furigana">はじ</span>
-        </span>
-        めてのデート (The First Date)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 4</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            初<span className="furigana">はじ</span>
+          </span>
+          めてのデート (The First Date)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>4.1: X があります / います</h3>
         <div className="indent">

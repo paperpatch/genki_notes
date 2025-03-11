@@ -6,23 +6,26 @@ function Lesson10() {
 
   return (
     <div>
-      <h2>
-        Lesson 10:{" "}
-        <span className="kanji">
-          冬<span className="furigana">ふゆ</span>
-        </span>
-        <span className="kanji">
-          休<span className="furigana">やす</span>
-        </span>
-        みの
-        <span className="kanji">
-          予<span className="furigana">よ</span>
-        </span>
-        <span className="kanji">
-          定<span className="furigana">てい</span>
-        </span>{" "}
-        (Winter Vacations Plans)
-      </h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 10</h2>
+        <h2 className="lesson-title-orange">
+          <span className="kanji">
+            冬<span className="furigana">ふゆ</span>
+          </span>
+          <span className="kanji">
+            休<span className="furigana">やす</span>
+          </span>
+          みの
+          <span className="kanji">
+            予<span className="furigana">よ</span>
+          </span>
+          <span className="kanji">
+            定<span className="furigana">てい</span>
+          </span>{" "}
+          (Winter Vacations Plans)
+        </h2>
+      </div>
+
       <section id="section1">
         <h3>10.1: Comparison between Two Items</h3>
         <div className="indent">

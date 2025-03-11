@@ -6,7 +6,11 @@ function Lesson2() {
 
   return (
     <div>
-      <h2>Lesson 2: かいもの (Shopping)</h2>
+      <div className="lesson-header">
+        <h2 className="lesson-title">Lesson 2</h2>
+        <h2 className="lesson-title-orange">かいもの (Shopping)</h2>
+      </div>
+
       <section id="section1">
         <h3>2.1: これ / それ / あれ / どれ</h3>
         <div className="indent">
@@ -96,10 +100,10 @@ function Lesson2() {
             might find the more formal terms in the following:
           </p>
           <p className="tab">
-            A は X <span className="underline-orange">じゃありません</span>。 (more
-            formal speech style) <br />A は X
-            <span className="underline-orange">でわありません</span>。 (formal for
-            writing)
+            A は X <span className="underline-orange">じゃありません</span>。
+            (more formal speech style) <br />A は X
+            <span className="underline-orange">でわありません</span>。 (formal
+            for writing)
           </p>
         </div>
       </section>
