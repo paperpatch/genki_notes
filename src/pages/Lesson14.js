@@ -337,7 +337,10 @@ function Lesson14() {
       </div>
 
       <section id="section1">
-        <h3>14.1: ほしい</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">ほしい</h3>
+        </div>
         <div className="indent">
           <p>
             ほしい means to want something. ほしい follows the い-adjective
@@ -545,7 +548,10 @@ function Lesson14() {
       </section>
 
       <section id="section2">
-        <h3>14.2: ～かもしれません</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～かもしれません</h3>
+        </div>
         <div className="indent">
           <p>
             かもしれません means that something is a "possibility". When you
@@ -719,7 +725,10 @@ function Lesson14() {
       </section>
 
       <section id="section3">
-        <h3>14.3: あげる / くれる / もらう</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">あげる / くれる / もらう</h3>
+        </div>
         <div className="indent">
           <p>
             Japanese has two verbs for giving: あげる and くれる. The verb
@@ -865,7 +874,10 @@ function Lesson14() {
       </section>
 
       <section id="section4">
-        <h3>14.4: たらどうですか</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">たらどうですか</h3>
+        </div>
         <div className="indent">
           <p>
             たらどうですか after a verb conveys advice or recommendation. The
@@ -951,7 +963,12 @@ function Lesson14() {
       </section>
 
       <section id="section5">
-        <h3>14.5: Number + も / Number + しか + Negative</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">
+            Number + も / Number + しか + Negative
+          </h3>
+        </div>
         <div className="indent">
           <p>Basic structure for expressing numbers in Japanese:</p>
           <table className="table-list table-mini table-border-green">

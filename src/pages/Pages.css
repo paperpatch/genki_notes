@@ -245,8 +245,17 @@ table td.arrow-right {
   background-color: #ED7014;
 }
 
+.circle-green {
+  color: white;
+  background-color: #228B22;
+}
+
 .section-text-orange {
   color: #ED7014;
+}
+
+.section-text-green {
+  color: #228B22;
 }
 
 .indent {

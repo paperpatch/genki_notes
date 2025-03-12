@@ -18,7 +18,10 @@ function Lesson13() {
       </div>
 
       <section id="section1">
-        <h3>13.1: Potential Verbs</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Potential Verbs</h3>
+        </div>
         <div className="indent">
           <p>
             Use the potential verb to say that someone "can" or "has the ability
@@ -693,7 +696,10 @@ function Lesson13() {
       </section>
 
       <section id="section2">
-        <h3>13.2: ～し</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～し</h3>
+        </div>
         <div className="indent">
           <p>
             Similar to から, as in to give a reason for something, し can also
@@ -914,7 +920,10 @@ function Lesson13() {
       </section>
 
       <section id="section3">
-        <h3>13.3: ～そうです (It looks like...)</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～そうです (It looks like...)</h3>
+        </div>
         <div className="indent">
           <p>
             We add そうで to い- and な-adjective bases to say that something"
@@ -1049,7 +1058,10 @@ function Lesson13() {
       </section>
 
       <section id="section4">
-        <h3>13.4: ～てみる</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～てみる</h3>
+        </div>
         <div className="indent">
           <p>
             You can use the <i>te</i>-form of a verb plus the helping verb みる
@@ -1123,7 +1135,10 @@ function Lesson13() {
       </section>
 
       <section id="section5">
-        <h3>13.5: なら</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">なら</h3>
+        </div>
         <div className="indent">
           <p>
             なら is attached to a sentence which describes the condition where
@@ -1184,7 +1199,10 @@ function Lesson13() {
       </section>
 
       <section id="section6">
-        <h3>13.6: 一週間に三回</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">一週間に三回</h3>
+        </div>
         <div className="indent">
           <p>
             You can describe the frequency of events over a period of time by

@@ -12,7 +12,10 @@ function Lesson21() {
       </div>
 
       <section id="section1">
-        <h3>21.1: Passive Sentences</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Passive Sentences</h3>
+        </div>
         <div className="indent">
           <p>
             When you are inconvenienced by something somebody else has done, you
@@ -611,7 +614,10 @@ function Lesson21() {
       </section>
 
       <section id="section2">
-        <h3>21.2: ～てある</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～てある</h3>
+        </div>
         <div className="indent">
           <p>
             You can use the <i>te</i>-form of a verb + the helping verb ある to
@@ -791,7 +797,10 @@ function Lesson21() {
       </section>
 
       <section id="section3">
-        <h3>21.3: ～間に</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～間に</h3>
+        </div>
         <div className="indent">
           <p>
             Use the pattern "A{" "}
@@ -954,7 +963,10 @@ function Lesson21() {
       </section>
 
       <section id="section4">
-        <h3>21.4: Adjective + する</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">Adjective + する</h3>
+        </div>
         <div className="indent">
           <p>
             Similar to Lesson 10 where something can "become" something, as in{" "}
@@ -1102,7 +1114,10 @@ function Lesson21() {
       </section>
 
       <section id="section5">
-        <h3>21.5: ～てほしい</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～てほしい</h3>
+        </div>
         <div className="indent">
           <p>
             When you want somebody to do something, you can describe your wish

@@ -17,7 +17,10 @@ function Lesson23() {
       </div>
 
       <section id="section1">
-        <h3>23.1: Causative-passive Sentences</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Causative-passive Sentences</h3>
+        </div>
         <div className="indent">
           <p>
             "Causative-passive" sentences are the passive version of causative
@@ -429,7 +432,10 @@ function Lesson23() {
       </section>
 
       <section id="section2">
-        <h3>23.2: ～ても</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～ても</h3>
+        </div>
         <div className="indent">
           <p>
             "A ても B" is "B, even if A". In short, B is still true in case of
@@ -784,7 +790,10 @@ function Lesson23() {
       </section>
 
       <section id="section3">
-        <h3>23.3: ～にとにする</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～にとにする</h3>
+        </div>
         <div className="indent">
           <p>
             ことにする means "decide to do..." It follows the short form present
@@ -864,7 +873,10 @@ function Lesson23() {
       </section>
 
       <section id="section4">
-        <h3>23.4: ～にとにしている</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～にとにしている</h3>
+        </div>
         <div className="indent">
           <p>
             ことにしている means "do something as a regular practice", meaning
@@ -919,7 +931,10 @@ function Lesson23() {
       </section>
 
       <section id="section5">
-        <h3>23.5: ～まで</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～まで</h3>
+        </div>
         <div className="indent">
           <p>
             まで means "till A". The A in "A まで B" is the description of the
@@ -1025,7 +1040,10 @@ function Lesson23() {
       </section>
 
       <section id="section6">
-        <h3>23.6: ～方</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">～方</h3>
+        </div>
         <div className="indent">
           <p>
             The noun-forming suffix{" "}

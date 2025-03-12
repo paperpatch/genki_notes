@@ -14,7 +14,10 @@ function Lesson18() {
       </div>
 
       <section id="section1">
-        <h3>18.1: Transitivity Pairs</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Transitivity Pairs</h3>
+        </div>
         <div className="indent">
           <p>
             Some verbs describe situations in which people act on things. For
@@ -307,7 +310,12 @@ function Lesson18() {
       </section>
 
       <section id="section2">
-        <h3>18.2: Paired Intransitive Verbs + ている</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">
+            Paired Intransitive Verbs + ている
+          </h3>
+        </div>
         <div className="indent">
           <p>
             Transitive verbs describe activities, while instransitive verbs
@@ -454,7 +462,10 @@ function Lesson18() {
       </section>
 
       <section id="section3">
-        <h3>18.3: ～てしもう</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～てしもう</h3>
+        </div>
         <div className="indent">
           <p>
             The <i>te</i>-form of a verb + しまう has two meanings. In the first
@@ -583,7 +594,10 @@ function Lesson18() {
       </section>
 
       <section id="section4">
-        <h3>18.4: ～と</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～と</h3>
+        </div>
         <div className="indent">
           <p>
             The present tense short form of a predicate + と means{" "}
@@ -760,7 +774,10 @@ function Lesson18() {
       </section>
 
       <section id="section5">
-        <h3>18.5: ～ながら</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～ながら</h3>
+        </div>
         <div className="indent">
           <p>
             You can connect two verbs with ながら to say that the two actions
@@ -908,7 +925,10 @@ function Lesson18() {
       </section>
 
       <section id="section6">
-        <h3>18.6: ～ばよかったです</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">～ばよかったです</h3>
+        </div>
         <div className="indent">
           <p>
             ばよかったです means <i>I wish I had done</i> or{" "}

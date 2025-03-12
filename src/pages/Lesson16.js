@@ -344,7 +344,12 @@ function Lesson16() {
       </div>
 
       <section id="section1">
-        <h3>16.1: ～てあげる / てくれる / てもらう</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">
+            ～てあげる / てくれる / てもらう
+          </h3>
+        </div>
         <div className="indent">
           <p>
             Lesson 14 has the verbs あげる, くれる, and もらう describe
@@ -517,7 +522,10 @@ function Lesson16() {
       </section>
 
       <section id="section2">
-        <h3>16.2: ～ていただけませんか</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～ていただけませんか</h3>
+        </div>
         <div className="indent">
           <p>
             Here are three ways to make a request. They differ in degrees of
@@ -593,7 +601,10 @@ function Lesson16() {
       </section>
 
       <section id="section3">
-        <h3>16.3: ～といい</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～といい</h3>
+        </div>
         <div className="indent">
           <p>
             You can use the present tense short form + といいですね (polite) or
@@ -736,7 +747,10 @@ function Lesson16() {
       </section>
 
       <section id="section4">
-        <h3>16.4: ～時</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～時</h3>
+        </div>
         <div className="indent">
           <p>
             We use the word{" "}
@@ -976,7 +990,10 @@ function Lesson16() {
       </section>
 
       <section id="section5">
-        <h3>16.5: ～てすみませんでした</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～てすみませんでした</h3>
+        </div>
         <div className="indent">
           <p>
             You use the <i>te</i>-form of a verb to describe the things you have

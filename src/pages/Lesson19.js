@@ -20,7 +20,10 @@ function Lesson19() {
       </div>
 
       <section id="section1">
-        <h3>19.1: Honorific Verbs</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Honorific Verbs</h3>
+        </div>
         <div className="indent">
           <p>
             We use special verbs to describe the actions of people whom you
@@ -408,7 +411,10 @@ function Lesson19() {
       </section>
 
       <section id="section2">
-        <h3>19.2: Giving Respectful Advice</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">Giving Respectful Advice</h3>
+        </div>
         <div className="indent">
           <p>
             You may hear the form "お ＋ verb stem ＋ ください" in public
@@ -606,7 +612,10 @@ function Lesson19() {
       </section>
 
       <section id="section3">
-        <h3>19.3: ～てくれてありがとう</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～てくれてありがとう</h3>
+        </div>
         <div className="indent">
           <p>
             When you want to express gratitude to someone for a specific action,
@@ -651,7 +660,10 @@ function Lesson19() {
       </section>
 
       <section id="section4">
-        <h3>19.4: ～てよかったです</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～てよかったです</h3>
+        </div>
         <div className="indent">
           <p>
             <i>Te</i>-form + よかった means "I'm glad that such and scuh is/was
@@ -713,7 +725,10 @@ function Lesson19() {
       </section>
 
       <section id="section5">
-        <h3>19.5: ～はずです</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～はずです</h3>
+        </div>
         <div className="indent">
           <p>
             You can say something is "supposed to be the case," by adding

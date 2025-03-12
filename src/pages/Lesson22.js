@@ -24,7 +24,10 @@ function Lesson22() {
       </div>
 
       <section id="section1">
-        <h3>22.1: Causative Sentences</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Causative Sentences</h3>
+        </div>
         <div className="indent">
           <p>
             There's another verb derivation called the "causative form". When
@@ -347,7 +350,12 @@ function Lesson22() {
       </section>
 
       <section id="section2">
-        <h3>22.2: Causative + てあげる / てくれる / てもらう</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">
+            Causative + てあげる / てくれる / てもらう
+          </h3>
+        </div>
         <div className="indent">
           <p>
             If the helping verb てあげる, てくれる, or てもらう follows a
@@ -445,7 +453,10 @@ function Lesson22() {
       </section>
 
       <section id="section3">
-        <h3>22.3: Verb Stem + なさい</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">Verb Stem + なさい</h3>
+        </div>
         <div className="indent">
           <p>
             The verb stem + なさい is a command. なさい has a strong implication
@@ -503,7 +514,10 @@ function Lesson22() {
       </section>
 
       <section id="section4">
-        <h3>22.4: ～ば</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～ば</h3>
+        </div>
         <div className="indent">
           <p>
             "Clause A ば Clause B" is a conditional statement: "if A, then B".
@@ -782,7 +796,10 @@ function Lesson22() {
       </section>
 
       <section id="section5">
-        <h3>22.5: ～のに</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～のに</h3>
+        </div>
         <div className="indent">
           <p>
             のに connects two facts, A and B, which hold in spite of the
@@ -991,7 +1008,10 @@ function Lesson22() {
       </section>
 
       <section id="section6">
-        <h3>22.6: ～のように / ～のような</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">～のように / ～のような</h3>
+        </div>
         <div className="indent">
           <p>
             You can use "Noun A のように" when you want to describe an action

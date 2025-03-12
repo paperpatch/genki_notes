@@ -26,7 +26,10 @@ function Lesson15() {
       </div>
 
       <section id="section1">
-        <h3>15.1: Volitional Form</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Volitional Form</h3>
+        </div>
         <div className="indent">
           <p>
             The volitional form of a verb is a more casual equivalent of
@@ -417,7 +420,12 @@ function Lesson15() {
       </section>
 
       <section id="section2">
-        <h3>15.2: Volitional Form + と思っています</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">
+            Volitional Form + と思っています
+          </h3>
+        </div>
         <div className="indent">
           <p>
             We use the volitional form + と思っています to talk about our
@@ -630,7 +638,10 @@ function Lesson15() {
       </section>
 
       <section id="section3">
-        <h3>15.3: ～ておく</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～ておく</h3>
+        </div>
         <div className="indent">
           <p>
             The te-form of a verb plus the helping verb おく describes an action
@@ -716,7 +727,12 @@ function Lesson15() {
       </section>
 
       <section id="section4">
-        <h3>15.4: Using Sentences to Qualify Nouns</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">
+            Using Sentences to Qualify Nouns
+          </h3>
+        </div>
         <div className="indent">
           <p>
             In the phrase おもしろい qualifies the noun{" "}

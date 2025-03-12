@@ -22,7 +22,10 @@ function Lesson20() {
       </div>
 
       <section id="section1">
-        <h3>20.1: Extra-modest Expressions</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">Extra-modest Expressions</h3>
+        </div>
         <div className="indent">
           <p>
             When we want to <i>talk modestly of our own actions</i>, we use the
@@ -359,7 +362,10 @@ function Lesson20() {
       </section>
 
       <section id="section2">
-        <h3>20.2: Humble Expressions</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">Humble Expressions</h3>
+        </div>
         <div className="indent">
           <p>
             When you do something out of respect for somebody, you can sometimes
@@ -716,7 +722,10 @@ function Lesson20() {
       </section>
 
       <section id="section3">
-        <h3>20.3: ～ないで</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～ないで</h3>
+        </div>
         <div className="indent">
           <p>
             If you do something without doing something else, the action not
@@ -778,7 +787,12 @@ function Lesson20() {
       </section>
 
       <section id="section4">
-        <h3>20.4: Questions within Larger Sentences</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">
+            Questions within Larger Sentences
+          </h3>
+        </div>
         <div className="indent">
           <p>
             You can include a question as a part of a longer sentence and
@@ -929,7 +943,10 @@ function Lesson20() {
       </section>
 
       <section id="section5">
-        <h3>20.5: Name という Item</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">Name という Item</h3>
+        </div>
         <div className="indent">
           <p>
             When you want to talk about a person or a thing that goes by a
@@ -984,7 +1001,10 @@ function Lesson20() {
       </section>
 
       <section id="section6">
-        <h3>20.6: ～やすい / ～にくい</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">～やすい / ～にくい</h3>
+        </div>
         <div className="indent">
           <p>
             You can describe that something is easy to do by adding the

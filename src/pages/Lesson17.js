@@ -18,7 +18,10 @@ function Lesson17() {
       </div>
 
       <section id="section1">
-        <h3>17.1: ～そうです (I hear)</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">1</h3>
+          <h3 className="section-text-green">～そうです (I hear)</h3>
+        </div>
         <div className="indent">
           <p>
             そうです means "seemingly". It can also mean a "hearsay report". The
@@ -304,7 +307,10 @@ function Lesson17() {
       </section>
 
       <section id="section2">
-        <h3>17.2: ～って</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">2</h3>
+          <h3 className="section-text-green">～って</h3>
+        </div>
         <div className="indent">
           <p>
             In informal speech, you can add って at the end of a sentence,
@@ -398,7 +404,10 @@ function Lesson17() {
       </section>
 
       <section id="section3">
-        <h3>17.3: ～たら</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">3</h3>
+          <h3 className="section-text-green">～たら</h3>
+        </div>
         <div className="indent">
           <p>
             たら is one of the several words in Japanese that refers to
@@ -756,7 +765,10 @@ function Lesson17() {
       </section>
 
       <section id="section4">
-        <h3>17.4: ～なくてもいいです</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">4</h3>
+          <h3 className="section-text-green">～なくてもいいです</h3>
+        </div>
         <div className="indent">
           <p>
             To describe what you <i>do not need to</i> do, take a negative
@@ -800,7 +812,10 @@ function Lesson17() {
       </section>
 
       <section id="section5">
-        <h3>17.5: ～みたいです</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">5</h3>
+          <h3 className="section-text-green">～みたいです</h3>
+        </div>
         <div className="indent">
           <p>
             みたいです follows a noun and expresses the idea that something or
@@ -880,7 +895,10 @@ function Lesson17() {
       </section>
 
       <section id="section6">
-        <h3>17.6: ～前に / ～てから</h3>
+        <div className="section-header">
+          <h3 className="section-circle circle-green">6</h3>
+          <h3 className="section-text-green">～前に / ～てから</h3>
+        </div>
         <div className="indent">
           <p>
             You can use the present tense short form and{" "}
