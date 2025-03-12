@@ -197,7 +197,7 @@ function Travel({ setActiveSection }) {
 
       <div id="airport" ref={airportRef} className="travel-section">
         <section>
-          <h2>✈️ Airport</h2>
+          <h1>✈️ Airport</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -581,7 +581,7 @@ function Travel({ setActiveSection }) {
 
       <div id="directions" ref={directionsRef} className="travel-section">
         <section>
-          <h2>🗺️ Directions</h2>
+          <h1>🗺️ Directions</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -904,7 +904,7 @@ function Travel({ setActiveSection }) {
         className="travel-section"
       >
         <section>
-          <h2>🚆 Transportation</h2>
+          <h1>🚆 Transportation</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1166,7 +1166,7 @@ function Travel({ setActiveSection }) {
 
       <div id="hotel" ref={hotelRef} className="travel-section">
         <section>
-          <h2>🏨 Hotel</h2>
+          <h1>🏨 Hotel</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1423,7 +1423,7 @@ function Travel({ setActiveSection }) {
 
       <div id="restaurant" ref={restaurantRef} className="travel-section">
         <section>
-          <h2>🍽️ Restaurant</h2>
+          <h1>🍽️ Restaurant</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -1857,7 +1857,7 @@ function Travel({ setActiveSection }) {
 
       <div id="shopping" ref={shoppingRef} className="travel-section">
         <section>
-          <h2>🛍️ Shopping</h2>
+          <h1>🛍️ Shopping</h1>
           <table className="table-travel">
             <tbody>
               <tr>
@@ -2056,7 +2056,7 @@ function Travel({ setActiveSection }) {
 
       <div id="numbers" ref={numbersRef} className="travel-section">
         <section>
-          <h2>🔢 Numbers</h2>
+          <h1>🔢 Numbers</h1>
           <table className="table-travel">
             <tbody>
               <tr>
