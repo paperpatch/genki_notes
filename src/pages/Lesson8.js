@@ -12,7 +12,10 @@ function Lesson8() {
       </div>
 
       <section id="section1">
-        <h3>8.1: Short Forms</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">Short Forms</h3>
+        </h3>
         <div className="indent">
           <p>
             A new paradigm of conjugation, called "short forms". Short forms are
@@ -352,7 +355,12 @@ function Lesson8() {
       </section>
 
       <section id="section2">
-        <h3>8.2: Short Forms in Informal Speech</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">
+            Short Forms in Informal Speech
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             Close friends or family members speak with each other using short
@@ -582,12 +590,15 @@ function Lesson8() {
       </section>
 
       <section id="section3">
-        <h3>
-          8.3: Short Forms in Quoted Speech: ～と
-          <span className="kanji">
-            思<span className="furigana">おも</span>
-          </span>
-          います
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">
+            Short Forms in Quoted Speech: ～と
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -650,12 +661,15 @@ function Lesson8() {
       </section>
 
       <section id="section4">
-        <h3>
-          8.4: Short Forms in Quoted Speech: ～と
-          <span className="kanji">
-            言<span className="furigana">い</span>
-          </span>
-          っていました
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">
+            Short Forms in Quoted Speech: ～と
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            っていました
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -705,7 +719,10 @@ function Lesson8() {
       </section>
 
       <section id="section5">
-        <h3>8.5: ～ないでください</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">～ないでください</h3>
+        </h3>
         <div className="indent">
           <p>
             To request that someone refrains from doing something, use a
@@ -776,16 +793,19 @@ function Lesson8() {
       </section>
 
       <section id="section6">
-        <h3>
-          8.6: Verb のが
-          <span className="kanji">
-            好<span className="furigana">す</span>
-          </span>
-          きです／
-          <span className="kanji">
-            上手<span className="furigana">じょうず</span>
-          </span>
-          です
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">
+            Verb のが
+            <span className="kanji">
+              好<span className="furigana">す</span>
+            </span>
+            きです／
+            <span className="kanji">
+              上手<span className="furigana">じょうず</span>
+            </span>
+            です
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -977,7 +997,10 @@ function Lesson8() {
       </section>
 
       <section id="section7">
-        <h3>8.7: The Subject Particle が</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">7</h3>
+          <h3 className="section-text-orange">The Subject Particle が</h3>
+        </h3>
         <div className="indent">
           <p>
             One usage of replacing the particle は with が depends on what is
@@ -1109,16 +1132,18 @@ function Lesson8() {
       </section>
 
       <section id="section8">
-        <h3>
-          8.8:{" "}
-          <span className="kanji">
-            何<span className="furigana">なに</span>
-          </span>
-          か and{" "}
-          <span className="kanji">
-            何<span className="furigana">なに</span>
-          </span>
-          も
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">8</h3>
+          <h3 className="section-text-orange">
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            か and{" "}
+            <span className="kanji">
+              何<span className="furigana">なに</span>
+            </span>
+            も
+          </h3>
         </h3>
         <div className="indent">
           <p>

@@ -11,7 +11,10 @@ function Lesson9() {
       </div>
 
       <section id="section1">
-        <h3>9.1: Past Tense Short Forms</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">Past Tense Short Forms</h3>
+        </h3>
         <div className="indent">
           <p style={{ marginBottom: "0px" }}>
             For past tense paradigm of short forms, there are three rules to
@@ -185,7 +188,12 @@ function Lesson9() {
       </section>
 
       <section id="section2">
-        <h3>9.2: Past Tense Short Forms in Informal Speech</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">
+            Past Tense Short Forms in Informal Speech
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             Short form in the past tense can be used in the same way as the
@@ -251,12 +259,15 @@ function Lesson9() {
       </section>
 
       <section id="section3">
-        <h3>
-          9.3: Past Tense Short Forms in Quoted Speech: ～と
-          <span className="kanji">
-            思<span className="furigana">おも</span>
-          </span>
-          います
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">
+            Past Tense Short Forms in Quoted Speech: ～と
+            <span className="kanji">
+              思<span className="furigana">おも</span>
+            </span>
+            います
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -323,12 +334,15 @@ function Lesson9() {
       </section>
 
       <section id="section4">
-        <h3>
-          9.4: Past Tense Short Forms in Quoted Speech: ～と
-          <span className="kanji">
-            言<span className="furigana">い</span>
-          </span>
-          っていました
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">
+            Past Tense Short Forms in Quoted Speech: ～と
+            <span className="kanji">
+              言<span className="furigana">い</span>
+            </span>
+            っていました
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -398,7 +412,12 @@ function Lesson9() {
       </section>
 
       <section id="section5">
-        <h3>9.5: Qualifying Nouns with Verbs and Adjectives</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">
+            Qualifying Nouns with Verbs and Adjectives
+          </h3>
+        </h3>
         <div className="indent">
           <p style={{ marginBottom: "0px" }}>Examples of noun modifications.</p>
           <ol style={{ marginTop: "5px" }}>
@@ -559,7 +578,12 @@ function Lesson9() {
       </section>
 
       <section id="section6">
-        <h3>9.6: もう～ました and まだ～ていません</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">
+            もう～ました and まだ～ていません
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             Use affirmative past tense of a verb ～ ました both (i) to talk
@@ -644,7 +668,10 @@ function Lesson9() {
       </section>
 
       <section id="section7">
-        <h3>9.7: Explanation から, Situation</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">7</h3>
+          <h3 className="section-text-orange">Explanation から, Situation</h3>
+        </h3>
         <div className="indent">
           <p>
             から means "because" when added to a sentence. It can also mean a

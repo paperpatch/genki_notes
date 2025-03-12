@@ -12,7 +12,10 @@ function Lesson2() {
       </div>
 
       <section id="section1">
-        <h3>2.1: これ / それ / あれ / どれ</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">これ / それ / あれ / どれ</h3>
+        </h3>
         <div className="indent">
           <p>これ = this</p>
           <p>それ = that</p>
@@ -22,7 +25,12 @@ function Lesson2() {
       </section>
 
       <section id="section2">
-        <h3>2.2: この / その / あの / どの + Noun</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">
+            この / その / あの / どの + Noun
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             Unlike the previous section, <em>kono</em>, <em>sono</em>,{" "}
@@ -41,7 +49,10 @@ function Lesson2() {
       </section>
 
       <section id="section3">
-        <h3>2.3: ここ / そこ / あそこ / どこ</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">ここ / そこ / あそこ / どこ</h3>
+        </h3>
         <div className="indent">
           <p>Words for places:</p>
           <p>ここ = here, near me</p>
@@ -52,7 +63,10 @@ function Lesson2() {
       </section>
 
       <section id="section4">
-        <h3>2.4: だれの Noun</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">だれの Noun</h3>
+        </h3>
         <div className="indent">
           <p>How to ask who something belongs to</p>
           <p>だれ = Who</p>
@@ -69,7 +83,10 @@ function Lesson2() {
       </section>
 
       <section id="section5">
-        <h3>2.5: Noun も</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">Noun も</h3>
+        </h3>
         <div className="indent">
           <p>The particle for the word "too"</p>
           <p>
@@ -84,7 +101,10 @@ function Lesson2() {
       </section>
 
       <section id="section6">
-        <h3>2.6: Noun じゃないです</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">Noun じゃないです</h3>
+        </h3>
         <div className="indent">
           <p>
             To negate a statement, you replace <em>desu</em> with{" "}
@@ -109,7 +129,10 @@ function Lesson2() {
       </section>
 
       <section id="section7">
-        <h3>2.7: ～ね / ～よ</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">7</h3>
+          <h3 className="section-text-orange">～ね / ～よ</h3>
+        </h3>
         <div className="indent">
           <p>
             Statements often end with sentence enders with the tags <em>ne</em>{" "}

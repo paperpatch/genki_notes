@@ -24,7 +24,10 @@ function Lesson7() {
       </div>
 
       <section id="section1">
-        <h3>7.1: ～ている (Action in Progress)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">～ている (Action in Progress)</h3>
+        </h3>
         <div className="indent">
           <p>
             Japanese verbs can be classified into the following three types:
@@ -169,7 +172,10 @@ function Lesson7() {
       </section>
 
       <section id="section2">
-        <h3>7.2: ～ている (Result of a Change)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">～ている (Result of a Change)</h3>
+        </h3>
         <div className="indent">
           <p>
             Verbs in the second group describe changes from one state to
@@ -453,16 +459,19 @@ function Lesson7() {
       </section>
 
       <section id="section3">
-        <h3>
-          7.3: メリーさんは
-          <span className="kanji">
-            髪<span className="furigana">かみ</span>
-          </span>
-          が
-          <span className="kanji">
-            長<span className="furigana">なが</span>
-          </span>
-          いです
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">
+            メリーさんは
+            <span className="kanji">
+              髪<span className="furigana">かみ</span>
+            </span>
+            が
+            <span className="kanji">
+              長<span className="furigana">なが</span>
+            </span>
+            いです
+          </h3>
         </h3>
         <div className="indent">
           <p>Normally, we would describe someone who has long hair with:</p>
@@ -660,7 +669,12 @@ function Lesson7() {
       </section>
 
       <section id="section4">
-        <h3>7.4: Adjective/Noun Te-forms for Joining Sentences</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">
+            Adjective/Noun Te-forms for Joining Sentences
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             The <i>te</i>-form of an い-adjective is formed by substituting くて
@@ -784,12 +798,15 @@ function Lesson7() {
       </section>
 
       <section id="section5">
-        <h3>
-          7.5: Verb Stem + に
-          <span className="kanji">
-            行<span className="furigana">い</span>
-          </span>
-          く
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">
+            Verb Stem + に
+            <span className="kanji">
+              行<span className="furigana">い</span>
+            </span>
+            く
+          </h3>
         </h3>
         <div className="indent">
           <p>
@@ -900,14 +917,17 @@ function Lesson7() {
       </section>
 
       <section id="section6">
-        <h3>7.6: Counting People</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">Counting People</h3>
+        </h3>
         <div className="indent">
           <p>
             The "counter" for people is{" "}
             <span className="kanji">
               人<span className="furigana">にん</span>
             </span>
-            , but it irregular for "one" and "two" people.
+            , but is irregular for "one" and "two" people.
           </p>
           <ol className="ordered-list">
             <li>

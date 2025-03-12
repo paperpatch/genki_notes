@@ -18,7 +18,10 @@ function Lesson6() {
       </div>
 
       <section id="section1">
-        <h3>6.1: Te-form</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">Te-form</h3>
+        </h3>
         <div className="indent">
           <p>Te-forms are very important. Among its uses:</p>
           <ul className="bullet">
@@ -179,7 +182,10 @@ function Lesson6() {
       </section>
 
       <section id="section2">
-        <h3>6.2: ～てください</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">～てください</h3>
+        </h3>
         <div className="indent">
           <p>
             Use a verbal <i>te</i>-form together with ください to make a polite
@@ -201,7 +207,10 @@ function Lesson6() {
       </section>
 
       <section id="section3">
-        <h3>6.3: Describing Two Activities</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">Describing Two Activities</h3>
+        </h3>
         <div className="indent">
           <p>
             You can use a <i>te</i>-form to combine two or more verbs, as in "I
@@ -293,7 +302,10 @@ function Lesson6() {
       </section>
 
       <section id="section4">
-        <h3>6.4: ～てもいいです</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">～てもいいです</h3>
+        </h3>
         <div className="indent">
           <p>
             A verbal <i>te</i>-form plus もいいです means "you may do...", which
@@ -329,7 +341,10 @@ function Lesson6() {
       </section>
 
       <section id="section5">
-        <h3>6.5: ～てはいけません</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">～てはいけません</h3>
+        </h3>
         <div className="indent">
           <p>
             A verbal <i>te</i>-form plus はいけません means "you must not do
@@ -358,7 +373,10 @@ function Lesson6() {
       </section>
 
       <section id="section6">
-        <h3>6.6: ～から</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">～から</h3>
+        </h3>
         <div className="indent">
           <p>
             A sentence that ends with から (because) explains the reason or
@@ -400,7 +418,12 @@ function Lesson6() {
       </section>
 
       <section id="section7">
-        <h3>6.7: ～ましょうか (Offering Assistance)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">7</h3>
+          <h3 className="section-text-orange">
+            ～ましょうか (Offering Assistance)
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             In Lesson 5, ましょうか means "Let's ..." ～ましょうか is also used

@@ -17,7 +17,10 @@ function Lesson12() {
       </div>
 
       <section id="section1">
-        <h3>12.1: ～んです</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">～んです</h3>
+        </h3>
         <div className="indent">
           <p>
             There are two distinct ways to make a statement in Japanese. One is
@@ -276,7 +279,10 @@ function Lesson12() {
       </section>
 
       <section id="section2">
-        <h3>12.2: ～すぎる</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">～すぎる</h3>
+        </h3>
         <div className="indent">
           <p>
             Verb stems may be followed by the helping verb すぎる, which means
@@ -377,7 +383,10 @@ function Lesson12() {
       </section>
 
       <section id="section3">
-        <h3>12.3: ～ほうがいいです</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">～ほうがいいです</h3>
+        </h3>
         <div className="indent">
           <p>
             ほうがいいです means "it is better (for you) to do ..." sentence
@@ -450,7 +459,10 @@ function Lesson12() {
       </section>
 
       <section id="section4">
-        <h3>12.4: ～ので</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">～ので</h3>
+        </h3>
         <div className="indent">
           <p>
             Use ので to give the reason for the situation described in the
@@ -589,7 +601,12 @@ function Lesson12() {
       </section>
 
       <section id="section5">
-        <h3>12.5: ～なければいけません / ～なきゃいけません</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">
+            ～なければいけません / ～なきゃいけません
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             Use なければいけません and なきゃいけません to say it is necessary
@@ -766,7 +783,10 @@ function Lesson12() {
       </section>
 
       <section id="section6">
-        <h3>12.6: でしょうか</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">でしょうか</h3>
+        </h3>
         <div className="indent">
           <p>
             If you ask somebody a question they don't know the answer to, they

@@ -17,7 +17,10 @@ function Lesson4() {
       </div>
 
       <section id="section1">
-        <h3>4.1: X があります / います</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">X があります / います</h3>
+        </h3>
         <div className="indent">
           <p>があります / います means "there is / are X".</p>
           <p>Use があります for non-living things.</p>
@@ -32,7 +35,10 @@ function Lesson4() {
       </section>
 
       <section id="section2" className="location-words">
-        <h3>4.2: Describing Where Things Are</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">Describing Where Things Are</h3>
+        </h3>
         <div className="indent">
           <p>Describe the location of an item relative to another item.</p>
           <table className="table-list table-border-orange">
@@ -107,7 +113,10 @@ function Lesson4() {
       </section>
 
       <section id="section3">
-        <h3>4.3: Past Tense of です</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">Past Tense of です</h3>
+        </h3>
         <div className="indent">
           <p>The past tense of です (it is) becomes じゃないです (it was).</p>
           <table className="table-list table-border-orange">
@@ -160,7 +169,10 @@ function Lesson4() {
       </section>
 
       <section id="section4">
-        <h3>4.4: Past Tense of Verbs</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">Past Tense of Verbs</h3>
+        </h3>
         <div className="indent">
           <p>Past tense forms of verbs end with ました.</p>
           <table className="table-list table-border-orange">
@@ -216,7 +228,10 @@ function Lesson4() {
       </section>
 
       <section id="section5">
-        <h3>4.5: も</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">も</h3>
+        </h3>
         <div className="indent">
           <p>
             You can also use も when two or more people perform the same
@@ -283,17 +298,19 @@ function Lesson4() {
       </section>
 
       <section id="section6">
-        <h3>
-          4.6:{" "}
-          <span className="kanji">
-            一<span className="furigana">いち</span>
-          </span>
-          <span className="kanji">
-            時<span className="furigana">じ</span>
-          </span>
-          <span className="kanji">
-            間<span className="furigana">かん</span>
-          </span>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">
+            <span className="kanji">
+              一<span className="furigana">いち</span>
+            </span>
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            <span className="kanji">
+              間<span className="furigana">かん</span>
+            </span>
+          </h3>
         </h3>
         <div className="indent">
           <p>The duration of an activity is expressed with a bare noun.</p>
@@ -428,7 +445,10 @@ function Lesson4() {
       </section>
 
       <section id="section7">
-        <h3>4.7: たくさん</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">7</h3>
+          <h3 className="section-text-orange">たくさん</h3>
+        </h3>
         <div className="indent">
           <p>
             If you want to add a quantity word to the direct object of a
@@ -473,7 +493,10 @@ function Lesson4() {
       </section>
 
       <section id="section8">
-        <h3>4.8: と</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">8</h3>
+          <h3 className="section-text-orange">と</h3>
+        </h3>
         <div className="indent">
           <p>
             The particle has two functions. One is to connect two nouns A and B.

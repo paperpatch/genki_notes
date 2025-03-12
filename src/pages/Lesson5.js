@@ -17,7 +17,10 @@ function Lesson5() {
       </div>
 
       <section id="section1">
-        <h3>5.1: Adjectives (Present Tense)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">1</h3>
+          <h3 className="section-text-orange">Adjectives (Present Tense)</h3>
+        </h3>
         <div className="indent">
           <p>
             Add です to both い-adjectives and な-adjectives for affirmative
@@ -181,7 +184,10 @@ function Lesson5() {
       </section>
 
       <section id="section2">
-        <h3>5.2: Adjectives (Past Tense)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">2</h3>
+          <h3 className="section-text-orange">Adjectives (Past Tense)</h3>
+        </h3>
         <div className="indent">
           <p>
             With い-adjectives, you change the last い to かったです in the
@@ -291,7 +297,12 @@ function Lesson5() {
       </section>
 
       <section id="section3">
-        <h3>5.3: Adjectives (Noun Modification)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">3</h3>
+          <h3 className="section-text-orange">
+            Adjectives (Noun Modification)
+          </h3>
+        </h3>
         <div className="indent">
           <p>
             You can use い- and な-adjectives to modify nouns. Place the
@@ -337,7 +348,10 @@ function Lesson5() {
       </section>
 
       <section id="section4">
-        <h3>5.4: 好き (な) / きらい (な)</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">4</h3>
+          <h3 className="section-text-orange">好き (な) / きらい (な)</h3>
+        </h3>
         <div className="indent">
           <p>
             Some Japanese adjectives are like verbs in English, and they take a
@@ -431,7 +445,10 @@ function Lesson5() {
       </section>
 
       <section id="section5">
-        <h3>5.5: ～ましょう / ～ましょうか</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">5</h3>
+          <h3 className="section-text-orange">～ましょう / ～ましょうか</h3>
+        </h3>
         <div className="indent">
           <p>
             Take a long form of a verb and replace the ます ending with ましょう
@@ -458,7 +475,10 @@ function Lesson5() {
       </section>
 
       <section id="section6">
-        <h3>5.6: Counting</h3>
+        <h3 className="section-header">
+          <h3 className="section-circle circle-orange">6</h3>
+          <h3 className="section-text-orange">Counting</h3>
+        </h3>
         <div className="indent">
           <p>
             When we count items in Japanese, we use different number words for
