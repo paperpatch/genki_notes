@@ -17,10 +17,10 @@ function Lesson11() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">～たい</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Use a verb stem (before ます) + たいです to describe hope or
@@ -229,10 +229,10 @@ function Lesson11() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">～たり～たりする</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             We know that <i>te</i>-form connects two clauses together:
@@ -368,10 +368,10 @@ function Lesson11() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">～ことがある</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The past tense short form of a verb + ことがある describes that you
@@ -450,10 +450,10 @@ function Lesson11() {
       </section>
 
       <section id="section4">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">4</h3>
           <h3 className="section-text-orange">Noun A や Noun B</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             や connects two nouns like と. や suggests that things referred to
