@@ -330,8 +330,8 @@ function Lesson14() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 14</h2>
-        <h2 className="lesson-title-orange">
+        <h2 className="lesson-title background-green">Lesson 14</h2>
+        <h2 className="lesson-title-green">
           バレンタインデー (Valentine’s Day)
         </h2>
       </div>

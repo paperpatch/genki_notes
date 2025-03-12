@@ -7,7 +7,7 @@ function Lesson10() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 10</h2>
+        <h2 className="lesson-title background-orange">Lesson 10</h2>
         <h2 className="lesson-title-orange">
           <span className="kanji">
             冬<span className="furigana">ふゆ</span>

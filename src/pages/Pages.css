@@ -201,11 +201,23 @@ table td.arrow-right {
   padding: 5px 15px 5px 15px;
   border-radius: 5px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.background-orange {
   background-color: #ED7014;
+}
+
+.background-green {
+  background-color: #228B22;
 }
 
 .lesson-title-orange {
   color: #ED7014;
+  margin: 10px 0 5px 5px;
+}
+
+.lesson-title-green {
+  color: #228B22;
   margin: 10px 0 5px 5px;
 }
 

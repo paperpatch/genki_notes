@@ -7,8 +7,8 @@ function Lesson17() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 17</h2>
-        <h2 className="lesson-title-orange">
+        <h2 className="lesson-title background-green">Lesson 17</h2>
+        <h2 className="lesson-title-green">
           ぐちとうわさ
           <span className="kanji">
             話<span className="furigana">ばなし</span>

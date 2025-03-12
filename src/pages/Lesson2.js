@@ -7,7 +7,7 @@ function Lesson2() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 2</h2>
+        <h2 className="lesson-title background-orange">Lesson 2</h2>
         <h2 className="lesson-title-orange">かいもの (Shopping)</h2>
       </div>
 

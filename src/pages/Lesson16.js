@@ -330,8 +330,8 @@ function Lesson16() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 16</h2>
-        <h2 className="lesson-title-orange">
+        <h2 className="lesson-title background-green">Lesson 16</h2>
+        <h2 className="lesson-title-green">
           <span className="kanji">
             忘<span className="furigana">わす</span>
           </span>

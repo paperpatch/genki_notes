@@ -6,7 +6,7 @@ function Lesson9() {
   return (
     <div>
       <div className="lesson-header">
-        <h2 className="lesson-title">Lesson 9</h2>
+        <h2 className="lesson-title background-orange">Lesson 9</h2>
         <h2 className="lesson-title-orange">かぶき (Kabuki)</h2>
       </div>
 
