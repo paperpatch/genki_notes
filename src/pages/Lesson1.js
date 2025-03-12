@@ -14,10 +14,10 @@ function Lesson1() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">X は Y です</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>です (noun) = It is...</p>
           <p>は = topic particle (read as wa)</p>
@@ -26,10 +26,10 @@ function Lesson1() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">Question Sentences</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>To ask a question, add a ka to です ={">"} ですか?.</p>
           <p>
@@ -40,12 +40,12 @@ function Lesson1() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">
             Noun<sub>1</sub> の Noun<sub>2</sub>
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>の (pronounced no) is a particle that connects two noun.</p>
           <p>Can use の like the posessive (Example: Takeshi's).</p>

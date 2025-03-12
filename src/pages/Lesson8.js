@@ -12,10 +12,10 @@ function Lesson8() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">Short Forms</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             A new paradigm of conjugation, called "short forms". Short forms are
@@ -355,12 +355,12 @@ function Lesson8() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">
             Short Forms in Informal Speech
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Close friends or family members speak with each other using short
@@ -590,7 +590,7 @@ function Lesson8() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">
             Short Forms in Quoted Speech: ～と
@@ -599,7 +599,7 @@ function Lesson8() {
             </span>
             います
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             To describe what you think, use the short form, plus と思います (I
@@ -661,7 +661,7 @@ function Lesson8() {
       </section>
 
       <section id="section4">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">4</h3>
           <h3 className="section-text-orange">
             Short Forms in Quoted Speech: ～と
@@ -670,7 +670,7 @@ function Lesson8() {
             </span>
             っていました
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             To quote someone, use the short form plus と
@@ -719,10 +719,10 @@ function Lesson8() {
       </section>
 
       <section id="section5">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">5</h3>
           <h3 className="section-text-orange">～ないでください</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             To request that someone refrains from doing something, use a
@@ -793,7 +793,7 @@ function Lesson8() {
       </section>
 
       <section id="section6">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">6</h3>
           <h3 className="section-text-orange">
             Verb のが
@@ -806,7 +806,7 @@ function Lesson8() {
             </span>
             です
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             A verb short form + の turns a verb into a noun describing an
@@ -997,10 +997,10 @@ function Lesson8() {
       </section>
 
       <section id="section7">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">7</h3>
           <h3 className="section-text-orange">The Subject Particle が</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             One usage of replacing the particle は with が depends on what is
@@ -1132,7 +1132,7 @@ function Lesson8() {
       </section>
 
       <section id="section8">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">8</h3>
           <h3 className="section-text-orange">
             <span className="kanji">
@@ -1144,7 +1144,7 @@ function Lesson8() {
             </span>
             も
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The word for "something" is{" "}

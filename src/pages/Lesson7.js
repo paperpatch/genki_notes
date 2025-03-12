@@ -24,10 +24,10 @@ function Lesson7() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">～ている (Action in Progress)</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Japanese verbs can be classified into the following three types:
@@ -172,10 +172,10 @@ function Lesson7() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">～ている (Result of a Change)</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Verbs in the second group describe changes from one state to
@@ -459,7 +459,7 @@ function Lesson7() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">
             メリーさんは
@@ -472,7 +472,7 @@ function Lesson7() {
             </span>
             いです
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>Normally, we would describe someone who has long hair with:</p>
           <p className="tab">
@@ -669,12 +669,12 @@ function Lesson7() {
       </section>
 
       <section id="section4">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">4</h3>
           <h3 className="section-text-orange">
             Adjective/Noun Te-forms for Joining Sentences
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The <i>te</i>-form of an い-adjective is formed by substituting くて
@@ -798,7 +798,7 @@ function Lesson7() {
       </section>
 
       <section id="section5">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">5</h3>
           <h3 className="section-text-orange">
             Verb Stem + に
@@ -807,7 +807,7 @@ function Lesson7() {
             </span>
             く
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             If a person moves to another place in order to do something, we can
@@ -917,10 +917,10 @@ function Lesson7() {
       </section>
 
       <section id="section6">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">6</h3>
           <h3 className="section-text-orange">Counting People</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The "counter" for people is{" "}

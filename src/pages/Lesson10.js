@@ -27,10 +27,10 @@ function Lesson10() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">Comparison between Two Items</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             In Japanese, adjectives do not change form in comparative sentences,
@@ -91,12 +91,12 @@ function Lesson10() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">
             Comparison among Three or More Items
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             In comparing three or more items, the degree qualifier いちばん is
@@ -197,10 +197,10 @@ function Lesson10() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">Adjective/Noun + の</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             When a noun follows an adjective, and it's clear what the context
@@ -321,10 +321,10 @@ function Lesson10() {
       </section>
 
       <section id="section4">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">4</h3>
           <h3 className="section-text-orange">～つもりだ</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             つもり follows verbs in the present tense short forms to desribe
@@ -418,10 +418,10 @@ function Lesson10() {
       </section>
 
       <section id="section5">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">5</h3>
           <h3 className="section-text-orange">Adjective + なる</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The verb なる means "to become", indicating a change. なる follows
@@ -552,10 +552,10 @@ function Lesson10() {
       </section>
 
       <section id="section6">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">6</h3>
           <h3 className="section-text-orange">どこかに / どこにも</h3>
-        </h3>
+        </div>
         <div className="indent">
           <table className="table-list table-mini">
             <tbody>
@@ -704,10 +704,10 @@ function Lesson10() {
       </section>
 
       <section id="section7">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">7</h3>
           <h3 className="section-text-orange">で</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Use で with nouns that describe means of transportation and

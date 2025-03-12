@@ -22,10 +22,10 @@ function Lesson3() {
       </div>
 
       <section id="section1">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">1</h3>
           <h3 className="section-text-orange">Verb Conjugation</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Conjugate dictionary words to their verb form. For example, the word
@@ -272,12 +272,12 @@ function Lesson3() {
       </section>
 
       <section id="section2">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">2</h3>
           <h3 className="section-text-orange">
             Verb Types and the "Present Tense"
           </h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Action verbs and the "present tense" of these verbs either means
@@ -322,10 +322,10 @@ function Lesson3() {
       </section>
 
       <section id="section3">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">3</h3>
           <h3 className="section-text-orange">Particles</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>This lesson covers four paticles: を, で, に, へ.</p>
           <p>
@@ -415,10 +415,10 @@ function Lesson3() {
       </section>
 
       <section id="section4">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">4</h3>
           <h3 className="section-text-orange">Time References</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>Use に for days of week and numerical time expressions.</p>
           <p className="tab">
@@ -456,10 +456,10 @@ function Lesson3() {
       </section>
 
       <section id="section5">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">5</h3>
           <h3 className="section-text-orange">～ませんか</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Use ませんか to extend an invitation. ますか is used more like a
@@ -485,10 +485,10 @@ function Lesson3() {
       </section>
 
       <section id="section6">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">6</h3>
           <h3 className="section-text-orange">Frequency Adverbs</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>Use frequency adverb to describe how often you do something.</p>
           <p>
@@ -538,10 +538,10 @@ function Lesson3() {
       </section>
 
       <section id="section7">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">7</h3>
           <h3 className="section-text-orange">Word Order</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             Japanese sentences are fairly flexible, but generally are made up of
@@ -607,10 +607,10 @@ function Lesson3() {
       </section>
 
       <section id="section8">
-        <h3 className="section-header">
+        <div className="section-header">
           <h3 className="section-circle circle-orange">8</h3>
           <h3 className="section-text-orange">The Topic Particle は</h3>
-        </h3>
+        </div>
         <div className="indent">
           <p>
             The particle は puts forward the item that you want to talk about.
