@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/genki_notes/static/css/main.2612eec8.css",
-    "main.js": "/genki_notes/static/js/main.14e98355.js",
+    "main.css": "/genki_notes/static/css/main.aaf58077.css",
+    "main.js": "/genki_notes/static/js/main.92c481e1.js",
     "static/js/453.ccfa7af6.chunk.js": "/genki_notes/static/js/453.ccfa7af6.chunk.js",
     "static/media/icon-gear.svg": "/genki_notes/static/media/icon-gear.7dac0fef50106cad0163b08c6495fd38.svg",
     "static/media/icon-github-dark.svg": "/genki_notes/static/media/icon-github-dark.a3af591c495dc631d60657e740e2572a.svg",
     "static/media/icon-github.svg": "/genki_notes/static/media/icon-github.b1d809f4243e2f3643dc6fd1c29ee6bf.svg",
     "static/media/icon-gear-dark.svg": "/genki_notes/static/media/icon-gear-dark.518e14c51fa3be5725925d2adeebf2f4.svg",
     "index.html": "/genki_notes/index.html",
-    "main.2612eec8.css.map": "/genki_notes/static/css/main.2612eec8.css.map",
-    "main.14e98355.js.map": "/genki_notes/static/js/main.14e98355.js.map",
+    "main.aaf58077.css.map": "/genki_notes/static/css/main.aaf58077.css.map",
+    "main.92c481e1.js.map": "/genki_notes/static/js/main.92c481e1.js.map",
     "453.ccfa7af6.chunk.js.map": "/genki_notes/static/js/453.ccfa7af6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2612eec8.css",
-    "static/js/main.14e98355.js"
+    "static/css/main.aaf58077.css",
+    "static/js/main.92c481e1.js"
   ]
 }
