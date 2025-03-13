@@ -213,7 +213,11 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Airport</td>
-                <td>空港</td>
+                <td>
+                  <span className="kanji">
+                    空港<span className="furigana">くうこう</span>
+                  </span>
+                </td>
                 <td>kūkō</td>
               </tr>
               <tr className="background-white">
@@ -223,22 +227,50 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Airline ticket</td>
-                <td>航空券</td>
+                <td>
+                  <span className="kanji">
+                    航空券<span className="furigana">こうくうけん</span>
+                  </span>
+                </td>
                 <td>kōkūken</td>
               </tr>
               <tr className="background-white">
                 <td>Security check</td>
-                <td>保安検査</td>
+                <td>
+                  <span className="kanji">
+                    保安<span className="furigana">ほあん</span>
+                  </span>
+                  <span className="kanji">
+                    検査<span className="furigana">けんさ</span>
+                  </span>
+                </td>
                 <td>hoan kensa</td>
               </tr>
               <tr className="background-white">
                 <td>Baggage</td>
-                <td>荷物</td>
+                <td>
+                  <span className="kanji">
+                    荷<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    物<span className="furigana">もつ</span>
+                  </span>
+                </td>
                 <td>nimotsu</td>
               </tr>
               <tr className="background-white">
                 <td>Carry-on luggage</td>
-                <td>手荷物</td>
+                <td>
+                  <span className="kanji">
+                    手<span className="furigana">て</span>
+                  </span>
+                  <span className="kanji">
+                    荷<span className="furigana">に</span>
+                  </span>
+                  <span className="kanji">
+                    物<span className="furigana">もつ</span>
+                  </span>
+                </td>
                 <td>tenimotsu</td>
               </tr>
               <tr className="background-white">
@@ -248,43 +280,88 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Boarding gate</td>
-                <td>搭乗口</td>
+                <td>
+                  <span className="kanji">
+                    搭乗口<span className="furigana">とうじょうぐち</span>
+                  </span>
+                </td>
                 <td>tōjōguchi</td>
               </tr>
               <tr className="background-white">
                 <td>Departure</td>
-                <td>出発</td>
+                <td>
+                  <span className="kanji">
+                    出発<span className="furigana">しゅっぱつ</span>
+                  </span>
+                </td>
                 <td>shuppatsu</td>
               </tr>
               <tr className="background-white">
                 <td>Arrival</td>
-                <td>到着</td>
+                <td>
+                  <span className="kanji">
+                    到着<span className="furigana">とうちゃく</span>
+                  </span>
+                </td>
                 <td>tōchaku</td>
               </tr>
               <tr className="background-white">
                 <td>Boarding pass</td>
-                <td>搭乗券</td>
+                <td>
+                  <span className="kanji">
+                    搭乗券<span className="furigana">とうじょうけん</span>
+                  </span>
+                </td>
                 <td>tōjōken</td>
               </tr>
-
               <tr className="background-white">
                 <td>Length of stay</td>
-                <td>滞在期間</td>
+                <td>
+                  <span className="kanji">
+                    滞<span className="furigana">たい</span>
+                  </span>
+                  <span className="kanji">
+                    在<span className="furigana">ざい</span>
+                  </span>
+                  <span className="kanji">
+                    期<span className="furigana">き</span>
+                  </span>
+                  <span className="kanji">
+                    間<span className="furigana">かん</span>
+                  </span>
+                </td>
                 <td>taizai kikan</td>
               </tr>
               <tr className="background-white">
                 <td>Tourism</td>
-                <td>観光</td>
+                <td>
+                  <span className="kanji">
+                    観光<span className="furigana">かんこう</span>
+                  </span>
+                </td>
                 <td>kankō</td>
               </tr>
               <tr className="background-white">
                 <td>Immigration check</td>
-                <td>入国審査</td>
+                <td>
+                  <span className="kanji">
+                    入国審査<span className="furigana">にゅうこくしんさ</span>
+                  </span>
+                </td>
                 <td>nyūkoku shinsa</td>
               </tr>
               <tr className="background-white">
                 <td>Have a good trip</td>
-                <td>良い旅を</td>
+                <td>
+                  <span className="kanji">
+                    良<span className="furigana">よ</span>
+                  </span>
+                  い
+                  <span className="kanji">
+                    旅<span className="furigana">たび</span>
+                  </span>
+                  を
+                </td>
                 <td>yoi tabi o</td>
               </tr>
             </tbody>
