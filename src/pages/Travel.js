@@ -674,57 +674,125 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Road / Street</td>
-                <td>道</td>
+                <td>
+                  <span className="kanji">
+                    道<span className="furigana">みち</span>
+                  </span>
+                </td>
                 <td>michi</td>
               </tr>
               <tr className="background-white">
                 <td>Station</td>
-                <td>駅</td>
+                <td>
+                  <span className="kanji">
+                    駅<span className="furigana">えき</span>
+                  </span>
+                </td>
                 <td>eki</td>
               </tr>
               <tr className="background-white">
                 <td>Corner</td>
-                <td>角</td>
+                <td>
+                  <span className="kanji">
+                    角<span className="furigana">かど</span>
+                  </span>
+                </td>
                 <td> kado</td>
               </tr>
               <tr className="background-white">
                 <td>Traffic light</td>
-                <td>信号</td>
+                <td>
+                  <span className="kanji">
+                    信<span className="furigana">しん</span>
+                  </span>
+                  <span className="kanji">
+                    号<span className="furigana">ごう</span>
+                  </span>
+                </td>
                 <td>shingō</td>
               </tr>
               <tr className="background-white">
                 <td>Intersection</td>
-                <td>交差点</td>
+                <td>
+                  <span className="kanji">
+                    交<span className="furigana">こう</span>
+                  </span>
+                  <span className="kanji">
+                    差<span className="furigana">さ</span>
+                  </span>
+                  <span className="kanji">
+                    差<span className="furigana">てん</span>
+                  </span>
+                </td>
                 <td>kōsaten</td>
               </tr>
               <tr className="background-white">
                 <td>Go straight</td>
-                <td>まっすぐ行く</td>
+                <td>
+                  まっすぐ
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  く
+                </td>
                 <td>massugu iku</td>
               </tr>
               <tr className="background-white">
                 <td>Turn right</td>
-                <td>右に曲がる</td>
+                <td>
+                  <span className="kanji">
+                    右<span className="furigana">みぎ</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    曲<span className="furigana">ま</span>
+                  </span>
+                  がる
+                </td>
                 <td>migi ni magaru</td>
               </tr>
               <tr className="background-white">
                 <td>Turn left</td>
-                <td>左に曲がる</td>
+                <td>
+                  <span className="kanji">
+                    左<span className="furigana">ひだり</span>
+                  </span>
+                  に
+                  <span className="kanji">
+                    曲<span className="furigana">ま</span>
+                  </span>
+                  がる
+                </td>
                 <td>hidari ni magaru</td>
               </tr>
               <tr className="background-white">
                 <td>Close / Near</td>
-                <td>近い</td>
+                <td>
+                  <span className="kanji">
+                    近<span className="furigana">ちか</span>
+                  </span>
+                  い
+                </td>
                 <td>chikai</td>
               </tr>
               <tr className="background-white">
                 <td>Far</td>
-                <td>遠い</td>
+                <td>
+                  <span className="kanji">
+                    遠<span className="furigana">とお</span>
+                  </span>
+                  い
+                </td>
                 <td>tōi</td>
               </tr>
               <tr className="background-white">
                 <td>This area</td>
-                <td>この辺</td>
+                <td>
+                  この
+                  <span className="kanji">
+                    辺<span className="furigana">へん</span>
+                  </span>
+                </td>
                 <td>kono hen</td>
               </tr>
               <tr className="background-white">
@@ -734,12 +802,26 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>On foot</td>
-                <td>徒歩</td>
+                <td>
+                  <span className="kanji">
+                    徒<span className="furigana">と</span>
+                  </span>
+                  <span className="kanji">
+                    歩<span className="furigana">ほ</span>
+                  </span>
+                </td>
                 <td>toho</td>
               </tr>
               <tr className="background-white">
                 <td>Train</td>
-                <td>電車</td>
+                <td>
+                  <span className="kanji">
+                    電<span className="furigana">でん</span>
+                  </span>
+                  <span className="kanji">
+                    車<span className="furigana">しゃ</span>
+                  </span>
+                </td>
                 <td>densha</td>
               </tr>
               <tr className="background-white">
@@ -754,17 +836,42 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Subway</td>
-                <td>地下鉄</td>
+                <td>
+                  <span className="kanji">
+                    地<span className="furigana">ち</span>
+                  </span>
+                  <span className="kanji">
+                    下<span className="furigana">か</span>
+                  </span>
+                  <span className="kanji">
+                    鉄<span className="furigana">てつ</span>
+                  </span>
+                </td>
                 <td>chikatetsu</td>
               </tr>
               <tr className="background-white">
                 <td>Exit</td>
-                <td>出口</td>
+                <td>
+                  <span className="kanji">
+                    出<span className="furigana">で</span>
+                  </span>
+                  <span className="kanji">
+                    口<span className="furigana">ぐち</span>
+                  </span>
+                </td>
                 <td>deguchi</td>
               </tr>
               <tr className="background-white">
                 <td>Entrance</td>
-                <td>入り口</td>
+                <td>
+                  <span className="kanji">
+                    入<span className="furigana">い</span>
+                  </span>
+                  り
+                  <span className="kanji">
+                    口<span className="furigana">ぐち</span>
+                  </span>
+                </td>
                 <td>iriguchi</td>
               </tr>
             </tbody>
