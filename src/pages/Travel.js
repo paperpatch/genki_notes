@@ -1104,37 +1104,94 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Where is the station?</td>
-                <td>駅はどこですか？</td>
+                <td>
+                  <span className="kanji">
+                    駅<span className="furigana">えき</span>
+                  </span>
+                  はどこですか？
+                </td>
                 <td>Eki wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Where is the bus stop?</td>
-                <td>バス停はどこですか？</td>
+                <td>
+                  バス
+                  <span className="kanji">
+                    停<span className="furigana">てい</span>
+                  </span>
+                  はどこですか？
+                </td>
                 <td>Basutei wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Where is the taxi stand?</td>
-                <td>タクシー乗り場はどこですか？</td>
+                <td>
+                  タクシー
+                  <span className="kanji">
+                    乗<span className="furigana">の</span>
+                  </span>
+                  り
+                  <span className="kanji">
+                    場<span className="furigana">ば</span>
+                  </span>
+                  はどこですか？
+                </td>
                 <td>Takushī noriba wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Does this train go to ~?</td>
-                <td>この電車は～に行きますか？</td>
+                <td>
+                  この
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  は～に
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  きますか？
+                </td>
                 <td>Kono densha wa ~ ni ikimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Where is the train going to ~?</td>
-                <td>～行きの電車はどこですか？</td>
+                <td>
+                  ～
+                  <span className="kanji">
+                    行<span className="furigana">い</span>
+                  </span>
+                  きの
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  はどこですか？
+                </td>
                 <td>~ iki no densha wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Which platform number?</td>
-                <td>何番線ですか？</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    番線<span className="furigana">ばんせん</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Nanbansen desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>A ticket, please.</td>
-                <td>切符をください。</td>
+                <td>
+                  <span className="kanji">
+                    切<span className="furigana">きっ</span>
+                  </span>
+                  <span className="kanji">
+                    符<span className="furigana">ぷ</span>
+                  </span>
+                  をください。
+                </td>
                 <td>Kippu o kudasai.</td>
               </tr>
               <tr className="background-white">
@@ -1144,62 +1201,169 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>One-way or round trip?</td>
-                <td>片道ですか？往復ですか？</td>
+                <td>
+                  <span className="kanji">
+                    片<span className="furigana">かた</span>
+                  </span>
+                  <span className="kanji">
+                    道<span className="furigana">みち</span>
+                  </span>
+                  ですか？
+                  <span className="kanji">
+                    往<span className="furigana">おう</span>
+                  </span>
+                  <span className="kanji">
+                    復<span className="furigana">ふく</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Katamichi desu ka? Ōfuku desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>A ticket to ~, please.</td>
-                <td>～までの切符をください。</td>
+                <td>
+                  ～までの
+                  <span className="kanji">
+                    切<span className="furigana">きっ</span>
+                  </span>
+                  <span className="kanji">
+                    符<span className="furigana">ぷ</span>
+                  </span>
+                  をください。
+                </td>
                 <td>~ made no kippu o kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>Where do I transfer?</td>
-                <td>乗り換えはどこですか？</td>
+                <td>
+                  <span className="kanji">
+                    乗<span className="furigana">の</span>
+                  </span>
+                  り
+                  <span className="kanji">
+                    換<span className="furigana">か</span>
+                  </span>
+                  えはどこですか？
+                </td>
                 <td>Norikae wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Which bus should I take?</td>
-                <td>どのバスに乗ればいいですか？</td>
+                <td>
+                  どのバスに
+                  <span className="kanji">
+                    乗<span className="furigana">の</span>
+                  </span>
+                  ればいいですか？
+                </td>
                 <td>Dono basu ni noreba ii desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Where is the timetable?</td>
-                <td>時刻表はどこですか？</td>
+                <td>
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  <span className="kanji">
+                    刻表<span className="furigana">こくひょう</span>
+                  </span>
+                  はどこですか？
+                </td>
                 <td>Jikokuhyō wa doko desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>What time is the next train?</td>
-                <td>次の電車は何時ですか？</td>
+                <td>
+                  <span className="kanji">
+                    次<span className="furigana">つぎ</span>
+                  </span>
+                  の
+                  <span className="kanji">
+                    電車<span className="furigana">でんしゃ</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Tsugi no densha wa nanji desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>What time is the last train?</td>
-                <td>終電は何時ですか？</td>
+                <td>
+                  <span className="kanji">
+                    終電<span className="furigana">しゅうでん</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Shūden wa nanji desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Is it delayed?</td>
-                <td>遅れていますか？</td>
+                <td>
+                  <span className="kanji">
+                    遅<span className="furigana">おく</span>
+                  </span>
+                  れていますか？
+                </td>
                 <td>Okurete imasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>I will get off here.</td>
-                <td>ここで降ります。</td>
+                <td>
+                  ここで
+                  <span className="kanji">
+                    降<span className="furigana">お</span>
+                  </span>
+                  ります。
+                </td>
                 <td>Koko de orimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>Is this ~ station?</td>
-                <td>ここは～駅ですか？</td>
+                <td>
+                  ここは～
+                  <span className="kanji">
+                    駅<span className="furigana">えき</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Koko wa ~ eki desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>The doors are closing.</td>
-                <td>ドアが閉まります。</td>
+                <td>
+                  ドアが
+                  <span className="kanji">
+                    閉<span className="furigana">し</span>
+                  </span>
+                  まります。
+                </td>
                 <td>Doa ga shimarimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>Next is ~ station.</td>
-                <td>次は～駅です。</td>
+                <td>
+                  <span className="kanji">
+                    次<span className="furigana">つぎ</span>
+                  </span>
+                  は～
+                  <span className="kanji">
+                    駅<span className="furigana">えき</span>
+                  </span>
+                  です。
+                </td>
                 <td>Tsugi wa ~ eki desu.</td>
               </tr>
             </tbody>
