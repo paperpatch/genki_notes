@@ -1530,39 +1530,108 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>I’d like to check in.</td>
-                <td>チェックインをお願いします。</td>
+                <td>
+                  チェックインをお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>Chekku in o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>I have a reservation.</td>
-                <td>予約しています。</td>
+                <td>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  しています。
+                </td>
                 <td>Yoyaku shite imasu.</td>
               </tr>
               <tr className="background-white">
                 <td>
                   I don’t have a reservation. Do you have any rooms available?
                 </td>
-                <td>予約していませんが、部屋はありますか？</td>
+                <td>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  していませんが、
+                  <span className="kanji">
+                    部<span className="furigana">へ</span>
+                  </span>
+                  <span className="kanji">
+                    屋<span className="furigana">や</span>
+                  </span>
+                  はありますか？
+                </td>
                 <td>Yoyaku shite imasen ga, heya wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>My name is 〇〇.</td>
-                <td>名前は〇〇です。</td>
+                <td>
+                  <span className="kanji">
+                    名<span className="furigana">な</span>
+                  </span>
+                  <span className="kanji">
+                    前<span className="furigana">まえ</span>
+                  </span>
+                  は〇〇です。
+                </td>
                 <td>Namae wa 〇〇 desu.</td>
               </tr>
               <tr className="background-white">
                 <td>Please show your passport.</td>
-                <td>パスポートを見せてください。</td>
+                <td>
+                  パスポートを
+                  <span className="kanji">
+                    見<span className="furigana">み</span>
+                  </span>
+                  せてください。
+                </td>
                 <td>Pasupōto o misete kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>Is breakfast included?</td>
-                <td>朝食はついていますか？</td>
+                <td>
+                  <span className="kanji">
+                    朝食<span className="furigana">ちょうしょく</span>
+                  </span>
+                  はついていますか？
+                </td>
                 <td>Chōshoku wa tsuite imasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>What time is breakfast served?</td>
-                <td>何時から何時まで朝食を食べられますか？</td>
+                <td>
+                  何
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  から
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  まで
+                  <span className="kanji">
+                    朝食<span className="furigana">ちょうしょく</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    食<span className="furigana">た</span>
+                  </span>
+                  べられますか？
+                </td>
                 <td>Nanji kara nanji made chōshoku o taberaremasu ka?</td>
               </tr>
               <tr className="background-white">
@@ -1577,12 +1646,27 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Please tell me the Wi-Fi password.</td>
-                <td>Wi-Fiのパスワードを教えてください。</td>
+                <td>
+                  Wi-Fiのパスワードを
+                  <span className="kanji">
+                    教<span className="furigana">おし</span>
+                  </span>
+                  えてください。
+                </td>
                 <td>Waifai no pasuwādo o oshiete kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>What time is check-out?</td>
-                <td>チェックアウトは何時ですか？</td>
+                <td>
+                  チェックアウトは
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Chekku auto wa nanji desu ka?</td>
               </tr>
               <tr className="background-white">
@@ -1597,32 +1681,85 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Do you have a hot spring?</td>
-                <td>温泉はありますか？</td>
+                <td>
+                  <span className="kanji">
+                    温<span className="furigana">おん</span>
+                  </span>
+                  <span className="kanji">
+                    泉<span className="furigana">せん</span>
+                  </span>
+                  はありますか？
+                </td>
                 <td>Onsen wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>I lost my key.</td>
-                <td>鍵をなくしました。</td>
+                <td>
+                  <span className="kanji">
+                    鍵<span className="furigana">かぎ</span>
+                  </span>
+                  をなくしました。
+                </td>
                 <td>Kagi o nakushimashita.</td>
               </tr>
               <tr className="background-white">
                 <td>Please clean my room.</td>
-                <td>部屋を掃除してください。</td>
+                <td>
+                  <span className="kanji">
+                    部<span className="furigana">へ</span>
+                  </span>
+                  <span className="kanji">
+                    屋<span className="furigana">や</span>
+                  </span>
+                  を
+                  <span className="kanji">
+                    掃<span className="furigana">そう</span>
+                  </span>
+                  <span className="kanji">
+                    除<span className="furigana">じ</span>
+                  </span>
+                  してください。
+                </td>
                 <td>Heya o sōji shite kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>The air conditioner isn’t working.</td>
-                <td>エアコンが動きません。</td>
+                <td>
+                  エアコンが
+                  <span className="kanji">
+                    動<span className="furigana">うご</span>
+                  </span>
+                  きません。
+                </td>
                 <td>Eakon ga ugokimasen.</td>
               </tr>
               <tr className="background-white">
                 <td>There’s no hot water.</td>
-                <td>お湯が出ません。</td>
+                <td>
+                  お
+                  <span className="kanji">
+                    湯<span className="furigana">ゆ</span>
+                  </span>
+                  が
+                  <span className="kanji">
+                    出<span className="furigana">で</span>
+                  </span>
+                  ません。
+                </td>
                 <td>Oyu ga demasen.</td>
               </tr>
               <tr className="background-white">
                 <td>Please give me one more towel.</td>
-                <td>タオルをもう一枚ください。</td>
+                <td>
+                  タオルをもう
+                  <span className="kanji">
+                    一<span className="furigana">いち</span>
+                  </span>
+                  <span className="kanji">
+                    枚<span className="furigana">まい</span>
+                  </span>
+                  ください。
+                </td>
                 <td>Tauru o mō ichimai kudasai.</td>
               </tr>
             </tbody>
