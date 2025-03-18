@@ -1934,44 +1934,133 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>How many people are in your party?</td>
-                <td>何名様ですか？</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  <span className="kanji">
+                    名<span className="furigana">めい</span>
+                  </span>
+                  <span className="kanji">
+                    様<span className="furigana">さま</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Nanmei-sama desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>I’m alone.</td>
-                <td>一人です。</td>
+                <td>
+                  <span className="kanji">
+                    一<span className="furigana">ひと</span>
+                  </span>
+                  <span className="kanji">
+                    人<span className="furigana">り</span>
+                  </span>
+                  です。
+                </td>
                 <td>Hitori desu.</td>
               </tr>
               <tr className="background-white">
                 <td>We are two people.</td>
-                <td>二人です。</td>
+                <td>
+                  <span className="kanji">
+                    二<span className="furigana">ふた</span>
+                  </span>
+                  <span className="kanji">
+                    人<span className="furigana">り</span>
+                  </span>
+                  です。
+                </td>
                 <td>Futari desu.</td>
               </tr>
               <tr className="background-white">
                 <td>Would you like a non-smoking or smoking seat?</td>
-                <td>禁煙席と喫煙席、どちらがよろしいですか？</td>
+                <td>
+                  <span className="kanji">
+                    禁<span className="furigana">きん</span>
+                  </span>
+                  <span className="kanji">
+                    煙<span className="furigana">えん</span>
+                  </span>
+                  <span className="kanji">
+                    席<span className="furigana">せき</span>
+                  </span>
+                  と
+                  <span className="kanji">
+                    喫<span className="furigana">きつ</span>
+                  </span>
+                  <span className="kanji">
+                    煙<span className="furigana">えん</span>
+                  </span>
+                  <span className="kanji">
+                    席<span className="furigana">せき</span>
+                  </span>
+                  、どちらがよろしいですか？
+                </td>
                 <td>
                   Kinen seki to kitsuen seki, dochira ga yoroshii desu ka?
                 </td>
               </tr>
               <tr className="background-white">
                 <td>A non-smoking seat, please.</td>
-                <td>禁煙席をお願いします。</td>
+                <td>
+                  <span className="kanji">
+                    禁<span className="furigana">きん</span>
+                  </span>
+                  <span className="kanji">
+                    煙<span className="furigana">えん</span>
+                  </span>
+                  <span className="kanji">
+                    席<span className="furigana">せき</span>
+                  </span>
+                  をお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>Kinen seki o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>I have a reservation. My name is 〇〇.</td>
-                <td>予約しています。名前は〇〇です。</td>
+                <td>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  しています。
+                  <span className="kanji">
+                    名<span className="furigana">な</span>
+                  </span>
+                  <span className="kanji">
+                    前<span className="furigana">まえ</span>
+                  </span>
+                  は〇〇です。
+                </td>
                 <td>Yoyaku shite imasu. Namae wa 〇〇 desu.</td>
               </tr>
               <tr className="background-white">
                 <td>
                   I don’t have a reservation. Do you have a table available?
                 </td>
-                <td>予約していませんが、席はありますか？</td>
+                <td>
+                  <span className="kanji">
+                    予<span className="furigana">よ</span>
+                  </span>
+                  <span className="kanji">
+                    約<span className="furigana">やく</span>
+                  </span>
+                  していませんが、
+                  <span className="kanji">
+                    席<span className="furigana">せき</span>
+                  </span>
+                  はありますか？
+                </td>
                 <td>Yoyaku shite imasen ga, seki wa arimasu ka?</td>
               </tr>
-
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Ordering Food & Drinks
@@ -1979,17 +2068,39 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>The menu, please.</td>
-                <td>メニューをお願いします。</td>
+                <td>
+                  メニューをお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>Menyū o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>What do you recommend?</td>
-                <td>おすすめは何ですか？</td>
+                <td>
+                  おすすめは
+                  <span className="kanji">
+                    何<span className="furigana">なん</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Osusume wa nan desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Excuse me, I’d like to order.</td>
-                <td>すみません、注文をお願いします。</td>
+                <td>
+                  すみません、
+                  <span className="kanji">
+                    注文<span className="furigana">ちゅうもん</span>
+                  </span>
+                  をお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>Sumimasen, chūmon o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
@@ -1999,25 +2110,58 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>I’d like to order 〇〇.</td>
-                <td>〇〇をお願いします。</td>
+                <td>
+                  〇〇をお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>〇〇 o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>What drinks do you have?</td>
-                <td>飲み物は何がありますか？</td>
+                <td>
+                  <span className="kanji">
+                    飲<span className="furigana">の</span>
+                  </span>
+                  み
+                  <span className="kanji">
+                    物<span className="furigana">もの</span>
+                  </span>
+                  は
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  がありますか？
+                </td>
                 <td>Nomimono wa nani ga arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Water, please.</td>
-                <td>お水をください。</td>
+                <td>
+                  お
+                  <span className="kanji">
+                    水<span className="furigana">みず</span>
+                  </span>
+                  をください。
+                </td>
                 <td>O-mizu o kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>One beer, please.</td>
-                <td>ビールを一本ください。</td>
+                <td>
+                  ビールを
+                  <span className="kanji">
+                    一<span className="furigana">いっ</span>
+                  </span>
+                  <span className="kanji">
+                    本<span className="furigana">ぽん</span>
+                  </span>
+                  ください。
+                </td>
                 <td>Bīru o ippon kudasai.</td>
               </tr>
-
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Dietary Restrictions & Special Requests
@@ -2025,15 +2169,25 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>I can’t eat 〇〇.</td>
-                <td>〇〇は食べられません。</td>
+                <td>
+                  〇〇は
+                  <span className="kanji">
+                    食<span className="furigana">たた</span>
+                  </span>
+                  べられません。
+                </td>
                 <td>〇〇 wa taberaremasen.</td>
               </tr>
               <tr className="background-white">
                 <td>Please make it not spicy.</td>
-                <td>辛くしないでください。</td>
+                <td>
+                  <span className="kanji">
+                    辛<span className="furigana">から</span>
+                  </span>
+                  くしないでください。
+                </td>
                 <td>Karakushinaide kudasai.</td>
               </tr>
-
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   During the Meal
@@ -2049,20 +2203,44 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Excuse me, please give me chopsticks.</td>
-                <td>すみません、お箸をください。</td>
+                <td>
+                  すみません、お
+                  <span className="kanji">
+                    箸<span className="furigana">はし</span>
+                  </span>
+                  をください。
+                </td>
                 <td>Sumimasen, o-hashi o kudasai.</td>
               </tr>
               <tr className="background-white">
                 <td>This is very delicious!</td>
-                <td>とても美味しいです！</td>
+                <td>
+                  とても
+                  <span className="kanji">
+                    美味<span className="furigana">おい</span>
+                  </span>
+                  しいです！
+                </td>
                 <td>Totemo oishii desu!</td>
               </tr>
               <tr className="background-white">
                 <td>Please give me a little more time.</td>
-                <td>もう少し時間をください。</td>
+                <td>
+                  もう
+                  <span className="kanji">
+                    少<span className="furigana">そこ</span>
+                  </span>
+                  し
+                  <span className="kanji">
+                    時<span className="furigana">じ</span>
+                  </span>
+                  <span className="kanji">
+                    間<span className="furigana">かん</span>
+                  </span>
+                  をください。
+                </td>
                 <td>Mō sukoshi jikan o kudasai.</td>
               </tr>
-
               <tr>
                 <td colSpan={3} className="background-grey table-text-center">
                   Paying the Bill & Leaving
@@ -2070,17 +2248,45 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>The bill, please.</td>
-                <td>お会計をお願いします。</td>
+                <td>
+                  お
+                  <span className="kanji">
+                    会<span className="furigana">かい</span>
+                  </span>
+                  <span className="kanji">
+                    計<span className="furigana">けい</span>
+                  </span>
+                  をお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>O-kaikei o onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>Please split the bill.</td>
-                <td>別々にお願いします。</td>
+                <td>
+                  <span className="kanji">
+                    別々<span className="furigana">べつべつ</span>
+                  </span>
+                  にお
+                  <span className="kanji">
+                    願<span className="furigana">ねが</span>
+                  </span>
+                  いします。
+                </td>
                 <td>Betsubetsu ni onegai shimasu.</td>
               </tr>
               <tr className="background-white">
                 <td>Do you accept credit cards?</td>
-                <td>カードは使えますか？</td>
+                <td>
+                  カードは
+                  <span className="kanji">
+                    使<span className="furigana">つか</span>
+                  </span>
+                  えますか？
+                </td>
                 <td>Kādo wa tsukaemasu ka?</td>
               </tr>
               <tr className="background-white">
