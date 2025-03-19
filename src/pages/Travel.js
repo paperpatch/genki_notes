@@ -2319,6 +2319,33 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
+            「かしこまりました」
+            <br />
+            <i>Kashikomarimashita</i>
+            <br />
+            <i>Certainly.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「テーブルせきと、カワンターせき、どちらはよろしいですか？」
+            <br />
+            <i>Teeburu seki to kauntaa seki, dochira ga yoroshii desu ka?</i>
+            <br />
+            <i>Table seats or counter seat, which which one would you like?</i>
+          </p>
+          <p className="tab">
+            👤 Customer:
+            <br />
+            「テーブルせきで。」
+            <br />
+            <i>Teeburu seki de.</i>
+            <br />
+            <i>Table seat please.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
             「禁煙席と喫煙席、どちらがよろしいですか？」
             <br />
             <i>Kinen seki to kitsuen seki, dochira ga yoroshii desu ka?</i>
@@ -2337,20 +2364,48 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「こちらへどうぞ。」
+            「ご
+            <span className="kanji">
+              案<span className="furigana">あん</span>
+            </span>
+            <span className="kanji">
+              内<span className="furigana">ない</span>
+            </span>
+            いたします。どうぞ。」
             <br />
-            <i>Kochira e dōzo.</i>
+            <i>Goannai itashimasu. Dōzo.</i>
             <br />
-            <i>This way, please.</i>
+            <i>I'll guide you. This way please.</i>
           </p>
 
           <h2>📜 Ordering Food</h2>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「ご
+            <span className="kanji">
+              注文<span className="furigana">ちゅうもん</span>
+            </span>
+            お
+            <span className="kanji">
+              決<span className="furigana">き</span>
+            </span>
+            まりになりましたらお
+            <span className="kanji">
+              伺い<span className="furigana">うかがい</span>
+            </span>
+            いたします。」
+            <br />
+            <i>Gochuumon okimari ni narimashitara oukagai itashimasu.</i>
+            <br />
+            <i>I'll come take your order once you decided.</i>
+          </p>
           <p className="tab">
             👤 Customer:
             <br />
             「すみません、注文をお願いします。」
             <br />
-            <i>Sumimasen, chūmon o onegai shimasu.</i>
+            <i>Sumimasen, chūmon o onegaishimasu.</i>
             <br />
             <i>Excuse me, I’d like to order.</i>
           </p>
@@ -2374,12 +2429,37 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             💁 Staff:
+            <br />「
+            <span className="kanji">
+              以上<span className="furigana">いじょう</span>
+            </span>
+            でよろしいですか？」
             <br />
-            「かしこまりました。」
+            <i>Ijoo de yoroshii desu ka?</i>
             <br />
-            <i>Kashikomarimashita.</i>
+            <i>Is that all?</i>
+          </p>
+          <p className="tab">
+            👤 (Customer):
             <br />
-            <i>Understood.</i>
+            「はい。」
+            <br />
+            <i>Hai.</i>
+            <br />
+            <i>Yes.</i>
+          </p>
+          <p className="tab">
+            💁 Staff:
+            <br />
+            「かしこまりました。
+            <span className="kanji">
+              失礼致<span className="furigana">しつれいいた</span>
+            </span>
+            します。」
+            <br />
+            <i>Kashikomarimashita. Shiturei itashi masu.</i>
+            <br />
+            <i>Certainly. Excuse me.</i>
           </p>
 
           <h2>🍱 Ordering Multiple Set Meals</h2>
