@@ -2575,12 +2575,26 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Are you looking for something?</td>
-                <td>何かお探しですか？</td>
+                <td>
+                  <span className="kanji">
+                    何<span className="furigana">なに</span>
+                  </span>
+                  かお
+                  <span className="kanji">
+                    探<span className="furigana">さが</span>
+                  </span>
+                  しですか？
+                </td>
                 <td>Nanika osagashi desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>I'm just looking.</td>
-                <td>見ているだけです。</td>
+                <td>
+                  <span className="kanji">
+                    見<span className="furigana">み</span>
+                  </span>
+                  ているだけです。
+                </td>
                 <td>Miteiru dake desu.</td>
               </tr>
 
@@ -2596,22 +2610,47 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Do you have this in a different color?</td>
-                <td>これの色違いはありますか？</td>
+                <td>
+                  これの
+                  <span className="kanji">
+                    色<span className="furigana">いろ</span>
+                  </span>
+                  <span className="kanji">
+                    違<span className="furigana">ちが</span>
+                  </span>
+                  いはありますか？
+                </td>
                 <td>Kore no iro chigai wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Do you have a larger size?</td>
-                <td>もっと大きいサイズはありますか？</td>
+                <td>
+                  もっと
+                  <span className="kanji">
+                    大<span className="furigana">おお</span>
+                  </span>
+                  きいサイズはありますか？
+                </td>
                 <td>Motto ōkii saizu wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Can I try this on?</td>
-                <td>試着できますか？</td>
+                <td>
+                  <span className="kanji">
+                    試着<span className="furigana">しちゃく</span>
+                  </span>
+                  できますか？
+                </td>
                 <td>Shichaku dekimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Do you have other designs?</td>
-                <td>他のデザインはありますか？</td>
+                <td>
+                  <span className="kanji">
+                    他<span className="furigana">ほか</span>
+                  </span>
+                  のデザインはありますか？
+                </td>
                 <td>Hoka no dezain wa arimasu ka?</td>
               </tr>
 
