@@ -2787,6 +2787,118 @@ function Travel({ setActiveSection }) {
               </tr>
             </tbody>
           </table>
+          <h2>🏪 At a Convenience Store</h2>
+          <p className="tab">
+            💁Store Staff:
+            <br />
+            「あたためまづか？」
+            <br />
+            <i>Atatame masuka?</i>
+            <br />
+            <i>Do you want to warm it up?</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「はい、お願いします。」
+            <br />
+            <i>Hai, onegai shimasu.</i>
+            <br />
+            <i>Yes, please.</i>
+          </p>
+          <p className="tab">
+            💁 Store Staff:
+            <br />
+            「おはし　おつけしますか？」
+            <br />
+            <i>Ohashi otsuke shimasu ka?</i>
+            <br />
+            <i>May I add chopsticks?</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「お願いします。」
+            <br />
+            <i>Onegai shimasu.</i>
+            <br />
+            <i>Please.</i>
+          </p>
+          <p className="tab">
+            💁 Store Staff:
+            <br />
+            「おしぼりおつけしますか？」
+            <br />
+            <i>Oshibori otsuke shimasu ka?</i>
+            <br />
+            <i>May I add wet tissue?</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「はい」
+            <br />
+            <i>Hai.</i>
+            <br />
+            <i>Yes.</i>
+          </p>
+          <p className="tab">
+            💁 Store Staff:
+            <br />
+            「ポイントカードわおもちですか？」
+            <br />
+            <i>Pointo kaado wa omochi desu ka?</i>
+            <br />
+            <i>Do you have point card? (rewards card)</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「いいえ 大丈夫です」
+            <br />
+            <i>Iie daijoubu desu</i>
+            <br />
+            <i>No, it's okay.</i>
+          </p>
+          <p className="tab">
+            💁 Store Staff:
+            <br />「
+            <span className="kanji">
+              袋<span className="furigana">ふくろ</span>
+            </span>
+            はごいりょうですか?」
+            <br />
+            <i>Fukuro wa goiriyou desuka?</i>
+            <br />
+            <i>Do you need a bag?</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「大丈夫です」
+            <br />
+            <i>Daijoubu desu</i>
+            <br />
+            <i>It's okay.</i>
+          </p>
+          <p className="tab">
+            💁 Store Staff:
+            <br />
+            「レシートはごいりょうですか？」
+            <br />
+            <i>Fukuro wa goiriyou desuka?</i>
+            <br />
+            <i>Do you need a receipt?</i>
+          </p>
+          <p className="tab">
+            👤 You:
+            <br />
+            「大丈夫です」
+            <br />
+            <i>Daijoubu desu</i>
+            <br />
+            <i>It's okay.</i>
+          </p>
 
           <h2>🏬 At a Clothing Store</h2>
           <p className="tab">
