@@ -23,8 +23,12 @@ export function useSmoothScrollToSection() {
 }
 
 export function scrollToSection(sectionId) {
-  const section = document.getElementById(sectionId);
-  if (section) {
-    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  if (window.location.pathname !== "/travel") {
+    window.location.href = `/travel#${sectionId}`;
+  } else {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   }
 }
