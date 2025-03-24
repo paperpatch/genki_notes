@@ -384,7 +384,24 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Staff:
             <br />
-            「パスポートと航空券を拝見できますか？」
+            「パスポートと
+            <span className="kanji">
+              航<span className="furigana">こう</span>
+            </span>
+            <span className="kanji">
+              空<span className="furigana">くう</span>
+            </span>
+            <span className="kanji">
+              券<span className="furigana">けん</span>
+            </span>
+            を
+            <span className="kanji">
+              拝<span className="furigana">はい</span>
+            </span>
+            <span className="kanji">
+              見<span className="furigana">けん</span>
+            </span>
+            できますか？」
             <br />
             <i>Pasupōto to kōkūken o haiken dekimasu ka?</i>
             <br />
@@ -402,7 +419,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Staff:
             <br />
-            「お預けの荷物はございますか？」
+            「お
+            <span className="kanji">
+              預<span className="furigana">あず</span>
+            </span>
+            けの
+            <span className="kanji">
+              荷物<span className="furigana">にもつ</span>
+            </span>
+            はございますか？」
             <br />
             <i>Oazuke no nimotsu wa gozaimasu ka?</i>
             <br />
@@ -424,7 +449,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Staff:
             <br />
-            「こちら、荷物タグになります。」
+            「こちら、
+            <span className="kanji">
+              荷物<span className="furigana">にもつ</span>
+            </span>
+            タグになります。」
             <br />
             <i>Kochira, nimotsu tagu ni narimasu.</i>
             <br />
@@ -433,7 +462,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Staff:
             <br />
-            「お座席の希望はございますか？」
+            「お
+            <span className="kanji">
+              座席<span className="furigana">ざせき</span>
+            </span>
+            の
+            <span className="kanji">
+              希望<span className="furigana">きぼう</span>
+            </span>
+            はございますか？」
             <br />
             <i>O-zaseki no kibō wa gozaimasu ka?</i>
             <br />
@@ -441,8 +478,14 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Passenger:
-            <br />
-            「窓側をお
+            <br />「
+            <span className="kanji">
+              窓<span className="furigana">まど</span>
+            </span>
+            <span className="kanji">
+              側<span className="furigana">がわ</span>
+            </span>
+            をお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -465,8 +508,15 @@ function Travel({ setActiveSection }) {
           <h2>🛃 Security Check</h2>
           <p className="tab">
             ✈️ Security Staff:
-            <br />
-            「手荷物をトレイに置いてください。」
+            <br />「
+            <span className="kanji">
+              手荷物<span className="furigana">てにもつ</span>
+            </span>
+            をトレイに
+            <span className="kanji">
+              置<span className="furigana">お</span>
+            </span>
+            いてください。」
             <br />
             <i>Tenimotsu o tore ni oite kudasai.</i>
             <br />
@@ -474,8 +524,15 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             ✈️ Security Staff:
-            <br />
-            「金属類、ベルト、スマートフォンを外してください。」
+            <br />「
+            <span className="kanji">
+              金属類<span className="furigana">きんぞくるい</span>
+            </span>
+            、ベルト、スマートフォンを
+            <span className="kanji">
+              外<span className="furigana">はず</span>
+            </span>
+            してください。」
             <br />
             <i>Kinzokurui, beruto, sumātofon o hazushite kudasai.</i>
             <br />
@@ -493,16 +550,32 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Security Staff:
             <br />
-            「この中に液体物は入っていますか？」
+            「この
+            <span className="kanji">
+              中<span className="furigana">なか</span>
+            </span>
+            に
+            <span className="kanji">
+              液体物<span className="furigana">えきたいぶつ</span>
+            </span>
+            は
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            っていますか？」
             <br />
-            <i>Kono naka ni ekitaimono wa haitteimasu ka?</i>
+            <i>Kono naka ni ekitaibutsu wa haitteimasu ka?</i>
             <br />
             <i>Do you have any liquids inside?</i>
           </p>
           <p className="tab">
             👤 Passenger:
             <br />
-            「いいえ、入っていません。」
+            「いいえ、
+            <span className="kanji">
+              入<span className="furigana">はい</span>
+            </span>
+            っていません。」
             <br />
             <i>Iie, haitteimasen.</i>
             <br />
@@ -511,18 +584,32 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Security Staff:
             <br />
-            「ご協力ありがとうございます。」
+            「ご
+            <span className="kanji">
+              協力<span className="furigana">きょうりょく</span>
+            </span>
+            ありがとうございます。」
             <br />
             <i>Go-kyōryoku arigatō gozaimasu.</i>
             <br />
             <i>Thank you for your cooperation.</i>
           </p>
 
-          <h2>🛫 Boarding Gate (搭乗口, Tōjōguchi)</h2>
+          <h2>
+            🛫 Boarding Gate (
+            <span className="kanji">
+              搭乗口<span className="furigana">とうじょうぐち</span>
+            </span>
+            , Tōjōguchi)
+          </h2>
           <p className="tab">
             👤 Passenger:
             <br />
-            「すみません、搭乗口はどこですか？」
+            「すみません、
+            <span className="kanji">
+              搭乗口<span className="furigana">とうじょうぐち</span>
+            </span>
+            はどこですか？」
             <br />
             <i>Sumimasen, tōjōguchi wa doko desu ka?</i>
             <br />
@@ -530,8 +617,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             ✈️ Staff:
-            <br />
-            「搭乗口はあちらです。」
+            <br />「
+            <span className="kanji">
+              搭乗口<span className="furigana">とうじょうぐち</span>
+            </span>
+            はあちらです。」
             <br />
             <i>Tōjōguchi wa achira desu.</i>
             <br />
@@ -549,7 +639,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             ✈️ Staff:
             <br />
-            「こちらが搭乗券になります。どうぞお持ちください。」
+            「こちらが
+            <span className="kanji">
+              搭乗券<span className="furigana">とうじょうけん</span>
+            </span>
+            になります。どうぞお
+            <span className="kanji">
+              持<span className="furigana">も</span>
+            </span>
+            ちください。」
             <br />
             <i>Kochira ga tōjōken ni narimasu. Dōzo o-mochi kudasai.</i>
             <br />
@@ -566,19 +664,36 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             ✈️ Staff:
+            <br />「
+            <span className="kanji">
+              搭乗開始<span className="furigana">とうじょうかいし</span>
+            </span>
+            は〇〇
+            <span className="kanji">
+              時<span className="furigana">じ</span>
+            </span>
+            です。」
             <br />
-            「搭乗開始は○○時です。」
+            <i>Tōjō kaishi wa 〇〇-ji desu.</i>
             <br />
-            <i>Tōjō kaishi wa ○○-ji desu.</i>
-            <br />
-            <i>Boarding starts at ○○ o'clock.</i>
+            <i>Boarding starts at 〇〇 o'clock.</i>
           </p>
 
-          <h2>🛂 Immigration (入国審査, Nyūkoku Shinsa)</h2>
+          <h2>
+            🛂 Immigration (
+            <span className="kanji">
+              入国審査<span className="furigana">にゅうこくしんさ</span>
+            </span>
+            , Nyūkoku Shinsa)
+          </h2>
           <p className="tab">
             👮 Officer:
             <br />
-            「パスポートを見せてください。」
+            「パスポートを
+            <span className="kanji">
+              見<span className="furigana">み</span>
+            </span>
+            せてください。」
             <br />
             <i>Pasupōto o misete kudasai.</i>
             <br />
@@ -595,8 +710,19 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👮 Officer:
-            <br />
-            「滞在の目的は何ですか？」
+            <br />「
+            <span className="kanji">
+              滞在<span className="furigana">たいざい</span>
+            </span>
+            の
+            <span className="kanji">
+              目的<span className="furigana">もくてき</span>
+            </span>
+            は
+            <span className="kanji">
+              何<span className="furigana">なん</span>
+            </span>
+            ですか？」
             <br />
             <i>Taizai no mokuteki wa nan desu ka?</i>
             <br />
@@ -604,8 +730,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Passenger:
-            <br />
-            「観光です。」
+            <br />「
+            <span className="kanji">
+              観光<span className="furigana">かんこう</span>
+            </span>
+            です。」
             <br />
             <i>Kankō desu.</i>
             <br />
@@ -613,8 +742,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👮 Officer:
-            <br />
-            「滞在期間はどのくらいですか？」
+            <br />「
+            <span className="kanji">
+              滞在期間<span className="furigana">たいざいきかん</span>
+            </span>
+            はどのくらいですか？」
             <br />
             <i>Taizai kikan wa dono kurai desu ka?</i>
             <br />
@@ -622,8 +754,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Passenger:
-            <br />
-            「一週間です。」
+            <br />「
+            <span className="kanji">
+              一週間<span className="furigana">いっしゅうかん</span>
+            </span>
+            です。」
             <br />
             <i>Isshūkan desu.</i>
             <br />
@@ -632,7 +767,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👮 Officer:
             <br />
-            「どこに宿泊しますか？」
+            「どこに
+            <span className="kanji">
+              宿泊<span className="furigana">しゅくはく</span>
+            </span>
+            しますか？」
             <br />
             <i>Doko ni shukuhaku shimasu ka?</i>
             <br />
@@ -640,8 +779,15 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Passenger:
-            <br />
-            「東京のホテルに泊まります。」
+            <br />「
+            <span className="kanji">
+              東京<span className="furigana">ときょう</span>
+            </span>
+            のホテルに
+            <span className="kanji">
+              泊<span className="furigana">と</span>
+            </span>
+            まります。」
             <br />
             <i>Tōkyō no hoteru ni tomarimasu.</i>
             <br />
@@ -649,8 +795,15 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👮 Officer:
-            <br />
-            「良い旅を。」
+            <br />「
+            <span className="kanji">
+              良<span className="furigana">よ</span>
+            </span>
+            い
+            <span className="kanji">
+              旅<span className="furigana">たび</span>
+            </span>
+            を。」
             <br />
             <i>Yoi tabi o.</i>
             <br />
