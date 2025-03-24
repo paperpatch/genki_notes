@@ -371,7 +371,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Passenger:
             <br />
-            「すみません、チェックインをお願いします。」
+            「すみません、チェックインをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Sumimasen, chekku in o onegai shimasu.</i>
             <br />
@@ -407,7 +411,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Passenger:
             <br />
-            「はい、このスーツケースをお願いします。」
+            「はい、このスーツケースをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Hai, kono sūtsukēsu o onegai shimasu.</i>
             <br />
@@ -434,7 +442,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Passenger:
             <br />
-            「窓側をお願いします。」
+            「窓側をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Mado-gawa o onegai shimasu.</i>
             <br />
@@ -1033,7 +1045,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Passenger:
             <br />
-            「すみません、東京タワーまでお願いします。」
+            「すみません、東京タワーまでお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Sumimasen, Tōkyō Tawā made onegai shimasu.</i>
             <br />
@@ -1051,7 +1067,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Passenger:
             <br />
-            「はい、お願いします。」
+            「はい、お
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Hai, onegai shimasu.</i>
             <br />
@@ -1391,7 +1411,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            片道でお願いします。
+            片道でお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。
             <br />
             <i>Katamichi de onegaishimasu.</i>
             <br />
@@ -1769,7 +1793,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            「チェックインをお願いします。」
+            「チェックインをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Chekku in o onegai shimasu.</i>
             <br />
@@ -1778,7 +1806,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Hotel Staff:
             <br />
-            「お名前をお願いします。」
+            「お名前をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Onamae o onegai shimasu.</i>
             <br />
@@ -1870,7 +1902,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            「チェックアウトをお願いします。」
+            「チェックアウトをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Chekku auto o onegai shimasu.</i>
             <br />
@@ -1879,7 +1915,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Hotel Staff:
             <br />
-            「かしこまりました。お部屋の鍵をお願いします。」
+            「かしこまりました。お部屋の鍵をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Kashikomarimashita. Oheya no kagi o onegai shimasu.</i>
             <br />
@@ -2355,7 +2395,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「禁煙席をお願いします。」
+            「禁煙席をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Kinen seki o onegai shimasu.</i>
             <br />
@@ -2403,7 +2447,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「すみません、注文をお願いします。」
+            「すみません、注文をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Sumimasen, chūmon o onegaishimasu.</i>
             <br />
@@ -2475,7 +2523,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「はい、4番のセットを三つと、緑茶を三つお願いします。」
+            「はい、4番のセットを三つと、緑茶を三つお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>
               Hai, yonban no setto o mittsu to, ryokucha o mittsu onegai
@@ -2499,7 +2551,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「はい、お願いします。」
+            「はい、お
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Hai, onegai shimasu.</i>
             <br />
@@ -2526,7 +2582,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「お茶（または お水）のおかわりをお願いします。」
+            「お茶（または お水）のおかわりをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Ocha [mata wa omizu] no okawari o onegai shimasu.</i>
             <br />
@@ -2535,7 +2595,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「ご飯のおかわりをお願いします。」
+            「ご飯のおかわりをお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Gohan no okawari o onegai shimasu.</i>
             <br />
@@ -2555,7 +2619,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「替え玉（かえだま）をお願いします。」
+            「替え玉（かえだま）をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Kaedama o onegai shimasu.</i>
             <br />
@@ -2572,7 +2640,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「お会計をお願いします。」
+            「お会計をお
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>O-kaikei o onegai shimasu.</i>
             <br />
@@ -2800,7 +2872,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            「はい、お願いします。」
+            「はい、お
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Hai, onegai shimasu.</i>
             <br />
@@ -2818,7 +2894,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            「お願いします。」
+            「お
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Onegai shimasu.</i>
             <br />
@@ -2958,7 +3038,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👩 Customer:
             <br />
-            「はい、お願いします。」
+            「はい、お
+            <span className="kanji">
+              願<span className="furigana">ねが</span>
+            </span>
+            いします。」
             <br />
             <i>Hai, onegai shimasu.</i>
             <br />
