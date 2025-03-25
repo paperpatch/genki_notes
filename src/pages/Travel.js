@@ -2494,7 +2494,17 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「いらっしゃいませ！何名様ですか？」
+            「いらっしゃいませ！
+            <span className="kanji">
+              何<span className="furigana">なん</span>
+            </span>
+            <span className="kanji">
+              名<span className="furigana">めい</span>
+            </span>
+            <span className="kanji">
+              様<span className="furigana">さま</span>
+            </span>
+            ですか？」
             <br />
             <i>Irasshaimase! Nanmei-sama desu ka?</i>
             <br />
@@ -2502,8 +2512,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Customer:
-            <br />
-            「二人です。」
+            <br />「
+            <span className="kanji">
+              二人<span className="furigana">ふたり</span>
+            </span>
+            です。」
             <br />
             <i>Futari desu.</i>
             <br />
@@ -2538,8 +2551,21 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             💁 Staff:
-            <br />
-            「禁煙席と喫煙席、どちらがよろしいですか？」
+            <br />「
+            <span className="kanji">
+              禁煙<span className="furigana">きんえん</span>
+            </span>
+            <span className="kanji">
+              席<span className="furigana">せき</span>
+            </span>
+            と
+            <span className="kanji">
+              喫煙<span className="furigana">きつえん</span>
+            </span>
+            <span className="kanji">
+              席<span className="furigana">せき</span>
+            </span>
+            、どちらがよろしいですか？」
             <br />
             <i>Kinen seki to kitsuen seki, dochira ga yoroshii desu ka?</i>
             <br />
@@ -2547,8 +2573,14 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Customer:
-            <br />
-            「禁煙席をお
+            <br />「
+            <span className="kanji">
+              禁煙<span className="furigana">きんえん</span>
+            </span>
+            <span className="kanji">
+              席<span className="furigana">せき</span>
+            </span>
+            をお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2600,7 +2632,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「すみません、注文をお
+            「すみません、
+            <span className="kanji">
+              注文<span className="furigana">ちゅうもん</span>
+            </span>
+            をお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2667,7 +2703,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「ご注文はお決まりですか？」
+            「ご
+            <span className="kanji">
+              注文<span className="furigana">ちゅうもん</span>
+            </span>
+            はお
+            <span className="kanji">
+              決<span className="furigana">き</span>
+            </span>
+            まりですか？」
             <br />
             <i>Gochūmon wa okimari desu ka?</i>
             <br />
@@ -2676,7 +2720,26 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「はい、4番のセットを三つと、緑茶を三つお
+            「はい、
+            <span className="kanji">
+              四<span className="furigana">よん</span>
+            </span>
+            <span className="kanji">
+              番<span className="furigana">ばん</span>
+            </span>
+            のセットを
+            <span className="kanji">
+              三つ<span className="furigana">みっつ</span>
+            </span>
+            と、
+            <span className="kanji">
+              緑茶<span className="furigana">りょくちゃ</span>
+            </span>
+            を
+            <span className="kanji">
+              三つ<span className="furigana">みっつ</span>
+            </span>
+            お
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2692,7 +2755,22 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「かしこまりました。お飲み物は、緑茶三つでよろしいですか？」
+            「かしこまりました。お
+            <span className="kanji">
+              飲<span className="furigana">の</span>
+            </span>
+            み
+            <span className="kanji">
+              物<span className="furigana">もの</span>
+            </span>
+            は、
+            <span className="kanji">
+              緑茶<span className="furigana">りょくちゃ</span>
+            </span>
+            <span className="kanji">
+              三つ<span className="furigana">みっつ</span>
+            </span>
+            でよろしいですか？」
             <br />
             <i>
               Kashikomarimashita. Onomimono wa, ryokucha mittsu de yoroshii desu
@@ -2717,7 +2795,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「ありがとうございます。少々お待ちください。」
+            「ありがとうございます。
+            <span className="kanji">
+              少々<span className="furigana">しょうしょう</span>
+            </span>
+            お
+            <span className="kanji">
+              待<span className="furigana">ま</span>
+            </span>
+            ちください。」
             <br />
             <i>Arigatō gozaimasu. Shōshō omachi kudasai.</i>
             <br />
@@ -2735,7 +2821,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「お茶（または お水）のおかわりをお
+            「お
+            <span className="kanji">
+              茶<span className="furigana">ちゃ</span>
+            </span>
+            （または お
+            <span className="kanji">
+              水<span className="furigana">みず</span>
+            </span>
+            ）のおかわりをお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2748,7 +2842,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「ご飯のおかわりをお
+            「ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            のおかわりをお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2761,7 +2859,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「ご飯はおかわり無料ですか？」
+            「ご
+            <span className="kanji">
+              飯<span className="furigana">はん</span>
+            </span>
+            はおかわり
+            <span className="kanji">
+              無料<span className="furigana">むりょう</span>
+            </span>
+            ですか？」
             <br />
             <i>Gohan wa okawari muryō desu ka?</i>
             <br />
@@ -2771,8 +2877,15 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 Customer:
-            <br />
-            「替え玉（かえだま）をお
+            <br />「
+            <span className="kanji">
+              替<span className="furigana">か</span>
+            </span>
+            え
+            <span className="kanji">
+              玉<span className="furigana">だま</span>
+            </span>
+            をお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2793,7 +2906,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「お会計をお
+            「お
+            <span className="kanji">
+              会計<span className="furigana">かいけい</span>
+            </span>
+            をお
             <span className="kanji">
               願<span className="furigana">ねが</span>
             </span>
@@ -2806,7 +2923,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「はい、〇〇円になります。」
+            「はい、〇〇
+            <span className="kanji">
+              円<span className="furigana">えん</span>
+            </span>
+            になります。」
             <br />
             <i>Hai, 〇〇-en ni narimasu.</i>
             <br />
@@ -2815,7 +2936,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 Customer:
             <br />
-            「カードは使えますか？」
+            「カードは
+            <span className="kanji">
+              使<span className="furigana">つか</span>
+            </span>
+            えますか？」
             <br />
             <i>Kādo wa tsukaemasu ka?</i>
             <br />
@@ -2824,7 +2949,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Staff:
             <br />
-            「はい、使えます。」
+            「はい、
+            <span className="kanji">
+              使<span className="furigana">つか</span>
+            </span>
+            えます。」
             <br />
             <i>Hai, tsukaemasu.</i>
             <br />
