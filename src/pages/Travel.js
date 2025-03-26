@@ -3095,22 +3095,44 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Is this on sale?</td>
-                <td>これはセール中ですか？</td>
+                <td>
+                  これはセール
+                  <span className="kanji">
+                    中<span className="furigana">ちゅう</span>
+                  </span>
+                  ですか？
+                </td>
                 <td>Kore wa seeru-chū desu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Do you offer discounts?</td>
-                <td>割引はありますか？</td>
+                <td>
+                  <span className="kanji">
+                    割引<span className="furigana">わりびき</span>
+                  </span>
+                  はありますか？
+                </td>
                 <td>Waribiki wa arimasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>Can I pay by card?</td>
-                <td>カードで払えますか？</td>
+                <td>
+                  カードで
+                  <span className="kanji">
+                    払<span className="furigana">はら</span>
+                  </span>
+                  えますか？
+                </td>
                 <td>Kaado de haraemasu ka?</td>
               </tr>
               <tr className="background-white">
                 <td>We only accept cash.</td>
-                <td>現金のみです。</td>
+                <td>
+                  <span className="kanji">
+                    現金<span className="furigana">げんきん</span>
+                  </span>
+                  のみです。
+                </td>
                 <td>Genkin nomi desu.</td>
               </tr>
 
@@ -3126,7 +3148,12 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Do you need a bag?</td>
-                <td>袋はいりますか？</td>
+                <td>
+                  <span className="kanji">
+                    袋<span className="furigana">ふくろ</span>
+                  </span>
+                  はいりますか？
+                </td>
                 <td>Fukuro wa irimasu ka?</td>
               </tr>
               <tr className="background-white">
@@ -3136,7 +3163,13 @@ function Travel({ setActiveSection }) {
               </tr>
               <tr className="background-white">
                 <td>Please come again!</td>
-                <td>またお越しくださいませ！</td>
+                <td>
+                  またお
+                  <span className="kanji">
+                    越<span className="furigana">こ</span>
+                  </span>
+                  しくださいませ！
+                </td>
                 <td>Mata okoshi kudasaimase!</td>
               </tr>
             </tbody>
@@ -3167,7 +3200,7 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             💁 Store Staff:
             <br />
-            「おはし　おつけしますか？」
+            「おはしおつけしますか？」
             <br />
             <i>Ohashi otsuke shimasu ka?</i>
             <br />
@@ -3216,7 +3249,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👤 You:
             <br />
-            「いいえ 大丈夫です」
+            「いいえ
+            <span className="kanji">
+              大丈夫<span className="furigana">だいじょうぶ</span>
+            </span>
+            です」
             <br />
             <i>Iie daijoubu desu</i>
             <br />
@@ -3236,8 +3273,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             👤 You:
-            <br />
-            「大丈夫です」
+            <br />「
+            <span className="kanji">
+              大丈夫<span className="furigana">だいじょうぶ</span>
+            </span>
+            です」
             <br />
             <i>Daijoubu desu</i>
             <br />
@@ -3248,14 +3288,17 @@ function Travel({ setActiveSection }) {
             <br />
             「レシートはごいりょうですか？」
             <br />
-            <i>Fukuro wa goiriyou desuka?</i>
+            <i>Reshiito wa goiriyou desuka?</i>
             <br />
             <i>Do you need a receipt?</i>
           </p>
           <p className="tab">
             👤 You:
-            <br />
-            「大丈夫です」
+            <br />「
+            <span className="kanji">
+              大丈夫<span className="furigana">だいじょうぶ</span>
+            </span>
+            です」
             <br />
             <i>Daijoubu desu</i>
             <br />
@@ -3266,7 +3309,11 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👩 Customer:
             <br />
-            「すみません、試着できますか？」
+            「すみません、
+            <span className="kanji">
+              試着<span className="furigana">しちゃく</span>
+            </span>
+            できますか？」
             <br />
             <i>Sumimasen, shichaku dekimasu ka?</i>
             <br />
@@ -3275,7 +3322,14 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             🏪 Store Staff:
             <br />
-            「はい、試着室はあちらです。」
+            「はい、
+            <span className="kanji">
+              試着<span className="furigana">しちゃく</span>
+            </span>
+            <span className="kanji">
+              室<span className="furigana">しつ</span>
+            </span>
+            はあちらです。」
             <br />
             <i>Hai, shichakushitsu wa achira desu.</i>
             <br />
@@ -3284,7 +3338,15 @@ function Travel({ setActiveSection }) {
           <p className="tab">
             👩 Customer:
             <br />
-            「もう少し大きいサイズはありますか？」
+            「もう
+            <span className="kanji">
+              少<span className="furigana">すこ</span>
+            </span>
+            し
+            <span className="kanji">
+              大<span className="furigana">おお</span>
+            </span>
+            きいサイズはありますか？」
             <br />
             <i>Mō sukoshi ōkii saizu wa arimasu ka?</i>
             <br />
@@ -3310,8 +3372,11 @@ function Travel({ setActiveSection }) {
           </p>
           <p className="tab">
             🏪 Store Staff:
-            <br />
-            「袋はいりますか？」
+            <br />「
+            <span className="kanji">
+              袋<span className="furigana">ふくる</span>
+            </span>
+            はいりますか？」
             <br />
             <i>Fukuro wa irimasu ka?</i>
             <br />
@@ -3447,38 +3512,99 @@ function Travel({ setActiveSection }) {
             <span>👉 Mサイズは ありますか？ (Emu saizu wa arimasu ka?)</span>
             <li>The total is 3,200 yen.</li>
             <span>
-              👉 全部で さんぜんにひゃくえん です。 (Zenbu de sanzen nihyaku en
-              desu.)
+              👉{" "}
+              <span className="kanji">
+                全部<span className="furigana">ぜんぶ</span>
+              </span>
+              で さんぜんにひゃくえん です。 (Zenbu de sanzen nihyaku en desu.)
             </span>
             <li>I’ll pay with a 10,000 yen bill.</li>
             <span>
-              👉 一万円札で 払います。 (Ichiman en satsu de haraimasu.)
+              👉{" "}
+              <span className="kanji">
+                一万<span className="furigana">いちまん</span>
+              </span>
+              <span className="kanji">
+                円札<span className="furigana">えんさつ</span>
+              </span>
+              で{" "}
+              <span className="kanji">
+                払<span className="furigana">はら</span>
+              </span>
+              います。 (Ichiman en satsu de haraimasu.)
             </span>
             <li>Do you accept credit cards?</li>
             <span>
-              👉 クレジットカードは 使えますか？ (Kurejitto kaado wa tsukaemasu
-              ka?)
+              👉 クレジットカードは{" "}
+              <span className="kanji">
+                使<span className="furigana">つか</span>
+              </span>
+              えますか？ (Kurejitto kaado wa tsukaemasu ka?)
             </span>
           </ol>
 
           <h2>🍽️ Using Numbers in Restaurants</h2>
           <ol className="indent">
             <li>Table for three, please.</li>
-            <span>👉 三人 です。 (San-nin desu.)</span>
+            <span>
+              👉{" "}
+              <span className="kanji">
+                三人<span className="furigana">さんにん</span>
+              </span>{" "}
+              です。 (San-nin desu.)
+            </span>
             <li>I'd like to order two of the number 4 set meals.</li>
             <span>
-              👉 4番のセットを二つください。 (Yon-ban no setto o futatsu
-              kudasai.)
+              👉{" "}
+              <span className="kanji">
+                4番<span className="furigana">よんばん</span>
+              </span>
+              のセットを
+              <span className="kanji">
+                二つ<span className="furigana">ふたつ</span>
+              </span>
+              ください。 (Yon-ban no setto o futatsu kudasai.)
             </span>
             <li>Can I get one more glass of water?</li>
             <span>
-              👉 お水を もう一杯 ください。 (Omizu o mou ippai kudasai.)
+              👉 お
+              <span className="kanji">
+                水<span className="furigana">みず</span>
+              </span>
+              を もう
+              <span className="kanji">
+                一杯<span className="furigana">いっぱい</span>
+              </span>{" "}
+              ください。 (Omizu o mou ippai kudasai.)
             </span>
             <li>Check, please.</li>
-            <span>👉 お会計を お願いします。 (Okaikei o onegai shimasu.)</span>
+            <span>
+              👉 お
+              <span className="kanji">
+                会計<span className="furigana">かいけい</span>
+              </span>
+              を お
+              <span className="kanji">
+                願<span className="furigana">ねが</span>
+              </span>
+              いします。 (Okaikei o onegai shimasu.)
+            </span>
             <li>That costs 2,580 yen.</li>
             <span>
-              👉 二千五百八十円 です。 (Nisen gohyaku hachijuu en desu.)
+              👉{" "}
+              <span className="kanji">
+                二千<span className="furigana">にせん</span>
+              </span>
+              <span className="kanji">
+                五百<span className="furigana">ごひゃく</span>
+              </span>
+              <span className="kanji">
+                八十<span className="furigana">はちじゅう</span>
+              </span>
+              <span className="kanji">
+                円<span className="furigana">えん</span>
+              </span>{" "}
+              です。 (Nisen gohyaku hachijuu en desu.)
             </span>
           </ol>
 
@@ -3486,25 +3612,83 @@ function Travel({ setActiveSection }) {
           <ol className="indent">
             <li>I’d like one ticket to Tokyo.</li>
             <span>
-              👉 東京までの 切符を一枚ください。 (Tokyo made no kippu o ichimai
-              kudasai.)
+              👉{" "}
+              <span className="kanji">
+                東京<span className="furigana">ときょう</span>
+              </span>
+              までの{" "}
+              <span className="kanji">
+                切符<span className="furigana">きっぷ</span>
+              </span>
+              を
+              <span className="kanji">
+                一枚<span className="furigana">いちまい</span>
+              </span>
+              ください。 (Tokyo made no kippu o ichimai kudasai.)
             </span>
             <li>What platform is train number 7 on?</li>
-            <span>👉 7番線 はどこですか？ (Nanaban-sen wa doko desu ka?)</span>
+            <span>
+              👉{" "}
+              <span className="kanji">
+                7番線<span className="furigana">ななばんせん</span>
+              </span>{" "}
+              はどこですか？ (Nanaban-sen wa doko desu ka?)
+            </span>
             <li>The next train arrives at 3:45 PM.</li>
             <span>
-              👉 次の電車は 午後三時四十五分 です。 (Tsugi no densha wa gogo
-              sanji yonjuu gofun desu.)
+              👉{" "}
+              <span className="kanji">
+                次<span className="furigana">つぎ</span>
+              </span>
+              の
+              <span className="kanji">
+                電車<span className="furigana">でんしゃ</span>
+              </span>
+              は{" "}
+              <span className="kanji">
+                午後<span className="furigana">ごご</span>
+              </span>
+              <span className="kanji">
+                三時<span className="furigana">さんじ</span>
+              </span>
+              <span className="kanji">
+                四十<span className="furigana">よんじゅう</span>
+              </span>
+              <span className="kanji">
+                五分<span className="furigana">ごふん</span>
+              </span>{" "}
+              です。 (Tsugi no densha wa gogo sanji yonjuu gofun desu.)
             </span>
             <li>I want to take the 9:00 AM bus.</li>
             <span>
-              👉 午前九時 のバスに乗りたいです。 (Gozen kuji no basu ni noritai
-              desu.)
+              👉{" "}
+              <span className="kanji">
+                午前<span className="furigana">ごぜん</span>
+              </span>
+              <span className="kanji">
+                九時<span className="furigana">くうじ</span>
+              </span>{" "}
+              のバスに
+              <span className="kanji">
+                乗<span className="furigana">の</span>
+              </span>
+              りたいです。 (Gozen kuji no basu ni noritai desu.)
             </span>
             <li>Does this train stop at Kyoto?</li>
             <span>
-              👉 この電車は 京都に止まりますか？ (Kono densha wa Kyoto ni
-              tomarimasu ka?)
+              👉 この
+              <span className="kanji">
+                電車<span className="furigana">でんしゃ</span>
+              </span>
+              は{" "}
+              <span className="kanji">
+                京都<span className="furigana">きょうと</span>
+              </span>
+              に
+              <span className="kanji">
+                止<span className="furigana">と</span>
+              </span>
+              まりますか？ (Kono densha wa Kyoto ni tomarimasu ka?)
             </span>
           </ol>
 
@@ -3512,21 +3696,45 @@ function Travel({ setActiveSection }) {
           <ol className="indent">
             <li>I have a reservation for two nights.</li>
             <span>
-              👉 二泊 の予約があります。 (Nihaku no yoyaku ga arimasu.)
+              👉{" "}
+              <span className="kanji">
+                二泊<span className="furigana">にはく</span>
+              </span>{" "}
+              の
+              <span className="kanji">
+                予約<span className="furigana">よやく</span>
+              </span>
+              があります。 (Nihaku no yoyaku ga arimasu.)
             </span>
             <li>The room number is 305.</li>
             <span>
-              👉 部屋番号は 305 です。 (Heya bangou wa sanmarugo desu.)
+              👉{" "}
+              <span className="kanji">
+                部屋番号<span className="furigana">へやばんごう</span>
+              </span>
+              は 305 です。 (Heya bangou wa sanmarugo desu.)
             </span>
             <li>Check-out is at 11:00 AM.</li>
             <span>
-              👉 チェックアウトは 午前十一時 です。 (Chekkuauto wa gozen
-              juuichiji desu.)
+              👉 チェックアウトは{" "}
+              <span className="kanji">
+                午前<span className="furigana">ごぜん</span>
+              </span>
+              <span className="kanji">
+                十一時<span className="furigana">じゅういちじ</span>
+              </span>{" "}
+              です。 (Chekkuauto wa gozen juuichiji desu.)
             </span>
             <li>Can I get two extra towels?</li>
             <span>
-              👉 タオルを 二枚 追加できますか？ (Tauru o nimai tsuika dekimasu
-              ka?)
+              👉 タオルを{" "}
+              <span className="kanji">
+                二枚<span className="furigana">にまい</span>
+              </span>{" "}
+              <span className="kanji">
+                追加<span className="furigana">ついか</span>
+              </span>
+              できますか？ (Tauru o nimai tsuika dekimasu ka?)
             </span>
           </ol>
 
