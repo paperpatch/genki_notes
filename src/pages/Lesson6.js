@@ -57,8 +57,6 @@ function Lesson6() {
                   <div className="horizontal-line-orange"></div>
                 </td>
               </tr>
-            </tbody>
-            <tbody>
               <tr>
                 <th rowSpan="14" className="table-subheader">
                   U-verbs with final
@@ -152,13 +150,11 @@ function Lesson6() {
                 <td>→</td>
                 <td>話して</td>
               </tr>
-            </tbody>
-            <tr>
-              <td colSpan="9" className="horizontal-line-wrapper">
-                <div className="horizontal-line-orange"></div>
-              </td>
-            </tr>
-            <tbody>
+              <tr>
+                <td colSpan="9" className="horizontal-line-wrapper">
+                  <div className="horizontal-line-orange"></div>
+                </td>
+              </tr>
               <tr>
                 <th rowSpan="2" className="table-subheader">
                   Irregular verbs
