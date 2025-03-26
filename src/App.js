@@ -95,7 +95,7 @@ function AppWrapper() {
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename="/genki_notes">
       <AppWrapper />
     </Router>
   );
