@@ -231,7 +231,7 @@ body.dark-mode .toc button:hover {
   background-color: #3a3d42;
 }
 
-body.dark-mode .toc li.active a {
+body.dark-mode .toc li.active {
   background-color: #353535;
 }
 
