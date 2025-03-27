@@ -18,8 +18,6 @@ export function useSmoothScrollToSection() {
       }
     };
 
-    // console.log("scrollToHash");
-
     scrollToHash();
   }, [location.hash]);
 }
