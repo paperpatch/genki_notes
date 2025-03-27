@@ -95,7 +95,9 @@ function AppWrapper() {
 
 function App() {
   return (
-    <Router basename="/genki_notes">
+    <Router
+      basename={process.env.NODE_ENV === "development" ? "/" : "/genki_notes"}
+    >
       <AppWrapper />
     </Router>
   );

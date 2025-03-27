@@ -25,12 +25,12 @@ export function useSmoothScrollToSection() {
 }
 
 export function scrollToSection(sectionId) {
-  if (window.location.pathname !== "/genki_notes/travel") {
-    window.location.href = `/genki_notes/travel#${sectionId}`;
+  if (window.location.pathname !== "/travel") {
+    window.location.href = `/travel#${sectionId}`;
 
-    // setTimeout(() => {
-    //   window.history.replaceState(null, "", "/genki_notes/travel");
-    // }, 1000);
+    setTimeout(() => {
+      window.history.replaceState(null, "", "/travel");
+    }, 1000);
   } else {
     // console.log("scroll into view");
     const section = document.getElementById(sectionId);
