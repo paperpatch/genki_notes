@@ -25,11 +25,13 @@ export function useSmoothScrollToSection() {
 }
 
 export function scrollToSection(sectionId) {
-  if (window.location.pathname !== "/travel") {
-    window.location.href = `/travel#${sectionId}`;
+  const basePath = process.env.NODE_ENV === "development" ? "" : "/genki_notes";
+
+  if (window.location.pathname !== `${basePath}/travel`) {
+    window.location.href = `${basePath}/travel#${sectionId}`;
 
     setTimeout(() => {
-      window.history.replaceState(null, "", "/travel");
+      window.history.replaceState(null, "", `${basePath}/travel`);
     }, 1000);
   } else {
     // console.log("scroll into view");
