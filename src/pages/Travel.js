@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { useSmoothScrollToSection } from "../utils/Helpers";
+import { useLocation } from "react-router-dom";
 import "./Pages.css";
 
 function Travel({ setActiveSection }) {
@@ -11,8 +12,21 @@ function Travel({ setActiveSection }) {
   const restaurantRef = useRef(null);
   const shoppingRef = useRef(null);
   const numbersRef = useRef(null);
+  const location = useLocation();
 
   useSmoothScrollToSection();
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const sectionId = params.get("section");
+
+    if (sectionId) {
+      const section = document.getElementById(sectionId);
+      if (section) {
+        section.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  }, [location]);
 
   // detect scroll and update activeSection
   useEffect(() => {

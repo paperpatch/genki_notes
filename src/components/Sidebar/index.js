@@ -1,6 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { Link, useLocation } from "react-router-dom";
-import { scrollToSection } from "../../utils/Helpers.js";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import "./Sidebar.css";
 
 function Sidebar({ activeSection }) {
@@ -12,10 +11,15 @@ function Sidebar({ activeSection }) {
   const sidebarRef = useRef(null);
   const toggleButtonRef = useRef(null);
   const location = useLocation();
+  const navigate = useNavigate();
 
   const toggleTravel = () => setTravelOpen(!travelOpen);
   const toggleGenkiOne = () => setGenkiOneOpen(!genkiOneOpen);
   const toggleGenkiTwo = () => setGenkiTwoOpen(!genkiTwoOpen);
+
+  const handleTravelNavigation = (sectionId) => {
+    navigate(`/travel?section=${sectionId}`);
+  };
 
   // Check screen size for mobile view
   useEffect(() => {
@@ -91,61 +95,48 @@ function Sidebar({ activeSection }) {
             {travelOpen && (
               <ul className="nested">
                 <li className={activeSection === "greetings" ? "active" : ""}>
-                  <Link
-                    to="/travel"
-                    onClick={() => scrollToSection("greetings")}
-                  >
+                  <button onClick={() => handleTravelNavigation("greetings")}>
                     Greetings
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "airport" ? "active" : ""}>
-                  <Link to="/travel" onClick={() => scrollToSection("airport")}>
+                  <button onClick={() => handleTravelNavigation("airport")}>
                     Airport
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "directions" ? "active" : ""}>
-                  <Link
-                    to="/travel"
-                    onClick={() => scrollToSection("directions")}
-                  >
+                  <button onClick={() => handleTravelNavigation("directions")}>
                     Directions
-                  </Link>
+                  </button>
                 </li>
                 <li
                   className={activeSection === "transportation" ? "active" : ""}
                 >
-                  <Link
-                    to="/travel"
-                    onClick={() => scrollToSection("transportation")}
+                  <button
+                    onClick={() => handleTravelNavigation("transportation")}
                   >
                     Transportation
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "hotel" ? "active" : ""}>
-                  <Link to="/travel" onClick={() => scrollToSection("hotel")}>
+                  <button onClick={() => handleTravelNavigation("hotel")}>
                     Hotel
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "restaurant" ? "active" : ""}>
-                  <Link
-                    to="/travel"
-                    onClick={() => scrollToSection("restaurant")}
-                  >
+                  <button onClick={() => handleTravelNavigation("restaurant")}>
                     Restaurant
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "shopping" ? "active" : ""}>
-                  <Link
-                    to="/travel"
-                    onClick={() => scrollToSection("shopping")}
-                  >
+                  <button onClick={() => handleTravelNavigation("shopping")}>
                     Shopping
-                  </Link>
+                  </button>
                 </li>
                 <li className={activeSection === "numbers" ? "active" : ""}>
-                  <Link to="/travel" onClick={() => scrollToSection("numbers")}>
+                  <button onClick={() => handleTravelNavigation("numbers")}>
                     Numbers
-                  </Link>
+                  </button>
                 </li>
               </ul>
             )}

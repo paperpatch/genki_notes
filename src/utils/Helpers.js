@@ -23,21 +23,3 @@ export function useSmoothScrollToSection() {
     scrollToHash();
   }, [location.hash]);
 }
-
-export function scrollToSection(sectionId) {
-  const basePath = process.env.NODE_ENV === "development" ? "" : "/genki_notes";
-
-  if (window.location.pathname !== `${basePath}/travel`) {
-    window.location.href = `${basePath}/travel#${sectionId}`;
-
-    setTimeout(() => {
-      window.history.replaceState(null, "", `${basePath}/travel`);
-    }, 1000);
-  } else {
-    // console.log("scroll into view");
-    const section = document.getElementById(sectionId);
-    if (section) {
-      section.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  }
-}
