@@ -6,7 +6,7 @@ export function useSmoothScrollToSection() {
 
   useEffect(() => {
     const scrollToHash = () => {
-      const hash = location.hash;
+      const hash = decodeURIComponent(location.hash);
       if (hash) {
         const element = document.getElementById(hash.substring(1));
         if (element) {
