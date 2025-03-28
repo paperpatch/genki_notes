@@ -37,6 +37,7 @@ import Lesson20 from "./pages/Lesson20";
 import Lesson21 from "./pages/Lesson21";
 import Lesson22 from "./pages/Lesson22";
 import Lesson23 from "./pages/Lesson23";
+import PageNotFound from "./pages/PageNotFound"
 import Resources from "./pages/Resources";
 
 function AppWrapper() {
@@ -85,7 +86,7 @@ function AppWrapper() {
             <Route path="/lesson22" element={<Lesson22 />} />
             <Route path="/lesson23" element={<Lesson23 />} />
             <Route path="/resources" element={<Resources />} />
-            <Route path="*" element={<Home />} />
+            <Route path="*" element={<PageNotFound />} />
           </Routes>
         </div>
       </div>
