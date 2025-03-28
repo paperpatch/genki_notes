@@ -91,7 +91,7 @@
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #2196f3;
 }
 
 input:checked + .slider:before {
@@ -142,23 +142,23 @@ html.font-size-2 {
 
 /* Font Family */
 html.arial {
-  font-family: 'arial', 'arial' !important;
+  font-family: "arial", "arial" !important;
 }
 
 html.times {
-  font-family: 'times', 'times' !important;
+  font-family: "times", "times" !important;
 }
 
 html.courier {
-  font-family: 'courier', 'courier' !important;
+  font-family: "courier", "courier" !important;
 }
 
 html.comicsansms {
-  font-family: 'comic sans ms', 'comic sans ms' !important;
+  font-family: "comic sans ms", "comic sans ms" !important;
 }
 
 html.impact {
-  font-family: 'impact', 'impact' !important;
+  font-family: "impact", "impact" !important;
 }
 
 /* Dark Mode for Body */
@@ -179,10 +179,11 @@ body.dark-mode .icon-container {
 
 body.dark-mode .icon-container.rotated .icon-gear {
   transform: rotate(90deg);
-  filter: invert(29%) sepia(99%) saturate(4000%) hue-rotate(190deg) brightness(95%) contrast(102%);
+  filter: invert(29%) sepia(99%) saturate(4000%) hue-rotate(190deg)
+    brightness(95%) contrast(102%);
 }
 
-body.dark-mode .settings-modal  {
+body.dark-mode .settings-modal {
   background-color: #1b1b1c;
   color: #e0e0e0;
   border: 1px solid #323236;
@@ -247,7 +248,7 @@ body.dark-mode .nested li a:active {
 
 body.dark-mode .content {
   background-color: #111112;
-  color: #e0e0e0
+  color: #e0e0e0;
 }
 
 body.dark-mode .background-pink {
@@ -284,6 +285,17 @@ body.dark-mode .text-black {
 
 body.dark-mode .underline-black {
   text-decoration-color: white;
+}
+
+body.dark-mode .link {
+  color: #6fb2fa;
+  text-decoration: none;
+}
+
+body.dark-mode .link:hover {
+  color: #6fb2fa;
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
 
 /* Footer */
