@@ -19,10 +19,7 @@ function Resources() {
         <p>
           <strong>Q: Will this site be updated?</strong>
         </p>
-        <p>
-          A: I plan to gradually expand the content. Subject to
-          change.
-        </p>
+        <p>A: I plan to gradually expand the content. Subject to change.</p>
         <p>
           <strong>
             Q: What resources do you recommend for learning Japanese?
@@ -39,6 +36,7 @@ function Resources() {
         <p>
           Project on{" "}
           <a
+          className="link"
             href="https://github.com/paperpatch/genki_notes"
             target="_blank"
             rel="noopener noreferrer"
@@ -49,6 +47,7 @@ function Resources() {
         <p>
           Visit my{" "}
           <a
+            className="link"
             href="https://www.patrickchen.dev/"
             target="_blank"
             rel="noopener noreferrer"
