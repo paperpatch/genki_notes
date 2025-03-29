@@ -37,7 +37,7 @@ import Lesson20 from "./pages/Lesson20";
 import Lesson21 from "./pages/Lesson21";
 import Lesson22 from "./pages/Lesson22";
 import Lesson23 from "./pages/Lesson23";
-import PageNotFound from "./pages/PageNotFound"
+import PageNotFound from "./pages/PageNotFound";
 import Resources from "./pages/Resources";
 
 function AppWrapper() {
@@ -49,6 +49,41 @@ function AppWrapper() {
       setActiveSection("");
     }
   }, [location.pathname]);
+
+  const validRoutes = [
+    "/",
+    "/travel",
+    "/lesson1",
+    "/lesson2",
+    "/lesson3",
+    "/lesson4",
+    "/lesson5",
+    "/lesson6",
+    "/lesson7",
+    "/lesson8",
+    "/lesson9",
+    "/lesson10",
+    "/lesson11",
+    "/lesson12",
+    "/lesson13",
+    "/lesson14",
+    "/lesson15",
+    "/lesson16",
+    "/lesson17",
+    "/lesson18",
+    "/lesson19",
+    "/lesson20",
+    "/lesson21",
+    "/lesson22",
+    "/lesson23",
+    "/resources",
+  ];
+
+  const isValidRoute = validRoutes.includes(location.pathname);
+
+  if (!isValidRoute) {
+    return <PageNotFound />;
+  }
 
   return (
     <div>
@@ -86,7 +121,6 @@ function AppWrapper() {
             <Route path="/lesson22" element={<Lesson22 />} />
             <Route path="/lesson23" element={<Lesson23 />} />
             <Route path="/resources" element={<Resources />} />
-            <Route path="*" element={<PageNotFound />} />
           </Routes>
         </div>
       </div>

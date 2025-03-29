@@ -1,14 +1,19 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./PageNotFound.css";
 
 function PageNotFound() {
   return (
-    <div style={{ textAlign: "center", padding: "50px" }}>
+    <div className="page-not-found">
       <h1>404</h1>
       <h2>Page Not Found</h2>
       <p>
-        Sorry, the page you are looking for does not exist. You can always go back to the{" "}
-        <Link className="link" to="/">homepage</Link>.
+        Sorry, the page you are looking for does not exist. You can always go
+        back to the{" "}
+        <Link className="link" to="/">
+          homepage
+        </Link>
+        .
       </p>
     </div>
   );
