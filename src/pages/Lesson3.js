@@ -1,6 +1,5 @@
 import React from "react";
 import { useSmoothScrollToSection } from "../utils/Helpers";
-import "./Pages.css";
 
 function Lesson3() {
   useSmoothScrollToSection();

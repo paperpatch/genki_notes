@@ -1,4 +1,4 @@
-import "./Pages.css";
+import "../styles/pages.css";
 
 function Resources() {
   return (
@@ -36,7 +36,7 @@ function Resources() {
         <p>
           Project on{" "}
           <a
-          className="link"
+            className="link"
             href="https://github.com/paperpatch/genki_notes"
             target="_blank"
             rel="noopener noreferrer"

@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { useSmoothScrollToSection } from "../utils/Helpers";
 import { useLocation } from "react-router-dom";
-import "./Pages.css";
+import "../styles/pages.css";
 
 function Travel({ setActiveSection }) {
   const greetingsRef = useRef(null);
