@@ -1,0 +1,157 @@
+/* Theme for App and Section */
+
+body.dark-mode section {
+  box-shadow: 1px 1px 10px rgba(77, 77, 77, 0.464);
+  background-color: #353535;
+}
+
+body.dark-mode .app-container {
+  background-color: #111112;
+}
+
+/* Theme for Body */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode a {
+  color: #e0e0e0;
+}
+
+/* Theme for Settings */
+
+body.dark-mode .icon-container {
+  background-color: #1b1b1c;
+}
+
+body.dark-mode .icon-container.rotated .icon-gear {
+  transform: rotate(90deg);
+  filter: invert(29%) sepia(99%) saturate(4000%) hue-rotate(190deg)
+    brightness(95%) contrast(102%);
+}
+
+body.dark-mode .settings-modal {
+  background-color: #1b1b1c;
+  color: #e0e0e0;
+  border: 1px solid #323236;
+}
+
+/* Theme for Search Bar */
+
+body.dark-mode .header {
+  box-shadow: 1px 1px 10px rgba(77, 77, 77, 0.464);
+  background-color: #353535;
+}
+
+body.dark-mode .searchbar input {
+  background-color: #3a3d42;
+  color: #e0e0e0;
+}
+
+body.dark-mode .searchbar input::placeholder {
+  color: #e0e0e0ae;
+}
+
+body.dark-mode .search-item.active,
+body.dark-mode .search-item li:hover {
+  color: #232020;
+  background-color: #b9b9ba;
+}
+
+body.dark-mode .results {
+  background-color: #3a3d42;
+  color: white;
+}
+
+/* Theme for Sidebar */
+
+body.dark-mode .sidebar {
+  background-color: #111112;
+}
+
+body.dark-mode .sidebar h2,
+body.dark-mode .sidebar button,
+body.dark-mode .sidebar a {
+  color: #ffffff;
+}
+
+body.dark-mode .toc button:hover {
+  background-color: #3a3d42;
+}
+
+body.dark-mode .toc li.active {
+  background-color: #353535;
+}
+
+body.dark-mode .nested li a:hover {
+  background-color: #3a3d42;
+}
+
+body.dark-mode .nested li a:active {
+  background-color: #3a3d42d7;
+}
+
+/* Theme for Content */
+
+body.dark-mode .content {
+  background-color: #111112;
+  color: #e0e0e0;
+}
+
+body.dark-mode .background-pink {
+  background-color: rgb(133, 78, 86);
+}
+
+body.dark-mode .background-mint {
+  background-color: #42725d;
+}
+
+body.dark-mode .background-white {
+  background-color: #2f2b2b;
+}
+
+body.dark-mode .background-grey {
+  background-color: #3c3b3b;
+}
+
+body.dark-mode .marker-black polygon {
+  fill: #e0e0e0;
+}
+
+body.dark-mode line.diagram-black-line {
+  stroke: #e0e0e0;
+}
+
+body.dark-mode text.diagram-black-text {
+  fill: #e0e0e0;
+}
+
+body.dark-mode .text-black {
+  color: white;
+}
+
+body.dark-mode .underline-black {
+  text-decoration-color: white;
+}
+
+body.dark-mode .link {
+  color: #6fb2fa;
+  text-decoration: none;
+}
+
+body.dark-mode .link:hover {
+  color: #6fb2fa;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Theme for Footer */
+
+body.dark-mode .footer {
+  background-color: #111112;
+}
+
+body.dark-mode .footer-content {
+  background-color: #111112;
+}
