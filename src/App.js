@@ -14,29 +14,31 @@ import Sidebar from "./components/Sidebar";
 // lessons
 import Home from "./pages/Home";
 import Travel from "./pages/Travel";
-import Lesson1 from "./pages/Lesson1";
-import Lesson2 from "./pages/Lesson2";
-import Lesson3 from "./pages/Lesson3";
-import Lesson4 from "./pages/Lesson4";
-import Lesson5 from "./pages/Lesson5";
-import Lesson6 from "./pages/Lesson6";
-import Lesson7 from "./pages/Lesson7";
-import Lesson8 from "./pages/Lesson8";
-import Lesson9 from "./pages/Lesson9";
-import Lesson10 from "./pages/Lesson10";
-import Lesson11 from "./pages/Lesson11";
-import Lesson12 from "./pages/Lesson12";
-import Lesson13 from "./pages/Lesson13";
-import Lesson14 from "./pages/Lesson14";
-import Lesson15 from "./pages/Lesson15";
-import Lesson16 from "./pages/Lesson16";
-import Lesson17 from "./pages/Lesson17";
-import Lesson18 from "./pages/Lesson18";
-import Lesson19 from "./pages/Lesson19";
-import Lesson20 from "./pages/Lesson20";
-import Lesson21 from "./pages/Lesson21";
-import Lesson22 from "./pages/Lesson22";
-import Lesson23 from "./pages/Lesson23";
+import {
+  Lesson1,
+  Lesson2,
+  Lesson3,
+  Lesson4,
+  Lesson5,
+  Lesson6,
+  Lesson7,
+  Lesson8,
+  Lesson9,
+  Lesson10,
+  Lesson11,
+  Lesson12,
+  Lesson13,
+  Lesson14,
+  Lesson15,
+  Lesson16,
+  Lesson17,
+  Lesson18,
+  Lesson19,
+  Lesson20,
+  Lesson21,
+  Lesson22,
+  Lesson23,
+} from "./pages/lessons";
 import PageNotFound from "./pages/PageNotFound";
 import Resources from "./pages/Resources";
 
