@@ -2,17 +2,18 @@
 
 This page serves as a personal review and summary of what I’ve learned from the Genki I & II textbooks. It’s designed to help me reinforce key concepts and grammar points while providing a quick reference for future study. While this is a personal resource, I hope it can also be useful for others who are revisiting or reviewing the material.
 
-![Screenshot](./src/assets/images/genki-notes-screenshot.png)
+![Screenshot](./src/assets/images/screenshot/genki-notes-screenshot.png)
 
 ## Table of Contents
 
-* [Setup](#setup)
-* [Usage](#usage)
-* [Deployment](#deployment)
-* [Contributing](#contributing)
-* [License](#license)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Setup
+
 :floppy_disk:
 
 - [React](https://reactjs.org/)
@@ -26,7 +27,6 @@ Designed to be a user-friendly tool for learners, it provides a comprehensive gr
 
 ## Deployment
 
-
 [Deployed Link](https://paperpatch.github.io/genki_notes/)
 
 ## Contributing
@@ -38,4 +38,3 @@ Designed to be a user-friendly tool for learners, it provides a comprehensive gr
 ## License
 
 :receipt:
-
