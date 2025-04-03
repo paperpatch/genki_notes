@@ -1,6 +1,8 @@
 # Genki Review Notes
 
-This page serves as a personal review and summary of what I’ve learned from the Genki I & II textbooks. It’s designed to help me reinforce key concepts and grammar points while providing a quick reference for future study. While this is a personal resource, I hope it can also be useful for others who are revisiting or reviewing the material.
+This project is a personal collection of review notes and summaries covering various Japanese language learning materials. Originally based on the Genki I & II textbooks, it has since expanded to include additional resources such as kanji lists, travel-related vocabulary, and more. It serves as a structured reference for reinforcing key concepts, grammar points, and vocabulary.
+
+While this is primarily a personal study aid, I hope it can also be useful to others reviewing similar materials.
 
 ![Screenshot](./src/assets/images/screenshot/genki-notes-screenshot.png)
 
