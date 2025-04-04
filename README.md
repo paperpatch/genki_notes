@@ -25,7 +25,7 @@ While this is primarily a personal study aid, I hope it can also be useful to ot
 
 :computer:
 
-Designed to be a user-friendly tool for learners, it provides a comprehensive grammar explanations and vocabulary. Key features include Intuitive Navigation, where you can easily navigate through each lessons and sections within each lesson to access the information you need. It also has a powerful search functionality to help you quickly find specific grammar points, vocabulary words, or phrases using the built-in search function. Genki Notes provides customization where you can adjust the font size and switch between light and dark modes to enhance readability to personalize your learning experience.
+Designed to be a user-friendly tool for learners, it provides a comprehensive grammar explanations and vocabulary. Key features include Intuitive Navigation, where you can easily navigate through each lessons and sections within each lesson to access the information you need. It also has a powerful search functionality to help you quickly find specific grammar points, vocabulary words, or phrases using the built-in search function. It includes quick vocabularly travel words to refresh your memory. Genki Notes provides customization where you can adjust the font size and switch between light and dark modes to enhance readability to personalize your learning experience.
 
 ## Deployment
 
