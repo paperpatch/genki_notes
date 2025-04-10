@@ -89,7 +89,7 @@ function Sidebar({ activeSection }) {
         <h2>Table of Contents</h2>
         <ul className="toc">
           <li>
-            <button onClick={toggleTravel}>
+            <button style={{ fontWeight: "bold" }} onClick={toggleTravel}>
               Travel {travelOpen ? "⮟" : "⮝"}
             </button>
             {travelOpen && (
@@ -142,7 +142,7 @@ function Sidebar({ activeSection }) {
             )}
           </li>
           <li>
-            <button onClick={toggleGenkiOne}>
+            <button style={{ fontWeight: "bold" }} onClick={toggleGenkiOne}>
               Genki I {genkiOneOpen ? "⮟" : "⮝"}
             </button>
             {genkiOneOpen && (
@@ -211,7 +211,7 @@ function Sidebar({ activeSection }) {
             )}
           </li>
           <li>
-            <button onClick={toggleGenkiTwo}>
+            <button style={{ fontWeight: "bold" }} onClick={toggleGenkiTwo}>
               Genki II {genkiTwoOpen ? "⮟" : "⮝"}
             </button>
             {genkiTwoOpen && (
