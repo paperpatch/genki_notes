@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import "./Sidebar.css";
 
 function Sidebar({ activeSection }) {
+  const [kanjiOpen, setKanjiOpen] = useState(true);
   const [travelOpen, setTravelOpen] = useState(true);
   const [genkiOneOpen, setGenkiOneOpen] = useState(true);
   const [genkiTwoOpen, setGenkiTwoOpen] = useState(true);
@@ -13,6 +14,7 @@ function Sidebar({ activeSection }) {
   const location = useLocation();
   const navigate = useNavigate();
 
+  const toggleKanji = () => setKanjiOpen(!kanjiOpen);
   const toggleTravel = () => setTravelOpen(!travelOpen);
   const toggleGenkiOne = () => setGenkiOneOpen(!genkiOneOpen);
   const toggleGenkiTwo = () => setGenkiTwoOpen(!genkiTwoOpen);
@@ -88,6 +90,20 @@ function Sidebar({ activeSection }) {
       >
         <h2>Table of Contents</h2>
         <ul className="toc">
+          <li>
+            <button style={{ fontWeight: "bold" }} onClick={toggleKanji}>
+              JLPT {kanjiOpen ? "⮟" : "⮝"}
+            </button>
+            {kanjiOpen && (
+              <ul className="nested">
+                <li
+                  className={location.pathname === "/jlpt/n5" ? "active" : ""}
+                >
+                  <Link to="/jlpt/n5">JLPT N5</Link>
+                </li>
+              </ul>
+            )}
+          </li>
           <li>
             <button style={{ fontWeight: "bold" }} onClick={toggleTravel}>
               Travel {travelOpen ? "⮟" : "⮝"}
