@@ -14,6 +14,7 @@ import Sidebar from "./components/Sidebar";
 // lessons
 import Home from "./pages/Home";
 import Travel from "./pages/Travel";
+import { JLPT1, JLPT2, JLPT3, JLPT4, JLPT5 } from "./pages/jlpt";
 import {
   Lesson1,
   Lesson2,
@@ -55,6 +56,11 @@ function AppWrapper() {
   const validRoutes = [
     "/",
     "/travel",
+    "/jlpt/n1",
+    "/jlpt/n2",
+    "/jlpt/n3",
+    "/jlpt/n4",
+    "/jlpt/n5",
     "/lesson1",
     "/lesson2",
     "/lesson3",
@@ -99,6 +105,11 @@ function AppWrapper() {
               path="/travel"
               element={<Travel setActiveSection={setActiveSection} />}
             />
+            <Route path="/JLPT/n5" element={<JLPT5 />} />
+            <Route path="/JLPT/n4" element={<JLPT4 />} />
+            <Route path="/JLPT/n3" element={<JLPT3 />} />
+            <Route path="/JLPT/n2" element={<JLPT2 />} />
+            <Route path="/JLPT/n1" element={<JLPT1 />} />
             <Route path="/lesson1" element={<Lesson1 />} />
             <Route path="/lesson2" element={<Lesson2 />} />
             <Route path="/lesson3" element={<Lesson3 />} />
