@@ -101,6 +101,26 @@ function Sidebar({ activeSection }) {
                 >
                   <Link to="/jlpt/n5">JLPT N5</Link>
                 </li>
+                <li
+                  className={location.pathname === "/jlpt/n4" ? "active" : ""}
+                >
+                  <Link to="/jlpt/n4">JLPT N4</Link>
+                </li>
+                <li
+                  className={location.pathname === "/jlpt/n3" ? "active" : ""}
+                >
+                  <Link to="/jlpt/n3">JLPT N3</Link>
+                </li>
+                <li
+                  className={location.pathname === "/jlpt/n2" ? "active" : ""}
+                >
+                  <Link to="/jlpt/n2">JLPT N2</Link>
+                </li>
+                <li
+                  className={location.pathname === "/jlpt/n1" ? "active" : ""}
+                >
+                  <Link to="/jlpt/n1">JLPT N1</Link>
+                </li>
               </ul>
             )}
           </li>
