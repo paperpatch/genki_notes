@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "onyomi": "nichi, jitsu",
+    "kunyomi": "hi, -bi, -ka",
+    "meaning": "day, sun, Japan, counter for days"
+  },
+  {
+    "id": 2,
+    "kanji": "一",
+    "onyomi": "ichi",
+    "kunyomi": "hito(tsu)",
+    "meaning": "one"
+  }
+]
