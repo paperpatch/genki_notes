@@ -1,0 +1,31 @@
+.kanji-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.kanji-table th,
+.kanji-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.kanji-table th {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.kanji-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.kanji-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.kanji-table td {
+  vertical-align: top;
+}
