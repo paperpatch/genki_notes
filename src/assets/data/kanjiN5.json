@@ -1,171 +1,290 @@
 [
   {
     "id": 1,
-    "kanji": "日",
-    "onyomi": "nichi, jitsu",
-    "kunyomi": "hi, -bi, -ka",
-    "meaning": "day, sun, Japan, counter for days"
+    "kanji": "人",
+    "onyomi": "ジン   ニン",
+    "kunyomi": "ひと person",
+    "meaning": "person"
   },
   {
     "id": 2,
     "kanji": "一",
-    "onyomi": "ichi",
-    "kunyomi": "hito(tsu)",
+    "onyomi": "イチ   イツ",
+    "kunyomi": "ひとつ   ひと- one",
     "meaning": "one"
   },
   {
     "id": 3,
-    "kanji": "国",
-    "onyomi": "koku",
-    "kunyomi": "kuni",
-    "meaning": "country"
+    "kanji": "日",
+    "onyomi": "ニチ   ジツ",
+    "kunyomi": "ひ   -か",
+    "meaning": "day, sun, Japan, counter for days"
   },
   {
     "id": 4,
-    "kanji": "人",
-    "onyomi": "jin, nin",
-    "kunyomi": "hito",
-    "meaning": "person"
+    "kanji": "大",
+    "onyomi": "ダイ   タイ",
+    "kunyomi": "おおきい big   おおいに very much   おお-",
+    "meaning": "big, very much, large"
   },
   {
     "id": 5,
     "kanji": "年",
-    "onyomi": "nen",
-    "kunyomi": "toshi",
+    "onyomi": "ネン",
+    "kunyomi": "とし year",
     "meaning": "year, counter for years"
   },
   {
     "id": 6,
-    "kanji": "大",
-    "onyomi": "dai, tai",
-    "kunyomi": "oo(kii)",
-    "meaning": "large, big"
-  },
-  {
-    "id": 7,
-    "kanji": "十",
-    "onyomi": "juu",
-    "kunyomi": "tou, to",
-    "meaning": "ten, 10"
-  },
-  {
-    "id": 8,
-    "kanji": "二",
-    "onyomi": "ni, ji",
-    "kunyomi": "futa(tsu)",
-    "meaning": "two, 2"
-  },
-  {
-    "id": 9,
-    "kanji": "本",
-    "onyomi": "hon",
-    "kunyomi": "moto",
-    "meaning": "book, present, true, counter for long cylindrical things"
-  },
-  {
-    "id": 10,
-    "kanji": "中",
-    "onyomi": "chuu",
-    "kunyomi": "naka, uchi, ata(ru)",
-    "meaning": "in, inside, middle, mean, center"
-  },
-  {
-    "id": 11,
-    "kanji": "長",
-    "onyomi": "chou",
-    "kunyomi": "naga(i), osa",
-    "meaning": "long, leader, superior, senior"
-  },
-  {
-    "id": 12,
     "kanji": "出",
-    "onyomi": "shutsu, sui",
-    "kunyomi": "de(ru), da(su), i(deru)",
+    "onyomi": "シュツ   スイ",
+    "kunyomi": "だす to take out, to put out   でる to go out, to exit",
     "meaning": "exit, leave, go out"
   },
   {
+    "id": 7,
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと origin",
+    "meaning": "book, present, true, counter for long cylindrical things"
+  },
+  {
+    "id": 8,
+    "kanji": "中",
+    "onyomi": "チュウ   ジュウ",
+    "kunyomi": "なか middle",
+    "meaning": "in, inside, middle, mean, center"
+  },
+  {
+    "id": 9,
+    "kanji": "子",
+    "onyomi": "シ   ス",
+    "kunyomi": "こ child",
+    "meaning": "child"
+  },
+  {
+    "id": 10,
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "みる to see   みえる to be seen; to appear   みせる to show",
+    "meaning": "see, hopes, chances, idea, opinion, look at, visible"
+  },
+  {
+    "id": 11,
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに country",
+    "meaning": "country"
+  },
+  {
+    "id": 12,
+    "kanji": "上",
+    "onyomi": "ジョウ   ショウ",
+    "kunyomi": "うえ above   うわ- above   あげる to raise   あがる to rise   かみ first half, upper part   のぼる to climb   のぼせる to bring up, to raise   のぼす to bring up",
+    "meaning": "above, up"
+  },
+  {
     "id": 13,
-    "kanji": "三",
-    "onyomi": "san",
-    "kunyomi": "mi(tsu)",
-    "meaning": "three, 3"
+    "kanji": "分",
+    "onyomi": "ブン   ブ   フン",
+    "kunyomi": "わける to divide, to distinguish   わかる to understand   わかれる to be divided   わかつ to share, distribute",
+    "meaning": "divide, part, minute of time, understand"
   },
   {
     "id": 14,
-    "kanji": "時",
-    "onyomi": "ji",
-    "kunyomi": "toki, doki",
-    "meaning": "time, hour"
+    "kanji": "生",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "なま raw   いかす to enliven   いきる to live   いける to arrange flowers   うまれる to be born   うむ to give birth to   き pure, undiluted   おう to grow, to sprout   はえる to grow, to sprout   はやす to grow, cultivate",
+    "meaning": "life, genuine, birth"
   },
   {
     "id": 15,
     "kanji": "行",
-    "onyomi": "kou, gyou, an",
-    "kunyomi": "i(ku), yu(ku), okona(u)",
-    "meaning": "going, journey, carry out, line, row"
+    "onyomi": "コウ   ギョウ   アン",
+    "kunyomi": "ゆく   いく to go   おこなう to take place",
+    "meaning": "to go, going, journey, carry out, line, row"
   },
   {
     "id": 16,
-    "kanji": "見",
-    "onyomi": "ken",
-    "kunyomi": "mi(ru), mi(seru)",
-    "meaning": "see, hopes, chances, idea, opinion, look at, visible"
+    "kanji": "二",
+    "onyomi": "ニ",
+    "kunyomi": "ふたつ   ふた two",
+    "meaning": "two, 2"
   },
   {
     "id": 17,
-    "kanji": "月",
-    "onyomi": "getsu, gatsu",
-    "kunyomi": "tsuki",
-    "meaning": "month, moon"
-  },
-  {
-    "id": 18,
-    "kanji": "分",
-    "onyomi": "bun, fun, bu",
-    "kunyomi": "wa(keru)",
-    "meaning": "part, minute of time, understand"
-  },
-  {
-    "id": 19,
-    "kanji": "後",
-    "onyomi": "go, kou",
-    "kunyomi": "nochi, ushi(ro), ato",
-    "meaning": "behind, back, later"
-  },
-  {
-    "id": 20,
-    "kanji": "前",
-    "onyomi": "zen",
-    "kunyomi": "mae",
-    "meaning": "in front, before"
-  },
-  {
-    "id": 21,
-    "kanji": "生",
-    "onyomi": "sei, shou",
-    "kunyomi": "i(kiru), u(mu), o(u), ha(eru), nama",
-    "meaning": "life, genuine, birth"
-  },
-  {
-    "id": 22,
-    "kanji": "五",
-    "onyomi": "go",
-    "kunyomi": "itsu(tsu)",
-    "meaning": "five, 5"
-  },
-  {
-    "id": 23,
     "kanji": "間",
-    "onyomi": "kan, ken",
-    "kunyomi": "aida, ma, ai",
+    "onyomi": "カン   ケン",
+    "kunyomi": "あいだ interval, between   ま space, room",
     "meaning": "interval, space"
   },
   {
+    "id": 18,
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき time, occasion",
+    "meaning": "time, hour"
+  },
+  {
+    "id": 19,
+    "kanji": "気",
+    "onyomi": "キ   ケ",
+    "kunyomi": "いき spirit, mind, air, atmosphere, mood",
+    "meaning": "spirit, mind, air"
+  },
+  {
+    "id": 20,
+    "kanji": "十",
+    "onyomi": "ジュウ   ジッ",
+    "kunyomi": "と   とお ten",
+    "meaning": "ten, 10"
+  },
+  {
+    "id": 21,
+    "kanji": "女",
+    "onyomi": "ジョ   ニョ   ニョウ",
+    "kunyomi": "おんな woman   め woman",
+    "meaning": "woman, female"
+  },
+  {
+    "id": 22,
+    "kanji": "三",
+    "onyomi": "サン",
+    "kunyomi": "み   みっつ three",
+    "meaning": "three, 3"
+  },
+  {
+    "id": 23,
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ before",
+    "meaning": "in front, before"
+  },
+  {
     "id": 24,
-    "kanji": "上",
-    "onyomi": "jou, shou, shan",
-    "kunyomi": "ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)",
-    "meaning": "above, up"
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "いる to enter   はいる to enter   いれる to put in",
+    "meaning": "enter, insert"
+  },
+  {
+    "id": 25,
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "こ-   お-   ちいさい small",
+    "meaning": "small, little"
+  },
+  {
+    "id": 26,
+    "kanji": "後",
+    "onyomi": "ゴ   コウ",
+    "kunyomi": "のち   あと afterwards   うしろ behind   おくれる be late",
+    "meaning": "behind, back, later"
+  },
+  {
+    "id": 27,
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "ながい long",
+    "meaning": "long, leader, superior, senior"
+  },
+  {
+    "id": 28,
+    "kanji": "下",
+    "onyomi": "カ   ゲ",
+    "kunyomi": "した below, under   しも bottom part   もと under (influence)   さげる to lower, to reduce   さがる to be lowered   くだる to descend   くだす to judge   くださる to give   おろす to drop off (passenger)   おりる to get off (train)",
+    "meaning": "below, bottom, under"
+  },
+  {
+    "id": 29,
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まなぶ to learn",
+    "meaning": "study, learning"
+  },
+  {
+    "id": 30,
+    "kanji": "月",
+    "onyomi": "ガツ   ゲツ",
+    "kunyomi": "つき month; moon",
+    "meaning": "month, moon"
+  },
+  {
+    "id": 31,
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに   なん what?",
+    "meaning": "what"
+  },
+  {
+    "id": 32,
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "くる to come   きたる to be forthcoming   きたす to induce",
+    "meaning": "come"
+  },
+  {
+    "id": 33,
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はなす to talk   はなし talking",
+    "meaning": "talk, story"
+  },
+  {
+    "id": 34,
+    "kanji": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま mountain",
+    "meaning": "mountain"
+  },
+  {
+    "id": 34,
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか   たかい expensive, tall, high   たかまる to be elevated   たかめる to promote, heighten",
+    "meaning": "high, tall, expensive"
+  },
+  {
+    "id": 35,
+    "kanji": "今",
+    "onyomi": "コン   キン",
+    "kunyomi": "いま now",
+    "meaning": "now"
+  },
+  {
+    "id": 36,
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "かく to write",
+    "meaning": "write"
+  },
+  {
+    "id": 37,
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ-   いつつ five",
+    "meaning": "five, 5"
+  },
+  {
+    "id": 38,
+    "kanji": "名",
+    "onyomi": "メイ   ミョウ",
+    "kunyomi": "な name",
+    "meaning": "name"
+  },
+  {
+    "id": 39,
+    "kanji": "金",
+    "onyomi": "キン   コン",
+    "kunyomi": "かね gold; money",
+    "meaning": "gold, money"
+  },
+  {
+    "id": 40,
+    "kanji": "男",
+    "onyomi": "ダン   ナン",
+    "kunyomi": "おとこ male, man",
+    "meaning": "man, male"
   },
   {
     "id": 25,
@@ -173,41 +292,6 @@
     "onyomi": "tou",
     "kunyomi": "higashi",
     "meaning": "east"
-  },
-  {
-    "id": 26,
-    "kanji": "豚肉",
-    "onyomi": "butaniku",
-    "kunyomi": "ぶたにく",
-    "meaning": "pork"
-  },
-  {
-    "id": 27,
-    "kanji": "病院",
-    "onyomi": "byouin",
-    "kunyomi": "びょういん",
-    "meaning": "hospital"
-  },
-  {
-    "id": 28,
-    "kanji": "病気",
-    "onyomi": "byouki",
-    "kunyomi": "びょうき",
-    "meaning": "illness; disease; sickness"
-  },
-  {
-    "id": 29,
-    "kanji": "茶色",
-    "onyomi": "chairo",
-    "kunyomi": "ちゃいろ",
-    "meaning": "brown"
-  },
-  {
-    "id": 30,
-    "kanji": "茶碗",
-    "onyomi": "chawan",
-    "kunyomi": "ちゃわん",
-    "meaning": "rice bowl; tea cup; teacup"
   },
   {
     "id": 31,
@@ -231,13 +315,6 @@
     "meaning": "friend"
   },
   {
-    "id": 34,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
     "id": 35,
     "kanji": "川",
     "onyomi": "sen",
@@ -252,20 +329,6 @@
     "meaning": "heaven, sky"
   },
   {
-    "id": 37,
-    "kanji": "気",
-    "onyomi": "ki, ke",
-    "kunyomi": "",
-    "meaning": "spirit, mind, air"
-  },
-  {
-    "id": 38,
-    "kanji": "小",
-    "onyomi": "shou",
-    "kunyomi": "chi(sai), ko, o",
-    "meaning": "small, little"
-  },
-  {
     "id": 39,
     "kanji": "校",
     "onyomi": "kou",
@@ -278,13 +341,6 @@
     "onyomi": "sha",
     "kunyomi": "kuruma",
     "meaning": "car, vehicle"
-  },
-  {
-    "id": 41,
-    "kanji": "金",
-    "onyomi": "kin, kon",
-    "kunyomi": "kane",
-    "meaning": "gold, money"
   },
   {
     "id": 42,
@@ -313,20 +369,6 @@
     "onyomi": "in",
     "kunyomi": "no(mu)",
     "meaning": "drink"
-  },
-  {
-    "id": 46,
-    "kanji": "話",
-    "onyomi": "wa",
-    "kunyomi": "hana(su), hanashi",
-    "meaning": "talk, story"
-  },
-  {
-    "id": 47,
-    "kanji": "書",
-    "onyomi": "sho",
-    "kunyomi": "ka(ku)",
-    "meaning": "write"
   },
   {
     "id": 48,
@@ -441,13 +483,6 @@
     "meaning": "road, way"
   },
   {
-    "id": 64,
-    "kanji": "話",
-    "onyomi": "wa",
-    "kunyomi": "hana(su), hanashi",
-    "meaning": "talk, story"
-  },
-  {
     "id": 65,
     "kanji": "立",
     "onyomi": "ritsu",
@@ -462,13 +497,6 @@
     "meaning": "rest"
   },
   {
-    "id": 67,
-    "kanji": "名",
-    "onyomi": "mei, myou",
-    "kunyomi": "na",
-    "meaning": "name"
-  },
-  {
     "id": 68,
     "kanji": "力",
     "onyomi": "riki, ryoku",
@@ -476,46 +504,11 @@
     "meaning": "power, strength"
   },
   {
-    "id": 69,
-    "kanji": "男",
-    "onyomi": "dan, nan",
-    "kunyomi": "otoko",
-    "meaning": "man, male"
-  },
-  {
-    "id": 70,
-    "kanji": "女",
-    "onyomi": "jo, nyo",
-    "kunyomi": "onna",
-    "meaning": "woman, female"
-  },
-  {
-    "id": 71,
-    "kanji": "子",
-    "onyomi": "shi, su",
-    "kunyomi": "ko",
-    "meaning": "child"
-  },
-  {
-    "id": 72,
-    "kanji": "学",
-    "onyomi": "gaku",
-    "kunyomi": "mana(bu)",
-    "meaning": "study, learning"
-  },
-  {
     "id": 73,
     "kanji": "先",
     "onyomi": "sen",
     "kunyomi": "saki",
     "meaning": "before, ahead"
-  },
-  {
-    "id": 74,
-    "kanji": "何",
-    "onyomi": "ka",
-    "kunyomi": "nani, nan",
-    "meaning": "what"
   },
   {
     "id": 75,
@@ -532,20 +525,6 @@
     "meaning": "half"
   },
   {
-    "id": 77,
-    "kanji": "今",
-    "onyomi": "kon, kin",
-    "kunyomi": "ima",
-    "meaning": "now"
-  },
-  {
-    "id": 78,
-    "kanji": "時",
-    "onyomi": "ji",
-    "kunyomi": "toki",
-    "meaning": "time, hour"
-  },
-  {
     "id": 79,
     "kanji": "毎",
     "onyomi": "mai",
@@ -553,39 +532,11 @@
     "meaning": "every"
   },
   {
-    "id": 80,
-    "kanji": "年",
-    "onyomi": "nen",
-    "kunyomi": "toshi",
-    "meaning": "year"
-  },
-  {
-    "id": 81,
-    "kanji": "高",
-    "onyomi": "kou",
-    "kunyomi": "taka(i)",
-    "meaning": "high, tall, expensive"
-  },
-  {
     "id": 82,
     "kanji": "円",
     "onyomi": "en",
     "kunyomi": "maru(i)",
     "meaning": "yen, circle"
-  },
-  {
-    "id": 83,
-    "kanji": "入",
-    "onyomi": "nyuu",
-    "kunyomi": "i(ru), hai(ru)",
-    "meaning": "enter, insert"
-  },
-  {
-    "id": 84,
-    "kanji": "出",
-    "onyomi": "shutsu",
-    "kunyomi": "de(ru), da(su)",
-    "meaning": "exit, leave"
   },
   {
     "id": 85,
@@ -609,13 +560,6 @@
     "meaning": "south"
   },
   {
-    "id": 88,
-    "kanji": "東",
-    "onyomi": "tou",
-    "kunyomi": "higashi",
-    "meaning": "east"
-  },
-  {
     "id": 89,
     "kanji": "西",
     "onyomi": "sei, sai",
@@ -637,60 +581,11 @@
     "meaning": "right"
   },
   {
-    "id": 92,
-    "kanji": "男",
-    "onyomi": "dan, nan",
-    "kunyomi": "otoko",
-    "meaning": "man, male"
-  },
-  {
-    "id": 93,
-    "kanji": "女",
-    "onyomi": "jo, nyo",
-    "kunyomi": "onna",
-    "meaning": "woman, female"
-  },
-  {
-    "id": 94,
-    "kanji": "子",
-    "onyomi": "shi, su",
-    "kunyomi": "ko",
-    "meaning": "child"
-  },
-  {
-    "id": 95,
-    "kanji": "友",
-    "onyomi": "yuu",
-    "kunyomi": "tomo",
-    "meaning": "friend"
-  },
-  {
-    "id": 96,
-    "kanji": "学",
-    "onyomi": "gaku",
-    "kunyomi": "mana(bu)",
-    "meaning": "study, learning"
-  },
-  {
     "id": 97,
     "kanji": "校",
     "onyomi": "kou",
     "kunyomi": "",
     "meaning": "school"
-  },
-  {
-    "id": 98,
-    "kanji": "先",
-    "onyomi": "sen",
-    "kunyomi": "saki",
-    "meaning": "before, ahead"
-  },
-  {
-    "id": 99,
-    "kanji": "生",
-    "onyomi": "sei, shou",
-    "kunyomi": "i(kiru), u(mu), nama",
-    "meaning": "life, birth"
   },
   {
     "id": 100,
