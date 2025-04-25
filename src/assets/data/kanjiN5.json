@@ -238,360 +238,325 @@
     "meaning": "mountain"
   },
   {
-    "id": 34,
+    "id": 35,
     "kanji": "高",
     "onyomi": "コウ",
     "kunyomi": "たか   たかい expensive, tall, high   たかまる to be elevated   たかめる to promote, heighten",
     "meaning": "high, tall, expensive"
   },
   {
-    "id": 35,
+    "id": 36,
     "kanji": "今",
     "onyomi": "コン   キン",
     "kunyomi": "いま now",
     "meaning": "now"
   },
   {
-    "id": 36,
+    "id": 37,
     "kanji": "書",
     "onyomi": "ショ",
     "kunyomi": "かく to write",
     "meaning": "write"
   },
   {
-    "id": 37,
+    "id": 38,
     "kanji": "五",
     "onyomi": "ゴ",
     "kunyomi": "いつ-   いつつ five",
     "meaning": "five, 5"
   },
   {
-    "id": 38,
+    "id": 39,
     "kanji": "名",
     "onyomi": "メイ   ミョウ",
     "kunyomi": "な name",
     "meaning": "name"
   },
   {
-    "id": 39,
+    "id": 40,
     "kanji": "金",
     "onyomi": "キン   コン",
     "kunyomi": "かね gold; money",
     "meaning": "gold, money"
   },
   {
-    "id": 40,
+    "id": 41,
     "kanji": "男",
     "onyomi": "ダン   ナン",
     "kunyomi": "おとこ male, man",
     "meaning": "man, male"
   },
   {
-    "id": 25,
-    "kanji": "東",
-    "onyomi": "tou",
-    "kunyomi": "higashi",
-    "meaning": "east"
-  },
-  {
-    "id": 31,
-    "kanji": "父",
-    "onyomi": "chichi",
-    "kunyomi": "ちち",
-    "meaning": "father"
-  },
-  {
-    "id": 32,
-    "kanji": "母",
-    "onyomi": "haha",
-    "kunyomi": "はは",
-    "meaning": "mother"
-  },
-  {
-    "id": 33,
-    "kanji": "友",
-    "onyomi": "yuu",
-    "kunyomi": "tomo",
-    "meaning": "friend"
-  },
-  {
-    "id": 35,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 36,
-    "kanji": "天",
-    "onyomi": "ten",
-    "kunyomi": "ame, ama",
-    "meaning": "heaven, sky"
-  },
-  {
-    "id": 39,
-    "kanji": "校",
-    "onyomi": "kou",
-    "kunyomi": "",
-    "meaning": "school"
-  },
-  {
-    "id": 40,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
     "id": 42,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 43,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana, uo",
-    "meaning": "fish"
-  },
-  {
-    "id": 44,
-    "kanji": "食",
-    "onyomi": "shoku, jiki",
-    "kunyomi": "ta(beru), ku(u)",
-    "meaning": "eat, food"
-  },
-  {
-    "id": 45,
-    "kanji": "飲",
-    "onyomi": "in",
-    "kunyomi": "no(mu)",
-    "meaning": "drink"
-  },
-  {
-    "id": 48,
-    "kanji": "読",
-    "onyomi": "doku",
-    "kunyomi": "yo(mu)",
-    "meaning": "read"
-  },
-  {
-    "id": 49,
-    "kanji": "聞",
-    "onyomi": "bun, mon",
-    "kunyomi": "ki(ku), ki(koeru)",
-    "meaning": "hear, listen"
-  },
-  {
-    "id": 50,
-    "kanji": "買",
-    "onyomi": "bai",
-    "kunyomi": "ka(u)",
-    "meaning": "buy"
-  },
-  {
-    "id": 51,
-    "kanji": "新",
-    "onyomi": "shin",
-    "kunyomi": "atara(shii), ara(ta), nii",
-    "meaning": "new"
-  },
-  {
-    "id": 52,
-    "kanji": "古",
-    "onyomi": "ko",
-    "kunyomi": "furu(i)",
-    "meaning": "old"
-  },
-  {
-    "id": 53,
-    "kanji": "白",
-    "onyomi": "haku, byaku",
-    "kunyomi": "shiro, shira",
-    "meaning": "white"
-  },
-  {
-    "id": 54,
-    "kanji": "赤",
-    "onyomi": "seki, shaku",
-    "kunyomi": "aka",
-    "meaning": "red"
-  },
-  {
-    "id": 55,
-    "kanji": "青",
-    "onyomi": "sei, shou",
-    "kunyomi": "ao",
-    "meaning": "blue"
-  },
-  {
-    "id": 56,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
-  },
-  {
-    "id": 57,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
-    "id": 58,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 59,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 60,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 61,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 62,
-    "kanji": "店",
-    "onyomi": "ten",
-    "kunyomi": "mise",
-    "meaning": "shop, store"
-  },
-  {
-    "id": 63,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 65,
-    "kanji": "立",
-    "onyomi": "ritsu",
-    "kunyomi": "ta(tsu)",
-    "meaning": "stand"
-  },
-  {
-    "id": 66,
-    "kanji": "休",
-    "onyomi": "kyuu",
-    "kunyomi": "yasu(mu)",
-    "meaning": "rest"
-  },
-  {
-    "id": 68,
-    "kanji": "力",
-    "onyomi": "riki, ryoku",
-    "kunyomi": "chikara",
-    "meaning": "power, strength"
-  },
-  {
-    "id": 73,
-    "kanji": "先",
-    "onyomi": "sen",
-    "kunyomi": "saki",
-    "meaning": "before, ahead"
-  },
-  {
-    "id": 75,
-    "kanji": "午",
-    "onyomi": "go",
-    "kunyomi": "",
-    "meaning": "noon"
-  },
-  {
-    "id": 76,
-    "kanji": "半",
-    "onyomi": "han",
-    "kunyomi": "naka(ba)",
-    "meaning": "half"
-  },
-  {
-    "id": 79,
-    "kanji": "毎",
-    "onyomi": "mai",
-    "kunyomi": "",
-    "meaning": "every"
-  },
-  {
-    "id": 82,
-    "kanji": "円",
-    "onyomi": "en",
-    "kunyomi": "maru(i)",
-    "meaning": "yen, circle"
-  },
-  {
-    "id": 85,
     "kanji": "外",
-    "onyomi": "gai, ge",
-    "kunyomi": "soto, hoka",
+    "onyomi": "ガイ   ゲ",
+    "kunyomi": "そと outside   ほか other   はずす to remove, mislead   はずれる to come off, to miss",
     "meaning": "outside"
   },
   {
-    "id": 86,
+    "id": 43,
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ   よつ   よっつ   よん",
+    "meaning": "four"
+  },
+  {
+    "id": 44,
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき ahead",
+    "meaning": "ahead"
+  },
+  {
+    "id": 45,
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ river",
+    "meaning": "river"
+  },
+  {
+    "id": 46,
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし east",
+    "meaning": "east"
+  },
+  {
+    "id": 47,
+    "kanji": "聞",
+    "onyomi": "ブン   モン",
+    "kunyomi": "きく to listen, to hear   きこえる to be heard",
+    "meaning": "hear, listen"
+  },
+  {
+    "id": 48,
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かたる to talk, relate   かたらう to talk together, chat",
+    "meaning": "talk, story"
+  },
+  {
+    "id": 49,
+    "kanji": "九",
+    "onyomi": "ク   キュウ",
+    "kunyomi": "ここのつ nine",
+    "meaning": "nine"
+  },
+  {
+    "id": 50,
+    "kanji": "食",
+    "onyomi": "ショク   ジキ",
+    "kunyomi": "food   たべる to eat   くう to eat",
+    "meaning": "eat, food"
+  },
+  {
+    "id": 51,
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や   やつ   よう eight",
+    "meaning": "eight"
+  },
+  {
+    "id": 52,
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず water",
+    "meaning": "water"
+  },
+  {
+    "id": 53,
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あめ   あま- heaven",
+    "meaning": "heaven, sky"
+  },
+  {
+    "id": 54,
+    "kanji": "木",
+    "onyomi": "モク   ボク",
+    "kunyomi": "き   こ- tree",
+    "meaning": "tree"
+  },
+  {
+    "id": 55,
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "むっつ six   むつ   むい   む",
+    "meaning": "six"
+  },
+  {
+    "id": 56,
+    "kanji": "万",
+    "onyomi": "マン   バン",
+    "kunyomi": "よろず everything",
+    "meaning": "10000, ten thousand"
+  },
+  {
+    "id": 57,
+    "kanji": "白",
+    "onyomi": "ハク",
+    "kunyomi": "しろい white   しろ   しら-",
+    "meaning": "white"
+  },
+  {
+    "id": 58,
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "ななつ   なな   なの seven",
+    "meaning": "seven"
+  },
+  {
+    "id": 59,
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "circle, yen   まるい round",
+    "meaning": "yen, circle"
+  },
+  {
+    "id": 60,
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "electricity"
+  },
+  {
+    "id": 61,
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち father",
+    "meaning": "father"
+  },
+  {
+    "id": 62,
     "kanji": "北",
-    "onyomi": "hoku",
-    "kunyomi": "kita",
+    "onyomi": "ホク",
+    "kunyomi": "きた north",
     "meaning": "north"
   },
   {
-    "id": 87,
-    "kanji": "南",
-    "onyomi": "nan",
-    "kunyomi": "minami",
-    "meaning": "south"
+    "id": 63,
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま car",
+    "meaning": "car, vehicle"
   },
   {
-    "id": 89,
+    "id": 64,
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは mother",
+    "meaning": "mother"
+  },
+  {
+    "id": 65,
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なかば half",
+    "meaning": "half"
+  },
+  {
+    "id": 66,
+    "kanji": "百",
+    "onyomi": "ヒャク",
+    "kunyomi": "もも hundred",
+    "meaning": "100, hundred"
+  },
+  {
+    "id": 67,
+    "kanji": "土",
+    "onyomi": "ド   ト",
+    "kunyomi": "つち ground, earth, soil",
+    "meaning": "ground, earth"
+  },
+  {
+    "id": 68,
     "kanji": "西",
-    "onyomi": "sei, sai",
-    "kunyomi": "nishi",
+    "onyomi": "セイ   サイ",
+    "kunyomi": "にし west",
     "meaning": "west"
   },
   {
-    "id": 90,
-    "kanji": "左",
-    "onyomi": "sa",
-    "kunyomi": "hidari",
-    "meaning": "left"
+    "id": 69,
+    "kanji": "読",
+    "onyomi": "ドク   トク   トウ",
+    "kunyomi": "よむ to read",
+    "meaning": "read"
   },
   {
-    "id": 91,
+    "id": 70,
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち 1000",
+    "meaning": "1000, thousand"
+  },
+  {
+    "id": 71,
+    "kanji": "校",
+    "onyomi": "キョウ",
+    "kunyomi": "めん",
+    "meaning": "exam"
+  },
+  {
+    "id": 72,
     "kanji": "右",
-    "onyomi": "u, yuu",
-    "kunyomi": "migi",
+    "onyomi": "ウ   ユウ",
+    "kunyomi": "みぎ right",
     "meaning": "right"
   },
   {
-    "id": 97,
-    "kanji": "校",
-    "onyomi": "kou",
-    "kunyomi": "",
-    "meaning": "school"
+    "id": 73,
+    "kanji": "南",
+    "onyomi": "ナン   ナ",
+    "kunyomi": "みなみ south",
+    "meaning": "south"
   },
   {
-    "id": 100,
-    "kanji": "天",
-    "onyomi": "ten",
-    "kunyomi": "ame, ama",
-    "meaning": "heaven, sky"
+    "id": 74,
+    "kanji": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり left",
+    "meaning": "left"
+  },
+  {
+    "id": 75,
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも friend",
+    "meaning": "friend"
+  },
+  {
+    "id": 76,
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ   ほ-",
+    "meaning": "fire"
+  },
+  {
+    "id": 77,
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと every, each   -ごとに",
+    "meaning": "every, each"
+  },
+  {
+    "id": 78,
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ   あま- rain",
+    "meaning": "rain"
+  },
+  {
+    "id": 79,
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やすむ to rest   やすまる to be rested   やすめる to suspend (use etc.)",
+    "meaning": "rest"
+  },
+  {
+    "id": 80,
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+    "meaning": "noon"
   }
 ]
