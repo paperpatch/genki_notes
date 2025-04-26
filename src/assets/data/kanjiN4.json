@@ -1,59 +1,186 @@
 [
   {
     "id": 1,
-    "kanji": "会",
-    "onyomi": "kai, e",
-    "kunyomi": "a(u)",
-    "meaning": "meet, society"
+    "kanji": "言",
+    "onyomi": "ゲン   ゴン",
+    "kunyomi": "こと word, saying   いう to say",
+    "meaning": "say, word"
   },
   {
     "id": 2,
-    "kanji": "同",
-    "onyomi": "dou",
-    "kunyomi": "ona(ji)",
-    "meaning": "same, agree, equal"
+    "kanji": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て   た-",
+    "meaning": "hand"
   },
   {
     "id": 3,
-    "kanji": "事",
-    "onyomi": "ji, zu",
-    "kunyomi": "koto",
-    "meaning": "thing, matter, fact"
+    "kanji": "自",
+    "onyomi": "ジ   シ",
+    "kunyomi": "みずから self",
+    "meaning": "self"
   },
   {
     "id": 4,
-    "kanji": "自",
-    "onyomi": "ji, shi",
-    "kunyomi": "mizuka(ra)",
-    "meaning": "oneself"
+    "kanji": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの person, someone",
+    "meaning": "person"
   },
   {
     "id": 5,
+    "kanji": "事",
+    "onyomi": "ジ   ズ",
+    "kunyomi": "こと thing; matter",
+    "meaning": "thing, matter, fact"
+  },
+  {
+    "id": 6,
+    "kanji": "思",
+    "onyomi": "シ",
+    "kunyomi": "おもう to think",
+    "meaning": "think"
+  },
+  {
+    "id": 7,
+    "kanji": "会",
+    "onyomi": "カイ   エ",
+    "kunyomi": "あう to meet",
+    "meaning": "meet, society"
+  },
+  {
+    "id": 8,
+    "kanji": "家",
+    "onyomi": "カ   ケ",
+    "kunyomi": "いえ   や    house, home",
+    "meaning": "house, home"
+  },
+  {
+    "id": 9,
+    "kanji": "的",
+    "onyomi": "テキ",
+    "kunyomi": "まと target",
+    "meaning": "target"
+  },
+  {
+    "id": 10,
+    "kanji": "方",
+    "onyomi": "ホウ",
+    "kunyomi": "かた way, direction",
+    "meaning": "way"
+  },
+  {
+    "id": 11,
+    "kanji": "チ   ジ",
+    "onyomi": "chi, ji",
+    "kunyomi": "",
+    "meaning": "ground, earth"
+  },
+  {
+    "id": 12,
+    "kanji": "目",
+    "onyomi": "ボク   モク",
+    "kunyomi": "ま-   め",
+    "meaning": "eye"
+  },
+  {
+    "id": 13,
+    "kanji": "場",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば place",
+    "meaning": "place"
+  },
+  {
+    "id": 14,
+    "kanji": "代",
+    "onyomi": "タイ   ダイ",
+    "kunyomi": "かえる to replace, to exchange   かわる to be exchanged   よ the world   しろ substitute",
+    "meaning": "replace, substitute, generation"
+  },
+  {
+    "id": 15,
+    "kanji": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたくし   わたし I, myself",
+    "meaning": "I, me"
+  },
+  {
+    "id": 16,
+    "kanji": "立",
+    "onyomi": "リツ   リュウ",
+    "kunyomi": "たつ to stand   たてる to build",
+    "meaning": "stand"
+  },
+  {
+    "id": 17,
+    "kanji": "物",
+    "onyomi": "ブツ   モツ",
+    "kunyomi": "もの thing",
+    "meaning": "thing"
+  },
+  {
+    "id": 18,
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た rice field",
+    "meaning": "rice field"
+  },
+  {
+    "id": 19,
+    "kanji": "体",
+    "onyomi": "タイ   テイ",
+    "kunyomi": "からだ body",
+    "meaning": "body"
+  },
+  {
+    "id": 20,
+    "kanji": "動",
+    "onyomi": "ドウ",
+    "kunyomi": "うごく to move, to stir   うごかす to shift, to move",
+    "meaning": "move"
+  },
+  {
+    "id": 21,
     "kanji": "社",
-    "onyomi": "sha",
-    "kunyomi": "yashiro",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ Shinto shrine",
     "meaning": "company, shrine"
   },
+  {
+    "id": 22,
+    "kanji": "知",
+    "onyomi": "チ",
+    "kunyomi": "しる to know",
+    "meaning": "know"
+  },
+  {
+    "id": 23,
+    "kanji": "理",
+    "onyomi": "リ",
+    "kunyomi": "",
+    "meaning": "reason, logic"
+  },
+  {
+    "id": 24,
+    "kanji": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おなじ same",
+    "meaning": "same, agree, equal"
+  },
+  {
+    "id": 25,
+    "kanji": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ heart",
+    "meaning": "heart, mind"
+  },
+
   {
     "id": 6,
     "kanji": "発",
     "onyomi": "hatsu, hotsu",
     "kunyomi": "",
     "meaning": "departure, emit, start"
-  },
-  {
-    "id": 7,
-    "kanji": "者",
-    "onyomi": "sha",
-    "kunyomi": "mono",
-    "meaning": "person"
-  },
-  {
-    "id": 8,
-    "kanji": "地",
-    "onyomi": "chi, ji",
-    "kunyomi": "",
-    "meaning": "ground, earth"
   },
   {
     "id": 9,
@@ -63,25 +190,11 @@
     "meaning": "business, vocation, arts"
   },
   {
-    "id": 10,
-    "kanji": "方",
-    "onyomi": "hou",
-    "kunyomi": "kata",
-    "meaning": "direction, person"
-  },
-  {
     "id": 11,
     "kanji": "新",
     "onyomi": "shin",
     "kunyomi": "atara(shii), ara(ta), nii",
     "meaning": "new"
-  },
-  {
-    "id": 12,
-    "kanji": "場",
-    "onyomi": "jou",
-    "kunyomi": "ba",
-    "meaning": "place"
   },
   {
     "id": 13,
@@ -98,13 +211,6 @@
     "meaning": "open"
   },
   {
-    "id": 15,
-    "kanji": "手",
-    "onyomi": "shu",
-    "kunyomi": "te",
-    "meaning": "hand"
-  },
-  {
     "id": 16,
     "kanji": "力",
     "onyomi": "riki, ryoku",
@@ -119,25 +225,11 @@
     "meaning": "question, ask"
   },
   {
-    "id": 18,
-    "kanji": "代",
-    "onyomi": "dai, tai",
-    "kunyomi": "ka(waru), yo",
-    "meaning": "substitute, generation"
-  },
-  {
     "id": 19,
     "kanji": "明",
     "onyomi": "mei, myou",
     "kunyomi": "aka(rui), a(keru)",
     "meaning": "bright, light"
-  },
-  {
-    "id": 20,
-    "kanji": "動",
-    "onyomi": "dou",
-    "kunyomi": "ugo(ku)",
-    "meaning": "move"
   },
   {
     "id": 21,
@@ -147,46 +239,11 @@
     "meaning": "capital"
   },
   {
-    "id": 22,
-    "kanji": "目",
-    "onyomi": "moku",
-    "kunyomi": "me",
-    "meaning": "eye"
-  },
-  {
     "id": 23,
     "kanji": "通",
     "onyomi": "tsuu",
     "kunyomi": "too(ru), kayo(u)",
     "meaning": "pass through, commute"
-  },
-  {
-    "id": 24,
-    "kanji": "言",
-    "onyomi": "gen, gon",
-    "kunyomi": "i(u), koto",
-    "meaning": "say, word"
-  },
-  {
-    "id": 25,
-    "kanji": "理",
-    "onyomi": "ri",
-    "kunyomi": "",
-    "meaning": "reason, logic"
-  },
-  {
-    "id": 26,
-    "kanji": "体",
-    "onyomi": "tai",
-    "kunyomi": "karada",
-    "meaning": "body"
-  },
-  {
-    "id": 27,
-    "kanji": "田",
-    "onyomi": "den",
-    "kunyomi": "ta",
-    "meaning": "rice field"
   },
   {
     "id": 28,
@@ -273,20 +330,6 @@
     "meaning": "by means of, because"
   },
   {
-    "id": 40,
-    "kanji": "思",
-    "onyomi": "shi",
-    "kunyomi": "omo(u)",
-    "meaning": "think"
-  },
-  {
-    "id": 41,
-    "kanji": "家",
-    "onyomi": "ka, ke",
-    "kunyomi": "ie, uchi",
-    "meaning": "house, home"
-  },
-  {
     "id": 42,
     "kanji": "世",
     "onyomi": "sei, se",
@@ -320,13 +363,6 @@
     "onyomi": "in",
     "kunyomi": "",
     "meaning": "institution"
-  },
-  {
-    "id": 47,
-    "kanji": "心",
-    "onyomi": "shin",
-    "kunyomi": "kokoro",
-    "meaning": "heart, mind"
   },
   {
     "id": 48,
@@ -397,13 +433,6 @@
     "onyomi": "bai",
     "kunyomi": "u(ru)",
     "meaning": "sell"
-  },
-  {
-    "id": 58,
-    "kanji": "知",
-    "onyomi": "chi",
-    "kunyomi": "shi(ru)",
-    "meaning": "know"
   },
   {
     "id": 59,
@@ -2098,5 +2127,117 @@
     "onyomi": "gyo",
     "kunyomi": "sakana",
     "meaning": "fish"
+  },
+  {
+    "id": 43,
+    "kanji": "魚",
+    "onyomi": "gyo",
+    "kunyomi": "sakana, uo",
+    "meaning": "fish"
+  },
+  {
+    "id": 45,
+    "kanji": "飲",
+    "onyomi": "in",
+    "kunyomi": "no(mu)",
+    "meaning": "drink"
+  },
+  {
+    "id": 50,
+    "kanji": "買",
+    "onyomi": "bai",
+    "kunyomi": "ka(u)",
+    "meaning": "buy"
+  },
+  {
+    "id": 51,
+    "kanji": "新",
+    "onyomi": "shin",
+    "kunyomi": "atara(shii), ara(ta), nii",
+    "meaning": "new"
+  },
+  {
+    "id": 52,
+    "kanji": "古",
+    "onyomi": "ko",
+    "kunyomi": "furu(i)",
+    "meaning": "old"
+  },
+  {
+    "id": 54,
+    "kanji": "赤",
+    "onyomi": "seki, shaku",
+    "kunyomi": "aka",
+    "meaning": "red"
+  },
+  {
+    "id": 55,
+    "kanji": "青",
+    "onyomi": "sei, shou",
+    "kunyomi": "ao",
+    "meaning": "blue"
+  },
+  {
+    "id": 56,
+    "kanji": "空",
+    "onyomi": "kuu",
+    "kunyomi": "sora, a(keru), kara",
+    "meaning": "sky, empty"
+  },
+  {
+    "id": 57,
+    "kanji": "花",
+    "onyomi": "ka",
+    "kunyomi": "hana",
+    "meaning": "flower"
+  },
+  {
+    "id": 58,
+    "kanji": "犬",
+    "onyomi": "ken",
+    "kunyomi": "inu",
+    "meaning": "dog"
+  },
+  {
+    "id": 59,
+    "kanji": "猫",
+    "onyomi": "byou",
+    "kunyomi": "neko",
+    "meaning": "cat"
+  },
+  {
+    "id": 60,
+    "kanji": "鳥",
+    "onyomi": "chou",
+    "kunyomi": "tori",
+    "meaning": "bird"
+  },
+  {
+    "id": 61,
+    "kanji": "駅",
+    "onyomi": "eki",
+    "kunyomi": "",
+    "meaning": "station"
+  },
+  {
+    "id": 62,
+    "kanji": "店",
+    "onyomi": "ten",
+    "kunyomi": "mise",
+    "meaning": "shop, store"
+  },
+  {
+    "id": 63,
+    "kanji": "道",
+    "onyomi": "dou",
+    "kunyomi": "michi",
+    "meaning": "road, way"
+  },
+  {
+    "id": 68,
+    "kanji": "力",
+    "onyomi": "riki, ryoku",
+    "kunyomi": "chikara",
+    "meaning": "power, strength"
   }
 ]
