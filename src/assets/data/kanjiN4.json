@@ -176,46 +176,187 @@
   },
 
   {
-    "id": 6,
+    "id": 26,
     "kanji": "発",
-    "onyomi": "hatsu, hotsu",
+    "onyomi": "ハツ   ホツ",
     "kunyomi": "",
-    "meaning": "departure, emit, start"
+    "meaning": "emission, departure, start"
   },
   {
-    "id": 9,
+    "id": 27,
+    "kanji": "作",
+    "onyomi": "サク   サ",
+    "kunyomi": "つくる to make",
+    "meaning": "make, create"
+  },
+  {
+    "id": 28,
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたらしい   あらた   にい- new",
+    "meaning": "new"
+  },
+  {
+    "id": 29,
+    "kanji": "世",
+    "onyomi": "セ   セイ",
+    "kunyomi": "よ the world",
+    "meaning": "world, generation"
+  },
+  {
+    "id": 30,
+    "kanji": "度",
+    "onyomi": "ド   ト   タク",
+    "kunyomi": "たび occasion, time",
+    "meaning": "degree, time"
+  },
+  {
+    "id": 31,
+    "kanji": "明",
+    "onyomi": "メイ   ミョウ",
+    "kunyomi": "あかり light   あかるい bright   あかるむ to brighten   あからむ to become luminous (at dawn)   あきらか obvious   あかす to lay bare   あく to open   あける to empty",
+    "meaning": "bright, light"
+  },
+  {
+    "id": 32,
+    "kanji": "力",
+    "onyomi": "リョク   リキ",
+    "kunyomi": "ちから effort; power",
+    "meaning": "effort, power, strength"
+  },
+  {
+    "id": 33,
+    "kanji": "意",
+    "onyomi": "イ",
+    "kunyomi": "もと   よし",
+    "meaning": "idea, mind"
+  },
+  {
+    "id": 34,
+    "kanji": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もちいる to use",
+    "meaning": "use, utilize"
+  },
+  {
+    "id": 35,
+    "kanji": "主",
+    "onyomi": "シュ   ス",
+    "kunyomi": "ぬし landlord   おも main",
+    "meaning": "master, main"
+  },
+  {
+    "id": 36,
+    "kanji": "通",
+    "onyomi": "ツ   ツウ",
+    "kunyomi": "とおる to pass through   とおす to let pass   かよう to commute",
+    "meaning": "pass through, commute"
+  },
+  {
+    "id": 37,
+    "kanji": "文",
+    "onyomi": "ブン   モン",
+    "kunyomi": "ふみ a letter",
+    "meaning": "sentence, literature"
+  },
+  {
+    "id": 38,
+    "kanji": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や roof",
+    "meaning": "roof"
+  },
+  {
+    "id": 39,
     "kanji": "業",
-    "onyomi": "gyou, gou",
-    "kunyomi": "waza",
+    "onyomi": "ギョウ   ゴウ",
+    "kunyomi": "profession, business, industry   わざ deed, act",
     "meaning": "business, vocation, arts"
   },
   {
-    "id": 11,
-    "kanji": "新",
-    "onyomi": "shin",
-    "kunyomi": "atara(shii), ara(ta), nii",
-    "meaning": "new"
+    "id": 40,
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "もつ to hold, to have",
+    "meaning": "hold, have"
   },
+  {
+    "id": 41,
+    "kanji": "道",
+    "onyomi": "ドウ   トウ",
+    "kunyomi": "みち road",
+    "meaning": "road, way"
+  },
+  {
+    "id": 42,
+    "kanji": "身",
+    "onyomi": "シン",
+    "kunyomi": "み body, person",
+    "meaning": "body"
+  },
+  {
+    "id": 43,
+    "kanji": "不",
+    "onyomi": "フ   ブ",
+    "kunyomi": "",
+    "meaning": "not, un-"
+  },
+  {
+    "id": 44,
+    "kanji": "口",
+    "onyomi": "コウ   ク",
+    "kunyomi": "くち mouth",
+    "meaning": "mouth"
+  },
+  {
+    "id": 45,
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おおい many",
+    "meaning": "many, much"
+  },
+  {
+    "id": 46,
+    "kanji": "野",
+    "onyomi": "ヤ",
+    "kunyomi": "の field",
+    "meaning": "field"
+  },
+  {
+    "id": 47,
+    "kanji": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんがえる to think about, consider",
+    "meaning": "think, consider"
+  },
+  {
+    "id": 48,
+    "kanji": "開",
+    "onyomi": "カイ",
+    "kunyomi": "あく to (be) open   あける   ひらく to open (something)   ひらける to open out (eg view)",
+    "meaning": "open"
+  },
+  {
+    "id": 49,
+    "kanji": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おしえる to teach   おそわる to be taught",
+    "meaning": "teach, religion"
+  },
+  {
+    "id": 50,
+    "kanji": "近",
+    "onyomi": "キン",
+    "kunyomi": "ちかい close",
+    "meaning": "near, close"
+  },
+
   {
     "id": 13,
     "kanji": "員",
     "onyomi": "in",
     "kunyomi": "",
     "meaning": "member"
-  },
-  {
-    "id": 14,
-    "kanji": "開",
-    "onyomi": "kai",
-    "kunyomi": "a(keru), hira(ku)",
-    "meaning": "open"
-  },
-  {
-    "id": 16,
-    "kanji": "力",
-    "onyomi": "riki, ryoku",
-    "kunyomi": "chikara",
-    "meaning": "power, strength"
   },
   {
     "id": 17,
@@ -225,13 +366,6 @@
     "meaning": "question, ask"
   },
   {
-    "id": 19,
-    "kanji": "明",
-    "onyomi": "mei, myou",
-    "kunyomi": "aka(rui), a(keru)",
-    "meaning": "bright, light"
-  },
-  {
     "id": 21,
     "kanji": "京",
     "onyomi": "kyou, kei",
@@ -239,60 +373,11 @@
     "meaning": "capital"
   },
   {
-    "id": 23,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
-  },
-  {
-    "id": 28,
-    "kanji": "主",
-    "onyomi": "shu",
-    "kunyomi": "nushi, omo",
-    "meaning": "master, main"
-  },
-  {
     "id": 29,
     "kanji": "題",
     "onyomi": "dai",
     "kunyomi": "",
     "meaning": "topic, title"
-  },
-  {
-    "id": 30,
-    "kanji": "意",
-    "onyomi": "i",
-    "kunyomi": "",
-    "meaning": "idea, mind"
-  },
-  {
-    "id": 31,
-    "kanji": "不",
-    "onyomi": "fu",
-    "kunyomi": "",
-    "meaning": "not, un-"
-  },
-  {
-    "id": 32,
-    "kanji": "作",
-    "onyomi": "saku, sa",
-    "kunyomi": "tsuku(ru)",
-    "meaning": "make, create"
-  },
-  {
-    "id": 33,
-    "kanji": "用",
-    "onyomi": "you",
-    "kunyomi": "mochi(iru)",
-    "meaning": "use, utilize"
-  },
-  {
-    "id": 34,
-    "kanji": "度",
-    "onyomi": "do, to",
-    "kunyomi": "tabi",
-    "meaning": "degree, time"
   },
   {
     "id": 35,
@@ -309,39 +394,11 @@
     "meaning": "public"
   },
   {
-    "id": 37,
-    "kanji": "持",
-    "onyomi": "ji",
-    "kunyomi": "mo(tsu)",
-    "meaning": "hold, have"
-  },
-  {
-    "id": 38,
-    "kanji": "野",
-    "onyomi": "ya",
-    "kunyomi": "no",
-    "meaning": "field"
-  },
-  {
     "id": 39,
     "kanji": "以",
     "onyomi": "i",
     "kunyomi": "",
     "meaning": "by means of, because"
-  },
-  {
-    "id": 42,
-    "kanji": "世",
-    "onyomi": "sei, se",
-    "kunyomi": "yo",
-    "meaning": "world, generation"
-  },
-  {
-    "id": 43,
-    "kanji": "多",
-    "onyomi": "ta",
-    "kunyomi": "oo(i)",
-    "meaning": "many, much"
   },
   {
     "id": 44,
@@ -372,20 +429,6 @@
     "meaning": "world, boundary"
   },
   {
-    "id": 49,
-    "kanji": "教",
-    "onyomi": "kyou",
-    "kunyomi": "oshi(eru), oso(waru)",
-    "meaning": "teach, religion"
-  },
-  {
-    "id": 50,
-    "kanji": "文",
-    "onyomi": "bun, mon",
-    "kunyomi": "fumi",
-    "meaning": "sentence, literature"
-  },
-  {
     "id": 51,
     "kanji": "元",
     "onyomi": "gen, gan",
@@ -398,20 +441,6 @@
     "onyomi": "juu, chou",
     "kunyomi": "omo(i), kasa(neru)",
     "meaning": "heavy, pile up"
-  },
-  {
-    "id": 53,
-    "kanji": "近",
-    "onyomi": "kin",
-    "kunyomi": "chika(i)",
-    "meaning": "near, close"
-  },
-  {
-    "id": 54,
-    "kanji": "考",
-    "onyomi": "kou",
-    "kunyomi": "kanga(eru)",
-    "meaning": "think, consider"
   },
   {
     "id": 55,
@@ -433,13 +462,6 @@
     "onyomi": "bai",
     "kunyomi": "u(ru)",
     "meaning": "sell"
-  },
-  {
-    "id": 59,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
   },
   {
     "id": 60,
@@ -638,25 +660,11 @@
     "meaning": "travel"
   },
   {
-    "id": 88,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
-  },
-  {
     "id": 89,
     "kanji": "門",
     "onyomi": "mon",
     "kunyomi": "kado",
     "meaning": "gate"
-  },
-  {
-    "id": 90,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
   },
   {
     "id": 91,
@@ -925,20 +933,6 @@
     "meaning": "bridge"
   },
   {
-    "id": 129,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 130,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
-  },
-  {
     "id": 131,
     "kanji": "門",
     "onyomi": "mon",
@@ -1203,20 +1197,6 @@
     "onyomi": "kyou",
     "kunyomi": "hashi",
     "meaning": "bridge"
-  },
-  {
-    "id": 169,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 170,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
   },
   {
     "id": 171,
@@ -1485,20 +1465,6 @@
     "meaning": "bridge"
   },
   {
-    "id": 209,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 210,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
-  },
-  {
     "id": 211,
     "kanji": "門",
     "onyomi": "mon",
@@ -1763,20 +1729,6 @@
     "onyomi": "kyou",
     "kunyomi": "hashi",
     "meaning": "bridge"
-  },
-  {
-    "id": 249,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 250,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
   },
   {
     "id": 251,
@@ -2045,20 +1997,6 @@
     "meaning": "bridge"
   },
   {
-    "id": 289,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 290,
-    "kanji": "通",
-    "onyomi": "tsuu",
-    "kunyomi": "too(ru), kayo(u)",
-    "meaning": "pass through, commute"
-  },
-  {
     "id": 291,
     "kanji": "門",
     "onyomi": "mon",
@@ -2150,13 +2088,6 @@
     "meaning": "buy"
   },
   {
-    "id": 51,
-    "kanji": "新",
-    "onyomi": "shin",
-    "kunyomi": "atara(shii), ara(ta), nii",
-    "meaning": "new"
-  },
-  {
     "id": 52,
     "kanji": "古",
     "onyomi": "ko",
@@ -2225,19 +2156,5 @@
     "onyomi": "ten",
     "kunyomi": "mise",
     "meaning": "shop, store"
-  },
-  {
-    "id": 63,
-    "kanji": "道",
-    "onyomi": "dou",
-    "kunyomi": "michi",
-    "meaning": "road, way"
-  },
-  {
-    "id": 68,
-    "kanji": "力",
-    "onyomi": "riki, ryoku",
-    "kunyomi": "chikara",
-    "meaning": "power, strength"
   }
 ]
