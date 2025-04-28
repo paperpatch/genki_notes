@@ -350,69 +350,180 @@
     "kunyomi": "ちかい close",
     "meaning": "near, close"
   },
-
   {
-    "id": 13,
-    "kanji": "員",
-    "onyomi": "in",
+    "id": 51,
+    "kanji": "以",
+    "onyomi": "イ",
     "kunyomi": "",
-    "meaning": "member"
+    "meaning": "or, by means of, because"
   },
   {
-    "id": 17,
+    "id": 52,
     "kanji": "問",
-    "onyomi": "mon",
-    "kunyomi": "to(u)",
+    "onyomi": "モン",
+    "kunyomi": "とい question   とう to ask   とん wholesale",
     "meaning": "question, ask"
   },
   {
-    "id": 21,
-    "kanji": "京",
-    "onyomi": "kyou, kei",
-    "kunyomi": "",
-    "meaning": "capital"
+    "id": 53,
+    "kanji": "正",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "ただしい correct   ただす to correct   まさ precise, exact",
+    "meaning": "correct, right"
   },
   {
-    "id": 29,
+    "id": 54,
+    "kanji": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま exactly; deep",
+    "meaning": "truth"
+  },
+  {
+    "id": 55,
+    "kanji": "味",
+    "onyomi": "ミ",
+    "kunyomi": "あじ taste   あじわう to taste",
+    "meaning": "taste"
+  },
+  {
+    "id": 56,
+    "kanji": "界",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "world, boundary"
+  },
+  {
+    "id": 57,
+    "kanji": "無",
+    "onyomi": "ム   ブ",
+    "kunyomi": "ない not",
+    "meaning": "world, boundary"
+  },
+  {
+    "id": 58,
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すこし a little   すくない few",
+    "meaning": "few"
+  },
+  {
+    "id": 59,
+    "kanji": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ ocean",
+    "meaning": "sea, ocean"
+  },
+  {
+    "id": 60,
+    "kanji": "切",
+    "onyomi": "セツ   サイ",
+    "kunyomi": "きる to cut   きれる to break, to snap",
+    "meaning": "cut"
+  },
+  {
+    "id": 61,
+    "kanji": "重",
+    "onyomi": "ジュウ   チョウ",
+    "kunyomi": "おもい heavy   かさなる to be piled up   かさねる to pile up   え -fold, -ply",
+    "meaning": "heavy, pile up"
+  },
+  {
+    "id": 62,
+    "kanji": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつめる to gather   あつまる   つどう to assemble",
+    "meaning": "gather, collect"
+  },
+  {
+    "id": 63,
+    "kanji": "員",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "meaning": "employee, member"
+  },
+  {
+    "id": 64,
+    "kanji": "公",
+    "onyomi": "コウ",
+    "kunyomi": "おおやけ official, public",
+    "meaning": "official, public"
+  },
+  {
+    "id": 65,
+    "kanji": "画",
+    "onyomi": "ガ   カク",
+    "kunyomi": "",
+    "meaning": "draw, picture, drawing"
+  },
+  {
+    "id": 66,
+    "kanji": "死",
+    "onyomi": "シ",
+    "kunyomi": "しぬ die",
+    "meaning": "death"
+  },
+  {
+    "id": 67,
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やすい peaceful; cheap",
+    "meaning": "cheap, safe, peaceful"
+  },
+  {
+    "id": 68,
+    "kanji": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや parent   したしい close, intimate   したしむ to befriend, grow close to",
+    "meaning": "parent, intimacy"
+  },
+  {
+    "id": 69,
+    "kanji": "強",
+    "onyomi": "キョウ   ゴウ",
+    "kunyomi": "つよい strong   つよまる to get stronger   つよめる to strengthen   しいる to compel, to force",
+    "meaning": "strong"
+  },
+  {
+    "id": 70,
+    "kanji": "使",
+    "onyomi": "シ",
+    "kunyomi": "つかう to use",
+    "meaning": "use"
+  },
+  {
+    "id": 71,
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ morning",
+    "meaning": "morning"
+  },
+  {
+    "id": 72,
     "kanji": "題",
-    "onyomi": "dai",
+    "onyomi": "ダイ",
     "kunyomi": "",
     "meaning": "topic, title"
   },
   {
-    "id": 35,
-    "kanji": "強",
-    "onyomi": "kyou, gou",
-    "kunyomi": "tsuyo(i)",
-    "meaning": "strong"
+    "id": 73,
+    "kanji": "仕",
+    "onyomi": "シ   ジ",
+    "kunyomi": "つかえる to attend to",
+    "meaning": "attend to"
   },
   {
-    "id": 36,
-    "kanji": "公",
-    "onyomi": "kou",
-    "kunyomi": "ooyake",
-    "meaning": "public"
-  },
-  {
-    "id": 39,
-    "kanji": "以",
-    "onyomi": "i",
+    "id": 74,
+    "kanji": "京",
+    "onyomi": "キョウ   ケイ",
     "kunyomi": "",
-    "meaning": "by means of, because"
+    "meaning": "capital"
   },
   {
-    "id": 44,
-    "kanji": "正",
-    "onyomi": "sei, shou",
-    "kunyomi": "tada(shii), masa",
-    "meaning": "correct, right"
-  },
-  {
-    "id": 45,
-    "kanji": "安",
-    "onyomi": "an",
-    "kunyomi": "yasu(i)",
-    "meaning": "cheap, safe"
+    "id": 75,
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし foot; leg   たす to add   たる   たりる to be sufficient",
+    "meaning": "foot"
   },
   {
     "id": 46,
@@ -422,13 +533,6 @@
     "meaning": "institution"
   },
   {
-    "id": 48,
-    "kanji": "界",
-    "onyomi": "kai",
-    "kunyomi": "",
-    "meaning": "world, boundary"
-  },
-  {
     "id": 51,
     "kanji": "元",
     "onyomi": "gen, gan",
@@ -436,39 +540,11 @@
     "meaning": "origin, base"
   },
   {
-    "id": 52,
-    "kanji": "重",
-    "onyomi": "juu, chou",
-    "kunyomi": "omo(i), kasa(neru)",
-    "meaning": "heavy, pile up"
-  },
-  {
-    "id": 55,
-    "kanji": "画",
-    "onyomi": "ga, kaku",
-    "kunyomi": "",
-    "meaning": "picture, drawing"
-  },
-  {
-    "id": 56,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
-  },
-  {
     "id": 57,
     "kanji": "売",
     "onyomi": "bai",
     "kunyomi": "u(ru)",
     "meaning": "sell"
-  },
-  {
-    "id": 60,
-    "kanji": "集",
-    "onyomi": "shuu",
-    "kunyomi": "atsu(maru), tsudo(u)",
-    "meaning": "gather, collect"
   },
   {
     "id": 61,
@@ -511,13 +587,6 @@
     "onyomi": "ten",
     "kunyomi": "mise",
     "meaning": "shop, store"
-  },
-  {
-    "id": 67,
-    "kanji": "朝",
-    "onyomi": "chou",
-    "kunyomi": "asa",
-    "meaning": "morning"
   },
   {
     "id": 68,
@@ -602,13 +671,6 @@
     "onyomi": "ou",
     "kunyomi": "ki",
     "meaning": "yellow"
-  },
-  {
-    "id": 80,
-    "kanji": "親",
-    "onyomi": "shin",
-    "kunyomi": "oya, shita(shii)",
-    "meaning": "parent, intimacy"
   },
   {
     "id": 81,
@@ -840,13 +902,6 @@
     "onyomi": "chi",
     "kunyomi": "ike",
     "meaning": "pond"
-  },
-  {
-    "id": 116,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
   },
   {
     "id": 117,
@@ -1108,13 +1163,6 @@
     "meaning": "pond"
   },
   {
-    "id": 156,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
-  },
-  {
     "id": 157,
     "kanji": "島",
     "onyomi": "tou",
@@ -1372,13 +1420,6 @@
     "onyomi": "chi",
     "kunyomi": "ike",
     "meaning": "pond"
-  },
-  {
-    "id": 196,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
   },
   {
     "id": 197,
@@ -1640,13 +1681,6 @@
     "meaning": "pond"
   },
   {
-    "id": 236,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
-  },
-  {
     "id": 237,
     "kanji": "島",
     "onyomi": "tou",
@@ -1904,13 +1938,6 @@
     "onyomi": "chi",
     "kunyomi": "ike",
     "meaning": "pond"
-  },
-  {
-    "id": 276,
-    "kanji": "海",
-    "onyomi": "kai",
-    "kunyomi": "umi",
-    "meaning": "sea, ocean"
   },
   {
     "id": 277,
