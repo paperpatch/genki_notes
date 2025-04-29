@@ -526,25 +526,186 @@
     "meaning": "foot"
   },
   {
+    "id": 76,
+    "kanji": "品",
+    "onyomi": "ヒン",
+    "kunyomi": "elegance   しな goods",
+    "meaning": "goods"
+  },
+  {
+    "id": 77,
+    "kanji": "着",
+    "onyomi": "チャク   ジャク",
+    "kunyomi": "つく to arrive   つける to attach   きる to wear   きせる to make wear",
+    "meaning": "arrive"
+  },
+  {
+    "id": 78,
+    "kanji": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わかれる to be separated",
+    "meaning": "separated"
+  },
+  {
+    "id": 79,
+    "kanji": "音",
+    "onyomi": "オン   イン",
+    "kunyomi": "おと   ね",
+    "meaning": "sound"
+  },
+  {
+    "id": 80,
+    "kanji": "元",
+    "onyomi": "ゲン   ガン",
+    "kunyomi": "もと origin",
+    "meaning": "origin, original, base"
+  },
+  {
+    "id": 81,
+    "kanji": "特",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "special"
+  },
+  {
+    "id": 82,
+    "kanji": "風",
+    "onyomi": "フ   フウ",
+    "kunyomi": "かぜ wind   かざ-",
+    "meaning": "wind"
+  },
+  {
+    "id": 83,
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よる   よ night",
+    "meaning": "night"
+  },
+  {
+    "id": 84,
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "から empty   あく to be empty   あける to empty, vacate   そら sky",
+    "meaning": "sky, empty"
+  },
+  {
+    "id": 85,
+    "kanji": "有",
+    "onyomi": "ユウ   ウ",
+    "kunyomi": "ある to possess; to exist",
+    "meaning": "possess"
+  },
+  {
+    "id": 86,
+    "kanji": "起",
+    "onyomi": "キ",
+    "kunyomi": "おきる to wake up, to get up   おこる to happen   おこす to rouse",
+    "meaning": "wake up"
+  },
+  {
+    "id": 87,
+    "kanji": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこぶ to carry",
+    "meaning": "carry, luck"
+  },
+  {
+    "id": 88,
+    "kanji": "料",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "fee"
+  },
+  {
+    "id": 89,
+    "kanji": "楽",
+    "onyomi": "ガク   ラク",
+    "kunyomi": "music   たのしい happy, pleasant   たのしむ to be happy",
+    "meaning": "music, comfort, ease"
+  },
+  {
+    "id": 90,
+    "kanji": "色",
+    "onyomi": "ショク   シキ",
+    "kunyomi": "いろ color",
+    "meaning": "color"
+  },
+  {
+    "id": 91,
+    "kanji": "帰",
+    "onyomi": "キ",
+    "kunyomi": "かえる to return   かえす to send back, give back",
+    "meaning": "return"
+  },
+  {
+    "id": 92,
+    "kanji": "歩",
+    "onyomi": "ホ   フ   ブ",
+    "kunyomi": "あるく   あゆむ to walk",
+    "meaning": "walk"
+  },
+  {
+    "id": 93,
+    "kanji": "悪",
+    "onyomi": "アク   オ",
+    "kunyomi": "わるい bad",
+    "meaning": "bad"
+  },
+  {
+    "id": 94,
+    "kanji": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろい broad   ひろがる   ひろまる to be wide open, spread out   ひろげる   ひろめる to open wide",
+    "meaning": "broad"
+  },
+  {
+    "id": 95,
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ shop",
+    "meaning": "shop, store"
+  },
+  {
+    "id": 96,
+    "kanji": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち town",
+    "meaning": "town"
+  },
+  {
+    "id": 97,
+    "kanji": "住",
+    "onyomi": "ジュウ",
+    "kunyomi": "すむ to live, to dwell   すまう to live (concept)",
+    "meaning": "live, reside"
+  },
+  {
+    "id": 98,
+    "kanji": "売",
+    "onyomi": "バイ",
+    "kunyomi": "うる to sell   うれる to be selling; be in demand",
+    "meaning": "sell"
+  },
+  {
+    "id": 99,
+    "kanji": "待",
+    "onyomi": "タイ",
+    "kunyomi": "まつ to wait",
+    "meaning": "wait"
+  },
+  {
+    "id": 100,
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふるい old   -ふるす to grow old",
+    "meaning": "old"
+  },
+  {
     "id": 46,
     "kanji": "院",
     "onyomi": "in",
     "kunyomi": "",
     "meaning": "institution"
-  },
-  {
-    "id": 51,
-    "kanji": "元",
-    "onyomi": "gen, gan",
-    "kunyomi": "moto",
-    "meaning": "origin, base"
-  },
-  {
-    "id": 57,
-    "kanji": "売",
-    "onyomi": "bai",
-    "kunyomi": "u(ru)",
-    "meaning": "sell"
   },
   {
     "id": 61,
@@ -554,25 +715,11 @@
     "meaning": "answer, response"
   },
   {
-    "id": 62,
-    "kanji": "楽",
-    "onyomi": "gaku, raku",
-    "kunyomi": "tano(shii)",
-    "meaning": "music, comfort, ease"
-  },
-  {
     "id": 63,
     "kanji": "歌",
     "onyomi": "ka",
     "kunyomi": "uta, uta(u)",
     "meaning": "song, sing"
-  },
-  {
-    "id": 64,
-    "kanji": "歩",
-    "onyomi": "ho, bu",
-    "kunyomi": "aru(ku), ayu(mu)",
-    "meaning": "walk"
   },
   {
     "id": 65,
@@ -582,25 +729,11 @@
     "meaning": "stop"
   },
   {
-    "id": 66,
-    "kanji": "店",
-    "onyomi": "ten",
-    "kunyomi": "mise",
-    "meaning": "shop, store"
-  },
-  {
     "id": 68,
     "kanji": "昼",
     "onyomi": "chuu",
     "kunyomi": "hiru",
     "meaning": "noon, daytime"
-  },
-  {
-    "id": 69,
-    "kanji": "夜",
-    "onyomi": "ya",
-    "kunyomi": "yoru, yo",
-    "meaning": "night"
   },
   {
     "id": 70,
@@ -629,13 +762,6 @@
     "onyomi": "tou",
     "kunyomi": "fuyu",
     "meaning": "winter"
-  },
-  {
-    "id": 74,
-    "kanji": "色",
-    "onyomi": "shoku, shiki",
-    "kunyomi": "iro",
-    "meaning": "color"
   },
   {
     "id": 75,
@@ -701,13 +827,6 @@
     "meaning": "younger sister"
   },
   {
-    "id": 85,
-    "kanji": "住",
-    "onyomi": "juu",
-    "kunyomi": "su(mu)",
-    "meaning": "live, reside"
-  },
-  {
     "id": 86,
     "kanji": "所",
     "onyomi": "sho",
@@ -755,13 +874,6 @@
     "onyomi": "sen",
     "kunyomi": "fune",
     "meaning": "ship, boat"
-  },
-  {
-    "id": 95,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 96,
@@ -876,13 +988,6 @@
     "meaning": "rain"
   },
   {
-    "id": 112,
-    "kanji": "風",
-    "onyomi": "fuu, fu",
-    "kunyomi": "kaze",
-    "meaning": "wind"
-  },
-  {
     "id": 113,
     "kanji": "雪",
     "onyomi": "setsu",
@@ -923,13 +1028,6 @@
     "onyomi": "sei",
     "kunyomi": "hoshi",
     "meaning": "star"
-  },
-  {
-    "id": 120,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 121,
@@ -1135,13 +1233,6 @@
     "meaning": "rain"
   },
   {
-    "id": 152,
-    "kanji": "風",
-    "onyomi": "fuu, fu",
-    "kunyomi": "kaze",
-    "meaning": "wind"
-  },
-  {
     "id": 153,
     "kanji": "雪",
     "onyomi": "setsu",
@@ -1182,13 +1273,6 @@
     "onyomi": "sei",
     "kunyomi": "hoshi",
     "meaning": "star"
-  },
-  {
-    "id": 160,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 161,
@@ -1394,13 +1478,6 @@
     "meaning": "rain"
   },
   {
-    "id": 192,
-    "kanji": "風",
-    "onyomi": "fuu, fu",
-    "kunyomi": "kaze",
-    "meaning": "wind"
-  },
-  {
     "id": 193,
     "kanji": "雪",
     "onyomi": "setsu",
@@ -1441,13 +1518,6 @@
     "onyomi": "sei",
     "kunyomi": "hoshi",
     "meaning": "star"
-  },
-  {
-    "id": 200,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 201,
@@ -1653,13 +1723,6 @@
     "meaning": "rain"
   },
   {
-    "id": 232,
-    "kanji": "風",
-    "onyomi": "fuu, fu",
-    "kunyomi": "kaze",
-    "meaning": "wind"
-  },
-  {
     "id": 233,
     "kanji": "雪",
     "onyomi": "setsu",
@@ -1700,13 +1763,6 @@
     "onyomi": "sei",
     "kunyomi": "hoshi",
     "meaning": "star"
-  },
-  {
-    "id": 240,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 241,
@@ -1912,13 +1968,6 @@
     "meaning": "rain"
   },
   {
-    "id": 272,
-    "kanji": "風",
-    "onyomi": "fuu, fu",
-    "kunyomi": "kaze",
-    "meaning": "wind"
-  },
-  {
     "id": 273,
     "kanji": "雪",
     "onyomi": "setsu",
@@ -1959,13 +2008,6 @@
     "onyomi": "sei",
     "kunyomi": "hoshi",
     "meaning": "star"
-  },
-  {
-    "id": 280,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 281,
@@ -2115,13 +2157,6 @@
     "meaning": "buy"
   },
   {
-    "id": 52,
-    "kanji": "古",
-    "onyomi": "ko",
-    "kunyomi": "furu(i)",
-    "meaning": "old"
-  },
-  {
     "id": 54,
     "kanji": "赤",
     "onyomi": "seki, shaku",
@@ -2134,13 +2169,6 @@
     "onyomi": "sei, shou",
     "kunyomi": "ao",
     "meaning": "blue"
-  },
-  {
-    "id": 56,
-    "kanji": "空",
-    "onyomi": "kuu",
-    "kunyomi": "sora, a(keru), kara",
-    "meaning": "sky, empty"
   },
   {
     "id": 57,
@@ -2176,12 +2204,5 @@
     "onyomi": "eki",
     "kunyomi": "",
     "meaning": "station"
-  },
-  {
-    "id": 62,
-    "kanji": "店",
-    "onyomi": "ten",
-    "kunyomi": "mise",
-    "meaning": "shop, store"
   }
 ]
