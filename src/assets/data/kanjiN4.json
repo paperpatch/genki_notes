@@ -701,11 +701,179 @@
     "meaning": "old"
   },
   {
-    "id": 46,
+    "id": 101,
+    "kanji": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじめる to begin, to start (something)   はじまる to begin, to commence",
+    "meaning": "begin"
+  },
+  {
+    "id": 102,
+    "kanji": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "おわる to come to an end   おえる to bring to an end",
+    "meaning": "end"
+  },
+  {
+    "id": 103,
+    "kanji": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はからう to arrange   はかる to measure, compute",
+    "meaning": "arrange"
+  },
+  {
+    "id": 104,
     "kanji": "院",
-    "onyomi": "in",
+    "onyomi": "イン",
     "kunyomi": "",
     "meaning": "institution"
+  },
+  {
+    "id": 105,
+    "kanji": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おくる to send, to escort",
+    "meaning": "send"
+  },
+  {
+    "id": 106,
+    "kanji": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "meaning": "tribe"
+  },
+  {
+    "id": 107,
+    "kanji": "映",
+    "onyomi": "エイ",
+    "kunyomi": "はえる to shine   うつる to be reflected   うつす to reflect, project",
+    "meaning": "shine"
+  },
+  {
+    "id": 108,
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "かう to buy",
+    "meaning": "buy"
+  },
+  {
+    "id": 109,
+    "kanji": "病",
+    "onyomi": "ヘイ   ビョウ",
+    "kunyomi": "やまい illness   やむ to fall ill",
+    "meaning": "illness"
+  },
+  {
+    "id": 110,
+    "kanji": "早",
+    "onyomi": "ソウ   サッ",
+    "kunyomi": "はやい early   はやまる be hasty   はやめる to expedite, to hasten",
+    "meaning": "early, fast"
+  },
+  {
+    "id": 111,
+    "kanji": "質",
+    "onyomi": "シツ   シチ   チ",
+    "kunyomi": "",
+    "meaning": "quality"
+  },
+  {
+    "id": 112,
+    "kanji": "台",
+    "onyomi": "ダイ   タイ",
+    "kunyomi": "",
+    "meaning": "pedestal, platform"
+  },
+  {
+    "id": 113,
+    "kanji": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ drying room, hothouse",
+    "meaning": "room"
+  },
+  {
+    "id": 114,
+    "kanji": "可",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "good, possible"
+  },
+  {
+    "id": 115,
+    "kanji": "建",
+    "onyomi": "ケン   コン",
+    "kunyomi": "たつ to be built   たてる to build",
+    "meaning": "build"
+  },
+  {
+    "id": 116,
+    "kanji": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころがる to roll (intr.)   ころがす to roll (tr.)   ころげる to roll about   ころぶ to fall over",
+    "meaning": "roll"
+  },
+  {
+    "id": 117,
+    "kanji": "医",
+    "onyomi": "イ",
+    "kunyomi": "くすし   いやす   いする",
+    "meaning": "doctor"
+  },
+  {
+    "id": 118,
+    "kanji": "止",
+    "onyomi": "シ",
+    "kunyomi": "とめる to stop   とまる to stop",
+    "meaning": "stop"
+  },
+  {
+    "id": 119,
+    "kanji": "字",
+    "onyomi": "ジ",
+    "kunyomi": "あざ village section",
+    "meaning": "character"
+  },
+  {
+    "id": 120,
+    "kanji": "工",
+    "onyomi": "コウ   ク",
+    "kunyomi": "",
+    "meaning": "work"
+  },
+  {
+    "id": 121,
+    "kanji": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそぐ to hurry",
+    "meaning": "hurry"
+  },
+  {
+    "id": 122,
+    "kanji": "図",
+    "onyomi": "ト   ズ",
+    "kunyomi": "はかる to map, plan",
+    "meaning": "map"
+  },
+  {
+    "id": 123,
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ   くろい black",
+    "meaning": "black"
+  },
+  {
+    "id": 124,
+    "kanji": "花",
+    "onyomi": "カ",
+    "kunyomi": "はな flower",
+    "meaning": "flower"
+  },
+  {
+    "id": 125,
+    "kanji": "英",
+    "onyomi": "エイ",
+    "kunyomi": "",
+    "meaning": "England"
   },
   {
     "id": 61,
@@ -720,13 +888,6 @@
     "onyomi": "ka",
     "kunyomi": "uta, uta(u)",
     "meaning": "song, sing"
-  },
-  {
-    "id": 65,
-    "kanji": "止",
-    "onyomi": "shi",
-    "kunyomi": "to(maru), to(meru)",
-    "meaning": "stop"
   },
   {
     "id": 68,
@@ -762,13 +923,6 @@
     "onyomi": "tou",
     "kunyomi": "fuyu",
     "meaning": "winter"
-  },
-  {
-    "id": 75,
-    "kanji": "黒",
-    "onyomi": "koku",
-    "kunyomi": "kuro",
-    "meaning": "black"
   },
   {
     "id": 76,
@@ -925,13 +1079,6 @@
     "meaning": "cat"
   },
   {
-    "id": 103,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
     "id": 104,
     "kanji": "草",
     "onyomi": "sou",
@@ -1035,20 +1182,6 @@
     "onyomi": "kou",
     "kunyomi": "hikari, hika(ru)",
     "meaning": "light"
-  },
-  {
-    "id": 122,
-    "kanji": "台",
-    "onyomi": "dai, tai",
-    "kunyomi": "",
-    "meaning": "stand, platform"
-  },
-  {
-    "id": 123,
-    "kanji": "計",
-    "onyomi": "kei",
-    "kunyomi": "haka(ru)",
-    "meaning": "measure, plan"
   },
   {
     "id": 124,
@@ -1170,13 +1303,6 @@
     "meaning": "cat"
   },
   {
-    "id": 143,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
     "id": 144,
     "kanji": "草",
     "onyomi": "sou",
@@ -1280,20 +1406,6 @@
     "onyomi": "kou",
     "kunyomi": "hikari, hika(ru)",
     "meaning": "light"
-  },
-  {
-    "id": 162,
-    "kanji": "台",
-    "onyomi": "dai, tai",
-    "kunyomi": "",
-    "meaning": "stand, platform"
-  },
-  {
-    "id": 163,
-    "kanji": "計",
-    "onyomi": "kei",
-    "kunyomi": "haka(ru)",
-    "meaning": "measure, plan"
   },
   {
     "id": 164,
@@ -1415,13 +1527,6 @@
     "meaning": "cat"
   },
   {
-    "id": 183,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
     "id": 184,
     "kanji": "草",
     "onyomi": "sou",
@@ -1525,20 +1630,6 @@
     "onyomi": "kou",
     "kunyomi": "hikari, hika(ru)",
     "meaning": "light"
-  },
-  {
-    "id": 202,
-    "kanji": "台",
-    "onyomi": "dai, tai",
-    "kunyomi": "",
-    "meaning": "stand, platform"
-  },
-  {
-    "id": 203,
-    "kanji": "計",
-    "onyomi": "kei",
-    "kunyomi": "haka(ru)",
-    "meaning": "measure, plan"
   },
   {
     "id": 204,
@@ -1660,13 +1751,6 @@
     "meaning": "cat"
   },
   {
-    "id": 223,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
     "id": 224,
     "kanji": "草",
     "onyomi": "sou",
@@ -1770,20 +1854,6 @@
     "onyomi": "kou",
     "kunyomi": "hikari, hika(ru)",
     "meaning": "light"
-  },
-  {
-    "id": 242,
-    "kanji": "台",
-    "onyomi": "dai, tai",
-    "kunyomi": "",
-    "meaning": "stand, platform"
-  },
-  {
-    "id": 243,
-    "kanji": "計",
-    "onyomi": "kei",
-    "kunyomi": "haka(ru)",
-    "meaning": "measure, plan"
   },
   {
     "id": 244,
@@ -1905,13 +1975,6 @@
     "meaning": "cat"
   },
   {
-    "id": 263,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
-  },
-  {
     "id": 264,
     "kanji": "草",
     "onyomi": "sou",
@@ -2015,20 +2078,6 @@
     "onyomi": "kou",
     "kunyomi": "hikari, hika(ru)",
     "meaning": "light"
-  },
-  {
-    "id": 282,
-    "kanji": "台",
-    "onyomi": "dai, tai",
-    "kunyomi": "",
-    "meaning": "stand, platform"
-  },
-  {
-    "id": 283,
-    "kanji": "計",
-    "onyomi": "kei",
-    "kunyomi": "haka(ru)",
-    "meaning": "measure, plan"
   },
   {
     "id": 284,
@@ -2150,13 +2199,6 @@
     "meaning": "drink"
   },
   {
-    "id": 50,
-    "kanji": "買",
-    "onyomi": "bai",
-    "kunyomi": "ka(u)",
-    "meaning": "buy"
-  },
-  {
     "id": 54,
     "kanji": "赤",
     "onyomi": "seki, shaku",
@@ -2169,13 +2211,6 @@
     "onyomi": "sei, shou",
     "kunyomi": "ao",
     "meaning": "blue"
-  },
-  {
-    "id": 57,
-    "kanji": "花",
-    "onyomi": "ka",
-    "kunyomi": "hana",
-    "meaning": "flower"
   },
   {
     "id": 58,
