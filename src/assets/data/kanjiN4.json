@@ -876,19 +876,181 @@
     "meaning": "England"
   },
   {
-    "id": 61,
+    "id": 126,
+    "kanji": "走",
+    "onyomi": "ソウ",
+    "kunyomi": "はしる run",
+    "meaning": "run"
+  },
+  {
+    "id": 127,
+    "kanji": "青",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "あお-   あおい blue",
+    "meaning": "blue"
+  },
+  {
+    "id": 128,
     "kanji": "答",
-    "onyomi": "tou",
-    "kunyomi": "kota(eru)",
+    "onyomi": "トウ",
+    "kunyomi": "こたえ an answer   こたえる to answer",
     "meaning": "answer, response"
   },
   {
-    "id": 63,
+    "id": 129,
+    "kanji": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ paper",
+    "meaning": "paper"
+  },
+  {
+    "id": 130,
     "kanji": "歌",
-    "onyomi": "ka",
-    "kunyomi": "uta, uta(u)",
+    "onyomi": "カ",
+    "kunyomi": "うたう to sing   うた song",
     "meaning": "song, sing"
   },
+  {
+    "id": 131,
+    "kanji": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそぐ to pour",
+    "meaning": "pour"
+  },
+  {
+    "id": 132,
+    "kanji": "赤",
+    "onyomi": "セキ   シャク",
+    "kunyomi": "あか   あかい red   あからむ to turn red   あからめる to blush",
+    "meaning": "red"
+  },
+  {
+    "id": 133,
+    "kanji": "春",
+    "onyomi": "シュン",
+    "kunyomi": "はる spring",
+    "meaning": "spring"
+  },
+  {
+    "id": 134,
+    "kanji": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた castle, mansion",
+    "meaning": "building"
+  },
+  {
+    "id": 135,
+    "kanji": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび trip",
+    "meaning": "trip, travel"
+  },
+  {
+    "id": 136,
+    "kanji": "験",
+    "onyomi": "ケン   ゲン",
+    "kunyomi": "あかし   しるし   ためし   ためす",
+    "meaning": "verification"
+  },
+  {
+    "id": 137,
+    "kanji": "写",
+    "onyomi": "シャ",
+    "kunyomi": "うつす to duplicate, to depict   うつる to be photographed",
+    "meaning": "photo"
+  },
+  {
+    "id": 138,
+    "kanji": "去",
+    "onyomi": "キョ   コ",
+    "kunyomi": "さる leave",
+    "meaning": "leave"
+  },
+  {
+    "id": 139,
+    "kanji": "研",
+    "onyomi": "ケン",
+    "kunyomi": "とぐ to sharpen, to whet",
+    "meaning": "sharpen"
+  },
+  {
+    "id": 140,
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "のむ to drink",
+    "meaning": "drink"
+  },
+  {
+    "id": 141,
+    "kanji": "肉",
+    "onyomi": "ニク",
+    "kunyomi": "",
+    "meaning": "meat"
+  },
+  {
+    "id": 142,
+    "kanji": "服",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "clothes"
+  },
+  {
+    "id": 143,
+    "kanji": "銀",
+    "onyomi": "ギン",
+    "kunyomi": "",
+    "meaning": "silver"
+  },
+  {
+    "id": 144,
+    "kanji": "茶",
+    "onyomi": "チャ   サ",
+    "kunyomi": "",
+    "meaning": "tea"
+  },
+  {
+    "id": 145,
+    "kanji": "究",
+    "onyomi": "キュウ",
+    "kunyomi": "きわめる to investigate thoroughly",
+    "meaning": "investigate"
+  },
+  {
+    "id": 146,
+    "kanji": "洋",
+    "onyomi": "ヨウ",
+    "kunyomi": "ひろ",
+    "meaning": "ocean"
+  },
+  {
+    "id": 147,
+    "kanji": "兄",
+    "onyomi": "ケイ   キョウ",
+    "kunyomi": "あに elder brother",
+    "meaning": "elder brother, brother"
+  },
+  {
+    "id": 148,
+    "kanji": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき autumn",
+    "meaning": "autumn"
+  },
+  {
+    "id": 149,
+    "kanji": "堂",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "meaning": "temple"
+  },
+  {
+    "id": 150,
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "meaning": "week"
+  },
+
   {
     "id": 68,
     "kanji": "昼",
@@ -897,25 +1059,11 @@
     "meaning": "noon, daytime"
   },
   {
-    "id": 70,
-    "kanji": "春",
-    "onyomi": "shun",
-    "kunyomi": "haru",
-    "meaning": "spring"
-  },
-  {
     "id": 71,
     "kanji": "夏",
     "onyomi": "ka",
     "kunyomi": "natsu",
     "meaning": "summer"
-  },
-  {
-    "id": 72,
-    "kanji": "秋",
-    "onyomi": "shuu",
-    "kunyomi": "aki",
-    "meaning": "autumn"
   },
   {
     "id": 73,
@@ -932,32 +1080,11 @@
     "meaning": "white"
   },
   {
-    "id": 77,
-    "kanji": "赤",
-    "onyomi": "seki",
-    "kunyomi": "aka",
-    "meaning": "red"
-  },
-  {
-    "id": 78,
-    "kanji": "青",
-    "onyomi": "sei",
-    "kunyomi": "ao",
-    "meaning": "blue"
-  },
-  {
     "id": 79,
     "kanji": "黄",
     "onyomi": "ou",
     "kunyomi": "ki",
     "meaning": "yellow"
-  },
-  {
-    "id": 81,
-    "kanji": "兄",
-    "onyomi": "kei, kyou",
-    "kunyomi": "ani",
-    "meaning": "older brother"
   },
   {
     "id": 82,
@@ -988,13 +1115,6 @@
     "meaning": "place"
   },
   {
-    "id": 87,
-    "kanji": "旅",
-    "onyomi": "ryo",
-    "kunyomi": "tabi",
-    "meaning": "travel"
-  },
-  {
     "id": 89,
     "kanji": "門",
     "onyomi": "mon",
@@ -1007,13 +1127,6 @@
     "onyomi": "eki",
     "kunyomi": "",
     "meaning": "station"
-  },
-  {
-    "id": 92,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
   },
   {
     "id": 93,
@@ -1077,13 +1190,6 @@
     "onyomi": "byou",
     "kunyomi": "neko",
     "meaning": "cat"
-  },
-  {
-    "id": 104,
-    "kanji": "草",
-    "onyomi": "sou",
-    "kunyomi": "kusa",
-    "meaning": "grass"
   },
   {
     "id": 105,
@@ -1184,32 +1290,11 @@
     "meaning": "light"
   },
   {
-    "id": 124,
-    "kanji": "紙",
-    "onyomi": "shi",
-    "kunyomi": "kami",
-    "meaning": "paper"
-  },
-  {
-    "id": 125,
-    "kanji": "銀",
-    "onyomi": "gin",
-    "kunyomi": "",
-    "meaning": "silver"
-  },
-  {
     "id": 126,
     "kanji": "鉄",
     "onyomi": "tetsu",
     "kunyomi": "",
     "meaning": "iron"
-  },
-  {
-    "id": 127,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
   },
   {
     "id": 128,
@@ -1219,1025 +1304,10 @@
     "meaning": "bridge"
   },
   {
-    "id": 131,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
-  },
-  {
-    "id": 132,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 133,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
-  },
-  {
-    "id": 134,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
-    "id": 135,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 136,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
-  },
-  {
-    "id": 137,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 138,
-    "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
-    "meaning": "cow"
-  },
-  {
-    "id": 139,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
-  },
-  {
-    "id": 140,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
-  },
-  {
-    "id": 141,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 142,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
     "id": 144,
     "kanji": "草",
     "onyomi": "sou",
     "kunyomi": "kusa",
     "meaning": "grass"
-  },
-  {
-    "id": 145,
-    "kanji": "木",
-    "onyomi": "moku",
-    "kunyomi": "ki",
-    "meaning": "tree, wood"
-  },
-  {
-    "id": 146,
-    "kanji": "森",
-    "onyomi": "shin",
-    "kunyomi": "mori",
-    "meaning": "forest"
-  },
-  {
-    "id": 147,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
-    "id": 148,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 149,
-    "kanji": "石",
-    "onyomi": "seki",
-    "kunyomi": "ishi",
-    "meaning": "stone"
-  },
-  {
-    "id": 150,
-    "kanji": "土",
-    "onyomi": "do",
-    "kunyomi": "tsuchi",
-    "meaning": "earth, soil"
-  },
-  {
-    "id": 151,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 153,
-    "kanji": "雪",
-    "onyomi": "setsu",
-    "kunyomi": "yuki",
-    "meaning": "snow"
-  },
-  {
-    "id": 154,
-    "kanji": "雲",
-    "onyomi": "un",
-    "kunyomi": "kumo",
-    "meaning": "cloud"
-  },
-  {
-    "id": 155,
-    "kanji": "池",
-    "onyomi": "chi",
-    "kunyomi": "ike",
-    "meaning": "pond"
-  },
-  {
-    "id": 157,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 158,
-    "kanji": "岩",
-    "onyomi": "gan",
-    "kunyomi": "iwa",
-    "meaning": "rock"
-  },
-  {
-    "id": 159,
-    "kanji": "星",
-    "onyomi": "sei",
-    "kunyomi": "hoshi",
-    "meaning": "star"
-  },
-  {
-    "id": 161,
-    "kanji": "光",
-    "onyomi": "kou",
-    "kunyomi": "hikari, hika(ru)",
-    "meaning": "light"
-  },
-  {
-    "id": 164,
-    "kanji": "紙",
-    "onyomi": "shi",
-    "kunyomi": "kami",
-    "meaning": "paper"
-  },
-  {
-    "id": 165,
-    "kanji": "銀",
-    "onyomi": "gin",
-    "kunyomi": "",
-    "meaning": "silver"
-  },
-  {
-    "id": 166,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 167,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 168,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 171,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
-  },
-  {
-    "id": 172,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 173,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
-  },
-  {
-    "id": 174,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
-    "id": 175,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 176,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
-  },
-  {
-    "id": 177,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 178,
-    "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
-    "meaning": "cow"
-  },
-  {
-    "id": 179,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
-  },
-  {
-    "id": 180,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
-  },
-  {
-    "id": 181,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 182,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 184,
-    "kanji": "草",
-    "onyomi": "sou",
-    "kunyomi": "kusa",
-    "meaning": "grass"
-  },
-  {
-    "id": 185,
-    "kanji": "木",
-    "onyomi": "moku",
-    "kunyomi": "ki",
-    "meaning": "tree, wood"
-  },
-  {
-    "id": 186,
-    "kanji": "森",
-    "onyomi": "shin",
-    "kunyomi": "mori",
-    "meaning": "forest"
-  },
-  {
-    "id": 187,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
-    "id": 188,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 189,
-    "kanji": "石",
-    "onyomi": "seki",
-    "kunyomi": "ishi",
-    "meaning": "stone"
-  },
-  {
-    "id": 190,
-    "kanji": "土",
-    "onyomi": "do",
-    "kunyomi": "tsuchi",
-    "meaning": "earth, soil"
-  },
-  {
-    "id": 191,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 193,
-    "kanji": "雪",
-    "onyomi": "setsu",
-    "kunyomi": "yuki",
-    "meaning": "snow"
-  },
-  {
-    "id": 194,
-    "kanji": "雲",
-    "onyomi": "un",
-    "kunyomi": "kumo",
-    "meaning": "cloud"
-  },
-  {
-    "id": 195,
-    "kanji": "池",
-    "onyomi": "chi",
-    "kunyomi": "ike",
-    "meaning": "pond"
-  },
-  {
-    "id": 197,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 198,
-    "kanji": "岩",
-    "onyomi": "gan",
-    "kunyomi": "iwa",
-    "meaning": "rock"
-  },
-  {
-    "id": 199,
-    "kanji": "星",
-    "onyomi": "sei",
-    "kunyomi": "hoshi",
-    "meaning": "star"
-  },
-  {
-    "id": 201,
-    "kanji": "光",
-    "onyomi": "kou",
-    "kunyomi": "hikari, hika(ru)",
-    "meaning": "light"
-  },
-  {
-    "id": 204,
-    "kanji": "紙",
-    "onyomi": "shi",
-    "kunyomi": "kami",
-    "meaning": "paper"
-  },
-  {
-    "id": 205,
-    "kanji": "銀",
-    "onyomi": "gin",
-    "kunyomi": "",
-    "meaning": "silver"
-  },
-  {
-    "id": 206,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 207,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 208,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 211,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
-  },
-  {
-    "id": 212,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 213,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
-  },
-  {
-    "id": 214,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
-    "id": 215,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 216,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
-  },
-  {
-    "id": 217,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 218,
-    "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
-    "meaning": "cow"
-  },
-  {
-    "id": 219,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
-  },
-  {
-    "id": 220,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
-  },
-  {
-    "id": 221,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 222,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 224,
-    "kanji": "草",
-    "onyomi": "sou",
-    "kunyomi": "kusa",
-    "meaning": "grass"
-  },
-  {
-    "id": 225,
-    "kanji": "木",
-    "onyomi": "moku",
-    "kunyomi": "ki",
-    "meaning": "tree, wood"
-  },
-  {
-    "id": 226,
-    "kanji": "森",
-    "onyomi": "shin",
-    "kunyomi": "mori",
-    "meaning": "forest"
-  },
-  {
-    "id": 227,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
-    "id": 228,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 229,
-    "kanji": "石",
-    "onyomi": "seki",
-    "kunyomi": "ishi",
-    "meaning": "stone"
-  },
-  {
-    "id": 230,
-    "kanji": "土",
-    "onyomi": "do",
-    "kunyomi": "tsuchi",
-    "meaning": "earth, soil"
-  },
-  {
-    "id": 231,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 233,
-    "kanji": "雪",
-    "onyomi": "setsu",
-    "kunyomi": "yuki",
-    "meaning": "snow"
-  },
-  {
-    "id": 234,
-    "kanji": "雲",
-    "onyomi": "un",
-    "kunyomi": "kumo",
-    "meaning": "cloud"
-  },
-  {
-    "id": 235,
-    "kanji": "池",
-    "onyomi": "chi",
-    "kunyomi": "ike",
-    "meaning": "pond"
-  },
-  {
-    "id": 237,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 238,
-    "kanji": "岩",
-    "onyomi": "gan",
-    "kunyomi": "iwa",
-    "meaning": "rock"
-  },
-  {
-    "id": 239,
-    "kanji": "星",
-    "onyomi": "sei",
-    "kunyomi": "hoshi",
-    "meaning": "star"
-  },
-  {
-    "id": 241,
-    "kanji": "光",
-    "onyomi": "kou",
-    "kunyomi": "hikari, hika(ru)",
-    "meaning": "light"
-  },
-  {
-    "id": 244,
-    "kanji": "紙",
-    "onyomi": "shi",
-    "kunyomi": "kami",
-    "meaning": "paper"
-  },
-  {
-    "id": 245,
-    "kanji": "銀",
-    "onyomi": "gin",
-    "kunyomi": "",
-    "meaning": "silver"
-  },
-  {
-    "id": 246,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 247,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 248,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 251,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
-  },
-  {
-    "id": 252,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 253,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
-  },
-  {
-    "id": 254,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
-    "id": 255,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 256,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
-  },
-  {
-    "id": 257,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 258,
-    "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
-    "meaning": "cow"
-  },
-  {
-    "id": 259,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
-  },
-  {
-    "id": 260,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
-  },
-  {
-    "id": 261,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 262,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 264,
-    "kanji": "草",
-    "onyomi": "sou",
-    "kunyomi": "kusa",
-    "meaning": "grass"
-  },
-  {
-    "id": 265,
-    "kanji": "木",
-    "onyomi": "moku",
-    "kunyomi": "ki",
-    "meaning": "tree, wood"
-  },
-  {
-    "id": 266,
-    "kanji": "森",
-    "onyomi": "shin",
-    "kunyomi": "mori",
-    "meaning": "forest"
-  },
-  {
-    "id": 267,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
-    "id": 268,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 269,
-    "kanji": "石",
-    "onyomi": "seki",
-    "kunyomi": "ishi",
-    "meaning": "stone"
-  },
-  {
-    "id": 270,
-    "kanji": "土",
-    "onyomi": "do",
-    "kunyomi": "tsuchi",
-    "meaning": "earth, soil"
-  },
-  {
-    "id": 271,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 273,
-    "kanji": "雪",
-    "onyomi": "setsu",
-    "kunyomi": "yuki",
-    "meaning": "snow"
-  },
-  {
-    "id": 274,
-    "kanji": "雲",
-    "onyomi": "un",
-    "kunyomi": "kumo",
-    "meaning": "cloud"
-  },
-  {
-    "id": 275,
-    "kanji": "池",
-    "onyomi": "chi",
-    "kunyomi": "ike",
-    "meaning": "pond"
-  },
-  {
-    "id": 277,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 278,
-    "kanji": "岩",
-    "onyomi": "gan",
-    "kunyomi": "iwa",
-    "meaning": "rock"
-  },
-  {
-    "id": 279,
-    "kanji": "星",
-    "onyomi": "sei",
-    "kunyomi": "hoshi",
-    "meaning": "star"
-  },
-  {
-    "id": 281,
-    "kanji": "光",
-    "onyomi": "kou",
-    "kunyomi": "hikari, hika(ru)",
-    "meaning": "light"
-  },
-  {
-    "id": 284,
-    "kanji": "紙",
-    "onyomi": "shi",
-    "kunyomi": "kami",
-    "meaning": "paper"
-  },
-  {
-    "id": 285,
-    "kanji": "銀",
-    "onyomi": "gin",
-    "kunyomi": "",
-    "meaning": "silver"
-  },
-  {
-    "id": 286,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 287,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 288,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 291,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
-  },
-  {
-    "id": 292,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
-  },
-  {
-    "id": 293,
-    "kanji": "電",
-    "onyomi": "den",
-    "kunyomi": "",
-    "meaning": "electricity"
-  },
-  {
-    "id": 294,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
-  },
-  {
-    "id": 295,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
-  },
-  {
-    "id": 296,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
-  },
-  {
-    "id": 297,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 298,
-    "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
-    "meaning": "cow"
-  },
-  {
-    "id": 299,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
-  },
-  {
-    "id": 300,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
-  },
-  {
-    "id": 43,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana, uo",
-    "meaning": "fish"
-  },
-  {
-    "id": 45,
-    "kanji": "飲",
-    "onyomi": "in",
-    "kunyomi": "no(mu)",
-    "meaning": "drink"
-  },
-  {
-    "id": 54,
-    "kanji": "赤",
-    "onyomi": "seki, shaku",
-    "kunyomi": "aka",
-    "meaning": "red"
-  },
-  {
-    "id": 55,
-    "kanji": "青",
-    "onyomi": "sei, shou",
-    "kunyomi": "ao",
-    "meaning": "blue"
-  },
-  {
-    "id": 58,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 59,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 60,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
-  },
-  {
-    "id": 61,
-    "kanji": "駅",
-    "onyomi": "eki",
-    "kunyomi": "",
-    "meaning": "station"
   }
 ]
