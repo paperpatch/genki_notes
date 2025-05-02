@@ -1050,264 +1050,144 @@
     "kunyomi": "",
     "meaning": "week"
   },
-
   {
-    "id": 68,
-    "kanji": "昼",
-    "onyomi": "chuu",
-    "kunyomi": "hiru",
-    "meaning": "noon, daytime"
+    "id": 151,
+    "kanji": "習",
+    "onyomi": "シュウ",
+    "kunyomi": "ならう to learn",
+    "meaning": "learn"
   },
   {
-    "id": 71,
+    "id": 152,
+    "kanji": "試",
+    "onyomi": "シ",
+    "kunyomi": "ためす to test   こころみる to attempt",
+    "meaning": "test"
+  },
+  {
+    "id": 153,
     "kanji": "夏",
-    "onyomi": "ka",
-    "kunyomi": "natsu",
+    "onyomi": "カ   ゲ",
+    "kunyomi": "なつ summer",
     "meaning": "summer"
   },
   {
-    "id": 73,
-    "kanji": "冬",
-    "onyomi": "tou",
-    "kunyomi": "fuyu",
-    "meaning": "winter"
-  },
-  {
-    "id": 76,
-    "kanji": "白",
-    "onyomi": "haku",
-    "kunyomi": "shiro",
-    "meaning": "white"
-  },
-  {
-    "id": 79,
-    "kanji": "黄",
-    "onyomi": "ou",
-    "kunyomi": "ki",
-    "meaning": "yellow"
-  },
-  {
-    "id": 82,
+    "id": 154,
     "kanji": "弟",
-    "onyomi": "tei, dai",
-    "kunyomi": "otouto",
+    "onyomi": "ダイ   テイ   デ",
+    "kunyomi": "おとうと younger brother",
     "meaning": "younger brother"
   },
   {
-    "id": 83,
-    "kanji": "姉",
-    "onyomi": "shi",
-    "kunyomi": "ane",
-    "meaning": "older sister"
+    "id": 155,
+    "kanji": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり bird",
+    "meaning": "bird"
   },
   {
-    "id": 84,
-    "kanji": "妹",
-    "onyomi": "mai",
-    "kunyomi": "imouto",
-    "meaning": "younger sister"
+    "id": 156,
+    "kanji": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ dog",
+    "meaning": "dog"
   },
   {
-    "id": 86,
-    "kanji": "所",
-    "onyomi": "sho",
-    "kunyomi": "tokoro",
-    "meaning": "place"
+    "id": 157,
+    "kanji": "夕",
+    "onyomi": "セキ",
+    "kunyomi": "ゆう night",
+    "meaning": "night"
   },
   {
-    "id": 89,
-    "kanji": "門",
-    "onyomi": "mon",
-    "kunyomi": "kado",
-    "meaning": "gate"
+    "id": 158,
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "さかな   うお fish",
+    "meaning": "fish"
   },
   {
-    "id": 91,
+    "id": 159,
+    "kanji": "借",
+    "onyomi": "シャク",
+    "kunyomi": "かりる to borrow",
+    "meaning": "borrow"
+  },
+  {
+    "id": 160,
+    "kanji": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし boiled rice, food",
+    "meaning": "boiled rice"
+  },
+  {
+    "id": 161,
     "kanji": "駅",
-    "onyomi": "eki",
+    "onyomi": "エキ",
     "kunyomi": "",
     "meaning": "station"
   },
   {
-    "id": 93,
-    "kanji": "車",
-    "onyomi": "sha",
-    "kunyomi": "kuruma",
-    "meaning": "car, vehicle"
+    "id": 162,
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる noon, daytime",
+    "meaning": "noon, daytime"
   },
   {
-    "id": 94,
-    "kanji": "船",
-    "onyomi": "sen",
-    "kunyomi": "fune",
-    "meaning": "ship, boat"
+    "id": 163,
+    "kanji": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ winter",
+    "meaning": "winter"
   },
   {
-    "id": 96,
-    "kanji": "飛",
-    "onyomi": "hi",
-    "kunyomi": "to(bu)",
-    "meaning": "fly"
+    "id": 164,
+    "kanji": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね elder sister",
+    "meaning": "elder sister"
   },
   {
-    "id": 97,
-    "kanji": "鳥",
-    "onyomi": "chou",
-    "kunyomi": "tori",
-    "meaning": "bird"
+    "id": 165,
+    "kanji": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "day of the week"
   },
   {
-    "id": 98,
+    "id": 166,
+    "kanji": "漢",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "Chinese"
+  },
+  {
+    "id": 167,
     "kanji": "牛",
-    "onyomi": "gyuu",
-    "kunyomi": "ushi",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし cow",
     "meaning": "cow"
   },
   {
-    "id": 99,
-    "kanji": "馬",
-    "onyomi": "ba",
-    "kunyomi": "uma",
-    "meaning": "horse"
+    "id": 168,
+    "kanji": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと younger sister",
+    "meaning": "younger sister"
   },
   {
-    "id": 100,
-    "kanji": "魚",
-    "onyomi": "gyo",
-    "kunyomi": "sakana",
-    "meaning": "fish"
+    "id": 169,
+    "kanji": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "かす to lend",
+    "meaning": "lend"
   },
   {
-    "id": 101,
-    "kanji": "犬",
-    "onyomi": "ken",
-    "kunyomi": "inu",
-    "meaning": "dog"
-  },
-  {
-    "id": 102,
-    "kanji": "猫",
-    "onyomi": "byou",
-    "kunyomi": "neko",
-    "meaning": "cat"
-  },
-  {
-    "id": 105,
-    "kanji": "木",
-    "onyomi": "moku",
-    "kunyomi": "ki",
-    "meaning": "tree, wood"
-  },
-  {
-    "id": 106,
-    "kanji": "森",
-    "onyomi": "shin",
-    "kunyomi": "mori",
-    "meaning": "forest"
-  },
-  {
-    "id": 107,
-    "kanji": "山",
-    "onyomi": "san",
-    "kunyomi": "yama",
-    "meaning": "mountain"
-  },
-  {
-    "id": 108,
-    "kanji": "川",
-    "onyomi": "sen",
-    "kunyomi": "kawa",
-    "meaning": "river"
-  },
-  {
-    "id": 109,
-    "kanji": "石",
-    "onyomi": "seki",
-    "kunyomi": "ishi",
-    "meaning": "stone"
-  },
-  {
-    "id": 110,
-    "kanji": "土",
-    "onyomi": "do",
-    "kunyomi": "tsuchi",
-    "meaning": "earth, soil"
-  },
-  {
-    "id": 111,
-    "kanji": "雨",
-    "onyomi": "u",
-    "kunyomi": "ame, ama",
-    "meaning": "rain"
-  },
-  {
-    "id": 113,
-    "kanji": "雪",
-    "onyomi": "setsu",
-    "kunyomi": "yuki",
-    "meaning": "snow"
-  },
-  {
-    "id": 114,
-    "kanji": "雲",
-    "onyomi": "un",
-    "kunyomi": "kumo",
-    "meaning": "cloud"
-  },
-  {
-    "id": 115,
-    "kanji": "池",
-    "onyomi": "chi",
-    "kunyomi": "ike",
-    "meaning": "pond"
-  },
-  {
-    "id": 117,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 118,
-    "kanji": "岩",
-    "onyomi": "gan",
-    "kunyomi": "iwa",
-    "meaning": "rock"
-  },
-  {
-    "id": 119,
-    "kanji": "星",
-    "onyomi": "sei",
-    "kunyomi": "hoshi",
-    "meaning": "star"
-  },
-  {
-    "id": 121,
-    "kanji": "光",
-    "onyomi": "kou",
-    "kunyomi": "hikari, hika(ru)",
-    "meaning": "light"
-  },
-  {
-    "id": 126,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
+    "id": 170,
+    "kanji": "勉",
+    "onyomi": "ベン",
     "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 128,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 144,
-    "kanji": "草",
-    "onyomi": "sou",
-    "kunyomi": "kusa",
-    "meaning": "grass"
+    "meaning": "exertion"
   }
 ]
