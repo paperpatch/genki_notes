@@ -4549,6 +4549,111 @@
       "onyomi": "ji",
       "kunyomi": "koto",
       "meaning": "thing, matter"
+    },
+    {
+      "id": 79,
+      "kanji": "黄",
+      "onyomi": "ou",
+      "kunyomi": "ki",
+      "meaning": "yellow"
+    },
+    {
+      "id": 89,
+      "kanji": "門",
+      "onyomi": "mon",
+      "kunyomi": "kado",
+      "meaning": "gate"
+    },
+    {
+      "id": 94,
+      "kanji": "船",
+      "onyomi": "sen",
+      "kunyomi": "fune",
+      "meaning": "ship, boat"
+    },
+    {
+      "id": 96,
+      "kanji": "飛",
+      "onyomi": "hi",
+      "kunyomi": "to(bu)",
+      "meaning": "fly"
+    },
+    {
+      "id": 99,
+      "kanji": "馬",
+      "onyomi": "ba",
+      "kunyomi": "uma",
+      "meaning": "horse"
+    },
+    {
+      "id": 102,
+      "kanji": "猫",
+      "onyomi": "byou",
+      "kunyomi": "neko",
+      "meaning": "cat"
+    },
+    {
+      "id": 106,
+      "kanji": "森",
+      "onyomi": "shin",
+      "kunyomi": "mori",
+      "meaning": "forest"
+    },
+    {
+      "id": 109,
+      "kanji": "石",
+      "onyomi": "seki",
+      "kunyomi": "ishi",
+      "meaning": "stone"
+    },
+    {
+      "id": 113,
+      "kanji": "雪",
+      "onyomi": "setsu",
+      "kunyomi": "yuki",
+      "meaning": "snow"
+    },
+    {
+      "id": 114,
+      "kanji": "雲",
+      "onyomi": "un",
+      "kunyomi": "kumo",
+      "meaning": "cloud"
+    },
+    {
+      "id": 115,
+      "kanji": "池",
+      "onyomi": "chi",
+      "kunyomi": "ike",
+      "meaning": "pond"
+    },
+    {
+      "id": 118,
+      "kanji": "岩",
+      "onyomi": "gan",
+      "kunyomi": "iwa",
+      "meaning": "rock"
+    },
+    {
+      "id": 119,
+      "kanji": "星",
+      "onyomi": "sei",
+      "kunyomi": "hoshi",
+      "meaning": "star"
+    },
+    {
+      "id": 121,
+      "kanji": "光",
+      "onyomi": "kou",
+      "kunyomi": "hikari, hika(ru)",
+      "meaning": "light"
+    },
+    {
+      "id": 144,
+      "kanji": "草",
+      "onyomi": "sou",
+      "kunyomi": "kusa",
+      "meaning": "grass"
     }
   ]
 ]
