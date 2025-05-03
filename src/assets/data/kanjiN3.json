@@ -1,6 +1,182 @@
 [
   {
     "id": 1,
+    "kanji": "合",
+    "onyomi": "ゴウ   ガッ   カッ",
+    "kunyomi": "あう to fit, come together   あわす to match   あわせる to unite, join",
+    "meaning": "fit"
+  },
+  {
+    "id": 2,
+    "kanji": "部",
+    "onyomi": "ブ",
+    "kunyomi": "",
+    "meaning": "section, part"
+  },
+  {
+    "id": 3,
+    "kanji": "彼",
+    "onyomi": "ヒ",
+    "kunyomi": "かれ he",
+    "meaning": "he"
+  },
+  {
+    "id": 4,
+    "kanji": "内",
+    "onyomi": "ナイ   ダイ",
+    "kunyomi": "うち inside",
+    "meaning": "inside"
+  },
+  {
+    "id": 5,
+    "kanji": "実",
+    "onyomi": "ジツ",
+    "kunyomi": "み fruit, nut   みのる to bear fruit",
+    "meaning": "fruit, truth, reality, is a variant of 實"
+  },
+  {
+    "id": 6,
+    "kanji": "当",
+    "onyomi": "トウ",
+    "kunyomi": "あてる   あたる to hit",
+    "meaning": "hit"
+  },
+  {
+    "id": 7,
+    "kanji": "戦",
+    "onyomi": "セン",
+    "kunyomi": "いくさ battle, war   たたかう to do battle",
+    "meaning": "battle"
+  },
+  {
+    "id": 8,
+    "kanji": "性",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "",
+    "meaning": "sex, gender, nature"
+  },
+  {
+    "id": 9,
+    "kanji": "対",
+    "onyomi": "タイ   ツイ",
+    "kunyomi": "",
+    "meaning": "vis-a-vis, opposite, against"
+  },
+  {
+    "id": 10,
+    "kanji": "関",
+    "onyomi": "カン",
+    "kunyomi": "せき barrier   かかわる to be connected",
+    "meaning": "barrier"
+  },
+  {
+    "id": 11,
+    "kanji": "感",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "feelings, emotion"
+  },
+  {
+    "id": 12,
+    "kanji": "定",
+    "onyomi": "テイ   ジョウ",
+    "kunyomi": "さだか decidedly, truly   さだめる to decide, determine   さだまる to be determined",
+    "meaning": "determined, decide, fix"
+  },
+  {
+    "id": 13,
+    "kanji": "政",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "まつりごと government",
+    "meaning": "determined, decide, fix"
+  },
+  {
+    "id": 14,
+    "kanji": "取",
+    "onyomi": "シュ",
+    "kunyomi": "とる to take",
+    "meaning": "take"
+  },
+  {
+    "id": 15,
+    "kanji": "所",
+    "onyomi": "ショ",
+    "kunyomi": "ところ place",
+    "meaning": "place"
+  },
+  {
+    "id": 16,
+    "kanji": "現",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわれる to appear   あらわす to show",
+    "meaning": "present"
+  },
+  {
+    "id": 17,
+    "kanji": "最",
+    "onyomi": "サイ",
+    "kunyomi": "もっとも most",
+    "meaning": "most"
+  },
+  {
+    "id": 18,
+    "kanji": "化",
+    "onyomi": "カ   ケ",
+    "kunyomi": "ばける to change",
+    "meaning": "change, transform"
+  },
+  {
+    "id": 19,
+    "kanji": "民",
+    "onyomi": "ミン",
+    "kunyomi": "たみ people",
+    "meaning": "people"
+  },
+  {
+    "id": 20,
+    "kanji": "相",
+    "onyomi": "ソウ   ショウ",
+    "kunyomi": "あい- mutual",
+    "meaning": "minister, mutual, aspect"
+  },
+  {
+    "id": 21,
+    "kanji": "法",
+    "onyomi": "ホウ   ハッ   ホッ",
+    "kunyomi": "",
+    "meaning": "method"
+  },
+  {
+    "id": 22,
+    "kanji": "全",
+    "onyomi": "ゼン",
+    "kunyomi": "まったく entirely   すべて everything",
+    "meaning": "every"
+  },
+  {
+    "id": 23,
+    "kanji": "情",
+    "onyomi": "ジョウ   セイ",
+    "kunyomi": "なさけ emotion; circumstances",
+    "meaning": "efmotion"
+  },
+  {
+    "id": 24,
+    "kanji": "向",
+    "onyomi": "コウ",
+    "kunyomi": "むかう to confront   むく to turn towards   むこう opposite direction   むける to direct towards",
+    "meaning": "confront, facing, direction"
+  },
+  {
+    "id": 25,
+    "kanji": "平",
+    "onyomi": "ヘイ   ビョウ",
+    "kunyomi": "たいら flat   ひら ordinary; flat",
+    "meaning": "flat, peace"
+  },
+
+  {
+    "id": 1,
     "kanji": "愛",
     "onyomi": "ai",
     "kunyomi": "",
@@ -84,13 +260,6 @@
     "meaning": "warm"
   },
   {
-    "id": 13,
-    "kanji": "化",
-    "onyomi": "ka, ke",
-    "kunyomi": "ba(keru)",
-    "meaning": "change, transform"
-  },
-  {
     "id": 14,
     "kanji": "荷",
     "onyomi": "ka",
@@ -124,13 +293,6 @@
     "onyomi": "kan",
     "kunyomi": "samu(i)",
     "meaning": "cold"
-  },
-  {
-    "id": 19,
-    "kanji": "感",
-    "onyomi": "kan",
-    "kunyomi": "",
-    "meaning": "feeling, emotion"
   },
   {
     "id": 20,
@@ -336,13 +498,6 @@
     "meaning": "lake"
   },
   {
-    "id": 49,
-    "kanji": "向",
-    "onyomi": "kou",
-    "kunyomi": "mu(ku), mu(kau)",
-    "meaning": "facing, direction"
-  },
-  {
     "id": 50,
     "kanji": "幸",
     "onyomi": "kou",
@@ -483,13 +638,6 @@
     "meaning": "ceremony, style"
   },
   {
-    "id": 70,
-    "kanji": "実",
-    "onyomi": "jitsu",
-    "kunyomi": "mi, mino(ru)",
-    "meaning": "truth, reality"
-  },
-  {
     "id": 71,
     "kanji": "写",
     "onyomi": "sha",
@@ -509,13 +657,6 @@
     "onyomi": "shu",
     "kunyomi": "nushi, omo",
     "meaning": "master, main"
-  },
-  {
-    "id": 74,
-    "kanji": "取",
-    "onyomi": "shu",
-    "kunyomi": "to(ru)",
-    "meaning": "take"
   },
   {
     "id": 75,
@@ -586,13 +727,6 @@
     "onyomi": "shuku",
     "kunyomi": "yado",
     "meaning": "inn, lodging"
-  },
-  {
-    "id": 85,
-    "kanji": "所",
-    "onyomi": "sho",
-    "kunyomi": "tokoro",
-    "meaning": "place"
   },
   {
     "id": 86,
@@ -721,20 +855,6 @@
     "meaning": "long ago"
   },
   {
-    "id": 104,
-    "kanji": "全",
-    "onyomi": "zen",
-    "kunyomi": "sube(te), matta(ku)",
-    "meaning": "all, whole"
-  },
-  {
-    "id": 105,
-    "kanji": "相",
-    "onyomi": "sou, shou",
-    "kunyomi": "ai",
-    "meaning": "mutual, aspect"
-  },
-  {
     "id": 106,
     "kanji": "送",
     "onyomi": "sou",
@@ -775,13 +895,6 @@
     "onyomi": "da",
     "kunyomi": "u(tsu)",
     "meaning": "hit, strike"
-  },
-  {
-    "id": 112,
-    "kanji": "対",
-    "onyomi": "tai",
-    "kunyomi": "",
-    "meaning": "opposite, against"
   },
   {
     "id": 113,
@@ -866,13 +979,6 @@
     "onyomi": "tsui",
     "kunyomi": "o(u)",
     "meaning": "chase, pursue"
-  },
-  {
-    "id": 125,
-    "kanji": "定",
-    "onyomi": "tei, jou",
-    "kunyomi": "sada(meru)",
-    "meaning": "decide, fix"
   },
   {
     "id": 126,
@@ -1120,13 +1226,6 @@
     "meaning": "lose, carry"
   },
   {
-    "id": 161,
-    "kanji": "部",
-    "onyomi": "bu",
-    "kunyomi": "",
-    "meaning": "section, part"
-  },
-  {
     "id": 162,
     "kanji": "服",
     "onyomi": "fuku",
@@ -1146,13 +1245,6 @@
     "onyomi": "butsu, motsu",
     "kunyomi": "mono",
     "meaning": "thing, object"
-  },
-  {
-    "id": 165,
-    "kanji": "平",
-    "onyomi": "hei, byou",
-    "kunyomi": "taira, hira",
-    "meaning": "flat, peace"
   },
   {
     "id": 166,
@@ -1442,13 +1534,6 @@
     "meaning": "warm"
   },
   {
-    "id": 207,
-    "kanji": "化",
-    "onyomi": "ka, ke",
-    "kunyomi": "ba(keru)",
-    "meaning": "change, transform"
-  },
-  {
     "id": 208,
     "kanji": "荷",
     "onyomi": "ka",
@@ -1482,13 +1567,6 @@
     "onyomi": "kan",
     "kunyomi": "samu(i)",
     "meaning": "cold"
-  },
-  {
-    "id": 213,
-    "kanji": "感",
-    "onyomi": "kan",
-    "kunyomi": "",
-    "meaning": "feeling, emotion"
   },
   {
     "id": 214,
@@ -1694,13 +1772,6 @@
     "meaning": "lake"
   },
   {
-    "id": 243,
-    "kanji": "向",
-    "onyomi": "kou",
-    "kunyomi": "mu(ku), mu(kau)",
-    "meaning": "facing, direction"
-  },
-  {
     "id": 244,
     "kanji": "幸",
     "onyomi": "kou",
@@ -1841,13 +1912,6 @@
     "meaning": "ceremony, style"
   },
   {
-    "id": 264,
-    "kanji": "実",
-    "onyomi": "jitsu",
-    "kunyomi": "mi, mino(ru)",
-    "meaning": "truth, reality"
-  },
-  {
     "id": 265,
     "kanji": "写",
     "onyomi": "sha",
@@ -1867,13 +1931,6 @@
     "onyomi": "shu",
     "kunyomi": "nushi, omo",
     "meaning": "master, main"
-  },
-  {
-    "id": 268,
-    "kanji": "取",
-    "onyomi": "shu",
-    "kunyomi": "to(ru)",
-    "meaning": "take"
   },
   {
     "id": 269,
@@ -1944,13 +2001,6 @@
     "onyomi": "shuku",
     "kunyomi": "yado",
     "meaning": "inn, lodging"
-  },
-  {
-    "id": 279,
-    "kanji": "所",
-    "onyomi": "sho",
-    "kunyomi": "tokoro",
-    "meaning": "place"
   },
   {
     "id": 280,
@@ -2079,20 +2129,6 @@
     "meaning": "long ago"
   },
   {
-    "id": 298,
-    "kanji": "全",
-    "onyomi": "zen",
-    "kunyomi": "sube(te), matta(ku)",
-    "meaning": "all, whole"
-  },
-  {
-    "id": 299,
-    "kanji": "相",
-    "onyomi": "sou, shou",
-    "kunyomi": "ai",
-    "meaning": "mutual, aspect"
-  },
-  {
     "id": 300,
     "kanji": "送",
     "onyomi": "sou",
@@ -2133,13 +2169,6 @@
     "onyomi": "da",
     "kunyomi": "u(tsu)",
     "meaning": "hit, strike"
-  },
-  {
-    "id": 306,
-    "kanji": "対",
-    "onyomi": "tai",
-    "kunyomi": "",
-    "meaning": "opposite, against"
   },
   {
     "id": 307,
@@ -2224,13 +2253,6 @@
     "onyomi": "tsui",
     "kunyomi": "o(u)",
     "meaning": "chase, pursue"
-  },
-  {
-    "id": 319,
-    "kanji": "定",
-    "onyomi": "tei, jou",
-    "kunyomi": "sada(meru)",
-    "meaning": "decide, fix"
   },
   {
     "id": 320,
@@ -2478,13 +2500,6 @@
     "meaning": "lose, carry"
   },
   {
-    "id": 355,
-    "kanji": "部",
-    "onyomi": "bu",
-    "kunyomi": "",
-    "meaning": "section, part"
-  },
-  {
     "id": 356,
     "kanji": "服",
     "onyomi": "fuku",
@@ -2504,13 +2519,6 @@
     "onyomi": "butsu, motsu",
     "kunyomi": "mono",
     "meaning": "thing, object"
-  },
-  {
-    "id": 359,
-    "kanji": "平",
-    "onyomi": "hei, byou",
-    "kunyomi": "taira, hira",
-    "meaning": "flat, peace"
   },
   {
     "id": 360,
@@ -2800,13 +2808,6 @@
     "meaning": "warm"
   },
   {
-    "id": 401,
-    "kanji": "化",
-    "onyomi": "ka, ke",
-    "kunyomi": "ba(keru)",
-    "meaning": "change, transform"
-  },
-  {
     "id": 402,
     "kanji": "荷",
     "onyomi": "ka",
@@ -2840,13 +2841,6 @@
     "onyomi": "kan",
     "kunyomi": "samu(i)",
     "meaning": "cold"
-  },
-  {
-    "id": 407,
-    "kanji": "感",
-    "onyomi": "kan",
-    "kunyomi": "",
-    "meaning": "feeling, emotion"
   },
   {
     "id": 408,
@@ -3052,13 +3046,6 @@
     "meaning": "lake"
   },
   {
-    "id": 437,
-    "kanji": "向",
-    "onyomi": "kou",
-    "kunyomi": "mu(ku), mu(kau)",
-    "meaning": "facing, direction"
-  },
-  {
     "id": 438,
     "kanji": "幸",
     "onyomi": "kou",
@@ -3199,13 +3186,6 @@
     "meaning": "ceremony, style"
   },
   {
-    "id": 458,
-    "kanji": "実",
-    "onyomi": "jitsu",
-    "kunyomi": "mi, mino(ru)",
-    "meaning": "truth, reality"
-  },
-  {
     "id": 459,
     "kanji": "写",
     "onyomi": "sha",
@@ -3225,13 +3205,6 @@
     "onyomi": "shu",
     "kunyomi": "nushi, omo",
     "meaning": "master, main"
-  },
-  {
-    "id": 462,
-    "kanji": "取",
-    "onyomi": "shu",
-    "kunyomi": "to(ru)",
-    "meaning": "take"
   },
   {
     "id": 463,
@@ -3302,13 +3275,6 @@
     "onyomi": "shuku",
     "kunyomi": "yado",
     "meaning": "inn, lodging"
-  },
-  {
-    "id": 473,
-    "kanji": "所",
-    "onyomi": "sho",
-    "kunyomi": "tokoro",
-    "meaning": "place"
   },
   {
     "id": 474,
@@ -3437,20 +3403,6 @@
     "meaning": "long ago"
   },
   {
-    "id": 492,
-    "kanji": "全",
-    "onyomi": "zen",
-    "kunyomi": "sube(te), matta(ku)",
-    "meaning": "all, whole"
-  },
-  {
-    "id": 493,
-    "kanji": "相",
-    "onyomi": "sou, shou",
-    "kunyomi": "ai",
-    "meaning": "mutual, aspect"
-  },
-  {
     "id": 494,
     "kanji": "送",
     "onyomi": "sou",
@@ -3491,13 +3443,6 @@
     "onyomi": "da",
     "kunyomi": "u(tsu)",
     "meaning": "hit, strike"
-  },
-  {
-    "id": 500,
-    "kanji": "対",
-    "onyomi": "tai",
-    "kunyomi": "",
-    "meaning": "opposite, against"
   },
   {
     "id": 501,
@@ -3582,13 +3527,6 @@
     "onyomi": "tsui",
     "kunyomi": "o(u)",
     "meaning": "chase, pursue"
-  },
-  {
-    "id": 513,
-    "kanji": "定",
-    "onyomi": "tei, jou",
-    "kunyomi": "sada(meru)",
-    "meaning": "decide, fix"
   },
   {
     "id": 514,
@@ -3836,13 +3774,6 @@
     "meaning": "lose, carry"
   },
   {
-    "id": 549,
-    "kanji": "部",
-    "onyomi": "bu",
-    "kunyomi": "",
-    "meaning": "section, part"
-  },
-  {
     "id": 550,
     "kanji": "服",
     "onyomi": "fuku",
@@ -3862,13 +3793,6 @@
     "onyomi": "butsu, motsu",
     "kunyomi": "mono",
     "meaning": "thing, object"
-  },
-  {
-    "id": 553,
-    "kanji": "平",
-    "onyomi": "hei, byou",
-    "kunyomi": "taira, hira",
-    "meaning": "flat, peace"
   },
   {
     "id": 554,
@@ -4158,13 +4082,6 @@
     "meaning": "warm"
   },
   {
-    "id": 595,
-    "kanji": "化",
-    "onyomi": "ka, ke",
-    "kunyomi": "ba(keru)",
-    "meaning": "change, transform"
-  },
-  {
     "id": 596,
     "kanji": "荷",
     "onyomi": "ka",
@@ -4198,13 +4115,6 @@
     "onyomi": "kan",
     "kunyomi": "samu(i)",
     "meaning": "cold"
-  },
-  {
-    "id": 601,
-    "kanji": "感",
-    "onyomi": "kan",
-    "kunyomi": "",
-    "meaning": "feeling, emotion"
   },
   {
     "id": 602,
@@ -4409,13 +4319,6 @@
       "onyomi": "ko",
       "kunyomi": "mizumi",
       "meaning": "lake"
-    },
-    {
-      "id": 631,
-      "kanji": "向",
-      "onyomi": "kou",
-      "kunyomi": "mu(ku), mu(kau)",
-      "meaning": "facing, direction"
     },
     {
       "id": 632,
