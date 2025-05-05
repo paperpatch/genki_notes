@@ -181,6 +181,174 @@
     "kunyomi": "なる to become   なす to perform, to accomplish",
     "meaning": "become"
   },
+  {
+    "id": 27,
+    "kanji": "経",
+    "onyomi": "ケイ   キョウ",
+    "kunyomi": "へる to elapse",
+    "meaning": "elapse"
+  },
+  {
+    "id": 28,
+    "kanji": "信",
+    "onyomi": "シン",
+    "kunyomi": "のぶ",
+    "meaning": "trust"
+  },
+  {
+    "id": 29,
+    "kanji": "面",
+    "onyomi": "メン",
+    "kunyomi": "おもて mask, features, surface   おも surface   つら face",
+    "meaning": "mask"
+  },
+  {
+    "id": 30,
+    "kanji": "連",
+    "onyomi": "レン",
+    "kunyomi": "つれる to take, to lead   つらねる to line up   つらなる to extend",
+    "meaning": "take"
+  },
+  {
+    "id": 31,
+    "kanji": "原",
+    "onyomi": "ゲン",
+    "kunyomi": "はら meadow",
+    "meaning": "meadow"
+  },
+  {
+    "id": 32,
+    "kanji": "顔",
+    "onyomi": "ガン",
+    "kunyomi": "かお face",
+    "meaning": "face"
+  },
+  {
+    "id": 33,
+    "kanji": "機",
+    "onyomi": "キ",
+    "kunyomi": "はた loom",
+    "meaning": "machine"
+  },
+  {
+    "id": 34,
+    "kanji": "次",
+    "onyomi": "ジ   シ",
+    "kunyomi": "つぎ next   つぐ to come after",
+    "meaning": "next"
+  },
+  {
+    "id": 35,
+    "kanji": "数",
+    "onyomi": "スウ   ス",
+    "kunyomi": "かず number   かぞえる to count",
+    "meaning": "number"
+  },
+  {
+    "id": 36,
+    "kanji": "美",
+    "onyomi": "ビ",
+    "kunyomi": "うつくしい beautiful",
+    "meaning": "beauty"
+  },
+  {
+    "id": 37,
+    "kanji": "回",
+    "onyomi": "カイ   エ",
+    "kunyomi": "まわる to revolve   まわす to make turn",
+    "meaning": "revolve"
+  },
+  {
+    "id": 38,
+    "kanji": "表",
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて surface, front   あらわす to show, to represent   あらわれる to be present, to appear",
+    "meaning": "surface, express"
+  },
+  {
+    "id": 39,
+    "kanji": "声",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "こえ voice   こわ- voice",
+    "meaning": "voice"
+  },
+  {
+    "id": 40,
+    "kanji": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むくいる to compensate, remunerate   むくい reward, recompense",
+    "meaning": "report"
+  },
+  {
+    "id": 41,
+    "kanji": "要",
+    "onyomi": "ヨウ",
+    "kunyomi": "いる to need   かなめ pivotal point",
+    "meaning": "need"
+  },
+  {
+    "id": 42,
+    "kanji": "変",
+    "onyomi": "ヘン",
+    "kunyomi": "かえる to alter, change   かわる to change",
+    "meaning": "unusual"
+  },
+  {
+    "id": 43,
+    "kanji": "神",
+    "onyomi": "シン   ジン",
+    "kunyomi": "かみ   かん-   こう- god",
+    "meaning": "god, deity"
+  },
+  {
+    "id": 44,
+    "kanji": "記",
+    "onyomi": "キ",
+    "kunyomi": "しるす to note, write down",
+    "meaning": "note"
+  },
+  {
+    "id": 45,
+    "kanji": "和",
+    "onyomi": "ワ   オ",
+    "kunyomi": "peace, harmony   なごむ to be calmed down   なごやか calm, gentle   やわらぐ to be softened   やわらげる to soften; to alleviate",
+    "meaning": "peace, harmony"
+  },
+  {
+    "id": 46,
+    "kanji": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひく to pull   ひける to be over",
+    "meaning": "pull"
+  },
+  {
+    "id": 47,
+    "kanji": "治",
+    "onyomi": "ジ   チ",
+    "kunyomi": "おさめる to govern   おさまる to be at peace   なおる to get better   なおす to cure",
+    "meaning": "govern"
+  },
+  {
+    "id": 48,
+    "kanji": "決",
+    "onyomi": "ケツ",
+    "kunyomi": "きめる to decide   きまる to be decided",
+    "meaning": "decide"
+  },
+  {
+    "id": 49,
+    "kanji": "太",
+    "onyomi": "タ   タイ",
+    "kunyomi": "ふとい fat   ふとる to get fat, to put on weight",
+    "meaning": "fat"
+  },
+  {
+    "id": 50,
+    "kanji": "込",
+    "onyomi": "",
+    "kunyomi": "こむ to be crowded   こめる to load; to include",
+    "meaning": "crowded"
+  },
 
   {
     "id": 1,
@@ -470,13 +638,6 @@
     "meaning": "blood"
   },
   {
-    "id": 44,
-    "kanji": "決",
-    "onyomi": "ketsu",
-    "kunyomi": "ki(meru)",
-    "meaning": "decide"
-  },
-  {
     "id": 45,
     "kanji": "研",
     "onyomi": "ken",
@@ -622,13 +783,6 @@
     "onyomi": "ji",
     "kunyomi": "mo(tsu)",
     "meaning": "hold, have"
-  },
-  {
-    "id": 67,
-    "kanji": "次",
-    "onyomi": "ji, shi",
-    "kunyomi": "tsugi, tsu(gu)",
-    "meaning": "next"
   },
   {
     "id": 68,
@@ -811,13 +965,6 @@
     "onyomi": "shin",
     "kunyomi": "mi",
     "meaning": "body, oneself"
-  },
-  {
-    "id": 97,
-    "kanji": "神",
-    "onyomi": "shin, jin",
-    "kunyomi": "kami",
-    "meaning": "god, deity"
   },
   {
     "id": 98,
@@ -1170,13 +1317,6 @@
     "meaning": "sad"
   },
   {
-    "id": 152,
-    "kanji": "美",
-    "onyomi": "bi",
-    "kunyomi": "utsuku(shii)",
-    "meaning": "beauty"
-  },
-  {
     "id": 153,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -1196,13 +1336,6 @@
     "onyomi": "hyou",
     "kunyomi": "koori",
     "meaning": "ice"
-  },
-  {
-    "id": 156,
-    "kanji": "表",
-    "onyomi": "hyou",
-    "kunyomi": "omote, arawa(su)",
-    "meaning": "surface, express"
   },
   {
     "id": 157,
@@ -1287,13 +1420,6 @@
     "onyomi": "mei, myou",
     "kunyomi": "inochi",
     "meaning": "life, fate"
-  },
-  {
-    "id": 171,
-    "kanji": "面",
-    "onyomi": "men",
-    "kunyomi": "omo, tsura",
-    "meaning": "face, surface"
   },
   {
     "id": 172,
@@ -1448,13 +1574,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 194,
-    "kanji": "和",
-    "onyomi": "wa",
-    "kunyomi": "nago(mu), yawa(ragu)",
-    "meaning": "peace, harmony"
   },
   {
     "id": 195,
@@ -1744,13 +1863,6 @@
     "meaning": "blood"
   },
   {
-    "id": 238,
-    "kanji": "決",
-    "onyomi": "ketsu",
-    "kunyomi": "ki(meru)",
-    "meaning": "decide"
-  },
-  {
     "id": 239,
     "kanji": "研",
     "onyomi": "ken",
@@ -1896,13 +2008,6 @@
     "onyomi": "ji",
     "kunyomi": "mo(tsu)",
     "meaning": "hold, have"
-  },
-  {
-    "id": 261,
-    "kanji": "次",
-    "onyomi": "ji, shi",
-    "kunyomi": "tsugi, tsu(gu)",
-    "meaning": "next"
   },
   {
     "id": 262,
@@ -2085,13 +2190,6 @@
     "onyomi": "shin",
     "kunyomi": "mi",
     "meaning": "body, oneself"
-  },
-  {
-    "id": 291,
-    "kanji": "神",
-    "onyomi": "shin, jin",
-    "kunyomi": "kami",
-    "meaning": "god, deity"
   },
   {
     "id": 292,
@@ -2444,13 +2542,6 @@
     "meaning": "sad"
   },
   {
-    "id": 346,
-    "kanji": "美",
-    "onyomi": "bi",
-    "kunyomi": "utsuku(shii)",
-    "meaning": "beauty"
-  },
-  {
     "id": 347,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -2470,13 +2561,6 @@
     "onyomi": "hyou",
     "kunyomi": "koori",
     "meaning": "ice"
-  },
-  {
-    "id": 350,
-    "kanji": "表",
-    "onyomi": "hyou",
-    "kunyomi": "omote, arawa(su)",
-    "meaning": "surface, express"
   },
   {
     "id": 351,
@@ -2561,13 +2645,6 @@
     "onyomi": "mei, myou",
     "kunyomi": "inochi",
     "meaning": "life, fate"
-  },
-  {
-    "id": 365,
-    "kanji": "面",
-    "onyomi": "men",
-    "kunyomi": "omo, tsura",
-    "meaning": "face, surface"
   },
   {
     "id": 366,
@@ -2722,13 +2799,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 388,
-    "kanji": "和",
-    "onyomi": "wa",
-    "kunyomi": "nago(mu), yawa(ragu)",
-    "meaning": "peace, harmony"
   },
   {
     "id": 389,
@@ -3018,13 +3088,6 @@
     "meaning": "blood"
   },
   {
-    "id": 432,
-    "kanji": "決",
-    "onyomi": "ketsu",
-    "kunyomi": "ki(meru)",
-    "meaning": "decide"
-  },
-  {
     "id": 433,
     "kanji": "研",
     "onyomi": "ken",
@@ -3170,13 +3233,6 @@
     "onyomi": "ji",
     "kunyomi": "mo(tsu)",
     "meaning": "hold, have"
-  },
-  {
-    "id": 455,
-    "kanji": "次",
-    "onyomi": "ji, shi",
-    "kunyomi": "tsugi, tsu(gu)",
-    "meaning": "next"
   },
   {
     "id": 456,
@@ -3359,13 +3415,6 @@
     "onyomi": "shin",
     "kunyomi": "mi",
     "meaning": "body, oneself"
-  },
-  {
-    "id": 485,
-    "kanji": "神",
-    "onyomi": "shin, jin",
-    "kunyomi": "kami",
-    "meaning": "god, deity"
   },
   {
     "id": 486,
@@ -3718,13 +3767,6 @@
     "meaning": "sad"
   },
   {
-    "id": 540,
-    "kanji": "美",
-    "onyomi": "bi",
-    "kunyomi": "utsuku(shii)",
-    "meaning": "beauty"
-  },
-  {
     "id": 541,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -3744,13 +3786,6 @@
     "onyomi": "hyou",
     "kunyomi": "koori",
     "meaning": "ice"
-  },
-  {
-    "id": 544,
-    "kanji": "表",
-    "onyomi": "hyou",
-    "kunyomi": "omote, arawa(su)",
-    "meaning": "surface, express"
   },
   {
     "id": 545,
@@ -3835,13 +3870,6 @@
     "onyomi": "mei, myou",
     "kunyomi": "inochi",
     "meaning": "life, fate"
-  },
-  {
-    "id": 559,
-    "kanji": "面",
-    "onyomi": "men",
-    "kunyomi": "omo, tsura",
-    "meaning": "face, surface"
   },
   {
     "id": 560,
@@ -3996,13 +4024,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 582,
-    "kanji": "和",
-    "onyomi": "wa",
-    "kunyomi": "nago(mu), yawa(ragu)",
-    "meaning": "peace, harmony"
   },
   {
     "id": 583,
@@ -4293,13 +4314,6 @@
       "meaning": "blood"
     },
     {
-      "id": 626,
-      "kanji": "決",
-      "onyomi": "ketsu",
-      "kunyomi": "ki(meru)",
-      "meaning": "decide"
-    },
-    {
       "id": 627,
       "kanji": "研",
       "onyomi": "ken",
@@ -4445,13 +4459,6 @@
       "onyomi": "ji",
       "kunyomi": "mo(tsu)",
       "meaning": "hold, have"
-    },
-    {
-      "id": 649,
-      "kanji": "次",
-      "onyomi": "ji, shi",
-      "kunyomi": "tsugi, tsu(gu)",
-      "meaning": "next"
     },
     {
       "id": 650,
