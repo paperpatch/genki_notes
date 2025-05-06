@@ -349,6 +349,181 @@
     "kunyomi": "こむ to be crowded   こめる to load; to include",
     "meaning": "crowded"
   },
+  {
+    "id": 51,
+    "kanji": "受",
+    "onyomi": "ジュ",
+    "kunyomi": "うける to receive, to accept   うかる to pass (an exam)",
+    "meaning": "receive"
+  },
+  {
+    "id": 52,
+    "kanji": "解",
+    "onyomi": "カイ   ゲ",
+    "kunyomi": "とく to untie, solve, resolve   とける to come undone, disappear   とかす to melt, dissolve",
+    "meaning": "untie"
+  },
+  {
+    "id": 53,
+    "kanji": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち market",
+    "meaning": "city, market"
+  },
+  {
+    "id": 54,
+    "kanji": "期",
+    "onyomi": "キ   ゴ",
+    "kunyomi": "",
+    "meaning": "period of time"
+  },
+  {
+    "id": 55,
+    "kanji": "様",
+    "onyomi": "ヨウ",
+    "kunyomi": "さま Mr / Mrs",
+    "meaning": "Mr, appearance, manner"
+  },
+  {
+    "id": 56,
+    "kanji": "活",
+    "onyomi": "カツ",
+    "kunyomi": "",
+    "meaning": "activity"
+  },
+  {
+    "id": 57,
+    "kanji": "頭",
+    "onyomi": "トウ   ト   ズ",
+    "kunyomi": "あたま   かしら head",
+    "meaning": "head"
+  },
+  {
+    "id": 58,
+    "kanji": "組",
+    "onyomi": "ソ",
+    "kunyomi": "くむ to join forces, put together   くみ   -ぐみ class(es), set(s)",
+    "meaning": "join forces"
+  },
+  {
+    "id": 59,
+    "kanji": "指",
+    "onyomi": "シ",
+    "kunyomi": "ゆび finger   さす to point",
+    "meaning": "finger, point"
+  },
+  {
+    "id": 60,
+    "kanji": "説",
+    "onyomi": "セツ   ゼイ",
+    "kunyomi": "とく to explain, persuade",
+    "meaning": "explain"
+  },
+  {
+    "id": 61,
+    "kanji": "能",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "meaning": "ability"
+  },
+  {
+    "id": 62,
+    "kanji": "葉",
+    "onyomi": "ヨウ",
+    "kunyomi": "は leaves",
+    "meaning": "leaf"
+  },
+  {
+    "id": 63,
+    "kanji": "流",
+    "onyomi": "ル   リュウ",
+    "kunyomi": "ながれる to flow   ながす to pour out, to flush",
+    "meaning": "flow, current"
+  },
+  {
+    "id": 64,
+    "kanji": "然",
+    "onyomi": "ゼン   ネン",
+    "kunyomi": "",
+    "meaning": "resemble"
+  },
+  {
+    "id": 65,
+    "kanji": "初",
+    "onyomi": "ショ",
+    "kunyomi": "はつ   うい-   はじめ beginning   -ぞめ first doing of",
+    "meaning": "first"
+  },
+  {
+    "id": 66,
+    "kanji": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "ある to exist",
+    "meaning": "exist"
+  },
+  {
+    "id": 67,
+    "kanji": "調",
+    "onyomi": "チョウ",
+    "kunyomi": "しらべる to investigate   ととのう to be arranged, to be in order   ととのえる to adjust, tune",
+    "meaning": "investigate, tune"
+  },
+  {
+    "id": 68,
+    "kanji": "笑",
+    "onyomi": "ショウ",
+    "kunyomi": "わらう to laugh   えむ to smile",
+    "meaning": "laugh"
+  },
+  {
+    "id": 69,
+    "kanji": "議",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "meaning": "deliberation"
+  },
+  {
+    "id": 70,
+    "kanji": "直",
+    "onyomi": "チョク   ジキ",
+    "kunyomi": "honest; direct   なおす to correct   なおる to be cured   ただちに immediately",
+    "meaning": "honest"
+  },
+  {
+    "id": 71,
+    "kanji": "夫",
+    "onyomi": "フ   フウ",
+    "kunyomi": "おっと husband",
+    "meaning": "husband"
+  },
+  {
+    "id": 72,
+    "kanji": "選",
+    "onyomi": "セン",
+    "kunyomi": "えらぶ choose",
+    "meaning": "choose"
+  },
+  {
+    "id": 73,
+    "kanji": "権",
+    "onyomi": "ケン   ゴン",
+    "kunyomi": "",
+    "meaning": "right"
+  },
+  {
+    "id": 74,
+    "kanji": "利",
+    "onyomi": "リ",
+    "kunyomi": "effective, interest, profit, advantage   きく to be effective",
+    "meaning": "effective"
+  },
+  {
+    "id": 75,
+    "kanji": "制",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "meaning": "system"
+  },
 
   {
     "id": 1,
@@ -496,13 +671,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 24,
-    "kanji": "期",
-    "onyomi": "ki",
-    "kunyomi": "",
-    "meaning": "period, time"
   },
   {
     "id": 25,
@@ -743,25 +911,11 @@
     "meaning": "begin"
   },
   {
-    "id": 61,
-    "kanji": "指",
-    "onyomi": "shi",
-    "kunyomi": "yubi, sa(su)",
-    "meaning": "finger, point"
-  },
-  {
     "id": 62,
     "kanji": "止",
     "onyomi": "shi",
     "kunyomi": "to(maru), to(meru)",
     "meaning": "stop"
-  },
-  {
-    "id": 63,
-    "kanji": "市",
-    "onyomi": "shi",
-    "kunyomi": "ichi",
-    "meaning": "city, market"
   },
   {
     "id": 64,
@@ -825,13 +979,6 @@
     "onyomi": "shu",
     "kunyomi": "sake, saka",
     "meaning": "alcohol, sake"
-  },
-  {
-    "id": 76,
-    "kanji": "受",
-    "onyomi": "ju",
-    "kunyomi": "u(keru)",
-    "meaning": "receive"
   },
   {
     "id": 77,
@@ -1119,13 +1266,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 123,
-    "kanji": "調",
-    "onyomi": "chou",
-    "kunyomi": "shira(beru), totono(u)",
-    "meaning": "investigate, tune"
   },
   {
     "id": 124,
@@ -1492,13 +1632,6 @@
     "meaning": "ocean, western"
   },
   {
-    "id": 182,
-    "kanji": "葉",
-    "onyomi": "you",
-    "kunyomi": "ha",
-    "meaning": "leaf"
-  },
-  {
     "id": 183,
     "kanji": "陽",
     "onyomi": "you",
@@ -1506,25 +1639,11 @@
     "meaning": "sun, positive"
   },
   {
-    "id": 184,
-    "kanji": "様",
-    "onyomi": "you",
-    "kunyomi": "sama",
-    "meaning": "appearance, manner"
-  },
-  {
     "id": 185,
     "kanji": "落",
     "onyomi": "raku",
     "kunyomi": "o(chiru), o(tosu)",
     "meaning": "fall, drop"
-  },
-  {
-    "id": 186,
-    "kanji": "流",
-    "onyomi": "ryuu",
-    "kunyomi": "naga(reru), naga(su)",
-    "meaning": "flow, current"
   },
   {
     "id": 187,
@@ -1721,13 +1840,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 218,
-    "kanji": "期",
-    "onyomi": "ki",
-    "kunyomi": "",
-    "meaning": "period, time"
   },
   {
     "id": 219,
@@ -1968,25 +2080,11 @@
     "meaning": "begin"
   },
   {
-    "id": 255,
-    "kanji": "指",
-    "onyomi": "shi",
-    "kunyomi": "yubi, sa(su)",
-    "meaning": "finger, point"
-  },
-  {
     "id": 256,
     "kanji": "止",
     "onyomi": "shi",
     "kunyomi": "to(maru), to(meru)",
     "meaning": "stop"
-  },
-  {
-    "id": 257,
-    "kanji": "市",
-    "onyomi": "shi",
-    "kunyomi": "ichi",
-    "meaning": "city, market"
   },
   {
     "id": 258,
@@ -2050,13 +2148,6 @@
     "onyomi": "shu",
     "kunyomi": "sake, saka",
     "meaning": "alcohol, sake"
-  },
-  {
-    "id": 270,
-    "kanji": "受",
-    "onyomi": "ju",
-    "kunyomi": "u(keru)",
-    "meaning": "receive"
   },
   {
     "id": 271,
@@ -2344,13 +2435,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 317,
-    "kanji": "調",
-    "onyomi": "chou",
-    "kunyomi": "shira(beru), totono(u)",
-    "meaning": "investigate, tune"
   },
   {
     "id": 318,
@@ -2717,13 +2801,6 @@
     "meaning": "ocean, western"
   },
   {
-    "id": 376,
-    "kanji": "葉",
-    "onyomi": "you",
-    "kunyomi": "ha",
-    "meaning": "leaf"
-  },
-  {
     "id": 377,
     "kanji": "陽",
     "onyomi": "you",
@@ -2731,25 +2808,11 @@
     "meaning": "sun, positive"
   },
   {
-    "id": 378,
-    "kanji": "様",
-    "onyomi": "you",
-    "kunyomi": "sama",
-    "meaning": "appearance, manner"
-  },
-  {
     "id": 379,
     "kanji": "落",
     "onyomi": "raku",
     "kunyomi": "o(chiru), o(tosu)",
     "meaning": "fall, drop"
-  },
-  {
-    "id": 380,
-    "kanji": "流",
-    "onyomi": "ryuu",
-    "kunyomi": "naga(reru), naga(su)",
-    "meaning": "flow, current"
   },
   {
     "id": 381,
@@ -2946,13 +3009,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 412,
-    "kanji": "期",
-    "onyomi": "ki",
-    "kunyomi": "",
-    "meaning": "period, time"
   },
   {
     "id": 413,
@@ -3193,25 +3249,11 @@
     "meaning": "begin"
   },
   {
-    "id": 449,
-    "kanji": "指",
-    "onyomi": "shi",
-    "kunyomi": "yubi, sa(su)",
-    "meaning": "finger, point"
-  },
-  {
     "id": 450,
     "kanji": "止",
     "onyomi": "shi",
     "kunyomi": "to(maru), to(meru)",
     "meaning": "stop"
-  },
-  {
-    "id": 451,
-    "kanji": "市",
-    "onyomi": "shi",
-    "kunyomi": "ichi",
-    "meaning": "city, market"
   },
   {
     "id": 452,
@@ -3275,13 +3317,6 @@
     "onyomi": "shu",
     "kunyomi": "sake, saka",
     "meaning": "alcohol, sake"
-  },
-  {
-    "id": 464,
-    "kanji": "受",
-    "onyomi": "ju",
-    "kunyomi": "u(keru)",
-    "meaning": "receive"
   },
   {
     "id": 465,
@@ -3569,13 +3604,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 511,
-    "kanji": "調",
-    "onyomi": "chou",
-    "kunyomi": "shira(beru), totono(u)",
-    "meaning": "investigate, tune"
   },
   {
     "id": 512,
@@ -3942,13 +3970,6 @@
     "meaning": "ocean, western"
   },
   {
-    "id": 570,
-    "kanji": "葉",
-    "onyomi": "you",
-    "kunyomi": "ha",
-    "meaning": "leaf"
-  },
-  {
     "id": 571,
     "kanji": "陽",
     "onyomi": "you",
@@ -3956,25 +3977,11 @@
     "meaning": "sun, positive"
   },
   {
-    "id": 572,
-    "kanji": "様",
-    "onyomi": "you",
-    "kunyomi": "sama",
-    "meaning": "appearance, manner"
-  },
-  {
     "id": 573,
     "kanji": "落",
     "onyomi": "raku",
     "kunyomi": "o(chiru), o(tosu)",
     "meaning": "fall, drop"
-  },
-  {
-    "id": 574,
-    "kanji": "流",
-    "onyomi": "ryuu",
-    "kunyomi": "naga(reru), naga(su)",
-    "meaning": "flow, current"
   },
   {
     "id": 575,
@@ -4171,13 +4178,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 606,
-    "kanji": "期",
-    "onyomi": "ki",
-    "kunyomi": "",
-    "meaning": "period, time"
   },
   {
     "id": 607,
@@ -4419,25 +4419,11 @@
       "meaning": "begin"
     },
     {
-      "id": 643,
-      "kanji": "指",
-      "onyomi": "shi",
-      "kunyomi": "yubi, sa(su)",
-      "meaning": "finger, point"
-    },
-    {
       "id": 644,
       "kanji": "止",
       "onyomi": "shi",
       "kunyomi": "to(maru), to(meru)",
       "meaning": "stop"
-    },
-    {
-      "id": 645,
-      "kanji": "市",
-      "onyomi": "shi",
-      "kunyomi": "ichi",
-      "meaning": "city, market"
     },
     {
       "id": 646,
