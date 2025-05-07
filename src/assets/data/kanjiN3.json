@@ -524,6 +524,181 @@
     "kunyomi": "",
     "meaning": "system"
   },
+  {
+    "id": 76,
+    "kanji": "続",
+    "onyomi": "ゾク",
+    "kunyomi": "つづく to continue   つづける to carry on with",
+    "meaning": "continue"
+  },
+  {
+    "id": 77,
+    "kanji": "石",
+    "onyomi": "セキ   シャク   コク",
+    "kunyomi": "いし stone",
+    "meaning": "stone"
+  },
+  {
+    "id": 78,
+    "kanji": "進",
+    "onyomi": "シン",
+    "kunyomi": "すすむ to advance   すすめる to promote, push",
+    "meaning": "advance, proceed"
+  },
+  {
+    "id": 79,
+    "kanji": "伝",
+    "onyomi": "デン",
+    "kunyomi": "つたえる to tell, transmit   つたわる to be handed down   つたう to go along",
+    "meaning": "tell"
+  },
+  {
+    "id": 80,
+    "kanji": "加",
+    "onyomi": "カ",
+    "kunyomi": "くわえる to add to   くわわる to join, to be added to",
+    "meaning": "add"
+  },
+  {
+    "id": 81,
+    "kanji": "助",
+    "onyomi": "ジョ",
+    "kunyomi": "すけ help   たすける to help, save   たすかる to be helped",
+    "meaning": "help, assist"
+  },
+  {
+    "id": 82,
+    "kanji": "点",
+    "onyomi": "テン",
+    "kunyomi": "",
+    "meaning": "spot"
+  },
+  {
+    "id": 83,
+    "kanji": "産",
+    "onyomi": "サン",
+    "kunyomi": "giving birth; products   うむ to give birth to   うまれる to be born   うぶ- newborn",
+    "meaning": "giving birth"
+  },
+  {
+    "id": 84,
+    "kanji": "務",
+    "onyomi": "ム",
+    "kunyomi": "つとめる to work   つとまる to be fit for",
+    "meaning": "work"
+  },
+  {
+    "id": 85,
+    "kanji": "件",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "affair"
+  },
+  {
+    "id": 86,
+    "kanji": "命",
+    "onyomi": "メイ   ミョウ",
+    "kunyomi": "life; fate   いのち life",
+    "meaning": "life"
+  },
+  {
+    "id": 87,
+    "kanji": "番",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "meaning": "turn"
+  },
+  {
+    "id": 88,
+    "kanji": "落",
+    "onyomi": "ラク",
+    "kunyomi": "おちる to fall   おとす to drop (something)",
+    "meaning": "fall, drop"
+  },
+  {
+    "id": 89,
+    "kanji": "付",
+    "onyomi": "フ",
+    "kunyomi": "つける to put in place, affix   つく to adhere to",
+    "meaning": "put in place"
+  },
+  {
+    "id": 90,
+    "kanji": "得",
+    "onyomi": "トク",
+    "kunyomi": "える   うる to acquire",
+    "meaning": "profit"
+  },
+  {
+    "id": 91,
+    "kanji": "好",
+    "onyomi": "コウ",
+    "kunyomi": "このむ   すく to like",
+    "meaning": "like"
+  },
+  {
+    "id": 92,
+    "kanji": "違",
+    "onyomi": "イ",
+    "kunyomi": "ちがう to be different   ちがえる to change, alter, vary",
+    "meaning": "different"
+  },
+  {
+    "id": 93,
+    "kanji": "殺",
+    "onyomi": "サツ   サイ   セツ",
+    "kunyomi": "ころす to kill",
+    "meaning": "kill"
+  },
+  {
+    "id": 94,
+    "kanji": "置",
+    "onyomi": "チ",
+    "kunyomi": "おく to put",
+    "meaning": "put"
+  },
+  {
+    "id": 95,
+    "kanji": "返",
+    "onyomi": "ヘン",
+    "kunyomi": "かえる to return, to come back   かえす to return (something)",
+    "meaning": "return, reply"
+  },
+  {
+    "id": 96,
+    "kanji": "論",
+    "onyomi": "ロン",
+    "kunyomi": "",
+    "meaning": "thesis"
+  },
+  {
+    "id": 97,
+    "kanji": "際",
+    "onyomi": "サイ",
+    "kunyomi": "きわ   -ぎわ edge",
+    "meaning": "occasion"
+  },
+  {
+    "id": 98,
+    "kanji": "歳",
+    "onyomi": "サイ   セイ",
+    "kunyomi": "とし   とせ   よわい",
+    "meaning": "years old"
+  },
+  {
+    "id": 99,
+    "kanji": "反",
+    "onyomi": "ハン   ホン   タン",
+    "kunyomi": "anti-   そらす to bend, to warp   そる to be warped, curved",
+    "meaning": "oppose, anti-"
+  },
+  {
+    "id": 100,
+    "kanji": "形",
+    "onyomi": "ケイ   ギョウ",
+    "kunyomi": "かたち   かた    shape, form",
+    "meaning": "shape"
+  },
 
   {
     "id": 1,
@@ -1044,13 +1219,6 @@
     "meaning": "hot (weather)"
   },
   {
-    "id": 87,
-    "kanji": "助",
-    "onyomi": "jo",
-    "kunyomi": "tas(u), suke",
-    "meaning": "help, assist"
-  },
-  {
     "id": 88,
     "kanji": "昭",
     "onyomi": "shou",
@@ -1126,13 +1294,6 @@
     "onyomi": "shin",
     "kunyomi": "fuka(i), fuka(meru)",
     "meaning": "deep"
-  },
-  {
-    "id": 100,
-    "kanji": "進",
-    "onyomi": "shin",
-    "kunyomi": "susu(mu), susu(meru)",
-    "meaning": "advance, proceed"
   },
   {
     "id": 101,
@@ -1422,13 +1583,6 @@
     "meaning": "departure, emit"
   },
   {
-    "id": 147,
-    "kanji": "反",
-    "onyomi": "han, tan",
-    "kunyomi": "so(ru)",
-    "meaning": "oppose, anti-"
-  },
-  {
     "id": 148,
     "kanji": "坂",
     "onyomi": "han",
@@ -1527,13 +1681,6 @@
     "meaning": "thing, object"
   },
   {
-    "id": 166,
-    "kanji": "返",
-    "onyomi": "hen",
-    "kunyomi": "kae(su), kae(ru)",
-    "meaning": "return, reply"
-  },
-  {
     "id": 167,
     "kanji": "勉",
     "onyomi": "ben",
@@ -1553,13 +1700,6 @@
     "onyomi": "mi",
     "kunyomi": "aji, aji(wau)",
     "meaning": "taste, flavor"
-  },
-  {
-    "id": 170,
-    "kanji": "命",
-    "onyomi": "mei, myou",
-    "kunyomi": "inochi",
-    "meaning": "life, fate"
   },
   {
     "id": 172,
@@ -1637,13 +1777,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "sun, positive"
-  },
-  {
-    "id": 185,
-    "kanji": "落",
-    "onyomi": "raku",
-    "kunyomi": "o(chiru), o(tosu)",
-    "meaning": "fall, drop"
   },
   {
     "id": 187,
@@ -2213,13 +2346,6 @@
     "meaning": "hot (weather)"
   },
   {
-    "id": 281,
-    "kanji": "助",
-    "onyomi": "jo",
-    "kunyomi": "tas(u), suke",
-    "meaning": "help, assist"
-  },
-  {
     "id": 282,
     "kanji": "昭",
     "onyomi": "shou",
@@ -2295,13 +2421,6 @@
     "onyomi": "shin",
     "kunyomi": "fuka(i), fuka(meru)",
     "meaning": "deep"
-  },
-  {
-    "id": 294,
-    "kanji": "進",
-    "onyomi": "shin",
-    "kunyomi": "susu(mu), susu(meru)",
-    "meaning": "advance, proceed"
   },
   {
     "id": 295,
@@ -2591,13 +2710,6 @@
     "meaning": "departure, emit"
   },
   {
-    "id": 341,
-    "kanji": "反",
-    "onyomi": "han, tan",
-    "kunyomi": "so(ru)",
-    "meaning": "oppose, anti-"
-  },
-  {
     "id": 342,
     "kanji": "坂",
     "onyomi": "han",
@@ -2696,13 +2808,6 @@
     "meaning": "thing, object"
   },
   {
-    "id": 360,
-    "kanji": "返",
-    "onyomi": "hen",
-    "kunyomi": "kae(su), kae(ru)",
-    "meaning": "return, reply"
-  },
-  {
     "id": 361,
     "kanji": "勉",
     "onyomi": "ben",
@@ -2722,13 +2827,6 @@
     "onyomi": "mi",
     "kunyomi": "aji, aji(wau)",
     "meaning": "taste, flavor"
-  },
-  {
-    "id": 364,
-    "kanji": "命",
-    "onyomi": "mei, myou",
-    "kunyomi": "inochi",
-    "meaning": "life, fate"
   },
   {
     "id": 366,
@@ -2806,13 +2904,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "sun, positive"
-  },
-  {
-    "id": 379,
-    "kanji": "落",
-    "onyomi": "raku",
-    "kunyomi": "o(chiru), o(tosu)",
-    "meaning": "fall, drop"
   },
   {
     "id": 381,
@@ -3382,13 +3473,6 @@
     "meaning": "hot (weather)"
   },
   {
-    "id": 475,
-    "kanji": "助",
-    "onyomi": "jo",
-    "kunyomi": "tas(u), suke",
-    "meaning": "help, assist"
-  },
-  {
     "id": 476,
     "kanji": "昭",
     "onyomi": "shou",
@@ -3464,13 +3548,6 @@
     "onyomi": "shin",
     "kunyomi": "fuka(i), fuka(meru)",
     "meaning": "deep"
-  },
-  {
-    "id": 488,
-    "kanji": "進",
-    "onyomi": "shin",
-    "kunyomi": "susu(mu), susu(meru)",
-    "meaning": "advance, proceed"
   },
   {
     "id": 489,
@@ -3760,13 +3837,6 @@
     "meaning": "departure, emit"
   },
   {
-    "id": 535,
-    "kanji": "反",
-    "onyomi": "han, tan",
-    "kunyomi": "so(ru)",
-    "meaning": "oppose, anti-"
-  },
-  {
     "id": 536,
     "kanji": "坂",
     "onyomi": "han",
@@ -3865,13 +3935,6 @@
     "meaning": "thing, object"
   },
   {
-    "id": 554,
-    "kanji": "返",
-    "onyomi": "hen",
-    "kunyomi": "kae(su), kae(ru)",
-    "meaning": "return, reply"
-  },
-  {
     "id": 555,
     "kanji": "勉",
     "onyomi": "ben",
@@ -3891,13 +3954,6 @@
     "onyomi": "mi",
     "kunyomi": "aji, aji(wau)",
     "meaning": "taste, flavor"
-  },
-  {
-    "id": 558,
-    "kanji": "命",
-    "onyomi": "mei, myou",
-    "kunyomi": "inochi",
-    "meaning": "life, fate"
   },
   {
     "id": 560,
@@ -3975,13 +4031,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "sun, positive"
-  },
-  {
-    "id": 573,
-    "kanji": "落",
-    "onyomi": "raku",
-    "kunyomi": "o(chiru), o(tosu)",
-    "meaning": "fall, drop"
   },
   {
     "id": 575,
@@ -4501,13 +4550,6 @@
       "onyomi": "shin",
       "kunyomi": "mori",
       "meaning": "forest"
-    },
-    {
-      "id": 109,
-      "kanji": "石",
-      "onyomi": "seki",
-      "kunyomi": "ishi",
-      "meaning": "stone"
     },
     {
       "id": 113,
