@@ -699,14 +699,183 @@
     "kunyomi": "かたち   かた    shape, form",
     "meaning": "shape"
   },
-
   {
-    "id": 1,
+    "id": 101,
+    "kanji": "光",
+    "onyomi": "コウ",
+    "kunyomi": "ひかり light, sunshine   ひかる to shine, twinkle",
+    "meaning": "light"
+  },
+  {
+    "id": 102,
+    "kanji": "首",
+    "onyomi": "シュ",
+    "kunyomi": "くび neck; head",
+    "meaning": "neck"
+  },
+  {
+    "id": 103,
+    "kanji": "勝",
+    "onyomi": "ショウ",
+    "kunyomi": "かつ to win   まさる to be better than",
+    "meaning": "win, victory"
+  },
+  {
+    "id": 104,
+    "kanji": "必",
+    "onyomi": "ヒツ",
+    "kunyomi": "かならず certainly, invariably",
+    "meaning": "certainly"
+  },
+  {
+    "id": 105,
+    "kanji": "係",
+    "onyomi": "ケイ",
+    "kunyomi": "かかり charge, duty   かかる to relate to",
+    "meaning": "in charge, connection, duty"
+  },
+  {
+    "id": 106,
+    "kanji": "由",
+    "onyomi": "ユ   ユウ   ユイ",
+    "kunyomi": "よし reason",
+    "meaning": "reason, cause"
+  },
+  {
+    "id": 107,
     "kanji": "愛",
-    "onyomi": "ai",
-    "kunyomi": "",
+    "onyomi": "アイ",
+    "kunyomi": "まな   いとしい   かなしい   めでる   おしむ",
     "meaning": "love"
   },
+  {
+    "id": 108,
+    "kanji": "都",
+    "onyomi": "ト   ツ",
+    "kunyomi": "みやこ capital city, metropolis",
+    "meaning": "capital, metropolis"
+  },
+  {
+    "id": 109,
+    "kanji": "放",
+    "onyomi": "ホウ",
+    "kunyomi": "はなす   はなつ to let go   はなれる to get free of   ほうる to throw (away)",
+    "meaning": "release, let go"
+  },
+  {
+    "id": 110,
+    "kanji": "確",
+    "onyomi": "カク",
+    "kunyomi": "たしか certain   たしかめる to make certain",
+    "meaning": "certain"
+  },
+  {
+    "id": 111,
+    "kanji": "過",
+    "onyomi": "カ",
+    "kunyomi": "あやまち mistake   あやまつ to slip up   すぎる to overdo, be more than   すごす to pass, spend",
+    "meaning": "mistake"
+  },
+  {
+    "id": 112,
+    "kanji": "約",
+    "onyomi": "ヤク",
+    "kunyomi": "",
+    "meaning": "promise"
+  },
+  {
+    "id": 113,
+    "kanji": "馬",
+    "onyomi": "バ",
+    "kunyomi": "うま horse   ま horse",
+    "meaning": "horse"
+  },
+  {
+    "id": 114,
+    "kanji": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "condition"
+  },
+  {
+    "id": 115,
+    "kanji": "想",
+    "onyomi": "ソウ   ソ",
+    "kunyomi": "",
+    "kun": "おもう concept, think, idea, thought",
+    "meaning": "idea"
+  },
+  {
+    "id": 116,
+    "kanji": "官",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "bureaucrat"
+  },
+  {
+    "id": 117,
+    "kanji": "交",
+    "onyomi": "コウ",
+    "kunyomi": "まぜる to mix, stir   まざる   まじる to be mixed together   まじえる to mix, intersperse   まじわる to intersect   かう to take turns   かわす to exchange",
+    "meaning": "mix, mixed"
+  },
+  {
+    "id": 118,
+    "kanji": "米",
+    "onyomi": "ベイ   マイ",
+    "kunyomi": "こめ rice",
+    "meaning": "rice"
+  },
+  {
+    "id": 119,
+    "kanji": "配",
+    "onyomi": "ハイ",
+    "kunyomi": "くばる to distribute",
+    "meaning": "distribute"
+  },
+  {
+    "id": 120,
+    "kanji": "若",
+    "onyomi": "ジャク   ニャク",
+    "kunyomi": "わかい young   もしくは or",
+    "meaning": "young"
+  },
+  {
+    "id": 121,
+    "kanji": "資",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "asset"
+  },
+  {
+    "id": 122,
+    "kanji": "常",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね usual, normal   とこ- endless, unchanging",
+    "meaning": "usual"
+  },
+  {
+    "id": 123,
+    "kanji": "果",
+    "onyomi": "カ",
+    "kunyomi": "result   はたす to carry out   はて end, extremity   はてる to come to an end",
+    "meaning": "result, fruit, bear fruit"
+  },
+  {
+    "id": 124,
+    "kanji": "呼",
+    "onyomi": "コ",
+    "kunyomi": "よぶ to call",
+    "meaning": "call"
+  },
+  {
+    "id": 125,
+    "kanji": "共",
+    "onyomi": "キョウ",
+    "kunyomi": "とも together",
+    "meaning": "together"
+  },
+
   {
     "id": 2,
     "kanji": "案",
@@ -958,13 +1127,6 @@
     "onyomi": "kun",
     "kunyomi": "kimi",
     "meaning": "you, ruler"
-  },
-  {
-    "id": 41,
-    "kanji": "係",
-    "onyomi": "kei",
-    "kunyomi": "kaka(ru)",
-    "meaning": "connection, duty"
   },
   {
     "id": 42,
@@ -1247,13 +1409,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 92,
-    "kanji": "勝",
-    "onyomi": "shou",
-    "kunyomi": "ka(tsu), masa(ru)",
-    "meaning": "win, victory"
-  },
-  {
     "id": 93,
     "kanji": "乗",
     "onyomi": "jou",
@@ -1464,13 +1619,6 @@
     "meaning": "roll, turn"
   },
   {
-    "id": 130,
-    "kanji": "都",
-    "onyomi": "to, tsu",
-    "kunyomi": "miyako",
-    "meaning": "capital, metropolis"
-  },
-  {
     "id": 131,
     "kanji": "度",
     "onyomi": "do, to",
@@ -1546,13 +1694,6 @@
     "onyomi": "ha",
     "kunyomi": "nami",
     "meaning": "wave"
-  },
-  {
-    "id": 142,
-    "kanji": "配",
-    "onyomi": "hai",
-    "kunyomi": "kuba(ru)",
-    "meaning": "distribute"
   },
   {
     "id": 143,
@@ -1688,13 +1829,6 @@
     "meaning": "exertion, endeavor"
   },
   {
-    "id": 168,
-    "kanji": "放",
-    "onyomi": "hou",
-    "kunyomi": "hana(su), hana(reru)",
-    "meaning": "release, let go"
-  },
-  {
     "id": 169,
     "kanji": "味",
     "onyomi": "mi",
@@ -1721,13 +1855,6 @@
     "onyomi": "yaku",
     "kunyomi": "kusuri",
     "meaning": "medicine, drug"
-  },
-  {
-    "id": 175,
-    "kanji": "由",
-    "onyomi": "yuu, yu",
-    "kunyomi": "yoshi",
-    "meaning": "reason, cause"
   },
   {
     "id": 176,
@@ -1826,13 +1953,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 195,
-    "kanji": "愛",
-    "onyomi": "ai",
-    "kunyomi": "",
-    "meaning": "love"
   },
   {
     "id": 196,
@@ -2085,13 +2205,6 @@
     "onyomi": "kun",
     "kunyomi": "kimi",
     "meaning": "you, ruler"
-  },
-  {
-    "id": 235,
-    "kanji": "係",
-    "onyomi": "kei",
-    "kunyomi": "kaka(ru)",
-    "meaning": "connection, duty"
   },
   {
     "id": 236,
@@ -2374,13 +2487,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 286,
-    "kanji": "勝",
-    "onyomi": "shou",
-    "kunyomi": "ka(tsu), masa(ru)",
-    "meaning": "win, victory"
-  },
-  {
     "id": 287,
     "kanji": "乗",
     "onyomi": "jou",
@@ -2591,13 +2697,6 @@
     "meaning": "roll, turn"
   },
   {
-    "id": 324,
-    "kanji": "都",
-    "onyomi": "to, tsu",
-    "kunyomi": "miyako",
-    "meaning": "capital, metropolis"
-  },
-  {
     "id": 325,
     "kanji": "度",
     "onyomi": "do, to",
@@ -2673,13 +2772,6 @@
     "onyomi": "ha",
     "kunyomi": "nami",
     "meaning": "wave"
-  },
-  {
-    "id": 336,
-    "kanji": "配",
-    "onyomi": "hai",
-    "kunyomi": "kuba(ru)",
-    "meaning": "distribute"
   },
   {
     "id": 337,
@@ -2815,13 +2907,6 @@
     "meaning": "exertion, endeavor"
   },
   {
-    "id": 362,
-    "kanji": "放",
-    "onyomi": "hou",
-    "kunyomi": "hana(su), hana(reru)",
-    "meaning": "release, let go"
-  },
-  {
     "id": 363,
     "kanji": "味",
     "onyomi": "mi",
@@ -2848,13 +2933,6 @@
     "onyomi": "yaku",
     "kunyomi": "kusuri",
     "meaning": "medicine, drug"
-  },
-  {
-    "id": 369,
-    "kanji": "由",
-    "onyomi": "yuu, yu",
-    "kunyomi": "yoshi",
-    "meaning": "reason, cause"
   },
   {
     "id": 370,
@@ -2953,13 +3031,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 389,
-    "kanji": "愛",
-    "onyomi": "ai",
-    "kunyomi": "",
-    "meaning": "love"
   },
   {
     "id": 390,
@@ -3212,13 +3283,6 @@
     "onyomi": "kun",
     "kunyomi": "kimi",
     "meaning": "you, ruler"
-  },
-  {
-    "id": 429,
-    "kanji": "係",
-    "onyomi": "kei",
-    "kunyomi": "kaka(ru)",
-    "meaning": "connection, duty"
   },
   {
     "id": 430,
@@ -3501,13 +3565,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 480,
-    "kanji": "勝",
-    "onyomi": "shou",
-    "kunyomi": "ka(tsu), masa(ru)",
-    "meaning": "win, victory"
-  },
-  {
     "id": 481,
     "kanji": "乗",
     "onyomi": "jou",
@@ -3718,13 +3775,6 @@
     "meaning": "roll, turn"
   },
   {
-    "id": 518,
-    "kanji": "都",
-    "onyomi": "to, tsu",
-    "kunyomi": "miyako",
-    "meaning": "capital, metropolis"
-  },
-  {
     "id": 519,
     "kanji": "度",
     "onyomi": "do, to",
@@ -3800,13 +3850,6 @@
     "onyomi": "ha",
     "kunyomi": "nami",
     "meaning": "wave"
-  },
-  {
-    "id": 530,
-    "kanji": "配",
-    "onyomi": "hai",
-    "kunyomi": "kuba(ru)",
-    "meaning": "distribute"
   },
   {
     "id": 531,
@@ -3942,13 +3985,6 @@
     "meaning": "exertion, endeavor"
   },
   {
-    "id": 556,
-    "kanji": "放",
-    "onyomi": "hou",
-    "kunyomi": "hana(su), hana(reru)",
-    "meaning": "release, let go"
-  },
-  {
     "id": 557,
     "kanji": "味",
     "onyomi": "mi",
@@ -3975,13 +4011,6 @@
     "onyomi": "yaku",
     "kunyomi": "kusuri",
     "meaning": "medicine, drug"
-  },
-  {
-    "id": 563,
-    "kanji": "由",
-    "onyomi": "yuu, yu",
-    "kunyomi": "yoshi",
-    "meaning": "reason, cause"
   },
   {
     "id": 564,
@@ -4080,13 +4109,6 @@
     "onyomi": "ro",
     "kunyomi": "ji",
     "meaning": "road, path"
-  },
-  {
-    "id": 583,
-    "kanji": "愛",
-    "onyomi": "ai",
-    "kunyomi": "",
-    "meaning": "love"
   },
   {
     "id": 584,
@@ -4342,13 +4364,6 @@
       "meaning": "you, ruler"
     },
     {
-      "id": 623,
-      "kanji": "係",
-      "onyomi": "kei",
-      "kunyomi": "kaka(ru)",
-      "meaning": "connection, duty"
-    },
-    {
       "id": 624,
       "kanji": "軽",
       "onyomi": "kei",
@@ -4531,13 +4546,6 @@
       "meaning": "fly"
     },
     {
-      "id": 99,
-      "kanji": "馬",
-      "onyomi": "ba",
-      "kunyomi": "uma",
-      "meaning": "horse"
-    },
-    {
       "id": 102,
       "kanji": "猫",
       "onyomi": "byou",
@@ -4585,13 +4593,6 @@
       "onyomi": "sei",
       "kunyomi": "hoshi",
       "meaning": "star"
-    },
-    {
-      "id": 121,
-      "kanji": "光",
-      "onyomi": "kou",
-      "kunyomi": "hikari, hika(ru)",
-      "meaning": "light"
     },
     {
       "id": 144,
