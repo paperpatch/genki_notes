@@ -875,6 +875,181 @@
     "kunyomi": "とも together",
     "meaning": "together"
   },
+  {
+    "id": 126,
+    "kanji": "残",
+    "onyomi": "ザン",
+    "kunyomi": "のこる to remain behind   のこす to leave behind",
+    "meaning": "remain"
+  },
+  {
+    "id": 127,
+    "kanji": "判",
+    "onyomi": "ハン   バン",
+    "kunyomi": "わかる judgement, signature, stamp, seal",
+    "meaning": "seal"
+  },
+  {
+    "id": 128,
+    "kanji": "役",
+    "onyomi": "ヤク   エキ",
+    "kunyomi": "",
+    "meaning": "office, role, duty"
+  },
+  {
+    "id": 129,
+    "kanji": "他",
+    "onyomi": "タ",
+    "kunyomi": "ほか other",
+    "meaning": "other"
+  },
+  {
+    "id": 130,
+    "kanji": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "",
+    "meaning": "technique"
+  },
+  {
+    "id": 131,
+    "kanji": "支",
+    "onyomi": "シ",
+    "kunyomi": "ささえる to support",
+    "meaning": "support"
+  },
+  {
+    "id": 132,
+    "kanji": "両",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "both, two"
+  },
+  {
+    "id": 133,
+    "kanji": "乗",
+    "onyomi": "ジョウ",
+    "kunyomi": "のる to board   のせる to load on",
+    "meaning": "ride, board, load"
+  },
+  {
+    "id": 134,
+    "kanji": "済",
+    "onyomi": "サイ",
+    "kunyomi": "すむ to be finished   すます to be through with",
+    "meaning": "finish"
+  },
+  {
+    "id": 135,
+    "kanji": "供",
+    "onyomi": "キョウ   ク",
+    "kunyomi": "そなえる to make an offering   とも servant, attendant",
+    "meaning": "servant"
+  },
+  {
+    "id": 136,
+    "kanji": "格",
+    "onyomi": "カク   コウ",
+    "kunyomi": "",
+    "meaning": "status"
+  },
+  {
+    "id": 137,
+    "kanji": "打",
+    "onyomi": "ダ",
+    "kunyomi": "うつ to strike",
+    "meaning": "hit, strike"
+  },
+  {
+    "id": 138,
+    "kanji": "御",
+    "onyomi": "ゴ   ギョ",
+    "kunyomi": "おん-    (honorific prefix)",
+    "meaning": "honorific prefix"
+  },
+  {
+    "id": 139,
+    "kanji": "断",
+    "onyomi": "ダン",
+    "kunyomi": "ことわる to refuse, to decline   たつ to cut off",
+    "meaning": "refuse"
+  },
+  {
+    "id": 140,
+    "kanji": "式",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "meaning": "ceremony, style"
+  },
+  {
+    "id": 141,
+    "kanji": "師",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "teacher"
+  },
+  {
+    "id": 142,
+    "kanji": "告",
+    "onyomi": "コク",
+    "kunyomi": "つげる to announce",
+    "meaning": "announce"
+  },
+  {
+    "id": 143,
+    "kanji": "深",
+    "onyomi": "シン",
+    "kunyomi": "ふかい deep   ふかめる to fill   ふかまる to deepen",
+    "meaning": "deep"
+  },
+  {
+    "id": 144,
+    "kanji": "存",
+    "onyomi": "ソン   ゾン",
+    "kunyomi": "ながらえる   ある   たもつとう",
+    "meaning": "suppose"
+  },
+  {
+    "id": 145,
+    "kanji": "争",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそう to contend, to compete, to contest; to argue, to dispute",
+    "meaning": "contend"
+  },
+  {
+    "id": 146,
+    "kanji": "覚",
+    "onyomi": "カク",
+    "kunyomi": "おぼえる to remember   さめる to awake   さます to rouse, awaken",
+    "meaning": "remember"
+  },
+  {
+    "id": 147,
+    "kanji": "側",
+    "onyomi": "ソク",
+    "kunyomi": "がわ side",
+    "meaning": "side"
+  },
+  {
+    "id": 148,
+    "kanji": "飛",
+    "onyomi": "ヒ",
+    "kunyomi": "とぶ to fly   とばす to let fly",
+    "meaning": "fly"
+  },
+  {
+    "id": 149,
+    "kanji": "参",
+    "onyomi": "サン",
+    "kunyomi": "まいる to visit, go, come",
+    "meaning": "visit"
+  },
+  {
+    "id": 150,
+    "kanji": "突",
+    "onyomi": "トツ",
+    "kunyomi": "つく to poke",
+    "meaning": "poke"
+  },
 
   {
     "id": 2,
@@ -1283,13 +1458,6 @@
     "meaning": "thing, matter"
   },
   {
-    "id": 69,
-    "kanji": "式",
-    "onyomi": "shiki",
-    "kunyomi": "",
-    "meaning": "ceremony, style"
-  },
-  {
     "id": 71,
     "kanji": "写",
     "onyomi": "sha",
@@ -1409,13 +1577,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 93,
-    "kanji": "乗",
-    "onyomi": "jou",
-    "kunyomi": "no(ru), no(seru)",
-    "meaning": "ride, board"
-  },
-  {
     "id": 94,
     "kanji": "植",
     "onyomi": "shoku",
@@ -1442,13 +1603,6 @@
     "onyomi": "shin",
     "kunyomi": "ma, makoto",
     "meaning": "true, reality"
-  },
-  {
-    "id": 99,
-    "kanji": "深",
-    "onyomi": "shin",
-    "kunyomi": "fuka(i), fuka(meru)",
-    "meaning": "deep"
   },
   {
     "id": 101,
@@ -1498,20 +1652,6 @@
     "onyomi": "zoku",
     "kunyomi": "",
     "meaning": "tribe, family"
-  },
-  {
-    "id": 110,
-    "kanji": "他",
-    "onyomi": "ta",
-    "kunyomi": "hoka",
-    "meaning": "other"
-  },
-  {
-    "id": 111,
-    "kanji": "打",
-    "onyomi": "da",
-    "kunyomi": "u(tsu)",
-    "meaning": "hit, strike"
   },
   {
     "id": 113,
@@ -1843,13 +1983,6 @@
     "meaning": "question, ask"
   },
   {
-    "id": 173,
-    "kanji": "役",
-    "onyomi": "yaku",
-    "kunyomi": "",
-    "meaning": "role, duty"
-  },
-  {
     "id": 174,
     "kanji": "薬",
     "onyomi": "yaku",
@@ -1911,13 +2044,6 @@
     "onyomi": "ryo",
     "kunyomi": "tabi",
     "meaning": "travel, trip"
-  },
-  {
-    "id": 188,
-    "kanji": "両",
-    "onyomi": "ryou",
-    "kunyomi": "",
-    "meaning": "both, two"
   },
   {
     "id": 189,
@@ -2361,13 +2487,6 @@
     "meaning": "thing, matter"
   },
   {
-    "id": 263,
-    "kanji": "式",
-    "onyomi": "shiki",
-    "kunyomi": "",
-    "meaning": "ceremony, style"
-  },
-  {
     "id": 265,
     "kanji": "写",
     "onyomi": "sha",
@@ -2487,13 +2606,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 287,
-    "kanji": "乗",
-    "onyomi": "jou",
-    "kunyomi": "no(ru), no(seru)",
-    "meaning": "ride, board"
-  },
-  {
     "id": 288,
     "kanji": "植",
     "onyomi": "shoku",
@@ -2520,13 +2632,6 @@
     "onyomi": "shin",
     "kunyomi": "ma, makoto",
     "meaning": "true, reality"
-  },
-  {
-    "id": 293,
-    "kanji": "深",
-    "onyomi": "shin",
-    "kunyomi": "fuka(i), fuka(meru)",
-    "meaning": "deep"
   },
   {
     "id": 295,
@@ -2576,20 +2681,6 @@
     "onyomi": "zoku",
     "kunyomi": "",
     "meaning": "tribe, family"
-  },
-  {
-    "id": 304,
-    "kanji": "他",
-    "onyomi": "ta",
-    "kunyomi": "hoka",
-    "meaning": "other"
-  },
-  {
-    "id": 305,
-    "kanji": "打",
-    "onyomi": "da",
-    "kunyomi": "u(tsu)",
-    "meaning": "hit, strike"
   },
   {
     "id": 307,
@@ -2921,13 +3012,6 @@
     "meaning": "question, ask"
   },
   {
-    "id": 367,
-    "kanji": "役",
-    "onyomi": "yaku",
-    "kunyomi": "",
-    "meaning": "role, duty"
-  },
-  {
     "id": 368,
     "kanji": "薬",
     "onyomi": "yaku",
@@ -2989,13 +3073,6 @@
     "onyomi": "ryo",
     "kunyomi": "tabi",
     "meaning": "travel, trip"
-  },
-  {
-    "id": 382,
-    "kanji": "両",
-    "onyomi": "ryou",
-    "kunyomi": "",
-    "meaning": "both, two"
   },
   {
     "id": 383,
@@ -3439,13 +3516,6 @@
     "meaning": "thing, matter"
   },
   {
-    "id": 457,
-    "kanji": "式",
-    "onyomi": "shiki",
-    "kunyomi": "",
-    "meaning": "ceremony, style"
-  },
-  {
     "id": 459,
     "kanji": "写",
     "onyomi": "sha",
@@ -3565,13 +3635,6 @@
     "meaning": "chapter, badge"
   },
   {
-    "id": 481,
-    "kanji": "乗",
-    "onyomi": "jou",
-    "kunyomi": "no(ru), no(seru)",
-    "meaning": "ride, board"
-  },
-  {
     "id": 482,
     "kanji": "植",
     "onyomi": "shoku",
@@ -3598,13 +3661,6 @@
     "onyomi": "shin",
     "kunyomi": "ma, makoto",
     "meaning": "true, reality"
-  },
-  {
-    "id": 487,
-    "kanji": "深",
-    "onyomi": "shin",
-    "kunyomi": "fuka(i), fuka(meru)",
-    "meaning": "deep"
   },
   {
     "id": 489,
@@ -3654,20 +3710,6 @@
     "onyomi": "zoku",
     "kunyomi": "",
     "meaning": "tribe, family"
-  },
-  {
-    "id": 498,
-    "kanji": "他",
-    "onyomi": "ta",
-    "kunyomi": "hoka",
-    "meaning": "other"
-  },
-  {
-    "id": 499,
-    "kanji": "打",
-    "onyomi": "da",
-    "kunyomi": "u(tsu)",
-    "meaning": "hit, strike"
   },
   {
     "id": 501,
@@ -3999,13 +4041,6 @@
     "meaning": "question, ask"
   },
   {
-    "id": 561,
-    "kanji": "役",
-    "onyomi": "yaku",
-    "kunyomi": "",
-    "meaning": "role, duty"
-  },
-  {
     "id": 562,
     "kanji": "薬",
     "onyomi": "yaku",
@@ -4067,13 +4102,6 @@
     "onyomi": "ryo",
     "kunyomi": "tabi",
     "meaning": "travel, trip"
-  },
-  {
-    "id": 576,
-    "kanji": "両",
-    "onyomi": "ryou",
-    "kunyomi": "",
-    "meaning": "both, two"
   },
   {
     "id": 577,
@@ -4537,13 +4565,6 @@
       "onyomi": "sen",
       "kunyomi": "fune",
       "meaning": "ship, boat"
-    },
-    {
-      "id": 96,
-      "kanji": "飛",
-      "onyomi": "hi",
-      "kunyomi": "to(bu)",
-      "meaning": "fly"
     },
     {
       "id": 102,
