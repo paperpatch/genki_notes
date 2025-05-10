@@ -1050,6 +1050,181 @@
     "kunyomi": "つく to poke",
     "meaning": "poke"
   },
+  {
+    "id": 151,
+    "kanji": "容",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "contents"
+  },
+  {
+    "id": 152,
+    "kanji": "育",
+    "onyomi": "イク",
+    "kunyomi": "そだつ to grow up   そだてる   はぐくむ to raise, to rear",
+    "meaning": "grow up"
+  },
+  {
+    "id": 153,
+    "kanji": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かまえる to build, set up, get ready   かまう to mind, to care about",
+    "meaning": "build"
+  },
+  {
+    "id": 154,
+    "kanji": "認",
+    "onyomi": "ニン",
+    "kunyomi": "みとめる to recognize, to perceive, to approve of",
+    "meaning": "recognize"
+  },
+  {
+    "id": 155,
+    "kanji": "位",
+    "onyomi": "イ",
+    "kunyomi": "くらい rank",
+    "meaning": "rank, position"
+  },
+  {
+    "id": 156,
+    "kanji": "達",
+    "onyomi": "タツ",
+    "kunyomi": "",
+    "meaning": "arrive"
+  },
+  {
+    "id": 157,
+    "kanji": "守",
+    "onyomi": "シュ   ス",
+    "kunyomi": "まもる to protect, guard   もり babysitting",
+    "meaning": "protect"
+  },
+  {
+    "id": 158,
+    "kanji": "満",
+    "onyomi": "マン",
+    "kunyomi": "みちる to become full   みたす to fill, fulfill",
+    "meaning": "full"
+  },
+  {
+    "id": 159,
+    "kanji": "消",
+    "onyomi": "ショウ",
+    "kunyomi": "けす to extinguish   きえる to go out",
+    "meaning": "extinguish, erase"
+  },
+  {
+    "id": 160,
+    "kanji": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まかす   まかせる to entrust (to)",
+    "meaning": "responsibility"
+  },
+  {
+    "id": 161,
+    "kanji": "居",
+    "onyomi": "キョ",
+    "kunyomi": "いる to exist, to be present",
+    "meaning": "exist"
+  },
+  {
+    "id": 162,
+    "kanji": "予",
+    "onyomi": "ヨ",
+    "kunyomi": "",
+    "meaning": "beforehand, previous, in advance"
+  },
+  {
+    "id": 163,
+    "kanji": "路",
+    "onyomi": "ロ",
+    "kunyomi": "-じ street",
+    "meaning": "street"
+  },
+  {
+    "id": 164,
+    "kanji": "座",
+    "onyomi": "ザ",
+    "kunyomi": "すわる to sit",
+    "meaning": "sit"
+  },
+  {
+    "id": 165,
+    "kanji": "客",
+    "onyomi": "キャク   カク",
+    "kunyomi": "",
+    "meaning": "guest, customer"
+  },
+  {
+    "id": 166,
+    "kanji": "船",
+    "onyomi": "セン",
+    "kunyomi": "ふね   ふな- ship",
+    "meaning": "ship, boat"
+  },
+  {
+    "id": 167,
+    "kanji": "追",
+    "onyomi": "ツイ",
+    "kunyomi": "おう to pursue",
+    "meaning": "chase, pursue"
+  },
+  {
+    "id": 168,
+    "kanji": "背",
+    "onyomi": "ハイ",
+    "kunyomi": "せ the back   せい height   そむく to disobey   そむける to turn one's face away",
+    "meaning": "back"
+  },
+  {
+    "id": 169,
+    "kanji": "観",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "outlook"
+  },
+  {
+    "id": 170,
+    "kanji": "誰",
+    "onyomi": "",
+    "kunyomi": "だれ who",
+    "meaning": "who"
+  },
+  {
+    "id": 171,
+    "kanji": "息",
+    "onyomi": "ソク",
+    "kunyomi": "いき breath",
+    "meaning": "breath"
+  },
+  {
+    "id": 172,
+    "kanji": "失",
+    "onyomi": "シツ",
+    "kunyomi": "うしなう to lose",
+    "meaning": "lose"
+  },
+  {
+    "id": 173,
+    "kanji": "老",
+    "onyomi": "ロウ",
+    "kunyomi": "おいる   ふける to grow old",
+    "meaning": "old"
+  },
+  {
+    "id": 174,
+    "kanji": "良",
+    "onyomi": "リョウ",
+    "kunyomi": "よい good",
+    "meaning": "good"
+  },
+  {
+    "id": 175,
+    "kanji": "示",
+    "onyomi": "ジ   シ",
+    "kunyomi": "しめす to show",
+    "meaning": "show"
+  },
 
   {
     "id": 2,
@@ -1071,13 +1246,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 5,
-    "kanji": "位",
-    "onyomi": "i",
-    "kunyomi": "kurai",
-    "meaning": "rank, position"
   },
   {
     "id": 6,
@@ -1190,13 +1358,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 25,
-    "kanji": "客",
-    "onyomi": "kyaku",
-    "kunyomi": "",
-    "meaning": "guest, customer"
   },
   {
     "id": 26,
@@ -1556,13 +1717,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 89,
-    "kanji": "消",
-    "onyomi": "shou",
-    "kunyomi": "ki(eru), ke(su)",
-    "meaning": "extinguish, erase"
-  },
-  {
     "id": 90,
     "kanji": "商",
     "onyomi": "shou",
@@ -1631,13 +1785,6 @@
     "onyomi": "sou",
     "kunyomi": "oku(ru)",
     "meaning": "send"
-  },
-  {
-    "id": 107,
-    "kanji": "息",
-    "onyomi": "soku",
-    "kunyomi": "iki",
-    "meaning": "breath"
   },
   {
     "id": 108,
@@ -1722,13 +1869,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 124,
-    "kanji": "追",
-    "onyomi": "tsui",
-    "kunyomi": "o(u)",
-    "meaning": "chase, pursue"
   },
   {
     "id": 126,
@@ -2011,13 +2151,6 @@
     "meaning": "play, travel"
   },
   {
-    "id": 179,
-    "kanji": "予",
-    "onyomi": "yo",
-    "kunyomi": "",
-    "meaning": "beforehand, previous"
-  },
-  {
     "id": 180,
     "kanji": "羊",
     "onyomi": "you",
@@ -2100,13 +2233,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 199,
-    "kanji": "位",
-    "onyomi": "i",
-    "kunyomi": "kurai",
-    "meaning": "rank, position"
   },
   {
     "id": 200,
@@ -2219,13 +2345,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 219,
-    "kanji": "客",
-    "onyomi": "kyaku",
-    "kunyomi": "",
-    "meaning": "guest, customer"
   },
   {
     "id": 220,
@@ -2585,13 +2704,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 283,
-    "kanji": "消",
-    "onyomi": "shou",
-    "kunyomi": "ki(eru), ke(su)",
-    "meaning": "extinguish, erase"
-  },
-  {
     "id": 284,
     "kanji": "商",
     "onyomi": "shou",
@@ -2660,13 +2772,6 @@
     "onyomi": "sou",
     "kunyomi": "oku(ru)",
     "meaning": "send"
-  },
-  {
-    "id": 301,
-    "kanji": "息",
-    "onyomi": "soku",
-    "kunyomi": "iki",
-    "meaning": "breath"
   },
   {
     "id": 302,
@@ -2751,13 +2856,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 318,
-    "kanji": "追",
-    "onyomi": "tsui",
-    "kunyomi": "o(u)",
-    "meaning": "chase, pursue"
   },
   {
     "id": 320,
@@ -3040,13 +3138,6 @@
     "meaning": "play, travel"
   },
   {
-    "id": 373,
-    "kanji": "予",
-    "onyomi": "yo",
-    "kunyomi": "",
-    "meaning": "beforehand, previous"
-  },
-  {
     "id": 374,
     "kanji": "羊",
     "onyomi": "you",
@@ -3129,13 +3220,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 393,
-    "kanji": "位",
-    "onyomi": "i",
-    "kunyomi": "kurai",
-    "meaning": "rank, position"
   },
   {
     "id": 394,
@@ -3248,13 +3332,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 413,
-    "kanji": "客",
-    "onyomi": "kyaku",
-    "kunyomi": "",
-    "meaning": "guest, customer"
   },
   {
     "id": 414,
@@ -3614,13 +3691,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 477,
-    "kanji": "消",
-    "onyomi": "shou",
-    "kunyomi": "ki(eru), ke(su)",
-    "meaning": "extinguish, erase"
-  },
-  {
     "id": 478,
     "kanji": "商",
     "onyomi": "shou",
@@ -3689,13 +3759,6 @@
     "onyomi": "sou",
     "kunyomi": "oku(ru)",
     "meaning": "send"
-  },
-  {
-    "id": 495,
-    "kanji": "息",
-    "onyomi": "soku",
-    "kunyomi": "iki",
-    "meaning": "breath"
   },
   {
     "id": 496,
@@ -3780,13 +3843,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 512,
-    "kanji": "追",
-    "onyomi": "tsui",
-    "kunyomi": "o(u)",
-    "meaning": "chase, pursue"
   },
   {
     "id": 514,
@@ -4069,13 +4125,6 @@
     "meaning": "play, travel"
   },
   {
-    "id": 567,
-    "kanji": "予",
-    "onyomi": "yo",
-    "kunyomi": "",
-    "meaning": "beforehand, previous"
-  },
-  {
     "id": 568,
     "kanji": "羊",
     "onyomi": "you",
@@ -4158,13 +4207,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 587,
-    "kanji": "位",
-    "onyomi": "i",
-    "kunyomi": "kurai",
-    "meaning": "rank, position"
   },
   {
     "id": 588,
@@ -4277,13 +4319,6 @@
     "onyomi": "ki",
     "kunyomi": "o(kiru), o(kosu)",
     "meaning": "wake up, rise"
-  },
-  {
-    "id": 607,
-    "kanji": "客",
-    "onyomi": "kyaku",
-    "kunyomi": "",
-    "meaning": "guest, customer"
   },
   {
     "id": 608,
@@ -4558,13 +4593,6 @@
       "onyomi": "mon",
       "kunyomi": "kado",
       "meaning": "gate"
-    },
-    {
-      "id": 94,
-      "kanji": "船",
-      "onyomi": "sen",
-      "kunyomi": "fune",
-      "meaning": "ship, boat"
     },
     {
       "id": 102,
