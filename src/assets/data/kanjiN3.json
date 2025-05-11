@@ -1225,6 +1225,181 @@
     "kunyomi": "しめす to show",
     "meaning": "show"
   },
+  {
+    "id": 176,
+    "kanji": "号",
+    "onyomi": "ゴウ",
+    "kunyomi": "",
+    "meaning": "nickname, number, title"
+  },
+  {
+    "id": 177,
+    "kanji": "職",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "meaning": "job"
+  },
+  {
+    "id": 178,
+    "kanji": "王",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "meaning": "king"
+  },
+  {
+    "id": 179,
+    "kanji": "識",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "meaning": "knowledge"
+  },
+  {
+    "id": 180,
+    "kanji": "警",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "meaning": "admonish"
+  },
+  {
+    "id": 181,
+    "kanji": "優",
+    "onyomi": "ユウ",
+    "kunyomi": "すぐれる to excel   やさしい kind",
+    "meaning": "excel"
+  },
+  {
+    "id": 182,
+    "kanji": "投",
+    "onyomi": "トウ",
+    "kunyomi": "なげる to throw (something)",
+    "meaning": "throw"
+  },
+  {
+    "id": 183,
+    "kanji": "局",
+    "onyomi": "キョク",
+    "kunyomi": "",
+    "meaning": "bureau, office"
+  },
+  {
+    "id": 184,
+    "kanji": "難",
+    "onyomi": "ナン",
+    "kunyomi": "むずかしい difficult   かたい hard",
+    "meaning": "difficult"
+  },
+  {
+    "id": 185,
+    "kanji": "種",
+    "onyomi": "シュ",
+    "kunyomi": "たね seed",
+    "meaning": "variety"
+  },
+  {
+    "id": 186,
+    "kanji": "念",
+    "onyomi": "ネン",
+    "kunyomi": "",
+    "meaning": "idea"
+  },
+  {
+    "id": 187,
+    "kanji": "寄",
+    "onyomi": "キ",
+    "kunyomi": "よる to draw near   よせる to bring near",
+    "meaning": "draw near"
+  },
+  {
+    "id": 188,
+    "kanji": "商",
+    "onyomi": "ショウ",
+    "kunyomi": "あきなう to trade, deal in",
+    "meaning": "commerce, trade, trader"
+  },
+  {
+    "id": 189,
+    "kanji": "害",
+    "onyomi": "ガイ",
+    "kunyomi": "",
+    "meaning": "damaged"
+  },
+  {
+    "id": 190,
+    "kanji": "頼",
+    "onyomi": "ライ",
+    "kunyomi": "たよる to rely (on)   たのもしい reliable   たのむ to ask(for), entrust",
+    "meaning": "rely"
+  },
+  {
+    "id": 191,
+    "kanji": "横",
+    "onyomi": "オウ",
+    "kunyomi": "よこ side",
+    "meaning": "side, horizontal"
+  },
+  {
+    "id": 192,
+    "kanji": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ます to increase/grow   ふえる to increase/multiply   ふやす to increase/augment",
+    "meaning": "increase"
+  },
+  {
+    "id": 193,
+    "kanji": "差",
+    "onyomi": "サ",
+    "kunyomi": "difference, distinction   さす to put (up), to raise",
+    "meaning": "difference"
+  },
+  {
+    "id": 194,
+    "kanji": "苦",
+    "onyomi": "ク",
+    "kunyomi": "くるしい painful   くるしむ to suffer   くるしめる to torment   にがい bitter   にがる to feel bitter",
+    "meaning": "suffering, bitter"
+  },
+  {
+    "id": 195,
+    "kanji": "収",
+    "onyomi": "シュウ",
+    "kunyomi": "おさめる to supply; to pay; to achieve; to obtain",
+    "meaning": "supply"
+  },
+  {
+    "id": 196,
+    "kanji": "段",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "meaning": "grade"
+  },
+  {
+    "id": 197,
+    "kanji": "俺",
+    "onyomi": "",
+    "kunyomi": "おれ me, I",
+    "meaning": "me"
+  },
+  {
+    "id": 198,
+    "kanji": "渡",
+    "onyomi": "ト",
+    "kunyomi": "わたる to cross   わたす to hand over",
+    "meaning": "cross"
+  },
+  {
+    "id": 199,
+    "kanji": "与",
+    "onyomi": "ヨ",
+    "kunyomi": "あたえる to grant, give, bestow",
+    "meaning": "grant"
+  },
+  {
+    "id": 200,
+    "kanji": "演",
+    "onyomi": "エン",
+    "kunyomi": "",
+    "meaning": "performance"
+  },
 
   {
     "id": 2,
@@ -1281,13 +1456,6 @@
     "onyomi": "ei",
     "kunyomi": "saka(eru), ha(e)",
     "meaning": "flourish, prosperity"
-  },
-  {
-    "id": 11,
-    "kanji": "横",
-    "onyomi": "ou",
-    "kunyomi": "yoko",
-    "meaning": "side, horizontal"
   },
   {
     "id": 12,
@@ -1423,13 +1591,6 @@
     "meaning": "bend, music"
   },
   {
-    "id": 35,
-    "kanji": "局",
-    "onyomi": "kyoku",
-    "kunyomi": "",
-    "meaning": "bureau, office"
-  },
-  {
     "id": 36,
     "kanji": "銀",
     "onyomi": "gin",
@@ -1442,13 +1603,6 @@
     "onyomi": "ku",
     "kunyomi": "",
     "meaning": "ward, district"
-  },
-  {
-    "id": 38,
-    "kanji": "苦",
-    "onyomi": "ku",
-    "kunyomi": "kuru(shii), niga(i)",
-    "meaning": "suffering, bitter"
   },
   {
     "id": 39,
@@ -1519,13 +1673,6 @@
     "onyomi": "kou",
     "kunyomi": "minato",
     "meaning": "harbor"
-  },
-  {
-    "id": 52,
-    "kanji": "号",
-    "onyomi": "gou",
-    "kunyomi": "",
-    "meaning": "number, title"
   },
   {
     "id": 53,
@@ -1717,13 +1864,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 90,
-    "kanji": "商",
-    "onyomi": "shou",
-    "kunyomi": "aki(na)",
-    "meaning": "commerce, trade"
-  },
-  {
     "id": 91,
     "kanji": "章",
     "onyomi": "shou",
@@ -1904,13 +2044,6 @@
     "onyomi": "do, to",
     "kunyomi": "tabi",
     "meaning": "degree, time"
-  },
-  {
-    "id": 132,
-    "kanji": "投",
-    "onyomi": "tou",
-    "kunyomi": "na(geru)",
-    "meaning": "throw"
   },
   {
     "id": 133,
@@ -2270,13 +2403,6 @@
     "meaning": "flourish, prosperity"
   },
   {
-    "id": 205,
-    "kanji": "横",
-    "onyomi": "ou",
-    "kunyomi": "yoko",
-    "meaning": "side, horizontal"
-  },
-  {
     "id": 206,
     "kanji": "温",
     "onyomi": "on",
@@ -2431,13 +2557,6 @@
     "meaning": "ward, district"
   },
   {
-    "id": 232,
-    "kanji": "苦",
-    "onyomi": "ku",
-    "kunyomi": "kuru(shii), niga(i)",
-    "meaning": "suffering, bitter"
-  },
-  {
     "id": 233,
     "kanji": "具",
     "onyomi": "gu",
@@ -2506,13 +2625,6 @@
     "onyomi": "kou",
     "kunyomi": "minato",
     "meaning": "harbor"
-  },
-  {
-    "id": 246,
-    "kanji": "号",
-    "onyomi": "gou",
-    "kunyomi": "",
-    "meaning": "number, title"
   },
   {
     "id": 247,
@@ -2704,13 +2816,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 284,
-    "kanji": "商",
-    "onyomi": "shou",
-    "kunyomi": "aki(na)",
-    "meaning": "commerce, trade"
-  },
-  {
     "id": 285,
     "kanji": "章",
     "onyomi": "shou",
@@ -2891,13 +2996,6 @@
     "onyomi": "do, to",
     "kunyomi": "tabi",
     "meaning": "degree, time"
-  },
-  {
-    "id": 326,
-    "kanji": "投",
-    "onyomi": "tou",
-    "kunyomi": "na(geru)",
-    "meaning": "throw"
   },
   {
     "id": 327,
@@ -3257,13 +3355,6 @@
     "meaning": "flourish, prosperity"
   },
   {
-    "id": 399,
-    "kanji": "横",
-    "onyomi": "ou",
-    "kunyomi": "yoko",
-    "meaning": "side, horizontal"
-  },
-  {
     "id": 400,
     "kanji": "温",
     "onyomi": "on",
@@ -3418,13 +3509,6 @@
     "meaning": "ward, district"
   },
   {
-    "id": 426,
-    "kanji": "苦",
-    "onyomi": "ku",
-    "kunyomi": "kuru(shii), niga(i)",
-    "meaning": "suffering, bitter"
-  },
-  {
     "id": 427,
     "kanji": "具",
     "onyomi": "gu",
@@ -3493,13 +3577,6 @@
     "onyomi": "kou",
     "kunyomi": "minato",
     "meaning": "harbor"
-  },
-  {
-    "id": 440,
-    "kanji": "号",
-    "onyomi": "gou",
-    "kunyomi": "",
-    "meaning": "number, title"
   },
   {
     "id": 441,
@@ -3691,13 +3768,6 @@
     "meaning": "shining, bright"
   },
   {
-    "id": 478,
-    "kanji": "商",
-    "onyomi": "shou",
-    "kunyomi": "aki(na)",
-    "meaning": "commerce, trade"
-  },
-  {
     "id": 479,
     "kanji": "章",
     "onyomi": "shou",
@@ -3878,13 +3948,6 @@
     "onyomi": "do, to",
     "kunyomi": "tabi",
     "meaning": "degree, time"
-  },
-  {
-    "id": 520,
-    "kanji": "投",
-    "onyomi": "tou",
-    "kunyomi": "na(geru)",
-    "meaning": "throw"
   },
   {
     "id": 521,
@@ -4244,13 +4307,6 @@
     "meaning": "flourish, prosperity"
   },
   {
-    "id": 593,
-    "kanji": "横",
-    "onyomi": "ou",
-    "kunyomi": "yoko",
-    "meaning": "side, horizontal"
-  },
-  {
     "id": 594,
     "kanji": "温",
     "onyomi": "on",
@@ -4406,13 +4462,6 @@
       "meaning": "ward, district"
     },
     {
-      "id": 620,
-      "kanji": "苦",
-      "onyomi": "ku",
-      "kunyomi": "kuru(shii), niga(i)",
-      "meaning": "suffering, bitter"
-    },
-    {
       "id": 621,
       "kanji": "具",
       "onyomi": "gu",
@@ -4481,13 +4530,6 @@
       "onyomi": "kou",
       "kunyomi": "minato",
       "meaning": "harbor"
-    },
-    {
-      "id": 634,
-      "kanji": "号",
-      "onyomi": "gou",
-      "kunyomi": "",
-      "meaning": "number, title"
     },
     {
       "id": 635,
