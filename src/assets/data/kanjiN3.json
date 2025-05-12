@@ -1400,6 +1400,181 @@
     "kunyomi": "",
     "meaning": "performance"
   },
+  {
+    "id": 201,
+    "kanji": "備",
+    "onyomi": "ビ",
+    "kunyomi": "そなえる to prepare, to provide for   そなわる to be furnished with",
+    "meaning": "prepare"
+  },
+  {
+    "id": 202,
+    "kanji": "申",
+    "onyomi": "シン",
+    "kunyomi": "もうす to say",
+    "meaning": "say, report"
+  },
+  {
+    "id": 203,
+    "kanji": "例",
+    "onyomi": "レイ",
+    "kunyomi": "たとえる to illustrate, to compare   たとえば for example",
+    "meaning": "example"
+  },
+  {
+    "id": 204,
+    "kanji": "働",
+    "onyomi": "ドウ",
+    "kunyomi": "はたらく to work",
+    "meaning": "work"
+  },
+  {
+    "id": 205,
+    "kanji": "景",
+    "onyomi": "ケイ",
+    "kunyomi": "かげ",
+    "meaning": "scenery"
+  },
+  {
+    "id": 206,
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬく to extract, pull out   ぬける to come / fall out; be omitted   ぬかす to omit   ぬかる to make a blunder",
+    "meaning": "extract"
+  },
+  {
+    "id": 207,
+    "kanji": "遠",
+    "onyomi": "エン   オン",
+    "kunyomi": "とおい far",
+    "meaning": "far away"
+  },
+  {
+    "id": 208,
+    "kanji": "絶",
+    "onyomi": "ゼツ",
+    "kunyomi": "たえる to die out   たやす to eradicate   たつ to sever, to cut off",
+    "meaning": "die out"
+  },
+  {
+    "id": 209,
+    "kanji": "負",
+    "onyomi": "フ",
+    "kunyomi": "まかす to defeat   まける to be defeated   おう to carry (on one's back)",
+    "meaning": "defeat, lose, carry"
+  },
+  {
+    "id": 210,
+    "kanji": "福",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "blessing, fortune"
+  },
+  {
+    "id": 211,
+    "kanji": "球",
+    "onyomi": "キュウ",
+    "kunyomi": "たま ball",
+    "meaning": "ball, sphere"
+  },
+  {
+    "id": 212,
+    "kanji": "酒",
+    "onyomi": "シュ",
+    "kunyomi": "さけ   さか- sake",
+    "meaning": "alcohol, sake"
+  },
+  {
+    "id": 213,
+    "kanji": "君",
+    "onyomi": "kun",
+    "kunyomi": "kimi",
+    "meaning": "you, ruler"
+  },
+  {
+    "id": 214,
+    "kanji": "察",
+    "onyomi": "サツ",
+    "kunyomi": "",
+    "meaning": "surmise"
+  },
+  {
+    "id": 215,
+    "kanji": "望",
+    "onyomi": "ボウ   モウ",
+    "kunyomi": "のぞむ to wish for",
+    "meaning": "wish for"
+  },
+  {
+    "id": 216,
+    "kanji": "婚",
+    "onyomi": "コン",
+    "kunyomi": "",
+    "meaning": "marriage"
+  },
+  {
+    "id": 217,
+    "kanji": "単",
+    "onyomi": "タン",
+    "kunyomi": "",
+    "meaning": "simple"
+  },
+  {
+    "id": 218,
+    "kanji": "押",
+    "onyomi": "オウ",
+    "kunyomi": "おす to push   おさえる to check, to restrain",
+    "meaning": "push"
+  },
+  {
+    "id": 219,
+    "kanji": "割",
+    "onyomi": "カツ",
+    "kunyomi": "わる to separate, to divide   われる to split apart, to crack   わり proportion, 10%   さく to cut up",
+    "meaning": "separate"
+  },
+  {
+    "id": 220,
+    "kanji": "限",
+    "onyomi": "ゲン",
+    "kunyomi": "かぎる to limit, restrict",
+    "meaning": "limit"
+  },
+  {
+    "id": 221,
+    "kanji": "戻",
+    "onyomi": "レイ",
+    "kunyomi": "もどる to return   もどす to send back",
+    "meaning": "return"
+  },
+  {
+    "id": 222,
+    "kanji": "科",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "department"
+  },
+  {
+    "id": 223,
+    "kanji": "求",
+    "onyomi": "キュウ",
+    "kunyomi": "もとめる to request, want, demand",
+    "meaning": "request"
+  },
+  {
+    "id": 224,
+    "kanji": "談",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "meaning": "discussion, discuss, talk"
+  },
+  {
+    "id": 225,
+    "kanji": "降",
+    "onyomi": "コウ",
+    "kunyomi": "おりる to get off   おろす to drop off   ふる to fall (eg rain)",
+    "meaning": "get off"
+  },
 
   {
     "id": 2,
@@ -1556,13 +1731,6 @@
     "meaning": "shrine, palace"
   },
   {
-    "id": 30,
-    "kanji": "球",
-    "onyomi": "kyuu",
-    "kunyomi": "tama",
-    "meaning": "ball, sphere"
-  },
-  {
     "id": 31,
     "kanji": "去",
     "onyomi": "kyo",
@@ -1610,13 +1778,6 @@
     "onyomi": "gu",
     "kunyomi": "",
     "meaning": "tool, ingredient"
-  },
-  {
-    "id": 40,
-    "kanji": "君",
-    "onyomi": "kun",
-    "kunyomi": "kimi",
-    "meaning": "you, ruler"
   },
   {
     "id": 42,
@@ -1787,13 +1948,6 @@
     "meaning": "master, main"
   },
   {
-    "id": 75,
-    "kanji": "酒",
-    "onyomi": "shu",
-    "kunyomi": "sake, saka",
-    "meaning": "alcohol, sake"
-  },
-  {
     "id": 77,
     "kanji": "州",
     "onyomi": "shuu",
@@ -1878,13 +2032,6 @@
     "meaning": "plant"
   },
   {
-    "id": 95,
-    "kanji": "申",
-    "onyomi": "shin",
-    "kunyomi": "mou(su)",
-    "meaning": "say, report"
-  },
-  {
     "id": 96,
     "kanji": "身",
     "onyomi": "shin",
@@ -1967,13 +2114,6 @@
     "onyomi": "tan",
     "kunyomi": "mijika(i)",
     "meaning": "short"
-  },
-  {
-    "id": 117,
-    "kanji": "談",
-    "onyomi": "dan",
-    "kunyomi": "",
-    "meaning": "discuss, talk"
   },
   {
     "id": 118,
@@ -2207,25 +2347,11 @@
     "meaning": "goods, item"
   },
   {
-    "id": 160,
-    "kanji": "負",
-    "onyomi": "fu",
-    "kunyomi": "ma(keru), o(u)",
-    "meaning": "lose, carry"
-  },
-  {
     "id": 162,
     "kanji": "服",
     "onyomi": "fuku",
     "kunyomi": "",
     "meaning": "clothes"
-  },
-  {
-    "id": 163,
-    "kanji": "福",
-    "onyomi": "fuku",
-    "kunyomi": "",
-    "meaning": "blessing, fortune"
   },
   {
     "id": 164,
@@ -2501,13 +2627,6 @@
     "meaning": "shrine, palace"
   },
   {
-    "id": 224,
-    "kanji": "球",
-    "onyomi": "kyuu",
-    "kunyomi": "tama",
-    "meaning": "ball, sphere"
-  },
-  {
     "id": 225,
     "kanji": "去",
     "onyomi": "kyo",
@@ -2562,13 +2681,6 @@
     "onyomi": "gu",
     "kunyomi": "",
     "meaning": "tool, ingredient"
-  },
-  {
-    "id": 234,
-    "kanji": "君",
-    "onyomi": "kun",
-    "kunyomi": "kimi",
-    "meaning": "you, ruler"
   },
   {
     "id": 236,
@@ -2739,13 +2851,6 @@
     "meaning": "master, main"
   },
   {
-    "id": 269,
-    "kanji": "酒",
-    "onyomi": "shu",
-    "kunyomi": "sake, saka",
-    "meaning": "alcohol, sake"
-  },
-  {
     "id": 271,
     "kanji": "州",
     "onyomi": "shuu",
@@ -2830,13 +2935,6 @@
     "meaning": "plant"
   },
   {
-    "id": 289,
-    "kanji": "申",
-    "onyomi": "shin",
-    "kunyomi": "mou(su)",
-    "meaning": "say, report"
-  },
-  {
     "id": 290,
     "kanji": "身",
     "onyomi": "shin",
@@ -2919,13 +3017,6 @@
     "onyomi": "tan",
     "kunyomi": "mijika(i)",
     "meaning": "short"
-  },
-  {
-    "id": 311,
-    "kanji": "談",
-    "onyomi": "dan",
-    "kunyomi": "",
-    "meaning": "discuss, talk"
   },
   {
     "id": 312,
@@ -3159,25 +3250,11 @@
     "meaning": "goods, item"
   },
   {
-    "id": 354,
-    "kanji": "負",
-    "onyomi": "fu",
-    "kunyomi": "ma(keru), o(u)",
-    "meaning": "lose, carry"
-  },
-  {
     "id": 356,
     "kanji": "服",
     "onyomi": "fuku",
     "kunyomi": "",
     "meaning": "clothes"
-  },
-  {
-    "id": 357,
-    "kanji": "福",
-    "onyomi": "fuku",
-    "kunyomi": "",
-    "meaning": "blessing, fortune"
   },
   {
     "id": 358,
@@ -3453,13 +3530,6 @@
     "meaning": "shrine, palace"
   },
   {
-    "id": 418,
-    "kanji": "球",
-    "onyomi": "kyuu",
-    "kunyomi": "tama",
-    "meaning": "ball, sphere"
-  },
-  {
     "id": 419,
     "kanji": "去",
     "onyomi": "kyo",
@@ -3514,13 +3584,6 @@
     "onyomi": "gu",
     "kunyomi": "",
     "meaning": "tool, ingredient"
-  },
-  {
-    "id": 428,
-    "kanji": "君",
-    "onyomi": "kun",
-    "kunyomi": "kimi",
-    "meaning": "you, ruler"
   },
   {
     "id": 430,
@@ -3691,13 +3754,6 @@
     "meaning": "master, main"
   },
   {
-    "id": 463,
-    "kanji": "酒",
-    "onyomi": "shu",
-    "kunyomi": "sake, saka",
-    "meaning": "alcohol, sake"
-  },
-  {
     "id": 465,
     "kanji": "州",
     "onyomi": "shuu",
@@ -3782,13 +3838,6 @@
     "meaning": "plant"
   },
   {
-    "id": 483,
-    "kanji": "申",
-    "onyomi": "shin",
-    "kunyomi": "mou(su)",
-    "meaning": "say, report"
-  },
-  {
     "id": 484,
     "kanji": "身",
     "onyomi": "shin",
@@ -3871,13 +3920,6 @@
     "onyomi": "tan",
     "kunyomi": "mijika(i)",
     "meaning": "short"
-  },
-  {
-    "id": 505,
-    "kanji": "談",
-    "onyomi": "dan",
-    "kunyomi": "",
-    "meaning": "discuss, talk"
   },
   {
     "id": 506,
@@ -4111,25 +4153,11 @@
     "meaning": "goods, item"
   },
   {
-    "id": 548,
-    "kanji": "負",
-    "onyomi": "fu",
-    "kunyomi": "ma(keru), o(u)",
-    "meaning": "lose, carry"
-  },
-  {
     "id": 550,
     "kanji": "服",
     "onyomi": "fuku",
     "kunyomi": "",
     "meaning": "clothes"
-  },
-  {
-    "id": 551,
-    "kanji": "福",
-    "onyomi": "fuku",
-    "kunyomi": "",
-    "meaning": "blessing, fortune"
   },
   {
     "id": 552,
@@ -4406,13 +4434,6 @@
       "meaning": "shrine, palace"
     },
     {
-      "id": 612,
-      "kanji": "球",
-      "onyomi": "kyuu",
-      "kunyomi": "tama",
-      "meaning": "ball, sphere"
-    },
-    {
       "id": 613,
       "kanji": "去",
       "onyomi": "kyo",
@@ -4467,13 +4488,6 @@
       "onyomi": "gu",
       "kunyomi": "",
       "meaning": "tool, ingredient"
-    },
-    {
-      "id": 622,
-      "kanji": "君",
-      "onyomi": "kun",
-      "kunyomi": "kimi",
-      "meaning": "you, ruler"
     },
     {
       "id": 624,
