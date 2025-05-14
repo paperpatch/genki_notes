@@ -1575,6 +1575,181 @@
     "kunyomi": "おりる to get off   おろす to drop off   ふる to fall (eg rain)",
     "meaning": "get off"
   },
+  {
+    "id": 226,
+    "kanji": "妻",
+    "onyomi": "サイ",
+    "kunyomi": "つま wife",
+    "meaning": "wife"
+  },
+  {
+    "id": 227,
+    "kanji": "岡",
+    "onyomi": "",
+    "kunyomi": "おか hill, Mount",
+    "meaning": "hill"
+  },
+  {
+    "id": 228,
+    "kanji": "熱",
+    "onyomi": "ネツ",
+    "kunyomi": "あつい hot",
+    "meaning": "hot"
+  },
+  {
+    "id": 229,
+    "kanji": "浮",
+    "onyomi": "フ",
+    "kunyomi": "うかぶ   うく to float   うかべる to launch, to refloat, to waft   うかれる to frolic",
+    "meaning": "float"
+  },
+  {
+    "id": 230,
+    "kanji": "等",
+    "onyomi": "トウ",
+    "kunyomi": "ひとしい equal, similar",
+    "meaning": "equal, etc."
+  },
+  {
+    "id": 231,
+    "kanji": "末",
+    "onyomi": "マツ   バツ",
+    "kunyomi": "すえ end",
+    "meaning": "end"
+  },
+  {
+    "id": 232,
+    "kanji": "幸",
+    "onyomi": "コウ",
+    "kunyomi": "さち   しあわせ   さいわい happiness",
+    "meaning": "happiness, fortune"
+  },
+  {
+    "id": 233,
+    "kanji": "草",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ grass",
+    "meaning": "grass"
+  },
+  {
+    "id": 234,
+    "kanji": "越",
+    "onyomi": "エツ",
+    "kunyomi": "こす   こえる to surpass",
+    "meaning": "surpass"
+  },
+  {
+    "id": 235,
+    "kanji": "登",
+    "onyomi": "トウ   ト",
+    "kunyomi": "のぼる to climb",
+    "meaning": "climb"
+  },
+  {
+    "id": 236,
+    "kanji": "類",
+    "onyomi": "ルイ",
+    "kunyomi": "たぐい kind, type",
+    "meaning": "kind"
+  },
+  {
+    "id": 237,
+    "kanji": "未",
+    "onyomi": "ミ",
+    "kunyomi": "",
+    "meaning": "not yet"
+  },
+  {
+    "id": 238,
+    "kanji": "規",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "standard"
+  },
+  {
+    "id": 239,
+    "kanji": "精",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "",
+    "meaning": "vitality"
+  },
+  {
+    "id": 240,
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だく   いだく to hug   かかえる to carry, to hold (an object, a burden)",
+    "meaning": "hug"
+  },
+  {
+    "id": 241,
+    "kanji": "労",
+    "onyomi": "ロウ",
+    "kunyomi": "ねぎら   ろうする   いたわる   いたずき   つかれる   ねぎらう",
+    "meaning": "labor"
+  },
+  {
+    "id": 242,
+    "kanji": "処",
+    "onyomi": "ショ",
+    "kunyomi": "ところ   -こ   おる",
+    "meaning": "deal with"
+  },
+  {
+    "id": 243,
+    "kanji": "退",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞく to retreat, back off   しりぞける to repel",
+    "meaning": "retreat"
+  },
+  {
+    "id": 244,
+    "kanji": "費",
+    "onyomi": "ヒ",
+    "kunyomi": "ついやす to spend   ついえる to be wasted",
+    "meaning": "spend"
+  },
+  {
+    "id": 245,
+    "kanji": "非",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "meaning": "mistake"
+  },
+  {
+    "id": 246,
+    "kanji": "喜",
+    "onyomi": "キ",
+    "kunyomi": "よろこぶ to rejoice",
+    "meaning": "rejoice"
+  },
+  {
+    "id": 247,
+    "kanji": "娘",
+    "onyomi": "",
+    "kunyomi": "むすめ daughter",
+    "meaning": "daughter"
+  },
+  {
+    "id": 248,
+    "kanji": "逃",
+    "onyomi": "トウ",
+    "kunyomi": "にげる   のがれる to escape   にがす   のがす to free",
+    "meaning": "escape"
+  },
+  {
+    "id": 249,
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さぐる to grope for   さがす to search for",
+    "meaning": "grope"
+  },
+  {
+    "id": 250,
+    "kanji": "犯",
+    "onyomi": "ハン",
+    "kunyomi": "おかす to commit a crime",
+    "meaning": "crime"
+  },
 
   {
     "id": 2,
@@ -1820,13 +1995,6 @@
     "onyomi": "ko",
     "kunyomi": "mizumi",
     "meaning": "lake"
-  },
-  {
-    "id": 50,
-    "kanji": "幸",
-    "onyomi": "kou",
-    "kunyomi": "saiwai, shiawa(se)",
-    "meaning": "happiness, fortune"
   },
   {
     "id": 51,
@@ -2205,20 +2373,6 @@
     "onyomi": "tou",
     "kunyomi": "yu",
     "meaning": "hot water"
-  },
-  {
-    "id": 136,
-    "kanji": "登",
-    "onyomi": "tou, to",
-    "kunyomi": "nobo(ru)",
-    "meaning": "climb"
-  },
-  {
-    "id": 137,
-    "kanji": "等",
-    "onyomi": "tou",
-    "kunyomi": "hito(shii)",
-    "meaning": "equal, etc."
   },
   {
     "id": 138,
@@ -2718,13 +2872,6 @@
     "meaning": "lake"
   },
   {
-    "id": 244,
-    "kanji": "幸",
-    "onyomi": "kou",
-    "kunyomi": "saiwai, shiawa(se)",
-    "meaning": "happiness, fortune"
-  },
-  {
     "id": 245,
     "kanji": "港",
     "onyomi": "kou",
@@ -3101,20 +3248,6 @@
     "onyomi": "tou",
     "kunyomi": "yu",
     "meaning": "hot water"
-  },
-  {
-    "id": 330,
-    "kanji": "登",
-    "onyomi": "tou, to",
-    "kunyomi": "nobo(ru)",
-    "meaning": "climb"
-  },
-  {
-    "id": 331,
-    "kanji": "等",
-    "onyomi": "tou",
-    "kunyomi": "hito(shii)",
-    "meaning": "equal, etc."
   },
   {
     "id": 332,
@@ -3614,13 +3747,6 @@
     "meaning": "lake"
   },
   {
-    "id": 438,
-    "kanji": "幸",
-    "onyomi": "kou",
-    "kunyomi": "saiwai, shiawa(se)",
-    "meaning": "happiness, fortune"
-  },
-  {
     "id": 439,
     "kanji": "港",
     "onyomi": "kou",
@@ -3997,20 +4123,6 @@
     "onyomi": "tou",
     "kunyomi": "yu",
     "meaning": "hot water"
-  },
-  {
-    "id": 524,
-    "kanji": "登",
-    "onyomi": "tou, to",
-    "kunyomi": "nobo(ru)",
-    "meaning": "climb"
-  },
-  {
-    "id": 525,
-    "kanji": "等",
-    "onyomi": "tou",
-    "kunyomi": "hito(shii)",
-    "meaning": "equal, etc."
   },
   {
     "id": 526,
@@ -4511,13 +4623,6 @@
       "meaning": "lake"
     },
     {
-      "id": 632,
-      "kanji": "幸",
-      "onyomi": "kou",
-      "kunyomi": "saiwai, shiawa(se)",
-      "meaning": "happiness, fortune"
-    },
-    {
       "id": 633,
       "kanji": "港",
       "onyomi": "kou",
@@ -4677,13 +4782,6 @@
       "onyomi": "sei",
       "kunyomi": "hoshi",
       "meaning": "star"
-    },
-    {
-      "id": 144,
-      "kanji": "草",
-      "onyomi": "sou",
-      "kunyomi": "kusa",
-      "meaning": "grass"
     }
   ]
 ]
