@@ -1750,6 +1750,181 @@
     "kunyomi": "おかす to commit a crime",
     "meaning": "crime"
   },
+  {
+    "id": 251,
+    "kanji": "薬",
+    "onyomi": "ヤク",
+    "kunyomi": "くすり medicine",
+    "meaning": "medicine, drug"
+  },
+  {
+    "id": 252,
+    "kanji": "園",
+    "onyomi": "エン",
+    "kunyomi": "その garden, park",
+    "meaning": "garden"
+  },
+  {
+    "id": 253,
+    "kanji": "疑",
+    "onyomi": "ギ",
+    "kunyomi": "うたがう to doubt",
+    "meaning": "doubt"
+  },
+  {
+    "id": 254,
+    "kanji": "緒",
+    "onyomi": "ショ   チョ",
+    "kunyomi": "お strap, thong",
+    "meaning": "strap"
+  },
+  {
+    "id": 255,
+    "kanji": "静",
+    "onyomi": "セイ   ジョウ",
+    "kunyomi": "しずか quiet, still   しずまる to become still   しずめる to becalm, to quell",
+    "meaning": "quiet"
+  },
+  {
+    "id": 256,
+    "kanji": "具",
+    "onyomi": "グ",
+    "kunyomi": "",
+    "meaning": "tool, ingredient"
+  },
+  {
+    "id": 257,
+    "kanji": "席",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "seat"
+  },
+  {
+    "id": 258,
+    "kanji": "速",
+    "onyomi": "ソク",
+    "kunyomi": "はやい fast   はやまる be hasty   はやめる to expedite, to hasten   すみやか speedy",
+    "meaning": "fast, quick"
+  },
+  {
+    "id": 259,
+    "kanji": "舞",
+    "onyomi": "ブ",
+    "kunyomi": "まう to dance   まい dance",
+    "meaning": "dance"
+  },
+  {
+    "id": 260,
+    "kanji": "宿",
+    "onyomi": "シュク",
+    "kunyomi": "やど an inn   やどる to lodge   やどす to give lodgings",
+    "meaning": "inn, lodging"
+  },
+  {
+    "id": 261,
+    "kanji": "程",
+    "onyomi": "テイ",
+    "kunyomi": "ほど extent",
+    "meaning": "extent"
+  },
+  {
+    "id": 262,
+    "kanji": "倒",
+    "onyomi": "トウ",
+    "kunyomi": "たおれる to fall over   たおす to knock down",
+    "meaning": "fall over"
+  },
+  {
+    "id": 263,
+    "kanji": "寝",
+    "onyomi": "シン",
+    "kunyomi": "ねかす to lay down   ねる to sleep, to lie down",
+    "meaning": "sleep"
+  },
+  {
+    "id": 264,
+    "kanji": "宅",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "home"
+  },
+  {
+    "id": 265,
+    "kanji": "絵",
+    "onyomi": "カイ   エ",
+    "kunyomi": "",
+    "meaning": "picture"
+  },
+  {
+    "id": 266,
+    "kanji": "破",
+    "onyomi": "ハ",
+    "kunyomi": "やぶる to tear, break   やぶれる to get torn, broken",
+    "meaning": "tear"
+  },
+  {
+    "id": 267,
+    "kanji": "庭",
+    "onyomi": "テイ",
+    "kunyomi": "にわ courtyard, garden",
+    "meaning": "garden"
+  },
+  {
+    "id": 268,
+    "kanji": "婦",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "wife"
+  },
+  {
+    "id": 269,
+    "kanji": "余",
+    "onyomi": "ヨ",
+    "kunyomi": "あます to leave over   あまる to be left over",
+    "meaning": "surplus, left over, extra"
+  },
+  {
+    "id": 270,
+    "kanji": "訪",
+    "onyomi": "ホウ",
+    "kunyomi": "たずねる to visit   おとずれる to ask, to visit",
+    "meaning": "visit"
+  },
+  {
+    "id": 271,
+    "kanji": "冷",
+    "onyomi": "レイ",
+    "kunyomi": "つめたい cold   さめる to (become) cool   さます to (make) cool   ひや cold (sake, water)   ひえる to get chilly   ひやす to chill   ひやかす to banter",
+    "meaning": "cold"
+  },
+  {
+    "id": 272,
+    "kanji": "暮",
+    "onyomi": "ボ",
+    "kunyomi": "くれる to get dark   くらす to make a living",
+    "meaning": "get dark"
+  },
+  {
+    "id": 273,
+    "kanji": "腹",
+    "onyomi": "フク",
+    "kunyomi": "はら stomach, abdomen",
+    "meaning": "stomach"
+  },
+  {
+    "id": 274,
+    "kanji": "危",
+    "onyomi": "キ",
+    "kunyomi": "あぶない dangerous   あやぶむ to be apprehensive of   あやうく barely, narrowly; almost",
+    "meaning": "dangerous"
+  },
+  {
+    "id": 275,
+    "kanji": "許",
+    "onyomi": "キョ",
+    "kunyomi": "ゆるす to permit, allow, forgive",
+    "meaning": "permit"
+  },
 
   {
     "id": 2,
@@ -1946,13 +2121,6 @@
     "onyomi": "ku",
     "kunyomi": "",
     "meaning": "ward, district"
-  },
-  {
-    "id": 39,
-    "kanji": "具",
-    "onyomi": "gu",
-    "kunyomi": "",
-    "meaning": "tool, ingredient"
   },
   {
     "id": 42,
@@ -2165,13 +2333,6 @@
     "meaning": "heavy, pile up"
   },
   {
-    "id": 84,
-    "kanji": "宿",
-    "onyomi": "shuku",
-    "kunyomi": "yado",
-    "meaning": "inn, lodging"
-  },
-  {
     "id": 86,
     "kanji": "暑",
     "onyomi": "sho",
@@ -2242,13 +2403,6 @@
     "meaning": "send"
   },
   {
-    "id": 108,
-    "kanji": "速",
-    "onyomi": "soku",
-    "kunyomi": "haya(i), sumi(yaka)",
-    "meaning": "fast, quick"
-  },
-  {
     "id": 109,
     "kanji": "族",
     "onyomi": "zoku",
@@ -2317,13 +2471,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 126,
-    "kanji": "庭",
-    "onyomi": "tei",
-    "kunyomi": "niwa",
-    "meaning": "garden"
   },
   {
     "id": 127,
@@ -2534,13 +2681,6 @@
     "onyomi": "mon",
     "kunyomi": "to(u), ton",
     "meaning": "question, ask"
-  },
-  {
-    "id": 174,
-    "kanji": "薬",
-    "onyomi": "yaku",
-    "kunyomi": "kusuri",
-    "meaning": "medicine, drug"
   },
   {
     "id": 176,
@@ -2823,13 +2963,6 @@
     "meaning": "ward, district"
   },
   {
-    "id": 233,
-    "kanji": "具",
-    "onyomi": "gu",
-    "kunyomi": "",
-    "meaning": "tool, ingredient"
-  },
-  {
     "id": 236,
     "kanji": "軽",
     "onyomi": "kei",
@@ -3040,13 +3173,6 @@
     "meaning": "heavy, pile up"
   },
   {
-    "id": 278,
-    "kanji": "宿",
-    "onyomi": "shuku",
-    "kunyomi": "yado",
-    "meaning": "inn, lodging"
-  },
-  {
     "id": 280,
     "kanji": "暑",
     "onyomi": "sho",
@@ -3117,13 +3243,6 @@
     "meaning": "send"
   },
   {
-    "id": 302,
-    "kanji": "速",
-    "onyomi": "soku",
-    "kunyomi": "haya(i), sumi(yaka)",
-    "meaning": "fast, quick"
-  },
-  {
     "id": 303,
     "kanji": "族",
     "onyomi": "zoku",
@@ -3192,13 +3311,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 320,
-    "kanji": "庭",
-    "onyomi": "tei",
-    "kunyomi": "niwa",
-    "meaning": "garden"
   },
   {
     "id": 321,
@@ -3409,13 +3521,6 @@
     "onyomi": "mon",
     "kunyomi": "to(u), ton",
     "meaning": "question, ask"
-  },
-  {
-    "id": 368,
-    "kanji": "薬",
-    "onyomi": "yaku",
-    "kunyomi": "kusuri",
-    "meaning": "medicine, drug"
   },
   {
     "id": 370,
@@ -3698,13 +3803,6 @@
     "meaning": "ward, district"
   },
   {
-    "id": 427,
-    "kanji": "具",
-    "onyomi": "gu",
-    "kunyomi": "",
-    "meaning": "tool, ingredient"
-  },
-  {
     "id": 430,
     "kanji": "軽",
     "onyomi": "kei",
@@ -3915,13 +4013,6 @@
     "meaning": "heavy, pile up"
   },
   {
-    "id": 472,
-    "kanji": "宿",
-    "onyomi": "shuku",
-    "kunyomi": "yado",
-    "meaning": "inn, lodging"
-  },
-  {
     "id": 474,
     "kanji": "暑",
     "onyomi": "sho",
@@ -3992,13 +4083,6 @@
     "meaning": "send"
   },
   {
-    "id": 496,
-    "kanji": "速",
-    "onyomi": "soku",
-    "kunyomi": "haya(i), sumi(yaka)",
-    "meaning": "fast, quick"
-  },
-  {
     "id": 497,
     "kanji": "族",
     "onyomi": "zoku",
@@ -4067,13 +4151,6 @@
     "onyomi": "chou",
     "kunyomi": "",
     "meaning": "notebook, account book"
-  },
-  {
-    "id": 514,
-    "kanji": "庭",
-    "onyomi": "tei",
-    "kunyomi": "niwa",
-    "meaning": "garden"
   },
   {
     "id": 515,
@@ -4284,13 +4361,6 @@
     "onyomi": "mon",
     "kunyomi": "to(u), ton",
     "meaning": "question, ask"
-  },
-  {
-    "id": 562,
-    "kanji": "薬",
-    "onyomi": "yaku",
-    "kunyomi": "kusuri",
-    "meaning": "medicine, drug"
   },
   {
     "id": 564,
@@ -4572,13 +4642,6 @@
       "onyomi": "ku",
       "kunyomi": "",
       "meaning": "ward, district"
-    },
-    {
-      "id": 621,
-      "kanji": "具",
-      "onyomi": "gu",
-      "kunyomi": "",
-      "meaning": "tool, ingredient"
     },
     {
       "id": 624,
