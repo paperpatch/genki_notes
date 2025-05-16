@@ -1925,6 +1925,181 @@
     "kunyomi": "ゆるす to permit, allow, forgive",
     "meaning": "permit"
   },
+  {
+    "id": 276,
+    "kanji": "似",
+    "onyomi": "ジ",
+    "kunyomi": "にる to be similar to",
+    "meaning": "similar"
+  },
+  {
+    "id": 277,
+    "kanji": "険",
+    "onyomi": "ケン",
+    "kunyomi": "けわしい steep",
+    "meaning": "steep"
+  },
+  {
+    "id": 278,
+    "kanji": "財",
+    "onyomi": "ザイ   サイ",
+    "kunyomi": "",
+    "meaning": "moneyf"
+  },
+  {
+    "id": 279,
+    "kanji": "遊",
+    "onyomi": "ユ   ユウ",
+    "kunyomi": "あそぶ play",
+    "meaning": "play, travel"
+  },
+  {
+    "id": 280,
+    "kanji": "雑",
+    "onyomi": "ザツ   ゾウ",
+    "kunyomi": "",
+    "meaning": "miscellaneous"
+  },
+  {
+    "id": 281,
+    "kanji": "恐",
+    "onyomi": "キョウ",
+    "kunyomi": "おそれる to fear, be afraid of   おそろしい terrible, dreadful",
+    "meaning": "fear"
+  },
+  {
+    "id": 282,
+    "kanji": "値",
+    "onyomi": "チ",
+    "kunyomi": "ね   あたい price, value",
+    "meaning": "price"
+  },
+  {
+    "id": 283,
+    "kanji": "暗",
+    "onyomi": "アン",
+    "kunyomi": "くらい dark",
+    "meaning": "dark"
+  },
+  {
+    "id": 284,
+    "kanji": "積",
+    "onyomi": "セキ",
+    "kunyomi": "つむ to load, to heap up   つもる to be piled up",
+    "meaning": "load"
+  },
+  {
+    "id": 285,
+    "kanji": "夢",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ dream",
+    "meaning": "dream"
+  },
+  {
+    "id": 286,
+    "kanji": "痛",
+    "onyomi": "ツウ",
+    "kunyomi": "いたい painful   いたむ to hurt, be painful   いためる to hurt, damage",
+    "meaning": "pain"
+  },
+  {
+    "id": 287,
+    "kanji": "富",
+    "onyomi": "フ   フウ",
+    "kunyomi": "とみ wealth   とむ to grow / be wealthy",
+    "meaning": "wealth"
+  },
+  {
+    "id": 288,
+    "kanji": "刻",
+    "onyomi": "コク",
+    "kunyomi": "きざむ to chisel, engrave",
+    "meaning": "chisel, time"
+  },
+  {
+    "id": 289,
+    "kanji": "鳴",
+    "onyomi": "メイ",
+    "kunyomi": "なく to chirp, to twitter   なる to sound, to ring   ならす to make ring",
+    "meaning": "chirp"
+  },
+  {
+    "id": 290,
+    "kanji": "欲",
+    "onyomi": "ヨク",
+    "kunyomi": "ほしい want   ほっする to want",
+    "meaning": "want"
+  },
+  {
+    "id": 291,
+    "kanji": "途",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "meaning": "road"
+  },
+  {
+    "id": 292,
+    "kanji": "曲",
+    "onyomi": "キョク",
+    "kunyomi": "まがる to curve, to bend (intr)   まげる to twist (tr)",
+    "meaning": "bend, music, melody"
+  },
+  {
+    "id": 293,
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ ear",
+    "meaning": "ear"
+  },
+  {
+    "id": 294,
+    "kanji": "完",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "complete"
+  },
+  {
+    "id": 295,
+    "kanji": "願",
+    "onyomi": "ガン",
+    "kunyomi": "ねがう to request, to petition",
+    "meaning": "request"
+  },
+  {
+    "id": 296,
+    "kanji": "罪",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ sin",
+    "meaning": "sin"
+  },
+  {
+    "id": 297,
+    "kanji": "陽",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "sun, positive"
+  },
+  {
+    "id": 298,
+    "kanji": "亡",
+    "onyomi": "ボウ   モウ",
+    "kunyomi": "ない to be deceased, to have ceased to be",
+    "meaning": "dead"
+  },
+  {
+    "id": 299,
+    "kanji": "散",
+    "onyomi": "サン",
+    "kunyomi": "ちらす to scatter, to distribute   ちらかす to scatter around   ちらかる to be in disorder   ちる to fall (leaves etc)",
+    "meaning": "scatter"
+  },
+  {
+    "id": 300,
+    "kanji": "掛",
+    "onyomi": "",
+    "kunyomi": "かかる to be hanging, to cost, to take   かける to hang up, to spend, to multiply   -がかり person in charge",
+    "meaning": "hanging"
+  },
 
   {
     "id": 2,
@@ -2100,13 +2275,6 @@
     "onyomi": "gyou",
     "kunyomi": "waza",
     "meaning": "business, vocation"
-  },
-  {
-    "id": 34,
-    "kanji": "曲",
-    "onyomi": "kyoku",
-    "kunyomi": "ma(garu), ma(geru)",
-    "meaning": "bend, music"
   },
   {
     "id": 36,
@@ -2697,13 +2865,6 @@
     "meaning": "exist, have"
   },
   {
-    "id": 178,
-    "kanji": "遊",
-    "onyomi": "yuu",
-    "kunyomi": "aso(bu)",
-    "meaning": "play, travel"
-  },
-  {
     "id": 180,
     "kanji": "羊",
     "onyomi": "you",
@@ -2716,13 +2877,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "ocean, western"
-  },
-  {
-    "id": 183,
-    "kanji": "陽",
-    "onyomi": "you",
-    "kunyomi": "",
-    "meaning": "sun, positive"
   },
   {
     "id": 187,
@@ -2933,13 +3087,6 @@
     "onyomi": "gyou",
     "kunyomi": "waza",
     "meaning": "business, vocation"
-  },
-  {
-    "id": 228,
-    "kanji": "曲",
-    "onyomi": "kyoku",
-    "kunyomi": "ma(garu), ma(geru)",
-    "meaning": "bend, music"
   },
   {
     "id": 229,
@@ -3537,13 +3684,6 @@
     "meaning": "exist, have"
   },
   {
-    "id": 372,
-    "kanji": "遊",
-    "onyomi": "yuu",
-    "kunyomi": "aso(bu)",
-    "meaning": "play, travel"
-  },
-  {
     "id": 374,
     "kanji": "羊",
     "onyomi": "you",
@@ -3556,13 +3696,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "ocean, western"
-  },
-  {
-    "id": 377,
-    "kanji": "陽",
-    "onyomi": "you",
-    "kunyomi": "",
-    "meaning": "sun, positive"
   },
   {
     "id": 381,
@@ -3773,13 +3906,6 @@
     "onyomi": "gyou",
     "kunyomi": "waza",
     "meaning": "business, vocation"
-  },
-  {
-    "id": 422,
-    "kanji": "曲",
-    "onyomi": "kyoku",
-    "kunyomi": "ma(garu), ma(geru)",
-    "meaning": "bend, music"
   },
   {
     "id": 423,
@@ -4377,13 +4503,6 @@
     "meaning": "exist, have"
   },
   {
-    "id": 566,
-    "kanji": "遊",
-    "onyomi": "yuu",
-    "kunyomi": "aso(bu)",
-    "meaning": "play, travel"
-  },
-  {
     "id": 568,
     "kanji": "羊",
     "onyomi": "you",
@@ -4396,13 +4515,6 @@
     "onyomi": "you",
     "kunyomi": "",
     "meaning": "ocean, western"
-  },
-  {
-    "id": 571,
-    "kanji": "陽",
-    "onyomi": "you",
-    "kunyomi": "",
-    "meaning": "sun, positive"
   },
   {
     "id": 575,
@@ -4614,13 +4726,6 @@
       "onyomi": "gyou",
       "kunyomi": "waza",
       "meaning": "business, vocation"
-    },
-    {
-      "id": 616,
-      "kanji": "曲",
-      "onyomi": "kyoku",
-      "kunyomi": "ma(garu), ma(geru)",
-      "meaning": "bend, music"
     },
     {
       "id": 617,
