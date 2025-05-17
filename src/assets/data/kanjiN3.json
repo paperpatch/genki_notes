@@ -2100,6 +2100,181 @@
     "kunyomi": "かかる to be hanging, to cost, to take   かける to hang up, to spend, to multiply   -がかり person in charge",
     "meaning": "hanging"
   },
+  {
+    "id": 301,
+    "kanji": "昨",
+    "onyomi": "サク",
+    "kunyomi": "",
+    "meaning": "yesterday"
+  },
+  {
+    "id": 302,
+    "kanji": "怒",
+    "onyomi": "ド",
+    "kunyomi": "おこる   いかる to be angry",
+    "meaning": "angry"
+  },
+  {
+    "id": 303,
+    "kanji": "留",
+    "onyomi": "ル   リュウ",
+    "kunyomi": "とめる to detain   とまる to stop",
+    "meaning": "detain"
+  },
+  {
+    "id": 304,
+    "kanji": "礼",
+    "onyomi": "ライ   レイ",
+    "kunyomi": "",
+    "meaning": "thanks, etiquette"
+  },
+  {
+    "id": 305,
+    "kanji": "列",
+    "onyomi": "レツ",
+    "kunyomi": "",
+    "meaning": "row, line"
+  },
+  {
+    "id": 306,
+    "kanji": "雪",
+    "onyomi": "セツ",
+    "kunyomi": "yuki",
+    "meaning": "snow"
+  },
+  {
+    "id": 307,
+    "kanji": "払",
+    "onyomi": "フツ",
+    "kunyomi": "to pay; to dispose of   はらう to pay",
+    "meaning": "pay"
+  },
+  {
+    "id": 308,
+    "kanji": "給",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "supply"
+  },
+  {
+    "id": 309,
+    "kanji": "敗",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶれる to be defeated, frustrated",
+    "meaning": "defeated"
+  },
+  {
+    "id": 310,
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "とる   とらえる   つかまえる to catch, to grasp   とらわれる   つかまる to be caught",
+    "meaning": "catch"
+  },
+  {
+    "id": 311,
+    "kanji": "忘",
+    "onyomi": "ボウ",
+    "kunyomi": "わすれる to forget",
+    "meaning": "forget"
+  },
+  {
+    "id": 312,
+    "kanji": "晴",
+    "onyomi": "セイ",
+    "kunyomi": "はれる to clear up   はらす to dispel, to clear away",
+    "meaning": "clear up"
+  },
+  {
+    "id": 313,
+    "kanji": "因",
+    "onyomi": "イン",
+    "kunyomi": "よる to depend on",
+    "meaning": "cause"
+  },
+  {
+    "id": 314,
+    "kanji": "折",
+    "onyomi": "セツ",
+    "kunyomi": "おる to break, fold   おり opportunity; fold   おれる to break (intr), be folded, yield",
+    "meaning": "break"
+  },
+  {
+    "id": 315,
+    "kanji": "迎",
+    "onyomi": "ゲイ",
+    "kunyomi": "むかえる to meet; go towards",
+    "meaning": "meet"
+  },
+  {
+    "id": 316,
+    "kanji": "悲",
+    "onyomi": "ヒ",
+    "kunyomi": "かなしい sad   かなしむ to be sad",
+    "meaning": "sad"
+  },
+  {
+    "id": 317,
+    "kanji": "港",
+    "onyomi": "コウ",
+    "kunyomi": "みなと harbour, port",
+    "meaning": "harbor"
+  },
+  {
+    "id": 318,
+    "kanji": "責",
+    "onyomi": "セキ",
+    "kunyomi": "せめる to torture; to blame, accuse",
+    "meaning": "torture, blame"
+  },
+  {
+    "id": 319,
+    "kanji": "除",
+    "onyomi": "ジ   ジョ",
+    "kunyomi": "のぞく to exclude; to remove",
+    "meaning": "exclude"
+  },
+  {
+    "id": 320,
+    "kanji": "困",
+    "onyomi": "コン",
+    "kunyomi": "こまる to be distressed, be in a quandary",
+    "meaning": "distressed"
+  },
+  {
+    "id": 321,
+    "kanji": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "しまる to be closed   しめる to close   とじる to close, to finish   とざす to shut, to lock",
+    "meaning": "closed"
+  },
+  {
+    "id": 322,
+    "kanji": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "すう to suck, inhale",
+    "meaning": "suck"
+  },
+  {
+    "id": 323,
+    "kanji": "髪",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ hair (of the head)",
+    "meaning": "hair"
+  },
+  {
+    "id": 324,
+    "kanji": "束",
+    "onyomi": "ソク",
+    "kunyomi": "たば bundle   たばねる to tie in a bundle",
+    "meaning": "bundle"
+  },
+  {
+    "id": 325,
+    "kanji": "眠",
+    "onyomi": "ミン",
+    "kunyomi": "ねむる to sleep   ねむい sleepy",
+    "meaning": "sleep"
+  },
 
   {
     "id": 2,
@@ -2331,13 +2506,6 @@
     "onyomi": "ko",
     "kunyomi": "mizumi",
     "meaning": "lake"
-  },
-  {
-    "id": 51,
-    "kanji": "港",
-    "onyomi": "kou",
-    "kunyomi": "minato",
-    "meaning": "harbor"
   },
   {
     "id": 53,
@@ -2767,13 +2935,6 @@
     "meaning": "skin, leather"
   },
   {
-    "id": 151,
-    "kanji": "悲",
-    "onyomi": "hi",
-    "kunyomi": "kana(shii), kana(shimu)",
-    "meaning": "sad"
-  },
-  {
     "id": 153,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -2891,20 +3052,6 @@
     "onyomi": "ryoku",
     "kunyomi": "midori",
     "meaning": "green"
-  },
-  {
-    "id": 190,
-    "kanji": "礼",
-    "onyomi": "rei",
-    "kunyomi": "",
-    "meaning": "thanks, etiquette"
-  },
-  {
-    "id": 191,
-    "kanji": "列",
-    "onyomi": "retsu",
-    "kunyomi": "",
-    "meaning": "row, line"
   },
   {
     "id": 192,
@@ -3150,13 +3297,6 @@
     "onyomi": "ko",
     "kunyomi": "mizumi",
     "meaning": "lake"
-  },
-  {
-    "id": 245,
-    "kanji": "港",
-    "onyomi": "kou",
-    "kunyomi": "minato",
-    "meaning": "harbor"
   },
   {
     "id": 247,
@@ -3586,13 +3726,6 @@
     "meaning": "skin, leather"
   },
   {
-    "id": 345,
-    "kanji": "悲",
-    "onyomi": "hi",
-    "kunyomi": "kana(shii), kana(shimu)",
-    "meaning": "sad"
-  },
-  {
     "id": 347,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -3710,20 +3843,6 @@
     "onyomi": "ryoku",
     "kunyomi": "midori",
     "meaning": "green"
-  },
-  {
-    "id": 384,
-    "kanji": "礼",
-    "onyomi": "rei",
-    "kunyomi": "",
-    "meaning": "thanks, etiquette"
-  },
-  {
-    "id": 385,
-    "kanji": "列",
-    "onyomi": "retsu",
-    "kunyomi": "",
-    "meaning": "row, line"
   },
   {
     "id": 386,
@@ -3969,13 +4088,6 @@
     "onyomi": "ko",
     "kunyomi": "mizumi",
     "meaning": "lake"
-  },
-  {
-    "id": 439,
-    "kanji": "港",
-    "onyomi": "kou",
-    "kunyomi": "minato",
-    "meaning": "harbor"
   },
   {
     "id": 441,
@@ -4405,13 +4517,6 @@
     "meaning": "skin, leather"
   },
   {
-    "id": 539,
-    "kanji": "悲",
-    "onyomi": "hi",
-    "kunyomi": "kana(shii), kana(shimu)",
-    "meaning": "sad"
-  },
-  {
     "id": 541,
     "kanji": "鼻",
     "onyomi": "bi",
@@ -4529,20 +4634,6 @@
     "onyomi": "ryoku",
     "kunyomi": "midori",
     "meaning": "green"
-  },
-  {
-    "id": 578,
-    "kanji": "礼",
-    "onyomi": "rei",
-    "kunyomi": "",
-    "meaning": "thanks, etiquette"
-  },
-  {
-    "id": 579,
-    "kanji": "列",
-    "onyomi": "retsu",
-    "kunyomi": "",
-    "meaning": "row, line"
   },
   {
     "id": 580,
@@ -4791,13 +4882,6 @@
       "meaning": "lake"
     },
     {
-      "id": 633,
-      "kanji": "港",
-      "onyomi": "kou",
-      "kunyomi": "minato",
-      "meaning": "harbor"
-    },
-    {
       "id": 635,
       "kanji": "根",
       "onyomi": "kon",
@@ -4915,13 +4999,6 @@
       "onyomi": "shin",
       "kunyomi": "mori",
       "meaning": "forest"
-    },
-    {
-      "id": 113,
-      "kanji": "雪",
-      "onyomi": "setsu",
-      "kunyomi": "yuki",
-      "meaning": "snow"
     },
     {
       "id": 114,
