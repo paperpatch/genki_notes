@@ -2275,6 +2275,181 @@
     "kunyomi": "ねむる to sleep   ねむい sleepy",
     "meaning": "sleep"
   },
+  {
+    "id": 326,
+    "kanji": "易",
+    "onyomi": "イ   エキ",
+    "kunyomi": "やさしい easy",
+    "meaning": "easy"
+  },
+  {
+    "id": 327,
+    "kanji": "窓",
+    "onyomi": "ソウ",
+    "kunyomi": "まど window",
+    "meaning": "window"
+  },
+  {
+    "id": 328,
+    "kanji": "祖",
+    "onyomi": "ソ",
+    "kunyomi": "",
+    "meaning": "ancestor"
+  },
+  {
+    "id": 329,
+    "kanji": "勤",
+    "onyomi": "キン   ゴン",
+    "kunyomi": "つとめる to work   つとまる to be fit for",
+    "meaning": "work"
+  },
+  {
+    "id": 330,
+    "kanji": "昔",
+    "onyomi": "セキ   シャク",
+    "kunyomi": "むかし ancient",
+    "meaning": "ancient, old"
+  },
+  {
+    "id": 331,
+    "kanji": "便",
+    "onyomi": "",
+    "kunyomi": "ビン tidings   ベン convenience   たより tidings, news",
+    "meaning": "convenience, tidings"
+  },
+  {
+    "id": 332,
+    "kanji": "適",
+    "onyomi": "テキ",
+    "kunyomi": "",
+    "meaning": "suitable"
+  },
+  {
+    "id": 333,
+    "kanji": "吹",
+    "onyomi": "スイ",
+    "kunyomi": "ふく to blow",
+    "meaning": "blow"
+  },
+  {
+    "id": 334,
+    "kanji": "候",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう to be",
+    "meaning": "climate"
+  },
+  {
+    "id": 335,
+    "kanji": "怖",
+    "onyomi": "フ",
+    "kunyomi": "こわい frightening",
+    "meaning": "frightening"
+  },
+  {
+    "id": 336,
+    "kanji": "辞",
+    "onyomi": "ジ",
+    "kunyomi": "やめる quit",
+    "meaning": "quit"
+  },
+  {
+    "id": 337,
+    "kanji": "否",
+    "onyomi": "ヒ",
+    "kunyomi": "いな no",
+    "meaning": "no"
+  },
+  {
+    "id": 338,
+    "kanji": "遅",
+    "onyomi": "チ",
+    "kunyomi": "おそい late   おくれる to be late   おくらす to make late",
+    "meaning": "late"
+  },
+  {
+    "id": 339,
+    "kanji": "煙",
+    "onyomi": "エン",
+    "kunyomi": "けむり smoke   けむる to smoke (chimney etc.)   けむい smoky",
+    "meaning": "smoke"
+  },
+  {
+    "id": 340,
+    "kanji": "徒",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "meaning": "junior"
+  },
+  {
+    "id": 341,
+    "kanji": "欠",
+    "onyomi": "ケツ",
+    "kunyomi": "かく to lack   かける to be lacking",
+    "meaning": "lack"
+  },
+  {
+    "id": 342,
+    "kanji": "迷",
+    "onyomi": "メイ",
+    "kunyomi": "まよう to be perplexed",
+    "meaning": "perplexed"
+  },
+  {
+    "id": 343,
+    "kanji": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あらう to wash",
+    "meaning": "wash"
+  },
+  {
+    "id": 344,
+    "kanji": "互",
+    "onyomi": "ゴ",
+    "kunyomi": "たがい mutual, reciprocal",
+    "meaning": "mutual"
+  },
+  {
+    "id": 345,
+    "kanji": "才",
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "meaning": "genius"
+  },
+  {
+    "id": 346,
+    "kanji": "更",
+    "onyomi": "コウ",
+    "kunyomi": "さら again   ふける grow late   ふかす stay up late",
+    "meaning": "again"
+  },
+  {
+    "id": 347,
+    "kanji": "歯",
+    "onyomi": "シ",
+    "kunyomi": "は tooth",
+    "meaning": "tooth"
+  },
+  {
+    "id": 348,
+    "kanji": "盗",
+    "onyomi": "トウ",
+    "kunyomi": "ぬすむ to steal",
+    "meaning": "steal"
+  },
+  {
+    "id": 349,
+    "kanji": "慣",
+    "onyomi": "カン",
+    "kunyomi": "なれる to get used to   ならす to tame",
+    "meaning": "get used to"
+  },
+  {
+    "id": 350,
+    "kanji": "晩",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "meaning": "nightfall"
+  },
 
   {
     "id": 2,
@@ -2506,13 +2681,6 @@
     "onyomi": "sei",
     "kunyomi": "totono(eru), totono(u)",
     "meaning": "arrange, adjust"
-  },
-  {
-    "id": 103,
-    "kanji": "昔",
-    "onyomi": "seki",
-    "kunyomi": "mukashi",
-    "meaning": "long ago"
   },
   {
     "id": 116,
@@ -2788,13 +2956,6 @@
     "meaning": "arrange, adjust"
   },
   {
-    "id": 297,
-    "kanji": "昔",
-    "onyomi": "seki",
-    "kunyomi": "mukashi",
-    "meaning": "long ago"
-  },
-  {
     "id": 338,
     "kanji": "箱",
     "onyomi": "hako",
@@ -2975,13 +3136,6 @@
     "onyomi": "sei",
     "kunyomi": "totono(eru), totono(u)",
     "meaning": "arrange, adjust"
-  },
-  {
-    "id": 491,
-    "kanji": "昔",
-    "onyomi": "seki",
-    "kunyomi": "mukashi",
-    "meaning": "long ago"
   },
   {
     "id": 532,
