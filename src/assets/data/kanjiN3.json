@@ -2450,455 +2450,144 @@
     "kunyomi": "",
     "meaning": "nightfall"
   },
-
   {
-    "id": 2,
-    "kanji": "案",
-    "onyomi": "an",
-    "kunyomi": "",
-    "meaning": "plan, proposal"
-  },
-  {
-    "id": 4,
-    "kanji": "衣",
-    "onyomi": "i",
-    "kunyomi": "koromo",
-    "meaning": "clothing"
-  },
-  {
-    "id": 6,
-    "kanji": "囲",
-    "onyomi": "i",
-    "kunyomi": "kako(mu)",
-    "meaning": "surround"
-  },
-  {
-    "id": 8,
-    "kanji": "印",
-    "onyomi": "in",
-    "kunyomi": "shirushi",
-    "meaning": "mark, seal"
-  },
-  {
-    "id": 10,
-    "kanji": "栄",
-    "onyomi": "ei",
-    "kunyomi": "saka(eru), ha(e)",
-    "meaning": "flourish, prosperity"
-  },
-  {
-    "id": 12,
-    "kanji": "温",
-    "onyomi": "on",
-    "kunyomi": "atata(kai)",
-    "meaning": "warm"
-  },
-  {
-    "id": 14,
-    "kanji": "荷",
-    "onyomi": "ka",
-    "kunyomi": "ni",
-    "meaning": "baggage, load"
-  },
-  {
-    "id": 17,
-    "kanji": "階",
-    "onyomi": "kai",
-    "kunyomi": "",
-    "meaning": "floor, rank"
-  },
-  {
-    "id": 18,
-    "kanji": "寒",
-    "onyomi": "kan",
-    "kunyomi": "samu(i)",
-    "meaning": "cold"
-  },
-  {
-    "id": 22,
-    "kanji": "岸",
-    "onyomi": "gan",
-    "kunyomi": "kishi",
-    "meaning": "shore"
-  },
-  {
-    "id": 28,
-    "kanji": "級",
-    "onyomi": "kyuu",
-    "kunyomi": "",
-    "meaning": "class, rank"
-  },
-  {
-    "id": 29,
-    "kanji": "宮",
-    "onyomi": "kyuu, guu",
-    "kunyomi": "miya",
-    "meaning": "shrine, palace"
-  },
-  {
-    "id": 32,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 37,
-    "kanji": "区",
-    "onyomi": "ku",
-    "kunyomi": "",
-    "meaning": "ward, district"
-  },
-  {
-    "id": 42,
-    "kanji": "軽",
-    "onyomi": "kei",
-    "kunyomi": "karu(i)",
-    "meaning": "light (weight)"
-  },
-  {
-    "id": 43,
-    "kanji": "血",
-    "onyomi": "ketsu",
-    "kunyomi": "chi",
-    "meaning": "blood"
-  },
-  {
-    "id": 46,
-    "kanji": "県",
-    "onyomi": "ken",
-    "kunyomi": "",
-    "meaning": "prefecture"
-  },
-  {
-    "id": 47,
-    "kanji": "庫",
-    "onyomi": "ko",
-    "kunyomi": "",
-    "meaning": "warehouse"
-  },
-  {
-    "id": 48,
-    "kanji": "湖",
-    "onyomi": "ko",
-    "kunyomi": "mizumi",
-    "meaning": "lake"
-  },
-  {
-    "id": 53,
-    "kanji": "根",
-    "onyomi": "kon",
-    "kunyomi": "ne",
-    "meaning": "root"
-  },
-  {
-    "id": 54,
-    "kanji": "祭",
-    "onyomi": "sai",
-    "kunyomi": "matsu(ru)",
-    "meaning": "festival"
-  },
-  {
-    "id": 55,
-    "kanji": "坂",
-    "onyomi": "han",
-    "kunyomi": "saka",
-    "meaning": "slope, hill"
-  },
-  {
-    "id": 56,
-    "kanji": "皿",
-    "onyomi": "bei",
-    "kunyomi": "sara",
-    "meaning": "plate, dish"
-  },
-  {
-    "id": 65,
-    "kanji": "寺",
-    "onyomi": "ji",
-    "kunyomi": "tera",
-    "meaning": "temple"
-  },
-  {
-    "id": 77,
-    "kanji": "州",
-    "onyomi": "shuu",
-    "kunyomi": "su",
-    "meaning": "state, province"
-  },
-  {
-    "id": 78,
-    "kanji": "拾",
-    "onyomi": "shuu",
-    "kunyomi": "hiro(u)",
-    "meaning": "pick up"
-  },
-  {
-    "id": 86,
-    "kanji": "暑",
-    "onyomi": "sho",
-    "kunyomi": "atsu(i)",
-    "meaning": "hot (weather)"
-  },
-  {
-    "id": 88,
-    "kanji": "昭",
-    "onyomi": "shou",
-    "kunyomi": "",
-    "meaning": "shining, bright"
-  },
-  {
-    "id": 91,
-    "kanji": "章",
-    "onyomi": "shou",
-    "kunyomi": "",
-    "meaning": "chapter, badge"
-  },
-  {
-    "id": 94,
-    "kanji": "植",
-    "onyomi": "shoku",
-    "kunyomi": "u(eru), u(waru)",
-    "meaning": "plant"
-  },
-  {
-    "id": 102,
-    "kanji": "整",
-    "onyomi": "sei",
-    "kunyomi": "totono(eru), totono(u)",
-    "meaning": "arrange, adjust"
-  },
-  {
-    "id": 116,
-    "kanji": "短",
-    "onyomi": "tan",
-    "kunyomi": "mijika(i)",
-    "meaning": "short"
-  },
-  {
-    "id": 120,
-    "kanji": "柱",
-    "onyomi": "chuu",
-    "kunyomi": "hashira",
-    "meaning": "pillar"
-  },
-  {
-    "id": 121,
-    "kanji": "丁",
-    "onyomi": "chou, tei",
-    "kunyomi": "",
-    "meaning": "street, ward"
-  },
-  {
-    "id": 122,
-    "kanji": "帳",
-    "onyomi": "chou",
-    "kunyomi": "",
-    "meaning": "notebook, account book"
-  },
-  {
-    "id": 127,
-    "kanji": "笛",
-    "onyomi": "teki",
-    "kunyomi": "fue",
-    "meaning": "flute"
-  },
-  {
-    "id": 128,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
-  },
-  {
-    "id": 133,
-    "kanji": "豆",
-    "onyomi": "tou",
-    "kunyomi": "mame",
-    "meaning": "bean"
-  },
-  {
-    "id": 134,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
-  },
-  {
-    "id": 135,
-    "kanji": "湯",
-    "onyomi": "tou",
-    "kunyomi": "yu",
-    "meaning": "hot water"
-  },
-  {
-    "id": 139,
-    "kanji": "童",
-    "onyomi": "dou",
-    "kunyomi": "warabe",
-    "meaning": "child"
-  },
-  {
-    "id": 140,
-    "kanji": "農",
-    "onyomi": "nou",
-    "kunyomi": "",
-    "meaning": "farming, agriculture"
-  },
-  {
-    "id": 141,
-    "kanji": "波",
-    "onyomi": "ha",
-    "kunyomi": "nami",
-    "meaning": "wave"
-  },
-  {
-    "id": 143,
-    "kanji": "倍",
-    "onyomi": "bai",
-    "kunyomi": "",
-    "meaning": "double, times"
-  },
-  {
-    "id": 144,
+    "id": 351,
     "kanji": "箱",
-    "onyomi": "hako",
+    "onyomi": "はこ box",
     "kunyomi": "",
     "meaning": "box"
   },
   {
-    "id": 145,
-    "kanji": "畑",
-    "onyomi": "",
-    "kunyomi": "hatake",
-    "meaning": "field"
-  },
-  {
-    "id": 149,
-    "kanji": "板",
-    "onyomi": "han, ban",
-    "kunyomi": "ita",
-    "meaning": "board, plank"
-  },
-  {
-    "id": 150,
-    "kanji": "皮",
-    "onyomi": "hi",
-    "kunyomi": "kawa",
-    "meaning": "skin, leather"
-  },
-  {
-    "id": 153,
-    "kanji": "鼻",
-    "onyomi": "bi",
-    "kunyomi": "hana",
-    "meaning": "nose"
-  },
-  {
-    "id": 154,
-    "kanji": "筆",
-    "onyomi": "hitsu",
-    "kunyomi": "fude",
-    "meaning": "brush"
-  },
-  {
-    "id": 155,
-    "kanji": "氷",
-    "onyomi": "hyou",
-    "kunyomi": "koori",
-    "meaning": "ice"
-  },
-  {
-    "id": 158,
-    "kanji": "秒",
-    "onyomi": "byou",
+    "id": 352,
+    "kanji": "到",
+    "onyomi": "トウ",
     "kunyomi": "",
-    "meaning": "second (time)"
+    "meaning": "arrive"
   },
   {
-    "id": 176,
-    "kanji": "油",
-    "onyomi": "yu",
-    "kunyomi": "abura",
-    "meaning": "oil"
+    "id": 353,
+    "kanji": "頂",
+    "onyomi": "チョウ",
+    "kunyomi": "いただく to be presented with, crowned   いただき summit, top",
+    "meaning": "presented"
   },
   {
-    "id": 180,
-    "kanji": "羊",
-    "onyomi": "you",
-    "kunyomi": "hitsuji",
-    "meaning": "sheep"
+    "id": 354,
+    "kanji": "杯",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき cup, goblet",
+    "meaning": "cup"
   },
   {
-    "id": 189,
-    "kanji": "緑",
-    "onyomi": "ryoku",
-    "kunyomi": "midori",
-    "meaning": "green"
+    "id": 355,
+    "kanji": "皆",
+    "onyomi": "カイ",
+    "kunyomi": "みな everyone",
+    "meaning": "everyone"
   },
   {
-    "id": 192,
-    "kanji": "練",
-    "onyomi": "ren",
-    "kunyomi": "ne(ru)",
-    "meaning": "practice, train"
+    "id": 356,
+    "kanji": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まねく to beckon, invite",
+    "meaning": "beckon"
   },
-  [
-    {
-      "id": 79,
-      "kanji": "黄",
-      "onyomi": "ou",
-      "kunyomi": "ki",
-      "meaning": "yellow"
-    },
-    {
-      "id": 89,
-      "kanji": "門",
-      "onyomi": "mon",
-      "kunyomi": "kado",
-      "meaning": "gate"
-    },
-    {
-      "id": 102,
-      "kanji": "猫",
-      "onyomi": "byou",
-      "kunyomi": "neko",
-      "meaning": "cat"
-    },
-    {
-      "id": 106,
-      "kanji": "森",
-      "onyomi": "shin",
-      "kunyomi": "mori",
-      "meaning": "forest"
-    },
-    {
-      "id": 114,
-      "kanji": "雲",
-      "onyomi": "un",
-      "kunyomi": "kumo",
-      "meaning": "cloud"
-    },
-    {
-      "id": 115,
-      "kanji": "池",
-      "onyomi": "chi",
-      "kunyomi": "ike",
-      "meaning": "pond"
-    },
-    {
-      "id": 118,
-      "kanji": "岩",
-      "onyomi": "gan",
-      "kunyomi": "iwa",
-      "meaning": "rock"
-    },
-    {
-      "id": 119,
-      "kanji": "星",
-      "onyomi": "sei",
-      "kunyomi": "hoshi",
-      "meaning": "star"
-    }
-  ]
+  {
+    "id": 357,
+    "kanji": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむい cold",
+    "meaning": "cold"
+  },
+  {
+    "id": 358,
+    "kanji": "恥",
+    "onyomi": "チ",
+    "kunyomi": "はじ shame   はじる to feel ashamed   はじらう to be shy   はずかしい ashamed",
+    "meaning": "shame"
+  },
+  {
+    "id": 359,
+    "kanji": "疲",
+    "onyomi": "ヒ",
+    "kunyomi": "つかれる to be tired",
+    "meaning": "fatigue"
+  },
+  {
+    "id": 360,
+    "kanji": "貧",
+    "onyomi": "ヒン   ビン",
+    "kunyomi": "まずしい poor",
+    "meaning": "poor"
+  },
+  {
+    "id": 361,
+    "kanji": "猫",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ cat",
+    "meaning": "cat"
+  },
+  {
+    "id": 362,
+    "kanji": "誤",
+    "onyomi": "ゴ",
+    "kunyomi": "あやまる to err, to make a mistake",
+    "meaning": "error"
+  },
+  {
+    "id": 363,
+    "kanji": "努",
+    "onyomi": "ド",
+    "kunyomi": "つとめる to work, to toil",
+    "meaning": "work"
+  },
+  {
+    "id": 364,
+    "kanji": "幾",
+    "onyomi": "キ",
+    "kunyomi": "いく- how many, how much",
+    "meaning": "how many"
+  },
+  {
+    "id": 365,
+    "kanji": "賛",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "meaning": "agreement"
+  },
+  {
+    "id": 366,
+    "kanji": "偶",
+    "onyomi": "グウ",
+    "kunyomi": "",
+    "meaning": "accidentally"
+  },
+  {
+    "id": 367,
+    "kanji": "忙",
+    "onyomi": "ボウ",
+    "kunyomi": "いそがしい busy",
+    "meaning": "busy"
+  },
+  {
+    "id": 368,
+    "kanji": "泳",
+    "onyomi": "エイ",
+    "kunyomi": "およぐ swim",
+    "meaning": "swim"
+  },
+  {
+    "id": 369,
+    "kanji": "靴",
+    "onyomi": "カ",
+    "kunyomi": "くつ shoes",
+    "meaning": "shoes"
+  },
+  {
+    "id": 370,
+    "kanji": "偉",
+    "onyomi": "イ",
+    "kunyomi": "えらい illustrious, famous",
+    "meaning": "illustrious"
+  }
 ]
