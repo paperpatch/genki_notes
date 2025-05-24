@@ -1,6 +1,181 @@
 [
   {
     "id": 1,
+    "kanji": "軍",
+    "onyomi": "グン",
+    "kunyomi": "",
+    "meaning": "army"
+  },
+  {
+    "id": 2,
+    "kanji": "兵",
+    "onyomi": "ヘイ   ヒョウ",
+    "kunyomi": "",
+    "meaning": "soldier"
+  },
+  {
+    "id": 3,
+    "kanji": "島",
+    "onyomi": "トウ",
+    "kunyomi": "しま island",
+    "meaning": "island"
+  },
+  {
+    "id": 4,
+    "kanji": "村",
+    "onyomi": "ソン",
+    "kunyomi": "むら village",
+    "meaning": "village"
+  },
+  {
+    "id": 5,
+    "kanji": "門",
+    "onyomi": "モン",
+    "kunyomi": "かど gate",
+    "meaning": "gate"
+  },
+  {
+    "id": 6,
+    "kanji": "戸",
+    "onyomi": "コ",
+    "kunyomi": "と door",
+    "meaning": "door"
+  },
+  {
+    "id": 7,
+    "kanji": "武",
+    "onyomi": "ブ   ム",
+    "kunyomi": "",
+    "meaning": "military"
+  },
+  {
+    "id": 8,
+    "kanji": "城",
+    "onyomi": "ジョウ",
+    "kunyomi": "しろ castle",
+    "meaning": "castle"
+  },
+  {
+    "id": 9,
+    "kanji": "総",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "general"
+  },
+  {
+    "id": 10,
+    "kanji": "団",
+    "onyomi": "ダン   トン",
+    "kunyomi": "",
+    "meaning": "group"
+  },
+  {
+    "id": 11,
+    "kanji": "線",
+    "onyomi": "セン",
+    "kunyomi": "",
+    "meaning": "line"
+  },
+  {
+    "id": 12,
+    "kanji": "設",
+    "onyomi": "セツ",
+    "kunyomi": "もうける to prepare (for), provide",
+    "meaning": "prepare"
+  },
+  {
+    "id": 13,
+    "kanji": "勢",
+    "onyomi": "セイ",
+    "kunyomi": "いきおい vigour, energy",
+    "meaning": "vigorous"
+  },
+  {
+    "id": 14,
+    "kanji": "党",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "meaning": "party"
+  },
+  {
+    "id": 15,
+    "kanji": "史",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "history"
+  },
+  {
+    "id": 16,
+    "kanji": "営",
+    "onyomi": "エイ",
+    "kunyomi": "いとなむ to be occupied with, to carry on (a business)",
+    "meaning": "occupied"
+  },
+  {
+    "id": 17,
+    "kanji": "府",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "borough"
+  },
+  {
+    "id": 18,
+    "kanji": "巻",
+    "onyomi": "カン",
+    "kunyomi": "まく to roll (up)   まき roll, reel, volume",
+    "meaning": "roll up"
+  },
+  {
+    "id": 19,
+    "kanji": "介",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "mediate"
+  },
+  {
+    "id": 20,
+    "kanji": "蔵",
+    "onyomi": "ゾウ",
+    "kunyomi": "くら storehouse",
+    "meaning": "storehouse"
+  },
+  {
+    "id": 21,
+    "kanji": "造",
+    "onyomi": "ゾウ",
+    "kunyomi": "つくる to build, to produce",
+    "meaning": "build"
+  },
+  {
+    "id": 22,
+    "kanji": "根",
+    "onyomi": "コン",
+    "kunyomi": "ね root",
+    "meaning": "root"
+  },
+  {
+    "id": 23,
+    "kanji": "寺",
+    "onyomi": "ジ",
+    "kunyomi": "てら Buddhist temple",
+    "meaning": "temple"
+  },
+  {
+    "id": 24,
+    "kanji": "査",
+    "onyomi": "サ",
+    "kunyomi": "",
+    "meaning": "investigate"
+  },
+  {
+    "id": 25,
+    "kanji": "将",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "commander"
+  },
+  {
+    "id": 1,
     "kanji": "愛",
     "onyomi": "ai",
     "kunyomi": "",
@@ -134,13 +309,6 @@
     "meaning": "lake"
   },
   {
-    "id": 53,
-    "kanji": "根",
-    "onyomi": "kon",
-    "kunyomi": "ne",
-    "meaning": "root"
-  },
-  {
     "id": 54,
     "kanji": "祭",
     "onyomi": "sai",
@@ -160,13 +328,6 @@
     "onyomi": "bei",
     "kunyomi": "sara",
     "meaning": "plate, dish"
-  },
-  {
-    "id": 65,
-    "kanji": "寺",
-    "onyomi": "ji",
-    "kunyomi": "tera",
-    "meaning": "temple"
   },
   {
     "id": 77,
@@ -265,13 +426,6 @@
     "onyomi": "tou",
     "kunyomi": "mame",
     "meaning": "bean"
-  },
-  {
-    "id": 134,
-    "kanji": "島",
-    "onyomi": "tou",
-    "kunyomi": "shima",
-    "meaning": "island"
   },
   {
     "id": 135,
@@ -392,13 +546,6 @@
       "onyomi": "ou",
       "kunyomi": "ki",
       "meaning": "yellow"
-    },
-    {
-      "id": 89,
-      "kanji": "門",
-      "onyomi": "mon",
-      "kunyomi": "kado",
-      "meaning": "gate"
     },
     {
       "id": 106,
