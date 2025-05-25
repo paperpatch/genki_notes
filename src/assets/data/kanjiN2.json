@@ -175,6 +175,182 @@
     "meaning": "commander"
   },
   {
+    "id": 26,
+    "kanji": "改",
+    "onyomi": "カイ",
+    "kunyomi": "あらためる to reform   あらたまる to be renewed; to be formal",
+    "meaning": "reform"
+  },
+  {
+    "id": 27,
+    "kanji": "県",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "prefecture"
+  },
+  {
+    "id": 28,
+    "kanji": "泉",
+    "onyomi": "セン",
+    "kunyomi": "いずみ spring",
+    "meaning": "spring"
+  },
+  {
+    "id": 29,
+    "kanji": "像",
+    "onyomi": "ゾウ",
+    "kunyomi": "",
+    "meaning": "statue"
+  },
+  {
+    "id": 30,
+    "kanji": "細",
+    "onyomi": "サイ",
+    "kunyomi": "ほそい thin   ほそる to get thin, taper off   こまか   こまかい detailed, fine",
+    "meaning": "thin"
+  },
+  {
+    "id": 31,
+    "kanji": "谷",
+    "onyomi": "コク",
+    "kunyomi": "たに valley",
+    "meaning": "valley"
+  },
+  {
+    "id": 32,
+    "kanji": "奥",
+    "onyomi": "オウ",
+    "kunyomi": "おく core, inner recess",
+    "meaning": "core"
+  },
+  {
+    "id": 33,
+    "kanji": "再",
+    "onyomi": "サイ   サ",
+    "kunyomi": "ふたたび again",
+    "meaning": "again"
+  },
+  {
+    "id": 34,
+    "kanji": "血",
+    "onyomi": "ケツ",
+    "kunyomi": "ち blood",
+    "meaning": "blood"
+  },
+  {
+    "id": 35,
+    "kanji": "算",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "meaning": "calculate"
+  },
+  {
+    "id": 36,
+    "kanji": "象",
+    "onyomi": "ショウ   ゾウ",
+    "kunyomi": "",
+    "meaning": "image, elephant"
+  },
+  {
+    "id": 37,
+    "kanji": "清",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "きよい clean, clear   きよめる purify   きよまる be purified",
+    "meaning": "clean"
+  },
+  {
+    "id": 38,
+    "kanji": "技",
+    "onyomi": "ギ",
+    "kunyomi": "わざ technique",
+    "meaning": "technique"
+  },
+  {
+    "id": 39,
+    "kanji": "州",
+    "onyomi": "シュウ",
+    "kunyomi": "state, province, county   す sandbank",
+    "meaning": "state, province"
+  },
+  {
+    "id": 40,
+    "kanji": "領",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "jurisdiction"
+  },
+  {
+    "id": 41,
+    "kanji": "橋",
+    "onyomi": "キョウ",
+    "kunyomi": "はし a bridge",
+    "meaning": "bridge"
+  },
+  {
+    "id": 42,
+    "kanji": "芸",
+    "onyomi": "ゲイ",
+    "kunyomi": "",
+    "meaning": "technique"
+  },
+  {
+    "id": 43,
+    "kanji": "型",
+    "onyomi": "ケイ",
+    "kunyomi": "かた model; shape",
+    "meaning": "model"
+  },
+  {
+    "id": 44,
+    "kanji": "香",
+    "onyomi": "コウ   キョウ",
+    "kunyomi": "かおり fragrance   かおる to be fragrant   か scent, odour",
+    "meaning": "fragrance"
+  },
+  {
+    "id": 45,
+    "kanji": "量",
+    "onyomi": "リョウ",
+    "kunyomi": "はかる to measure",
+    "meaning": "measure"
+  },
+  {
+    "id": 46,
+    "kanji": "久",
+    "onyomi": "ク   キュウ",
+    "kunyomi": "ひさしい a long time",
+    "meaning": "long time"
+  },
+  {
+    "id": 47,
+    "kanji": "境",
+    "onyomi": "キョウ   ケイ",
+    "kunyomi": "さかい boundary",
+    "meaning": "boundary"
+  },
+  {
+    "id": 48,
+    "kanji": "階",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "floor, rank"
+  },
+  {
+    "id": 49,
+    "kanji": "区",
+    "onyomi": "ク",
+    "kunyomi": "",
+    "meaning": "ward, district"
+  },
+  {
+    "id": 50,
+    "kanji": "波",
+    "onyomi": "ハ",
+    "kunyomi": "なみ wave",
+    "meaning": "wave"
+  },
+
+  {
     "id": 1,
     "kanji": "愛",
     "onyomi": "ai",
@@ -232,13 +408,6 @@
     "meaning": "baggage, load"
   },
   {
-    "id": 17,
-    "kanji": "階",
-    "onyomi": "kai",
-    "kunyomi": "",
-    "meaning": "floor, rank"
-  },
-  {
     "id": 22,
     "kanji": "岸",
     "onyomi": "gan",
@@ -260,39 +429,11 @@
     "meaning": "shrine, palace"
   },
   {
-    "id": 32,
-    "kanji": "橋",
-    "onyomi": "kyou",
-    "kunyomi": "hashi",
-    "meaning": "bridge"
-  },
-  {
-    "id": 37,
-    "kanji": "区",
-    "onyomi": "ku",
-    "kunyomi": "",
-    "meaning": "ward, district"
-  },
-  {
     "id": 42,
     "kanji": "軽",
     "onyomi": "kei",
     "kunyomi": "karu(i)",
     "meaning": "light (weight)"
-  },
-  {
-    "id": 43,
-    "kanji": "血",
-    "onyomi": "ketsu",
-    "kunyomi": "chi",
-    "meaning": "blood"
-  },
-  {
-    "id": 46,
-    "kanji": "県",
-    "onyomi": "ken",
-    "kunyomi": "",
-    "meaning": "prefecture"
   },
   {
     "id": 47,
@@ -328,13 +469,6 @@
     "onyomi": "bei",
     "kunyomi": "sara",
     "meaning": "plate, dish"
-  },
-  {
-    "id": 77,
-    "kanji": "州",
-    "onyomi": "shuu",
-    "kunyomi": "su",
-    "meaning": "state, province"
   },
   {
     "id": 78,
@@ -447,13 +581,6 @@
     "onyomi": "nou",
     "kunyomi": "",
     "meaning": "farming, agriculture"
-  },
-  {
-    "id": 141,
-    "kanji": "波",
-    "onyomi": "ha",
-    "kunyomi": "nami",
-    "meaning": "wave"
   },
   {
     "id": 143,
