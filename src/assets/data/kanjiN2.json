@@ -349,6 +349,181 @@
     "kunyomi": "なみ wave",
     "meaning": "wave"
   },
+  {
+    "id": 51,
+    "kanji": "移",
+    "onyomi": "イ",
+    "kunyomi": "うつる    to shift, to move   うつす to move",
+    "meaning": "shift"
+  },
+  {
+    "id": 52,
+    "kanji": "域",
+    "onyomi": "イキ",
+    "kunyomi": "",
+    "meaning": "region"
+  },
+  {
+    "id": 53,
+    "kanji": "周",
+    "onyomi": "シュウ",
+    "kunyomi": "まわり circumference",
+    "meaning": "circumference"
+  },
+  {
+    "id": 54,
+    "kanji": "接",
+    "onyomi": "セツ",
+    "kunyomi": "つぐ to join, contact, touch",
+    "meaning": "join"
+  },
+  {
+    "id": 55,
+    "kanji": "鉄",
+    "onyomi": "テツ",
+    "kunyomi": "",
+    "meaning": "iron"
+  },
+  {
+    "id": 56,
+    "kanji": "頃",
+    "onyomi": "",
+    "kunyomi": "ころ time",
+    "meaning": "time"
+  },
+  {
+    "id": 57,
+    "kanji": "材",
+    "onyomi": "ザイ",
+    "kunyomi": "",
+    "meaning": "lumber"
+  },
+  {
+    "id": 58,
+    "kanji": "個",
+    "onyomi": "コ",
+    "kunyomi": "",
+    "meaning": "individual"
+  },
+  {
+    "id": 59,
+    "kanji": "協",
+    "onyomi": "キョウ",
+    "kunyomi": "",
+    "meaning": "cooperation"
+  },
+  {
+    "id": 60,
+    "kanji": "各",
+    "onyomi": "カク",
+    "kunyomi": "おのおの each",
+    "meaning": "each, every"
+  },
+  {
+    "id": 61,
+    "kanji": "帯",
+    "onyomi": "タイ",
+    "kunyomi": "おび sash   おびる to wear, to carry",
+    "meaning": "belt"
+  },
+  {
+    "id": 62,
+    "kanji": "歴",
+    "onyomi": "レキ",
+    "kunyomi": "",
+    "meaning": "passing of time"
+  },
+  {
+    "id": 63,
+    "kanji": "編",
+    "onyomi": "ヘン",
+    "kunyomi": "あむ to knit, compile, edit",
+    "meaning": "knit"
+  },
+  {
+    "id": 64,
+    "kanji": "裏",
+    "onyomi": "リ",
+    "kunyomi": "うら the back side",
+    "meaning": "back side"
+  },
+  {
+    "id": 65,
+    "kanji": "比",
+    "onyomi": "ヒ",
+    "kunyomi": "くらべる to compare",
+    "meaning": "compare"
+  },
+  {
+    "id": 66,
+    "kanji": "坂",
+    "onyomi": "ハン",
+    "kunyomi": "さか slope",
+    "meaning": "slope, hill"
+  },
+  {
+    "id": 67,
+    "kanji": "装",
+    "onyomi": "ソウ   ショウ",
+    "kunyomi": "よそおう to wear; to pretend",
+    "meaning": "wear"
+  },
+  {
+    "id": 68,
+    "kanji": "省",
+    "onyomi": "ショウ   セイ",
+    "kunyomi": "かえりみる to reflect   はぶく to omit, leave out",
+    "meaning": "reflect"
+  },
+  {
+    "id": 69,
+    "kanji": "税",
+    "onyomi": "ゼイ",
+    "kunyomi": "",
+    "meaning": "tax"
+  },
+  {
+    "id": 70,
+    "kanji": "競",
+    "onyomi": "キョウ   ケイ",
+    "kunyomi": "きそう   せる to compete",
+    "meaning": "compete"
+  },
+  {
+    "id": 71,
+    "kanji": "囲",
+    "onyomi": "イ",
+    "kunyomi": "かこむ   かこう to surround, to enclose",
+    "meaning": "surround"
+  },
+  {
+    "id": 72,
+    "kanji": "辺",
+    "onyomi": "ヘン",
+    "kunyomi": "あたり   -べ surroundings, environs",
+    "meaning": "surroundings"
+  },
+  {
+    "id": 73,
+    "kanji": "河",
+    "onyomi": "カ",
+    "kunyomi": "かわ river",
+    "meaning": "river"
+  },
+  {
+    "id": 74,
+    "kanji": "極",
+    "onyomi": "キョク   ゴク",
+    "kunyomi": "extreme, end, pole   きわめる to carry to its end   きわまる to reach an extreme   きわまり extremity",
+    "meaning": "extreme"
+  },
+  {
+    "id": 75,
+    "kanji": "防",
+    "onyomi": "ボウ",
+    "kunyomi": "ふせぐ to protect, to defend (against)",
+    "meaning": "protect"
+  },
 
   {
     "id": 1,
@@ -371,13 +546,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 6,
-    "kanji": "囲",
-    "onyomi": "i",
-    "kunyomi": "kako(mu)",
-    "meaning": "surround"
   },
   {
     "id": 8,
@@ -455,13 +623,6 @@
     "onyomi": "sai",
     "kunyomi": "matsu(ru)",
     "meaning": "festival"
-  },
-  {
-    "id": 55,
-    "kanji": "坂",
-    "onyomi": "han",
-    "kunyomi": "saka",
-    "meaning": "slope, hill"
   },
   {
     "id": 56,
@@ -546,13 +707,6 @@
     "onyomi": "teki",
     "kunyomi": "fue",
     "meaning": "flute"
-  },
-  {
-    "id": 128,
-    "kanji": "鉄",
-    "onyomi": "tetsu",
-    "kunyomi": "",
-    "meaning": "iron"
   },
   {
     "id": 133,
