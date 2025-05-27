@@ -524,22 +524,182 @@
     "kunyomi": "ふせぐ to protect, to defend (against)",
     "meaning": "protect"
   },
-
   {
-    "id": 1,
-    "kanji": "愛",
-    "onyomi": "ai",
+    "id": 76,
+    "kanji": "低",
+    "onyomi": "テイ",
+    "kunyomi": "ひくい low   ひくめる to lower   ひくまる to be lowered",
+    "meaning": "low"
+  },
+  {
+    "id": 77,
+    "kanji": "林",
+    "onyomi": "リン",
+    "kunyomi": "はやし wood",
+    "meaning": "wood, trees"
+  },
+  {
+    "id": 78,
+    "kanji": "導",
+    "onyomi": "ドウ",
+    "kunyomi": "みちびく to be guided",
+    "meaning": "guide"
+  },
+  {
+    "id": 79,
+    "kanji": "森",
+    "onyomi": "シン",
+    "kunyomi": "もり forest",
+    "meaning": "forest"
+  },
+  {
+    "id": 80,
+    "kanji": "丸",
+    "onyomi": "ガン",
+    "kunyomi": "まるい round, circular",
+    "meaning": "round, circle"
+  },
+  {
+    "id": 81,
+    "kanji": "胸",
+    "onyomi": "キョウ",
+    "kunyomi": "むね   むな- chest",
+    "meaning": "chest"
+  },
+  {
+    "id": 82,
+    "kanji": "陸",
+    "onyomi": "リク",
     "kunyomi": "",
-    "meaning": "love"
+    "meaning": "land"
+  },
+  {
+    "id": 83,
+    "kanji": "療",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "cure"
+  },
+  {
+    "id": 84,
+    "kanji": "諸",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "various"
+  },
+  {
+    "id": 85,
+    "kanji": "管",
+    "onyomi": "カン",
+    "kunyomi": "くだ pipe, tube",
+    "meaning": "pipe"
+  },
+  {
+    "id": 86,
+    "kanji": "仲",
+    "onyomi": "チュウ",
+    "kunyomi": "なか friend; go-between",
+    "meaning": "friend"
+  },
+  {
+    "id": 87,
+    "kanji": "革",
+    "onyomi": "カク",
+    "kunyomi": "かわ leather",
+    "meaning": "leather"
+  },
+  {
+    "id": 88,
+    "kanji": "担",
+    "onyomi": "タン",
+    "kunyomi": "かつぐ to carry on the shoulder   になう to carry, bear",
+    "meaning": "carry"
+  },
+  {
+    "id": 89,
+    "kanji": "効",
+    "onyomi": "コウ",
+    "kunyomi": "きく to be effective",
+    "meaning": "effective"
+  },
+  {
+    "id": 90,
+    "kanji": "賞",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "prize"
+  },
+  {
+    "id": 91,
+    "kanji": "星",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "ほし star",
+    "meaning": "star"
+  },
+  {
+    "id": 92,
+    "kanji": "復",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "return"
+  },
+  {
+    "id": 93,
+    "kanji": "片",
+    "onyomi": "ヘン",
+    "kunyomi": "かた- one of two",
+    "meaning": "right side"
+  },
+  {
+    "id": 94,
+    "kanji": "並",
+    "onyomi": "ヘイ",
+    "kunyomi": "ならぶ to be lined up, to queue   ならべる to line up   なみ ordinary; the level of   ならびに as well as",
+    "meaning": "lined up"
+  },
+  {
+    "id": 95,
+    "kanji": "底",
+    "onyomi": "テイ",
+    "kunyomi": "そこ bottom",
+    "meaning": "bottom"
+  },
+  {
+    "id": 96,
+    "kanji": "温",
+    "onyomi": "オン",
+    "kunyomi": "あたたか warm, genial   あたたかい warm   あたたまる to get warm   あたためる to heat",
+    "meaning": "warm"
+  },
+  {
+    "id": 97,
+    "kanji": "軽",
+    "onyomi": "ケイ",
+    "kunyomi": "かるい light   かろやか graceful",
+    "meaning": "light (weight)"
+  },
+  {
+    "id": 98,
+    "kanji": "録",
+    "onyomi": "ロク",
+    "kunyomi": "",
+    "meaning": "record"
+  },
+  {
+    "id": 99,
+    "kanji": "腰",
+    "onyomi": "ヨウ",
+    "kunyomi": "こし loins, waist, hips",
+    "meaning": "loins, waist"
+  },
+  {
+    "id": 100,
+    "kanji": "著",
+    "onyomi": "チョ",
+    "kunyomi": "あらわす to publish, write   いちじるしい remarkable",
+    "meaning": "publish"
   },
 
-  {
-    "id": 2,
-    "kanji": "案",
-    "onyomi": "an",
-    "kunyomi": "",
-    "meaning": "plan, proposal"
-  },
   {
     "id": 4,
     "kanji": "衣",
@@ -560,13 +720,6 @@
     "onyomi": "ei",
     "kunyomi": "saka(eru), ha(e)",
     "meaning": "flourish, prosperity"
-  },
-  {
-    "id": 12,
-    "kanji": "温",
-    "onyomi": "on",
-    "kunyomi": "atata(kai)",
-    "meaning": "warm"
   },
   {
     "id": 14,
@@ -595,13 +748,6 @@
     "onyomi": "kyuu, guu",
     "kunyomi": "miya",
     "meaning": "shrine, palace"
-  },
-  {
-    "id": 42,
-    "kanji": "軽",
-    "onyomi": "kei",
-    "kunyomi": "karu(i)",
-    "meaning": "light (weight)"
   },
   {
     "id": 47,
@@ -829,13 +975,6 @@
       "meaning": "yellow"
     },
     {
-      "id": 106,
-      "kanji": "森",
-      "onyomi": "shin",
-      "kunyomi": "mori",
-      "meaning": "forest"
-    },
-    {
       "id": 114,
       "kanji": "雲",
       "onyomi": "un",
@@ -855,13 +994,6 @@
       "onyomi": "gan",
       "kunyomi": "iwa",
       "meaning": "rock"
-    },
-    {
-      "id": 119,
-      "kanji": "星",
-      "onyomi": "sei",
-      "kunyomi": "hoshi",
-      "meaning": "star"
     }
   ]
 ]
