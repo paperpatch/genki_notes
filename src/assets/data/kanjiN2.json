@@ -699,6 +699,181 @@
     "kunyomi": "あらわす to publish, write   いちじるしい remarkable",
     "meaning": "publish"
   },
+  {
+    "id": 101,
+    "kanji": "乱",
+    "onyomi": "ラン",
+    "kunyomi": "みだす to disturb, disarray   みだれる to be mixed up, in disorder",
+    "meaning": "rebellion"
+  },
+  {
+    "id": 102,
+    "kanji": "章",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "chapter, badge"
+  },
+  {
+    "id": 103,
+    "kanji": "殿",
+    "onyomi": "テン   デン",
+    "kunyomi": "palace, hall   との lord   -どの Mr",
+    "meaning": "palace, lord"
+  },
+  {
+    "id": 104,
+    "kanji": "布",
+    "onyomi": "フ",
+    "kunyomi": "ぬの cloth",
+    "meaning": "cloth"
+  },
+  {
+    "id": 105,
+    "kanji": "角",
+    "onyomi": "カク",
+    "kunyomi": "かど corner   つの horn",
+    "meaning": "corner, horn"
+  },
+  {
+    "id": 106,
+    "kanji": "仏",
+    "onyomi": "ブツ",
+    "kunyomi": "ほとけ Buddha",
+    "meaning": "Buddha, France"
+  },
+  {
+    "id": 107,
+    "kanji": "永",
+    "onyomi": "エイ",
+    "kunyomi": "ながい long (time)",
+    "meaning": "long time"
+  },
+  {
+    "id": 108,
+    "kanji": "誌",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "document"
+  },
+  {
+    "id": 109,
+    "kanji": "減",
+    "onyomi": "ゲン",
+    "kunyomi": "へる become less   へらす reduce",
+    "meaning": "become less"
+  },
+  {
+    "id": 110,
+    "kanji": "略",
+    "onyomi": "リャク",
+    "kunyomi": "",
+    "meaning": "abbreviation"
+  },
+  {
+    "id": 111,
+    "kanji": "準",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "semi-"
+  },
+  {
+    "id": 112,
+    "kanji": "委",
+    "onyomi": "イ",
+    "kunyomi": "ゆだねる to entrust, to abandon oneself to",
+    "meaning": "entrust"
+  },
+  {
+    "id": 113,
+    "kanji": "令",
+    "onyomi": "レイ",
+    "kunyomi": "",
+    "meaning": "order, command, good"
+  },
+  {
+    "id": 114,
+    "kanji": "刊",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "publish"
+  },
+  {
+    "id": 115,
+    "kanji": "焼",
+    "onyomi": "ショウ",
+    "kunyomi": "やく to roast, bake, burn   やける to be burnt",
+    "meaning": "roast"
+  },
+  {
+    "id": 116,
+    "kanji": "里",
+    "onyomi": "リ",
+    "kunyomi": "さと village",
+    "meaning": "village"
+  },
+  {
+    "id": 117,
+    "kanji": "圧",
+    "onyomi": "アツ",
+    "kunyomi": "",
+    "meaning": "pressure"
+  },
+  {
+    "id": 118,
+    "kanji": "額",
+    "onyomi": "ガク",
+    "kunyomi": "amount; picture   ひたい forehead",
+    "meaning": "amount"
+  },
+  {
+    "id": 119,
+    "kanji": "印",
+    "onyomi": "イン",
+    "kunyomi": "seal, stamp   しるし sign, mark",
+    "meaning": "sign"
+  },
+  {
+    "id": 120,
+    "kanji": "池",
+    "onyomi": "チ",
+    "kunyomi": "いけ pond",
+    "meaning": "pond"
+  },
+  {
+    "id": 121,
+    "kanji": "臣",
+    "onyomi": "シン   ジン",
+    "kunyomi": "",
+    "meaning": "subject"
+  },
+  {
+    "id": 122,
+    "kanji": "庫",
+    "onyomi": "コ   ク",
+    "kunyomi": "",
+    "meaning": "warehouse"
+  },
+  {
+    "id": 123,
+    "kanji": "農",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "meaning": "farming, agriculture"
+  },
+  {
+    "id": 124,
+    "kanji": "板",
+    "onyomi": "ハン   バン",
+    "kunyomi": "いた a board",
+    "meaning": "board, plank"
+  },
+  {
+    "id": 125,
+    "kanji": "恋",
+    "onyomi": "レン",
+    "kunyomi": "こい love   こいしい darling, beloved   こう to long for",
+    "meaning": "love"
+  },
 
   {
     "id": 4,
@@ -706,13 +881,6 @@
     "onyomi": "i",
     "kunyomi": "koromo",
     "meaning": "clothing"
-  },
-  {
-    "id": 8,
-    "kanji": "印",
-    "onyomi": "in",
-    "kunyomi": "shirushi",
-    "meaning": "mark, seal"
   },
   {
     "id": 10,
@@ -734,27 +902,6 @@
     "onyomi": "gan",
     "kunyomi": "kishi",
     "meaning": "shore"
-  },
-  {
-    "id": 28,
-    "kanji": "級",
-    "onyomi": "kyuu",
-    "kunyomi": "",
-    "meaning": "class, rank"
-  },
-  {
-    "id": 29,
-    "kanji": "宮",
-    "onyomi": "kyuu, guu",
-    "kunyomi": "miya",
-    "meaning": "shrine, palace"
-  },
-  {
-    "id": 47,
-    "kanji": "庫",
-    "onyomi": "ko",
-    "kunyomi": "",
-    "meaning": "warehouse"
   },
   {
     "id": 48,
@@ -785,39 +932,11 @@
     "meaning": "pick up"
   },
   {
-    "id": 86,
-    "kanji": "暑",
-    "onyomi": "sho",
-    "kunyomi": "atsu(i)",
-    "meaning": "hot (weather)"
-  },
-  {
-    "id": 88,
-    "kanji": "昭",
-    "onyomi": "shou",
-    "kunyomi": "",
-    "meaning": "shining, bright"
-  },
-  {
-    "id": 91,
-    "kanji": "章",
-    "onyomi": "shou",
-    "kunyomi": "",
-    "meaning": "chapter, badge"
-  },
-  {
     "id": 94,
     "kanji": "植",
     "onyomi": "shoku",
     "kunyomi": "u(eru), u(waru)",
     "meaning": "plant"
-  },
-  {
-    "id": 102,
-    "kanji": "整",
-    "onyomi": "sei",
-    "kunyomi": "totono(eru), totono(u)",
-    "meaning": "arrange, adjust"
   },
   {
     "id": 116,
@@ -834,34 +953,6 @@
     "meaning": "pillar"
   },
   {
-    "id": 121,
-    "kanji": "丁",
-    "onyomi": "chou, tei",
-    "kunyomi": "",
-    "meaning": "street, ward"
-  },
-  {
-    "id": 122,
-    "kanji": "帳",
-    "onyomi": "chou",
-    "kunyomi": "",
-    "meaning": "notebook, account book"
-  },
-  {
-    "id": 127,
-    "kanji": "笛",
-    "onyomi": "teki",
-    "kunyomi": "fue",
-    "meaning": "flute"
-  },
-  {
-    "id": 133,
-    "kanji": "豆",
-    "onyomi": "tou",
-    "kunyomi": "mame",
-    "meaning": "bean"
-  },
-  {
     "id": 135,
     "kanji": "湯",
     "onyomi": "tou",
@@ -876,32 +967,11 @@
     "meaning": "child"
   },
   {
-    "id": 140,
-    "kanji": "農",
-    "onyomi": "nou",
-    "kunyomi": "",
-    "meaning": "farming, agriculture"
-  },
-  {
     "id": 143,
     "kanji": "倍",
     "onyomi": "bai",
     "kunyomi": "",
     "meaning": "double, times"
-  },
-  {
-    "id": 145,
-    "kanji": "畑",
-    "onyomi": "",
-    "kunyomi": "hatake",
-    "meaning": "field"
-  },
-  {
-    "id": 149,
-    "kanji": "板",
-    "onyomi": "han, ban",
-    "kunyomi": "ita",
-    "meaning": "board, plank"
   },
   {
     "id": 150,
@@ -946,13 +1016,6 @@
     "meaning": "oil"
   },
   {
-    "id": 180,
-    "kanji": "羊",
-    "onyomi": "you",
-    "kunyomi": "hitsuji",
-    "meaning": "sheep"
-  },
-  {
     "id": 189,
     "kanji": "緑",
     "onyomi": "ryoku",
@@ -980,13 +1043,6 @@
       "onyomi": "un",
       "kunyomi": "kumo",
       "meaning": "cloud"
-    },
-    {
-      "id": 115,
-      "kanji": "池",
-      "onyomi": "chi",
-      "kunyomi": "ike",
-      "meaning": "pond"
     },
     {
       "id": 118,
