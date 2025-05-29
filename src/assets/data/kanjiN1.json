@@ -5,5 +5,82 @@
     "onyomi": "an",
     "kunyomi": "",
     "meaning": "plan, proposal"
+  },
+  {
+    "id": 28,
+    "kanji": "級",
+    "onyomi": "kyuu",
+    "kunyomi": "",
+    "meaning": "class, rank"
+  },
+  {
+    "id": 29,
+    "kanji": "宮",
+    "onyomi": "kyuu, guu",
+    "kunyomi": "miya",
+    "meaning": "shrine, palace"
+  },
+  {
+    "id": 86,
+    "kanji": "暑",
+    "onyomi": "sho",
+    "kunyomi": "atsu(i)",
+    "meaning": "hot (weather)"
+  },
+  {
+    "id": 88,
+    "kanji": "昭",
+    "onyomi": "shou",
+    "kunyomi": "",
+    "meaning": "shining, bright"
+  },
+  {
+    "id": 102,
+    "kanji": "整",
+    "onyomi": "sei",
+    "kunyomi": "totono(eru), totono(u)",
+    "meaning": "arrange, adjust"
+  },
+  {
+    "id": 121,
+    "kanji": "丁",
+    "onyomi": "chou, tei",
+    "kunyomi": "",
+    "meaning": "street, ward"
+  },
+  {
+    "id": 122,
+    "kanji": "帳",
+    "onyomi": "chou",
+    "kunyomi": "",
+    "meaning": "notebook, account book"
+  },
+  {
+    "id": 127,
+    "kanji": "笛",
+    "onyomi": "teki",
+    "kunyomi": "fue",
+    "meaning": "flute"
+  },
+  {
+    "id": 133,
+    "kanji": "豆",
+    "onyomi": "tou",
+    "kunyomi": "mame",
+    "meaning": "bean"
+  },
+  {
+    "id": 145,
+    "kanji": "畑",
+    "onyomi": "",
+    "kunyomi": "hatake",
+    "meaning": "field"
+  },
+  {
+    "id": 180,
+    "kanji": "羊",
+    "onyomi": "you",
+    "kunyomi": "hitsuji",
+    "meaning": "sheep"
   }
 ]
