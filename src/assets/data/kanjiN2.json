@@ -874,6 +874,181 @@
     "kunyomi": "こい love   こいしい darling, beloved   こう to long for",
     "meaning": "love"
   },
+  {
+    "id": 126,
+    "kanji": "羽",
+    "onyomi": "ウ",
+    "kunyomi": "はね feather   わ counter for birds",
+    "meaning": "feather"
+  },
+  {
+    "id": 127,
+    "kanji": "専",
+    "onyomi": "セン",
+    "kunyomi": "もっぱら entirely, wholely",
+    "meaning": "specialist, expert"
+  },
+  {
+    "id": 128,
+    "kanji": "逆",
+    "onyomi": "ギャク",
+    "kunyomi": "reverse, converse   さからう to go against, to oppose   さか upside down",
+    "meaning": "reverse"
+  },
+  {
+    "id": 129,
+    "kanji": "腕",
+    "onyomi": "ワン",
+    "kunyomi": "うで arm",
+    "meaning": "arm"
+  },
+  {
+    "id": 130,
+    "kanji": "短",
+    "onyomi": "タン",
+    "kunyomi": "みじかい short",
+    "meaning": "short"
+  },
+  {
+    "id": 131,
+    "kanji": "普",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "universal"
+  },
+  {
+    "id": 132,
+    "kanji": "岩",
+    "onyomi": "ガン",
+    "kunyomi": "いわ a boulder",
+    "meaning": "boulder"
+  },
+  {
+    "id": 133,
+    "kanji": "竹",
+    "onyomi": "チク",
+    "kunyomi": "たけ bamboo",
+    "meaning": "bamboo"
+  },
+  {
+    "id": 134,
+    "kanji": "児",
+    "onyomi": "ジ   ニ",
+    "kunyomi": "",
+    "meaning": "newborn babe"
+  },
+  {
+    "id": 135,
+    "kanji": "毛",
+    "onyomi": "モウ",
+    "kunyomi": "け fur",
+    "meaning": "fur, hair"
+  },
+  {
+    "id": 136,
+    "kanji": "版",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "printing"
+  },
+  {
+    "id": 137,
+    "kanji": "宇",
+    "onyomi": "ウ",
+    "kunyomi": "",
+    "meaning": "eaves"
+  },
+  {
+    "id": 138,
+    "kanji": "況",
+    "onyomi": "キョウ",
+    "kunyomi": "",
+    "meaning": "situation"
+  },
+  {
+    "id": 139,
+    "kanji": "被",
+    "onyomi": "ヒ",
+    "kunyomi": "こうむる to suffer, to incur, to receive",
+    "meaning": "suffer"
+  },
+  {
+    "id": 140,
+    "kanji": "岸",
+    "onyomi": "ガン",
+    "kunyomi": "きし coast, shore, banks",
+    "meaning": "coast"
+  },
+  {
+    "id": 141,
+    "kanji": "超",
+    "onyomi": "チョウ",
+    "kunyomi": "こす   こえる to exceed",
+    "meaning": "exceed"
+  },
+  {
+    "id": 142,
+    "kanji": "豊",
+    "onyomi": "ホウ",
+    "kunyomi": "ゆたか plentiful, abundant",
+    "meaning": "plentiful"
+  },
+  {
+    "id": 143,
+    "kanji": "含",
+    "onyomi": "ガン",
+    "kunyomi": "ふくむ to include, to contain   ふくめる to include, to add to",
+    "meaning": "include"
+  },
+  {
+    "id": 144,
+    "kanji": "植",
+    "onyomi": "ショク",
+    "kunyomi": "うえる to plant   うわる to be planted",
+    "meaning": "plant"
+  },
+  {
+    "id": 145,
+    "kanji": "補",
+    "onyomi": "ホ",
+    "kunyomi": "おぎなう to supply, to make up for, to compensate for",
+    "meaning": "supply"
+  },
+  {
+    "id": 146,
+    "kanji": "暴",
+    "onyomi": "ボウ   バク",
+    "kunyomi": "あばれる to get violent   あばく to expose, disclose",
+    "meaning": "violent"
+  },
+  {
+    "id": 147,
+    "kanji": "課",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "lesson"
+  },
+  {
+    "id": 148,
+    "kanji": "跡",
+    "onyomi": "セキ",
+    "kunyomi": "あと trace, tracks",
+    "meaning": "trace"
+  },
+  {
+    "id": 149,
+    "kanji": "触",
+    "onyomi": "ショク",
+    "kunyomi": "ふれる   さわる to touch",
+    "meaning": "touch"
+  },
+  {
+    "id": 150,
+    "kanji": "玉",
+    "onyomi": "ギョク",
+    "kunyomi": "たま jewel",
+    "meaning": "jewel"
+  },
 
   {
     "id": 4,
@@ -895,13 +1070,6 @@
     "onyomi": "ka",
     "kunyomi": "ni",
     "meaning": "baggage, load"
-  },
-  {
-    "id": 22,
-    "kanji": "岸",
-    "onyomi": "gan",
-    "kunyomi": "kishi",
-    "meaning": "shore"
   },
   {
     "id": 48,
@@ -930,20 +1098,6 @@
     "onyomi": "shuu",
     "kunyomi": "hiro(u)",
     "meaning": "pick up"
-  },
-  {
-    "id": 94,
-    "kanji": "植",
-    "onyomi": "shoku",
-    "kunyomi": "u(eru), u(waru)",
-    "meaning": "plant"
-  },
-  {
-    "id": 116,
-    "kanji": "短",
-    "onyomi": "tan",
-    "kunyomi": "mijika(i)",
-    "meaning": "short"
   },
   {
     "id": 120,
@@ -1043,13 +1197,6 @@
       "onyomi": "un",
       "kunyomi": "kumo",
       "meaning": "cloud"
-    },
-    {
-      "id": 118,
-      "kanji": "岩",
-      "onyomi": "gan",
-      "kunyomi": "iwa",
-      "meaning": "rock"
     }
   ]
 ]
