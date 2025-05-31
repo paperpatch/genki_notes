@@ -1049,14 +1049,182 @@
     "kunyomi": "たま jewel",
     "meaning": "jewel"
   },
-
   {
-    "id": 4,
+    "id": 151,
+    "kanji": "震",
+    "onyomi": "シン",
+    "kunyomi": "ふるう   ふるえる to tremble, to shake",
+    "meaning": "tremble"
+  },
+  {
+    "id": 152,
+    "kanji": "億",
+    "onyomi": "オク",
+    "kunyomi": "",
+    "meaning": "100 million"
+  },
+  {
+    "id": 153,
+    "kanji": "肩",
+    "onyomi": "ケン",
+    "kunyomi": "かた shoulder",
+    "meaning": "shoulder"
+  },
+  {
+    "id": 154,
+    "kanji": "劇",
+    "onyomi": "ゲキ",
+    "kunyomi": "",
+    "meaning": "dramatic"
+  },
+  {
+    "id": 155,
+    "kanji": "刺",
+    "onyomi": "シ",
+    "kunyomi": "さす to stab   ささる to prick",
+    "meaning": "to prick"
+  },
+  {
+    "id": 156,
+    "kanji": "述",
+    "onyomi": "ジュツ",
+    "kunyomi": "のべる to say",
+    "meaning": "say"
+  },
+  {
+    "id": 157,
+    "kanji": "輪",
+    "onyomi": "リン",
+    "kunyomi": "わ wheel",
+    "meaning": "wheel"
+  },
+  {
+    "id": 158,
+    "kanji": "浅",
+    "onyomi": "セン",
+    "kunyomi": "あさい shallow, superficial",
+    "meaning": "shallow"
+  },
+  {
+    "id": 159,
+    "kanji": "純",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "pure"
+  },
+  {
+    "id": 160,
+    "kanji": "薄",
+    "onyomi": "ハク",
+    "kunyomi": "うすい thin   うすめる to dilute   うすまる to be watered down   うすれる   うすらぐ to decline, fade",
+    "meaning": "thin"
+  },
+  {
+    "id": 161,
+    "kanji": "阪",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "slope"
+  },
+  {
+    "id": 162,
+    "kanji": "韓",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "Korea"
+  },
+  {
+    "id": 163,
+    "kanji": "固",
+    "onyomi": "コ",
+    "kunyomi": "かたい hard   かたまる to harden   かためる to make hard",
+    "meaning": "hard"
+  },
+  {
+    "id": 164,
+    "kanji": "巨",
+    "onyomi": "キョ",
+    "kunyomi": "",
+    "meaning": "huge"
+  },
+  {
+    "id": 165,
+    "kanji": "講",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "lecture"
+  },
+  {
+    "id": 166,
+    "kanji": "般",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "carrier"
+  },
+  {
+    "id": 167,
+    "kanji": "湯",
+    "onyomi": "トウ",
+    "kunyomi": "ゆ hot water",
+    "meaning": "hot water"
+  },
+  {
+    "id": 168,
+    "kanji": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "すてる to throw away",
+    "meaning": "throw away"
+  },
+  {
+    "id": 169,
     "kanji": "衣",
-    "onyomi": "i",
-    "kunyomi": "koromo",
+    "onyomi": "イ",
+    "kunyomi": "ころも clothes",
     "meaning": "clothing"
   },
+  {
+    "id": 170,
+    "kanji": "替",
+    "onyomi": "タイ",
+    "kunyomi": "かえる to replace   かわる to be replaced",
+    "meaning": "replace"
+  },
+  {
+    "id": 171,
+    "kanji": "央",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "meaning": "centre, center"
+  },
+  {
+    "id": 172,
+    "kanji": "骨",
+    "onyomi": "コツ",
+    "kunyomi": "ほね bone",
+    "meaning": "bone"
+  },
+  {
+    "id": 173,
+    "kanji": "齢",
+    "onyomi": "レイ age",
+    "kunyomi": "",
+    "meaning": "age"
+  },
+  {
+    "id": 174,
+    "kanji": "照",
+    "onyomi": "ショウ",
+    "kunyomi": "てる to shine   てらす to illuminate   てれる to be shy, to be embarrassed",
+    "meaning": "shine"
+  },
+  {
+    "id": 175,
+    "kanji": "層",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "level"
+  },
+
   {
     "id": 10,
     "kanji": "栄",
@@ -1105,13 +1273,6 @@
     "onyomi": "chuu",
     "kunyomi": "hashira",
     "meaning": "pillar"
-  },
-  {
-    "id": 135,
-    "kanji": "湯",
-    "onyomi": "tou",
-    "kunyomi": "yu",
-    "meaning": "hot water"
   },
   {
     "id": 139,
