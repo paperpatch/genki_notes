@@ -1224,6 +1224,181 @@
     "kunyomi": "",
     "meaning": "level"
   },
+  {
+    "id": 176,
+    "kanji": "弱",
+    "onyomi": "ジャク",
+    "kunyomi": "よわい weak   よわる to weaken, to be troubled   よわまる to weaken, to abate   よわめる to weaken, to break the force of",
+    "meaning": "weak"
+  },
+  {
+    "id": 177,
+    "kanji": "築",
+    "onyomi": "チク",
+    "kunyomi": "きずく to construct, to make",
+    "meaning": "construct"
+  },
+  {
+    "id": 178,
+    "kanji": "脳",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "meaning": "brain"
+  },
+  {
+    "id": 179,
+    "kanji": "航",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "sailing"
+  },
+  {
+    "id": 180,
+    "kanji": "快",
+    "onyomi": "カイ",
+    "kunyomi": "こころよい comfortable, pleasant, refreshing",
+    "meaning": "comfortable"
+  },
+  {
+    "id": 181,
+    "kanji": "翌",
+    "onyomi": "ヨク",
+    "kunyomi": "",
+    "meaning": "following"
+  },
+  {
+    "id": 182,
+    "kanji": "旧",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "former"
+  },
+  {
+    "id": 183,
+    "kanji": "筆",
+    "onyomi": "ヒツ",
+    "kunyomi": "ふで writing brush",
+    "meaning": "brush"
+  },
+  {
+    "id": 184,
+    "kanji": "換",
+    "onyomi": "カン",
+    "kunyomi": "かえる to replace, to substitute",
+    "meaning": "replace"
+  },
+  {
+    "id": 185,
+    "kanji": "群",
+    "onyomi": "グン",
+    "kunyomi": "むれ flock   むれる to flock together   むらがる to crowd, to flock",
+    "meaning": "flock"
+  },
+  {
+    "id": 186,
+    "kanji": "爆",
+    "onyomi": "バク",
+    "kunyomi": "はぜる to burst open, to pop",
+    "meaning": "explosion"
+  },
+  {
+    "id": 187,
+    "kanji": "捜",
+    "onyomi": "ソウ",
+    "kunyomi": "さがす to search",
+    "meaning": "search"
+  },
+  {
+    "id": 188,
+    "kanji": "油",
+    "onyomi": "ユ",
+    "kunyomi": "あぶら oil",
+    "meaning": "oil"
+  },
+  {
+    "id": 189,
+    "kanji": "叫",
+    "onyomi": "キョウ",
+    "kunyomi": "さけぶ to scream, to cry out",
+    "meaning": "scream"
+  },
+  {
+    "id": 190,
+    "kanji": "伸",
+    "onyomi": "シン",
+    "kunyomi": "のびる to grow   のばす to stretch, to let grow   のべる to lay out (a futon)",
+    "meaning": "grow"
+  },
+  {
+    "id": 191,
+    "kanji": "承",
+    "onyomi": "ショウ",
+    "kunyomi": "うけたまわる to hear, to be told",
+    "meaning": "acquiesce"
+  },
+  {
+    "id": 192,
+    "kanji": "雲",
+    "onyomi": "ウン",
+    "kunyomi": "くも cloud",
+    "meaning": "cloud"
+  },
+  {
+    "id": 193,
+    "kanji": "練",
+    "onyomi": "レン",
+    "kunyomi": "ねる to polish up, knead, train",
+    "meaning": "practice, train"
+  },
+  {
+    "id": 194,
+    "kanji": "紹",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "introduce"
+  },
+  {
+    "id": 195,
+    "kanji": "包",
+    "onyomi": "ホウ",
+    "kunyomi": "つつむ to wrap",
+    "meaning": "wrap"
+  },
+  {
+    "id": 196,
+    "kanji": "庁",
+    "onyomi": "チョウ",
+    "kunyomi": "",
+    "meaning": "government office"
+  },
+  {
+    "id": 197,
+    "kanji": "測",
+    "onyomi": "ソク",
+    "kunyomi": "はかる measure",
+    "meaning": "measure"
+  },
+  {
+    "id": 198,
+    "kanji": "占",
+    "onyomi": "セン",
+    "kunyomi": "しめる to occupy, hold   うらなう to tell fortunes",
+    "meaning": "occupy"
+  },
+  {
+    "id": 199,
+    "kanji": "混",
+    "onyomi": "コン",
+    "kunyomi": "まぜる to mix   まざる   まじる to be mixed   こむ to be crowded",
+    "meaning": "mix"
+  },
+  {
+    "id": 200,
+    "kanji": "倍",
+    "onyomi": "バイ",
+    "kunyomi": "",
+    "meaning": "double, times"
+  },
 
   {
     "id": 10,
@@ -1282,13 +1457,6 @@
     "meaning": "child"
   },
   {
-    "id": 143,
-    "kanji": "倍",
-    "onyomi": "bai",
-    "kunyomi": "",
-    "meaning": "double, times"
-  },
-  {
     "id": 150,
     "kanji": "皮",
     "onyomi": "hi",
@@ -1301,13 +1469,6 @@
     "onyomi": "bi",
     "kunyomi": "hana",
     "meaning": "nose"
-  },
-  {
-    "id": 154,
-    "kanji": "筆",
-    "onyomi": "hitsu",
-    "kunyomi": "fude",
-    "meaning": "brush"
   },
   {
     "id": 155,
@@ -1324,25 +1485,11 @@
     "meaning": "second (time)"
   },
   {
-    "id": 176,
-    "kanji": "油",
-    "onyomi": "yu",
-    "kunyomi": "abura",
-    "meaning": "oil"
-  },
-  {
     "id": 189,
     "kanji": "緑",
     "onyomi": "ryoku",
     "kunyomi": "midori",
     "meaning": "green"
-  },
-  {
-    "id": 192,
-    "kanji": "練",
-    "onyomi": "ren",
-    "kunyomi": "ne(ru)",
-    "meaning": "practice, train"
   },
   [
     {
@@ -1351,13 +1498,6 @@
       "onyomi": "ou",
       "kunyomi": "ki",
       "meaning": "yellow"
-    },
-    {
-      "id": 114,
-      "kanji": "雲",
-      "onyomi": "un",
-      "kunyomi": "kumo",
-      "meaning": "cloud"
     }
   ]
 ]
