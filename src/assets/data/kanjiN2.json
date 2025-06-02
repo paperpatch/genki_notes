@@ -1399,14 +1399,182 @@
     "kunyomi": "",
     "meaning": "double, times"
   },
-
   {
-    "id": 10,
+    "id": 201,
+    "kanji": "乳",
+    "onyomi": "ニュウ",
+    "kunyomi": "ち   ちち breasts",
+    "meaning": "milk"
+  },
+  {
+    "id": 202,
+    "kanji": "荒",
+    "onyomi": "コウ",
+    "kunyomi": "あらい violent, rough   あれる to be rough, stormy   あらす to lay waste",
+    "meaning": "violent"
+  },
+  {
+    "id": 203,
+    "kanji": "詰",
+    "onyomi": "キツ",
+    "kunyomi": "つめる to cram into   つまる to be packed   つむ to be checkmated",
+    "meaning": "cram"
+  },
+  {
+    "id": 204,
     "kanji": "栄",
-    "onyomi": "ei",
-    "kunyomi": "saka(eru), ha(e)",
+    "onyomi": "エイ",
+    "kunyomi": "はえる to shine, to look attractive   はえ   さかえる to shine, to be brilliant",
     "meaning": "flourish, prosperity"
   },
+  {
+    "id": 205,
+    "kanji": "床",
+    "onyomi": "ショウ",
+    "kunyomi": "ゆか floor   とこ bed",
+    "meaning": "floor"
+  },
+  {
+    "id": 206,
+    "kanji": "則",
+    "onyomi": "ソク",
+    "kunyomi": "",
+    "meaning": "rule"
+  },
+  {
+    "id": 207,
+    "kanji": "禁",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "meaning": "prohibition"
+  },
+  {
+    "id": 208,
+    "kanji": "順",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "meaning": "sequence, obey"
+  },
+  {
+    "id": 209,
+    "kanji": "枚",
+    "onyomi": "マイ",
+    "kunyomi": "",
+    "meaning": "sheet"
+  },
+  {
+    "id": 210,
+    "kanji": "厚",
+    "onyomi": "コウ",
+    "kunyomi": "あつい thick",
+    "meaning": "thick"
+  },
+  {
+    "id": 211,
+    "kanji": "皮",
+    "onyomi": "ヒ",
+    "kunyomi": "かわ skin, leather",
+    "meaning": "skin, leather"
+  },
+  {
+    "id": 212,
+    "kanji": "輸",
+    "onyomi": "ユ",
+    "kunyomi": "",
+    "meaning": "transport"
+  },
+  {
+    "id": 213,
+    "kanji": "濃",
+    "onyomi": "ノウ",
+    "kunyomi": "こい thick, dense, dark",
+    "meaning": "thick"
+  },
+  {
+    "id": 214,
+    "kanji": "簡",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "simplicity"
+  },
+  {
+    "id": 215,
+    "kanji": "孫",
+    "onyomi": "ソン",
+    "kunyomi": "まご grandchild",
+    "meaning": "grandchild"
+  },
+  {
+    "id": 216,
+    "kanji": "丈",
+    "onyomi": "ジョウ",
+    "kunyomi": "たけ stature, length",
+    "meaning": "stature"
+  },
+  {
+    "id": 217,
+    "kanji": "黄",
+    "onyomi": "オウ   コウ",
+    "kunyomi": "き yellow",
+    "meaning": "yellow"
+  },
+  {
+    "id": 218,
+    "kanji": "届",
+    "onyomi": "",
+    "kunyomi": "とどく to arrive   とどける to notify, to deliver",
+    "meaning": "arrive"
+  },
+  {
+    "id": 219,
+    "kanji": "絡",
+    "onyomi": "ラク",
+    "kunyomi": "からまる to be entangled, to be entwined   からむ to get in a tangle with   からめる to entwine",
+    "meaning": "entangled"
+  },
+  {
+    "id": 220,
+    "kanji": "採",
+    "onyomi": "サイ",
+    "kunyomi": "とる to take on, adopt, employ",
+    "meaning": "take on"
+  },
+  {
+    "id": 221,
+    "kanji": "傾",
+    "onyomi": "ケイ",
+    "kunyomi": "かたむく   かたむける to tilt, to incline, to lean",
+    "meaning": "tilt"
+  },
+  {
+    "id": 222,
+    "kanji": "鼻",
+    "onyomi": "ビ",
+    "kunyomi": "はな nose",
+    "meaning": "nose"
+  },
+  {
+    "id": 223,
+    "kanji": "宝",
+    "onyomi": "ホウ",
+    "kunyomi": "たから treasure",
+    "meaning": "treasure"
+  },
+  {
+    "id": 224,
+    "kanji": "患",
+    "onyomi": "カン",
+    "kunyomi": "わずらう to suffer (from), to be ill",
+    "meaning": "suffer"
+  },
+  {
+    "id": 225,
+    "kanji": "延",
+    "onyomi": "エン",
+    "kunyomi": "のばす to prolong, lengthen   のびる to be delayed, postponed   のべる to postpone",
+    "meaning": "prolong"
+  },
+
   {
     "id": 14,
     "kanji": "荷",
@@ -1457,20 +1625,6 @@
     "meaning": "child"
   },
   {
-    "id": 150,
-    "kanji": "皮",
-    "onyomi": "hi",
-    "kunyomi": "kawa",
-    "meaning": "skin, leather"
-  },
-  {
-    "id": 153,
-    "kanji": "鼻",
-    "onyomi": "bi",
-    "kunyomi": "hana",
-    "meaning": "nose"
-  },
-  {
     "id": 155,
     "kanji": "氷",
     "onyomi": "hyou",
@@ -1490,14 +1644,5 @@
     "onyomi": "ryoku",
     "kunyomi": "midori",
     "meaning": "green"
-  },
-  [
-    {
-      "id": 79,
-      "kanji": "黄",
-      "onyomi": "ou",
-      "kunyomi": "ki",
-      "meaning": "yellow"
-    }
-  ]
+  }
 ]
