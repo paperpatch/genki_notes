@@ -1574,27 +1574,188 @@
     "kunyomi": "のばす to prolong, lengthen   のびる to be delayed, postponed   のべる to postpone",
     "meaning": "prolong"
   },
-
   {
-    "id": 14,
+    "id": 226,
+    "kanji": "律",
+    "onyomi": "リツ   リチ",
+    "kunyomi": "",
+    "meaning": "law, rhythm"
+  },
+  {
+    "id": 227,
+    "kanji": "希",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "rare"
+  },
+  {
+    "id": 228,
+    "kanji": "甘",
+    "onyomi": "カン",
+    "kunyomi": "あまい sweet, indulgent   あまえる to behave like a spoiled child   あまやかす to pamper",
+    "meaning": "sweet"
+  },
+  {
+    "id": 229,
+    "kanji": "湾",
+    "onyomi": "ワン",
+    "kunyomi": "",
+    "meaning": "gulf, inlet"
+  },
+  {
+    "id": 230,
+    "kanji": "沈",
+    "onyomi": "チン",
+    "kunyomi": "しずむ to sink   しずめる to make sink",
+    "meaning": "sink"
+  },
+  {
+    "id": 231,
+    "kanji": "販",
+    "onyomi": "",
+    "kunyomi": "ハン sell, trade; marketing",
+    "meaning": "sell"
+  },
+  {
+    "id": 232,
+    "kanji": "欧",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "meaning": "Europe"
+  },
+  {
+    "id": 233,
+    "kanji": "砂",
+    "onyomi": "サ   シャ",
+    "kunyomi": "すな sand",
+    "meaning": "sand"
+  },
+  {
+    "id": 234,
+    "kanji": "尊",
+    "onyomi": "ソン",
+    "kunyomi": "たっとい   とうとい precious, dear, exalted   たっとぶ   とうとぶ to set a high value on, to esteem highly",
+    "meaning": "precious"
+  },
+  {
+    "id": 235,
+    "kanji": "紅",
+    "onyomi": "コウ   ク",
+    "kunyomi": "くれない deep red   べに lipstick",
+    "meaning": "deep red"
+  },
+  {
+    "id": 236,
+    "kanji": "複",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "double"
+  },
+  {
+    "id": 237,
+    "kanji": "泊",
+    "onyomi": "ハク",
+    "kunyomi": "とまる to stay, to lodge overnight   とめる to give lodgings",
+    "meaning": "stay"
+  },
+  {
+    "id": 238,
     "kanji": "荷",
-    "onyomi": "ka",
-    "kunyomi": "ni",
+    "onyomi": "カ",
+    "kunyomi": "に baggage",
     "meaning": "baggage, load"
   },
+  {
+    "id": 239,
+    "kanji": "枝",
+    "onyomi": "シ",
+    "kunyomi": "えだ branch",
+    "meaning": "branch"
+  },
+  {
+    "id": 240,
+    "kanji": "依",
+    "onyomi": "イ   エ",
+    "kunyomi": "",
+    "meaning": "reliant"
+  },
+  {
+    "id": 241,
+    "kanji": "幼",
+    "onyomi": "ヨウ",
+    "kunyomi": "おさない very young; childish, immature, infantile",
+    "meaning": "very young"
+  },
+  {
+    "id": 242,
+    "kanji": "斬",
+    "onyomi": "ザン",
+    "kunyomi": "きる to kill",
+    "meaning": "kill"
+  },
+  {
+    "id": 243,
+    "kanji": "勇",
+    "onyomi": "ユウ",
+    "kunyomi": "いさむ to be brave, lively, spirited",
+    "meaning": "brave"
+  },
+  {
+    "id": 244,
+    "kanji": "昇",
+    "onyomi": "ショウ",
+    "kunyomi": "のぼる to climb",
+    "meaning": "climb"
+  },
+  {
+    "id": 245,
+    "kanji": "寿",
+    "onyomi": "ジュ   ス",
+    "kunyomi": "ことぶき longevity",
+    "meaning": "longevity"
+  },
+  {
+    "id": 246,
+    "kanji": "菜",
+    "onyomi": "サイ",
+    "kunyomi": "な vegetable, side dish, greens",
+    "meaning": "vegetable"
+  },
+  {
+    "id": 247,
+    "kanji": "季",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "season"
+  },
+  {
+    "id": 248,
+    "kanji": "液",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "meaning": "fluid"
+  },
+  {
+    "id": 249,
+    "kanji": "券",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "certificate"
+  },
+  {
+    "id": 250,
+    "kanji": "祭",
+    "onyomi": "サイ",
+    "kunyomi": "まつり festival   まつる to deify, enshrine",
+    "meaning": "festival"
+  },
+
   {
     "id": 48,
     "kanji": "湖",
     "onyomi": "ko",
     "kunyomi": "mizumi",
     "meaning": "lake"
-  },
-  {
-    "id": 54,
-    "kanji": "祭",
-    "onyomi": "sai",
-    "kunyomi": "matsu(ru)",
-    "meaning": "festival"
   },
   {
     "id": 56,
