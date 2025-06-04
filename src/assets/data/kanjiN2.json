@@ -1749,6 +1749,181 @@
     "kunyomi": "まつり festival   まつる to deify, enshrine",
     "meaning": "festival"
   },
+  {
+    "id": 251,
+    "kanji": "袋",
+    "onyomi": "タイ",
+    "kunyomi": "ふくろ a sack",
+    "meaning": "sack"
+  },
+  {
+    "id": 252,
+    "kanji": "燃",
+    "onyomi": "ネン",
+    "kunyomi": "もえる to be burning   もす   もやす to make burn",
+    "meaning": "burn"
+  },
+  {
+    "id": 253,
+    "kanji": "毒",
+    "onyomi": "ドク",
+    "kunyomi": "",
+    "meaning": "poison"
+  },
+  {
+    "id": 254,
+    "kanji": "札",
+    "onyomi": "サツ",
+    "kunyomi": "ふだ label, tag",
+    "meaning": "label"
+  },
+  {
+    "id": 255,
+    "kanji": "狙",
+    "onyomi": "ソ",
+    "kunyomi": "ねらい target   ねらう to aim at",
+    "meaning": "target"
+  },
+  {
+    "id": 256,
+    "kanji": "脇",
+    "onyomi": "わき armpit",
+    "kunyomi": "",
+    "meaning": "armpit"
+  },
+  {
+    "id": 257,
+    "kanji": "卒",
+    "onyomi": "ソツ",
+    "kunyomi": "",
+    "meaning": "graduate, soldier"
+  },
+  {
+    "id": 258,
+    "kanji": "副",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "assistant"
+  },
+  {
+    "id": 259,
+    "kanji": "敬",
+    "onyomi": "ケイ",
+    "kunyomi": "うやまう to respect, revere",
+    "meaning": "respect"
+  },
+  {
+    "id": 260,
+    "kanji": "針",
+    "onyomi": "シン",
+    "kunyomi": "はり needle",
+    "meaning": "needle"
+  },
+  {
+    "id": 261,
+    "kanji": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おがむ to pray, to venerate",
+    "meaning": "pray"
+  },
+  {
+    "id": 262,
+    "kanji": "浴",
+    "onyomi": "ヨク",
+    "kunyomi": "あびる to shower, to bask in   あびせる to pour on",
+    "meaning": "shower"
+  },
+  {
+    "id": 263,
+    "kanji": "悩",
+    "onyomi": "ノウ",
+    "kunyomi": "なやむ to be troubled   なやます to bother, annoy",
+    "meaning": "troubled"
+  },
+  {
+    "id": 264,
+    "kanji": "汚",
+    "onyomi": "オ",
+    "kunyomi": "きたない dirty   けがす to defile, stain   けがれる to be defiled   けがらわしい dirty, defiled   よごす to make dirty   よごれる to be dirty",
+    "meaning": "dirty"
+  },
+  {
+    "id": 265,
+    "kanji": "灯",
+    "onyomi": "トウ",
+    "kunyomi": "ひ lamp",
+    "meaning": "lamp"
+  },
+  {
+    "id": 266,
+    "kanji": "坊",
+    "onyomi": "ボウ   ボッ",
+    "kunyomi": "",
+    "meaning": "boy"
+  },
+  {
+    "id": 267,
+    "kanji": "尻",
+    "onyomi": "",
+    "kunyomi": "しり butt, buttocks",
+    "meaning": "butt"
+  },
+  {
+    "id": 268,
+    "kanji": "涙",
+    "onyomi": "ルイ",
+    "kunyomi": "なみだ tears",
+    "meaning": "tears"
+  },
+  {
+    "id": 269,
+    "kanji": "停",
+    "onyomi": "テイ",
+    "kunyomi": "",
+    "meaning": "halt"
+  },
+  {
+    "id": 270,
+    "kanji": "了",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "complete"
+  },
+  {
+    "id": 271,
+    "kanji": "汗",
+    "onyomi": "カン",
+    "kunyomi": "あせ sweat",
+    "meaning": "sweat"
+  },
+  {
+    "id": 272,
+    "kanji": "郵",
+    "onyomi": "ユウ",
+    "kunyomi": "",
+    "meaning": "mail"
+  },
+  {
+    "id": 273,
+    "kanji": "幅",
+    "onyomi": "フク",
+    "kunyomi": "はば breadth, width; range; influence",
+    "meaning": "breadth"
+  },
+  {
+    "id": 274,
+    "kanji": "童",
+    "onyomi": "ドウ",
+    "kunyomi": "わらべ a child",
+    "meaning": "child"
+  },
+  {
+    "id": 275,
+    "kanji": "虫",
+    "onyomi": "チュウ",
+    "kunyomi": "むし insect",
+    "meaning": "insect"
+  },
 
   {
     "id": 48,
@@ -1777,13 +1952,6 @@
     "onyomi": "chuu",
     "kunyomi": "hashira",
     "meaning": "pillar"
-  },
-  {
-    "id": 139,
-    "kanji": "童",
-    "onyomi": "dou",
-    "kunyomi": "warabe",
-    "meaning": "child"
   },
   {
     "id": 155,
