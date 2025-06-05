@@ -1924,14 +1924,182 @@
     "kunyomi": "むし insect",
     "meaning": "insect"
   },
-
   {
-    "id": 48,
+    "id": 276,
+    "kanji": "埋",
+    "onyomi": "イ",
+    "kunyomi": "うめる to bury   うまる be buried   うもれる be buried (in oblivion)",
+    "meaning": "bury"
+  },
+  {
+    "id": 277,
+    "kanji": "舟",
+    "onyomi": "シュウ",
+    "kunyomi": "ふね boat   ふな-",
+    "meaning": "boat"
+  },
+  {
+    "id": 278,
+    "kanji": "闇",
+    "onyomi": "",
+    "kunyomi": "やみ darkness",
+    "meaning": "darkness"
+  },
+  {
+    "id": 279,
+    "kanji": "棒",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "pole"
+  },
+  {
+    "id": 280,
+    "kanji": "貨",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "freight"
+  },
+  {
+    "id": 281,
+    "kanji": "肌",
+    "onyomi": "",
+    "kunyomi": "はだ skin, complexion",
+    "meaning": "skin"
+  },
+  {
+    "id": 282,
+    "kanji": "臓",
+    "onyomi": "ゾウ",
+    "kunyomi": "",
+    "meaning": "entrails"
+  },
+  {
+    "id": 283,
+    "kanji": "塩",
+    "onyomi": "エン",
+    "kunyomi": "しお salt",
+    "meaning": "salt"
+  },
+  {
+    "id": 284,
+    "kanji": "均",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "meaning": "level"
+  },
+  {
+    "id": 285,
     "kanji": "湖",
-    "onyomi": "ko",
-    "kunyomi": "mizumi",
+    "onyomi": "コ",
+    "kunyomi": "みずうみ lake",
     "meaning": "lake"
   },
+  {
+    "id": 286,
+    "kanji": "損",
+    "onyomi": "ソン",
+    "kunyomi": "そこなう   そこねる to injure, to harm",
+    "meaning": "injure"
+  },
+  {
+    "id": 287,
+    "kanji": "膝",
+    "onyomi": "",
+    "kunyomi": "ひざ knee",
+    "meaning": "knee"
+  },
+  {
+    "id": 288,
+    "kanji": "辛",
+    "onyomi": "シン",
+    "kunyomi": "からい spicy",
+    "meaning": "spicy"
+  },
+  {
+    "id": 289,
+    "kanji": "双",
+    "onyomi": "ソウ",
+    "kunyomi": "ふた pair",
+    "meaning": "pair"
+  },
+  {
+    "id": 290,
+    "kanji": "軒",
+    "onyomi": "ケン",
+    "kunyomi": "のき eaves",
+    "meaning": "building"
+  },
+  {
+    "id": 291,
+    "kanji": "績",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "achievement"
+  },
+  {
+    "id": 292,
+    "kanji": "干",
+    "onyomi": "カン",
+    "kunyomi": "ひる to get dry   ほす to dry (something), to air",
+    "meaning": "dry, drying frame"
+  },
+  {
+    "id": 293,
+    "kanji": "姓",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "",
+    "meaning": "surname"
+  },
+  {
+    "id": 294,
+    "kanji": "掘",
+    "onyomi": "クツ",
+    "kunyomi": "ほる to dig",
+    "meaning": "dig"
+  },
+  {
+    "id": 295,
+    "kanji": "籍",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "register"
+  },
+  {
+    "id": 296,
+    "kanji": "珍",
+    "onyomi": "チン",
+    "kunyomi": "めずらしい rare, unusual",
+    "meaning": "rare"
+  },
+  {
+    "id": 297,
+    "kanji": "訓",
+    "onyomi": "クン",
+    "kunyomi": "",
+    "meaning": "teaching"
+  },
+  {
+    "id": 298,
+    "kanji": "預",
+    "onyomi": "ヨ",
+    "kunyomi": "あずける to deposit   あずかる to receive on deposit",
+    "meaning": "deposit"
+  },
+  {
+    "id": 299,
+    "kanji": "署",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "station, signature"
+  },
+  {
+    "id": 300,
+    "kanji": "漁",
+    "onyomi": "ギョ   リョウ",
+    "kunyomi": "",
+    "meaning": "fishing"
+  },
+
   {
     "id": 56,
     "kanji": "皿",
