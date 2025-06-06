@@ -2099,6 +2099,181 @@
     "kunyomi": "",
     "meaning": "fishing"
   },
+  {
+    "id": 301,
+    "kanji": "緑",
+    "onyomi": "ロク   リョク",
+    "kunyomi": "みどり green",
+    "meaning": "green"
+  },
+  {
+    "id": 302,
+    "kanji": "畳",
+    "onyomi": "ジョウ",
+    "kunyomi": "たたむ to fold up   たたみ tatami",
+    "meaning": "fold"
+  },
+  {
+    "id": 303,
+    "kanji": "咲",
+    "onyomi": "",
+    "kunyomi": "さく to blossom, bloom",
+    "meaning": "blossom"
+  },
+  {
+    "id": 304,
+    "kanji": "貿",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "trade"
+  },
+  {
+    "id": 305,
+    "kanji": "踊",
+    "onyomi": "ヨウ",
+    "kunyomi": "おどり a dance   おどる to jump, to dance",
+    "meaning": "dance"
+  },
+  {
+    "id": 306,
+    "kanji": "封",
+    "onyomi": "フウ   ホウ",
+    "kunyomi": "",
+    "meaning": "seal"
+  },
+  {
+    "id": 307,
+    "kanji": "兆",
+    "onyomi": "チョウ",
+    "kunyomi": "きざし sign, indication   きざす to show signs (of)",
+    "meaning": "sign"
+  },
+  {
+    "id": 308,
+    "kanji": "柱",
+    "onyomi": "チュウ",
+    "kunyomi": "はしら pillar",
+    "meaning": "pillar"
+  },
+  {
+    "id": 309,
+    "kanji": "駐",
+    "onyomi": "チュウ",
+    "kunyomi": "",
+    "meaning": "stop over"
+  },
+  {
+    "id": 310,
+    "kanji": "祝",
+    "onyomi": "シュク   シュウ",
+    "kunyomi": "いわう to celebrate",
+    "meaning": "celebrate"
+  },
+  {
+    "id": 311,
+    "kanji": "炭",
+    "onyomi": "タン",
+    "kunyomi": "すみ coal, charcoal",
+    "meaning": "coal"
+  },
+  {
+    "id": 312,
+    "kanji": "柔",
+    "onyomi": "ジュウ   ニュウ",
+    "kunyomi": "やわらかい soft",
+    "meaning": "soft"
+  },
+  {
+    "id": 313,
+    "kanji": "雇",
+    "onyomi": "コ",
+    "kunyomi": "やとう to employ",
+    "meaning": "employ"
+  },
+  {
+    "id": 314,
+    "kanji": "乾",
+    "onyomi": "カン",
+    "kunyomi": "かわく to dry up   かわかす to dry, desiccate",
+    "meaning": "dry up"
+  },
+  {
+    "id": 315,
+    "kanji": "鋭",
+    "onyomi": "エイ",
+    "kunyomi": "するどい sharp",
+    "meaning": "sharp"
+  },
+  {
+    "id": 316,
+    "kanji": "氷",
+    "onyomi": "ヒョウ",
+    "kunyomi": "ひ   こおり ice",
+    "meaning": "ice"
+  },
+  {
+    "id": 317,
+    "kanji": "隅",
+    "onyomi": "グウ",
+    "kunyomi": "すみ corner, niche",
+    "meaning": "corner"
+  },
+  {
+    "id": 318,
+    "kanji": "冊",
+    "onyomi": "サツ   サク",
+    "kunyomi": "",
+    "meaning": "volume"
+  },
+  {
+    "id": 319,
+    "kanji": "糸",
+    "onyomi": "シ",
+    "kunyomi": "いと thread",
+    "meaning": "thread"
+  },
+  {
+    "id": 320,
+    "kanji": "募",
+    "onyomi": "ボ",
+    "kunyomi": "つのる to appeal for; to become stronger",
+    "meaning": "appeal for"
+  },
+  {
+    "id": 321,
+    "kanji": "硬",
+    "onyomi": "コウ",
+    "kunyomi": "かたい hard",
+    "meaning": "hard"
+  },
+  {
+    "id": 322,
+    "kanji": "塗",
+    "onyomi": "ト",
+    "kunyomi": "ぬる to paint",
+    "meaning": "paint"
+  },
+  {
+    "id": 323,
+    "kanji": "憎",
+    "onyomi": "ゾウ",
+    "kunyomi": "にくむ to hate   にくしみ hatred   にくい   にくらしい odious, hateful",
+    "meaning": "hate"
+  },
+  {
+    "id": 324,
+    "kanji": "泥",
+    "onyomi": "デイ",
+    "kunyomi": "どろ mud",
+    "meaning": "mud"
+  },
+  {
+    "id": 325,
+    "kanji": "脂",
+    "onyomi": "シ",
+    "kunyomi": "あぶら fat, grease",
+    "meaning": "fat"
+  },
 
   {
     "id": 56,
@@ -2115,31 +2290,10 @@
     "meaning": "pick up"
   },
   {
-    "id": 120,
-    "kanji": "柱",
-    "onyomi": "chuu",
-    "kunyomi": "hashira",
-    "meaning": "pillar"
-  },
-  {
-    "id": 155,
-    "kanji": "氷",
-    "onyomi": "hyou",
-    "kunyomi": "koori",
-    "meaning": "ice"
-  },
-  {
     "id": 158,
     "kanji": "秒",
     "onyomi": "byou",
     "kunyomi": "",
     "meaning": "second (time)"
-  },
-  {
-    "id": 189,
-    "kanji": "緑",
-    "onyomi": "ryoku",
-    "kunyomi": "midori",
-    "meaning": "green"
   }
 ]
