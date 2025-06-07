@@ -2274,21 +2274,182 @@
     "kunyomi": "あぶら fat, grease",
     "meaning": "fat"
   },
-
   {
-    "id": 56,
+    "id": 326,
+    "kanji": "粉",
+    "onyomi": "フン",
+    "kunyomi": "こな   こ flour, powder",
+    "meaning": "flour"
+  },
+  {
+    "id": 327,
+    "kanji": "詞",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "part of speech"
+  },
+  {
+    "id": 328,
+    "kanji": "筒",
+    "onyomi": "トウ",
+    "kunyomi": "つつ cylinder, tube, pipe",
+    "meaning": "cylinder"
+  },
+  {
+    "id": 329,
+    "kanji": "掃",
+    "onyomi": "ソウ",
+    "kunyomi": "はく to sweep",
+    "meaning": "sweep"
+  },
+  {
+    "id": 330,
+    "kanji": "塔",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "meaning": "pagoda"
+  },
+  {
+    "id": 331,
+    "kanji": "賢",
+    "onyomi": "ケン",
+    "kunyomi": "かしこい wise",
+    "meaning": "wise"
+  },
+  {
+    "id": 332,
+    "kanji": "拾",
+    "onyomi": "シュウ   ジュウ",
+    "kunyomi": "ひろう to pick up",
+    "meaning": "pick up"
+  },
+  {
+    "id": 333,
+    "kanji": "麦",
+    "onyomi": "バク",
+    "kunyomi": "むぎ wheat, barley",
+    "meaning": "wheat"
+  },
+  {
+    "id": 334,
+    "kanji": "刷",
+    "onyomi": "サツ",
+    "kunyomi": "する to print",
+    "meaning": "print"
+  },
+  {
+    "id": 335,
+    "kanji": "卵",
+    "onyomi": "ラン",
+    "kunyomi": "たまご egg",
+    "meaning": "egg"
+  },
+  {
+    "id": 336,
+    "kanji": "械",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "contraption"
+  },
+  {
+    "id": 337,
     "kanji": "皿",
-    "onyomi": "bei",
-    "kunyomi": "sara",
+    "onyomi": "",
+    "kunyomi": "さら dish",
     "meaning": "plate, dish"
   },
   {
-    "id": 78,
-    "kanji": "拾",
-    "onyomi": "shuu",
-    "kunyomi": "hiro(u)",
-    "meaning": "pick up"
+    "id": 338,
+    "kanji": "祈",
+    "onyomi": "キ",
+    "kunyomi": "いのる to pray",
+    "meaning": "pray"
   },
+  {
+    "id": 339,
+    "kanji": "灰",
+    "onyomi": "カイ",
+    "kunyomi": "はい ashes",
+    "meaning": "ash"
+  },
+  {
+    "id": 340,
+    "kanji": "召",
+    "onyomi": "ショウ",
+    "kunyomi": "めす to summon",
+    "meaning": "summon"
+  },
+  {
+    "id": 341,
+    "kanji": "溶",
+    "onyomi": "ヨウ",
+    "kunyomi": "とける to dissolve, to melt   とく   とかす to dissolve (tr), to (cause to) melt",
+    "meaning": "dissolve"
+  },
+  {
+    "id": 342,
+    "kanji": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みがく to polish, grind",
+    "meaning": "polish"
+  },
+  {
+    "id": 343,
+    "kanji": "粒",
+    "onyomi": "リュウ",
+    "kunyomi": "つぶ a grain",
+    "meaning": "grain"
+  },
+  {
+    "id": 344,
+    "kanji": "喫",
+    "onyomi": "キツ",
+    "kunyomi": "",
+    "meaning": "eat, drink, smoke"
+  },
+  {
+    "id": 345,
+    "kanji": "机",
+    "onyomi": "キ",
+    "kunyomi": "つくえ desk",
+    "meaning": "desk"
+  },
+  {
+    "id": 346,
+    "kanji": "貯",
+    "onyomi": "チョ",
+    "kunyomi": "",
+    "meaning": "savings"
+  },
+  {
+    "id": 347,
+    "kanji": "匹",
+    "onyomi": "ヒツ",
+    "kunyomi": "ひき counter for animals",
+    "meaning": "counter for animals"
+  },
+  {
+    "id": 348,
+    "kanji": "綿",
+    "onyomi": "メン",
+    "kunyomi": "わた cotton",
+    "meaning": "cotton"
+  },
+  {
+    "id": 349,
+    "kanji": "贈",
+    "onyomi": "ゾウ",
+    "kunyomi": "おくる to present, to give",
+    "meaning": "to present"
+  },
+  {
+    "id": 350,
+    "kanji": "凍",
+    "onyomi": "トウ",
+    "kunyomi": "こおる to freeze   こごえる to be chilled, numbed, frozen",
+    "meaning": "freeze"
+  },
+
   {
     "id": 158,
     "kanji": "秒",
