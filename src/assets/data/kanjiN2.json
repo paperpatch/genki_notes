@@ -2449,12 +2449,214 @@
     "kunyomi": "こおる to freeze   こごえる to be chilled, numbed, frozen",
     "meaning": "freeze"
   },
-
   {
-    "id": 158,
+    "id": 351,
+    "kanji": "瓶",
+    "onyomi": "ビン",
+    "kunyomi": "",
+    "meaning": "flower pot"
+  },
+  {
+    "id": 352,
+    "kanji": "帽",
+    "onyomi": "ボウ",
+    "kunyomi": "",
+    "meaning": "cap"
+  },
+  {
+    "id": 353,
+    "kanji": "涼",
+    "onyomi": "リョウ",
+    "kunyomi": "すずしい refreshing   すずむ to cool oneself off",
+    "meaning": "refreshing"
+  },
+  {
+    "id": 354,
     "kanji": "秒",
-    "onyomi": "byou",
+    "onyomi": "ビョウ",
     "kunyomi": "",
     "meaning": "second (time)"
+  },
+  {
+    "id": 355,
+    "kanji": "湿",
+    "onyomi": "シツ",
+    "kunyomi": "しめる to be/become damp   しめす to moisten",
+    "meaning": "damp"
+  },
+  {
+    "id": 356,
+    "kanji": "蒸",
+    "onyomi": "ジョウ",
+    "kunyomi": "むす to heat with steam   むれる to be steamed; to get musty   むらす to cook with steam",
+    "meaning": "heat with steam"
+  },
+  {
+    "id": 357,
+    "kanji": "菓",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "candy"
+  },
+  {
+    "id": 358,
+    "kanji": "耕",
+    "onyomi": "コウ",
+    "kunyomi": "たがやす to cultivate, to plow, to till",
+    "meaning": "cultivate"
+  },
+  {
+    "id": 359,
+    "kanji": "鉱",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "mineral"
+  },
+  {
+    "id": 360,
+    "kanji": "膚",
+    "onyomi": "",
+    "kunyomi": "フ skin",
+    "meaning": "skin"
+  },
+  {
+    "id": 361,
+    "kanji": "胃",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "stomach"
+  },
+  {
+    "id": 362,
+    "kanji": "挟",
+    "onyomi": "キョウ",
+    "kunyomi": "はさむ to put between   はさまる to be caught between",
+    "meaning": "put between"
+  },
+  {
+    "id": 363,
+    "kanji": "郊",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "suburbs"
+  },
+  {
+    "id": 364,
+    "kanji": "銅",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "meaning": "copper"
+  },
+  {
+    "id": 365,
+    "kanji": "鈍",
+    "onyomi": "ドン",
+    "kunyomi": "にぶい dull   にぶる to become dull",
+    "meaning": "dull"
+  },
+  {
+    "id": 366,
+    "kanji": "貝",
+    "onyomi": "",
+    "kunyomi": "かい shellfish",
+    "meaning": "shellfish"
+  },
+  {
+    "id": 367,
+    "kanji": "缶",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "can"
+  },
+  {
+    "id": 368,
+    "kanji": "枯",
+    "onyomi": "コ",
+    "kunyomi": "かれる to wither   からす to let wither; to dry out (tr)",
+    "meaning": "wither"
+  },
+  {
+    "id": 369,
+    "kanji": "滴",
+    "onyomi": "テキ",
+    "kunyomi": "しずく to drip, drop   したたる to drip, to trickle",
+    "meaning": "drip"
+  },
+  {
+    "id": 370,
+    "kanji": "符",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "meaning": "sign"
+  },
+  {
+    "id": 371,
+    "kanji": "畜",
+    "onyomi": "チク",
+    "kunyomi": "",
+    "meaning": "animal raising"
+  },
+  {
+    "id": 372,
+    "kanji": "軟",
+    "onyomi": "ナン",
+    "kunyomi": "やわらか   やわらかい soft",
+    "meaning": "soft"
+  },
+  {
+    "id": 373,
+    "kanji": "濯",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "laundry"
+  },
+  {
+    "id": 374,
+    "kanji": "隻",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "meaning": "ships"
+  },
+  {
+    "id": 375,
+    "kanji": "伺",
+    "onyomi": "シ",
+    "kunyomi": "うかがう to visit; to ask",
+    "meaning": "visit"
+  },
+  {
+    "id": 376,
+    "kanji": "沸",
+    "onyomi": "フツ",
+    "kunyomi": "わかす to bring to a boil   わく to be boiling",
+    "meaning": "boil"
+  },
+  {
+    "id": 377,
+    "kanji": "曇",
+    "onyomi": "ドン",
+    "kunyomi": "くもる to be cloudy",
+    "meaning": "cloudy"
+  },
+  {
+    "id": 378,
+    "kanji": "肯",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "agreement"
+  },
+  {
+    "id": 379,
+    "kanji": "燥",
+    "onyomi": "ソウ",
+    "kunyomi": "",
+    "meaning": "dry up"
+  },
+  {
+    "id": 380,
+    "kanji": "零",
+    "onyomi": "レイ",
+    "kunyomi": "",
+    "meaning": "zero"
   }
 ]
