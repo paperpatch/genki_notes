@@ -175,80 +175,241 @@
     "meaning": "price"
   },
   {
-    "id": 2,
+    "id": 26,
+    "kanji": "撃",
+    "onyomi": "ゲキ",
+    "kunyomi": "うつ to trounce, to beat",
+    "meaning": "trounce"
+  },
+  {
+    "id": 27,
+    "kanji": "振",
+    "onyomi": "シン",
+    "kunyomi": "ふる   ふれる to wield, swing, wave   ふるう to wield, swing; prosper",
+    "meaning": "wield"
+  },
+  {
+    "id": 28,
+    "kanji": "証",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "meaning": "evidence"
+  },
+  {
+    "id": 29,
+    "kanji": "派",
+    "onyomi": "ハ",
+    "kunyomi": "",
+    "meaning": "faction"
+  },
+  {
+    "id": 30,
+    "kanji": "僕",
+    "onyomi": "ボク",
+    "kunyomi": "",
+    "meaning": "me"
+  },
+  {
+    "id": 31,
+    "kanji": "佐",
+    "onyomi": "サ",
+    "kunyomi": "",
+    "meaning": "help"
+  },
+  {
+    "id": 32,
+    "kanji": "紀",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "chronicle"
+  },
+  {
+    "id": 33,
+    "kanji": "統",
+    "onyomi": "トウ",
+    "kunyomi": "すべる to govern, to control",
+    "meaning": "govern"
+  },
+  {
+    "id": 34,
+    "kanji": "器",
+    "onyomi": "キ",
+    "kunyomi": "うつわ utensil",
+    "meaning": "utensil"
+  },
+  {
+    "id": 35,
+    "kanji": "異",
+    "onyomi": "イ",
+    "kunyomi": "こと different",
+    "meaning": "different"
+  },
+  {
+    "id": 36,
+    "kanji": "護",
+    "onyomi": "ゴ",
+    "kunyomi": "",
+    "meaning": "defend"
+  },
+  {
+    "id": 37,
+    "kanji": "条",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "twig"
+  },
+  {
+    "id": 38,
+    "kanji": "独",
+    "onyomi": "ドク",
+    "kunyomi": "ひとり alone",
+    "meaning": "alone"
+  },
+  {
+    "id": 39,
+    "kanji": "源",
+    "onyomi": "ゲン",
+    "kunyomi": "みなもと source, origin",
+    "meaning": "source"
+  },
+  {
+    "id": 40,
+    "kanji": "影",
+    "onyomi": "エイ",
+    "kunyomi": "かげ shadow",
+    "meaning": "shadow"
+  },
+  {
+    "id": 41,
+    "kanji": "眼",
+    "onyomi": "ガン   ゲン",
+    "kunyomi": "まなこ eye, eyeball",
+    "meaning": "eye"
+  },
+  {
+    "id": 42,
+    "kanji": "企",
+    "onyomi": "キ",
+    "kunyomi": "くわだてる to plan, to undertake, to attempt",
+    "meaning": "plan"
+  },
+  {
+    "id": 43,
+    "kanji": "津",
+    "onyomi": "シン",
+    "kunyomi": "つ an inlet, a haven",
+    "meaning": "inlet"
+  },
+  {
+    "id": 44,
     "kanji": "案",
-    "onyomi": "an",
+    "onyomi": "アン",
     "kunyomi": "",
     "meaning": "plan, proposal"
   },
   {
-    "id": 28,
-    "kanji": "級",
-    "onyomi": "kyuu",
+    "id": 45,
+    "kanji": "策",
+    "onyomi": "サク",
     "kunyomi": "",
-    "meaning": "class, rank"
+    "meaning": "policy"
   },
   {
-    "id": 86,
-    "kanji": "暑",
-    "onyomi": "sho",
-    "kunyomi": "atsu(i)",
-    "meaning": "hot (weather)"
+    "id": 46,
+    "kanji": "宗",
+    "onyomi": "シュウ   ソウ",
+    "kunyomi": "",
+    "meaning": "religion"
   },
   {
-    "id": 88,
+    "id": 47,
+    "kanji": "提",
+    "onyomi": "テイ",
+    "kunyomi": "さげる propose, take along, carry in hand",
+    "meaning": "submit"
+  },
+  {
+    "id": 48,
     "kanji": "昭",
-    "onyomi": "shou",
+    "onyomi": "ショウ",
     "kunyomi": "",
     "meaning": "shining, bright"
   },
   {
-    "id": 102,
-    "kanji": "整",
-    "onyomi": "sei",
-    "kunyomi": "totono(eru), totono(u)",
-    "meaning": "arrange, adjust"
-  },
-  {
-    "id": 121,
-    "kanji": "丁",
-    "onyomi": "chou, tei",
+    "id": 49,
+    "kanji": "密",
+    "onyomi": "ミツ",
     "kunyomi": "",
-    "meaning": "street, ward"
+    "meaning": "secret"
   },
   {
-    "id": 122,
+    "id": 50,
+    "kanji": "司",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "administer"
+  },
+  {
+    "id": 99,
+    "kanji": "整",
+    "onyomi": "セイ",
+    "kunyomi": "ととのえる to put in order   ととのう to be put in order, to be prepared",
+    "meaning": "put in order, arrange, adjust"
+  },
+  {
+    "id": 119,
+    "kanji": "級",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "class, rank"
+  },
+  {
+    "id": 283,
+    "kanji": "丁",
+    "onyomi": "チョウ   テイ",
+    "kunyomi": "",
+    "meaning": "block, street, ward"
+  },
+  {
+    "id": 396,
+    "kanji": "豆",
+    "onyomi": "トウ   ズ",
+    "kunyomi": "まめ bean",
+    "meaning": "bean"
+  },
+  {
+    "id": 438,
     "kanji": "帳",
-    "onyomi": "chou",
+    "onyomi": "チョウ",
     "kunyomi": "",
     "meaning": "notebook, account book"
   },
   {
-    "id": 127,
-    "kanji": "笛",
-    "onyomi": "teki",
-    "kunyomi": "fue",
-    "meaning": "flute"
-  },
-  {
-    "id": 133,
-    "kanji": "豆",
-    "onyomi": "tou",
-    "kunyomi": "mame",
-    "meaning": "bean"
-  },
-  {
-    "id": 145,
+    "id": 518,
     "kanji": "畑",
     "onyomi": "",
-    "kunyomi": "hatake",
-    "meaning": "field"
+    "kunyomi": "はた   はたけ cultivated field",
+    "meaning": "cultivated field"
   },
   {
-    "id": 180,
+    "id": 646,
+    "kanji": "暑",
+    "onyomi": "ショ",
+    "kunyomi": "あつい hot (weather)",
+    "meaning": "hot (weather)"
+  },
+  {
+    "id": 758,
     "kanji": "羊",
-    "onyomi": "you",
-    "kunyomi": "hitsuji",
+    "onyomi": "ヨウ",
+    "kunyomi": "ひつじ sheep",
     "meaning": "sheep"
+  },
+  {
+    "id": 876,
+    "kanji": "笛",
+    "onyomi": "テキ",
+    "kunyomi": "ふえ flute, whistle",
+    "meaning": "flute"
   }
 ]
