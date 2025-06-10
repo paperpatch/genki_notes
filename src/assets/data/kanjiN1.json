@@ -1,5 +1,180 @@
 [
   {
+    "id": 1,
+    "kanji": "郎",
+    "onyomi": "ロウ",
+    "kunyomi": "",
+    "meaning": "husband"
+  },
+  {
+    "id": 2,
+    "kanji": "結",
+    "onyomi": "ケツ",
+    "kunyomi": "むすぶ   ゆわえる to bind   ゆう to braid",
+    "meaning": "bind"
+  },
+  {
+    "id": 3,
+    "kanji": "氏",
+    "onyomi": "シ",
+    "kunyomi": "family; Mr / Mrs   うじ family name",
+    "meaning": "family"
+  },
+  {
+    "id": 4,
+    "kanji": "衛",
+    "onyomi": "エイ",
+    "kunyomi": "",
+    "meaning": "defense"
+  },
+  {
+    "id": 5,
+    "kanji": "第",
+    "onyomi": "ダイ",
+    "kunyomi": "",
+    "meaning": "number"
+  },
+  {
+    "id": 6,
+    "kanji": "保",
+    "onyomi": "ホ",
+    "kunyomi": "たもつ to protect, safeguard",
+    "meaning": "protect"
+  },
+  {
+    "id": 7,
+    "kanji": "義",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "meaning": "honour, meaning"
+  },
+  {
+    "id": 8,
+    "kanji": "吉",
+    "onyomi": "キツ   キチ",
+    "kunyomi": "",
+    "meaning": "good luck"
+  },
+  {
+    "id": 9,
+    "kanji": "士",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "samurai"
+  },
+  {
+    "id": 10,
+    "kanji": "藤",
+    "onyomi": "トウ",
+    "kunyomi": "ふじ wisteria",
+    "meaning": "wisteria"
+  },
+  {
+    "id": 11,
+    "kanji": "井",
+    "onyomi": "セイ   ショウ",
+    "kunyomi": "い a well",
+    "meaning": "well"
+  },
+  {
+    "id": 12,
+    "kanji": "江",
+    "onyomi": "コウ",
+    "kunyomi": "え stream, creek",
+    "meaning": "stream"
+  },
+  {
+    "id": 13,
+    "kanji": "張",
+    "onyomi": "チョウ",
+    "kunyomi": "はる to stretch",
+    "meaning": "stretch"
+  },
+  {
+    "id": 14,
+    "kanji": "松",
+    "onyomi": "ショウ",
+    "kunyomi": "まつ pine tree",
+    "meaning": "pine tree"
+  },
+  {
+    "id": 15,
+    "kanji": "応",
+    "onyomi": "オウ",
+    "kunyomi": "おうじる to satisfy, reply, comply   こたえる to respond to",
+    "meaning": "satisfy"
+  },
+  {
+    "id": 16,
+    "kanji": "視",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "see"
+  },
+  {
+    "id": 17,
+    "kanji": "態",
+    "onyomi": "タイ",
+    "kunyomi": "",
+    "meaning": "condition"
+  },
+  {
+    "id": 18,
+    "kanji": "姿",
+    "onyomi": "シ",
+    "kunyomi": "すがた appearance, form, shape",
+    "meaning": "appearance"
+  },
+  {
+    "id": 19,
+    "kanji": "皇",
+    "onyomi": "コウ   オウ",
+    "kunyomi": "",
+    "meaning": "emperor"
+  },
+  {
+    "id": 20,
+    "kanji": "宮",
+    "onyomi": "ク   キュウ   グウ",
+    "kunyomi": "みや palace, shrine",
+    "meaning": "shrine, palace"
+  },
+  {
+    "id": 21,
+    "kanji": "離",
+    "onyomi": "リ",
+    "kunyomi": "はなれる to be separated, detached   はなす to separate, to detach",
+    "meaning": "separate"
+  },
+  {
+    "id": 22,
+    "kanji": "基",
+    "onyomi": "キ",
+    "kunyomi": "もと foundation, basis   もとい cause",
+    "meaning": "foundation"
+  },
+  {
+    "id": 23,
+    "kanji": "隊",
+    "onyomi": "タイ",
+    "kunyomi": "",
+    "meaning": "squad"
+  },
+  {
+    "id": 24,
+    "kanji": "素",
+    "onyomi": "ソ   ス",
+    "kunyomi": "",
+    "meaning": "element"
+  },
+  {
+    "id": 25,
+    "kanji": "価",
+    "onyomi": "カ",
+    "kunyomi": "あたい price, value",
+    "meaning": "price"
+  },
+  {
     "id": 2,
     "kanji": "案",
     "onyomi": "an",
@@ -12,13 +187,6 @@
     "onyomi": "kyuu",
     "kunyomi": "",
     "meaning": "class, rank"
-  },
-  {
-    "id": 29,
-    "kanji": "宮",
-    "onyomi": "kyuu, guu",
-    "kunyomi": "miya",
-    "meaning": "shrine, palace"
   },
   {
     "id": 86,
