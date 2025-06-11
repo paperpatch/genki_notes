@@ -350,6 +350,181 @@
     "meaning": "administer"
   },
   {
+    "id": 51,
+    "kanji": "検",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "investigation"
+  },
+  {
+    "id": 52,
+    "kanji": "康",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "peace"
+  },
+  {
+    "id": 53,
+    "kanji": "沢",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "marsh"
+  },
+  {
+    "id": 54,
+    "kanji": "秀",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "meaning": "excellent"
+  },
+  {
+    "id": 55,
+    "kanji": "興",
+    "onyomi": "コウ   キョウ",
+    "kunyomi": "entertainment, interest   おこる to flourish   おこす to establish",
+    "meaning": "entertainment"
+  },
+  {
+    "id": 56,
+    "kanji": "率",
+    "onyomi": "ソツ   リツ",
+    "kunyomi": "ひきいる to lead, to command",
+    "meaning": "lead, ratio"
+  },
+  {
+    "id": 57,
+    "kanji": "評",
+    "onyomi": "ヒョウ",
+    "kunyomi": "",
+    "meaning": "criticism"
+  },
+  {
+    "id": 58,
+    "kanji": "監",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "keep watch"
+  },
+  {
+    "id": 59,
+    "kanji": "崎",
+    "onyomi": "",
+    "kunyomi": "さき headland, small peninsula",
+    "meaning": "headland"
+  },
+  {
+    "id": 60,
+    "kanji": "鮮",
+    "onyomi": "セン",
+    "kunyomi": "あざやか vivid, fresh, bright",
+    "meaning": "vivid"
+  },
+  {
+    "id": 61,
+    "kanji": "激",
+    "onyomi": "ゲキ",
+    "kunyomi": "はげしい violent",
+    "meaning": "violent"
+  },
+  {
+    "id": 62,
+    "kanji": "徳",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "benevolence"
+  },
+  {
+    "id": 63,
+    "kanji": "挙",
+    "onyomi": "キョ",
+    "kunyomi": "あがる to rise up   あげる to give; to arrest; to quote",
+    "meaning": "rise up"
+  },
+  {
+    "id": 64,
+    "kanji": "志",
+    "onyomi": "シ",
+    "kunyomi": "こころざす to plan, to intend   こころざし good intention",
+    "meaning": "good intention"
+  },
+  {
+    "id": 65,
+    "kanji": "敷",
+    "onyomi": "フ",
+    "kunyomi": "しく to spread out, to lay",
+    "meaning": "spread out"
+  },
+  {
+    "id": 66,
+    "kanji": "系",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "meaning": "system"
+  },
+  {
+    "id": 67,
+    "kanji": "織",
+    "onyomi": "ショク   シキ",
+    "kunyomi": "おる to weave",
+    "meaning": "weave"
+  },
+  {
+    "id": 68,
+    "kanji": "製",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "meaning": "manufacture"
+  },
+  {
+    "id": 69,
+    "kanji": "端",
+    "onyomi": "タン",
+    "kunyomi": "は   はし   はた    edge, tip",
+    "meaning": "edge"
+  },
+  {
+    "id": 70,
+    "kanji": "遺",
+    "onyomi": "イ   ユイ",
+    "kunyomi": "",
+    "meaning": "bequest"
+  },
+  {
+    "id": 71,
+    "kanji": "房",
+    "onyomi": "ボウ",
+    "kunyomi": "ふさ a tassle",
+    "meaning": "room"
+  },
+  {
+    "id": 72,
+    "kanji": "街",
+    "onyomi": "カイ   ガイ",
+    "kunyomi": "まち town, thoroughfare, street",
+    "meaning": "town"
+  },
+  {
+    "id": 73,
+    "kanji": "尾",
+    "onyomi": "ビ",
+    "kunyomi": "お tail",
+    "meaning": "tail"
+  },
+  {
+    "id": 74,
+    "kanji": "株",
+    "onyomi": "",
+    "kunyomi": "かぶ stock",
+    "meaning": "stock"
+  },
+  {
+    "id": 75,
+    "kanji": "従",
+    "onyomi": "ジュウ   ショウ   ジュ",
+    "kunyomi": "したがう to obey   したがえる to be accompanied by",
+    "meaning": "obey"
+  },
+  {
     "id": 99,
     "kanji": "整",
     "onyomi": "セイ",
