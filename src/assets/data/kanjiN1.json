@@ -525,11 +525,305 @@
     "meaning": "obey"
   },
   {
+    "id": 76,
+    "kanji": "敵",
+    "onyomi": "テキ",
+    "kunyomi": "かたき enemy",
+    "meaning": "enemy"
+  },
+  {
+    "id": 77,
+    "kanji": "展",
+    "onyomi": "テン",
+    "kunyomi": "",
+    "meaning": "expand"
+  },
+  {
+    "id": 78,
+    "kanji": "描",
+    "onyomi": "ビョウ",
+    "kunyomi": "かく   えがく to draw, depict, portray",
+    "meaning": "draw"
+  },
+  {
+    "id": 79,
+    "kanji": "修",
+    "onyomi": "シュウ   シュ",
+    "kunyomi": "おさめる to master",
+    "meaning": "to master"
+  },
+  {
+    "id": 80,
+    "kanji": "我",
+    "onyomi": "ガ",
+    "kunyomi": "われ    I, myself   わが-",
+    "meaning": "I, myself"
+  },
+  {
+    "id": 81,
+    "kanji": "載",
+    "onyomi": "サイ",
+    "kunyomi": "のる to be placed on, appear in print   のせる to place on, publish",
+    "meaning": "place on"
+  },
+  {
+    "id": 82,
+    "kanji": "響",
+    "onyomi": "キョウ",
+    "kunyomi": "ひびく to affect; to resound",
+    "meaning": "affect"
+  },
+  {
+    "id": 83,
+    "kanji": "秘",
+    "onyomi": "ヒ",
+    "kunyomi": "ひめる to keep secret",
+    "meaning": "secret"
+  },
+  {
+    "id": 84,
+    "kanji": "攻",
+    "onyomi": "コウ",
+    "kunyomi": "せめる to launch an attack",
+    "meaning": "attack"
+  },
+  {
+    "id": 85,
+    "kanji": "健",
+    "onyomi": "ケン",
+    "kunyomi": "すこやか healthy",
+    "meaning": "healthy"
+  },
+  {
+    "id": 86,
+    "kanji": "裁",
+    "onyomi": "サイ",
+    "kunyomi": "さばく to pass judgment, pass judgement   たつ to cut (cloth etc.)",
+    "meaning": "pass judgment"
+  },
+  {
+    "id": 87,
+    "kanji": "隠",
+    "onyomi": "イン",
+    "kunyomi": "かくす to hide, to conceal   かくれる to hide, to be in hiding",
+    "meaning": "hide"
+  },
+  {
+    "id": 88,
+    "kanji": "環",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "surround"
+  },
+  {
+    "id": 89,
+    "kanji": "援",
+    "onyomi": "エン",
+    "kunyomi": "",
+    "meaning": "assistance"
+  },
+  {
+    "id": 90,
+    "kanji": "故",
+    "onyomi": "コ",
+    "kunyomi": "ゆえ reason; deceased",
+    "meaning": "strike"
+  },
+  {
+    "id": 91,
+    "kanji": "幕",
+    "onyomi": "バク   マク",
+    "kunyomi": "",
+    "meaning": "curtain"
+  },
+  {
+    "id": 92,
+    "kanji": "督",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "coach"
+  },
+  {
+    "id": 93,
+    "kanji": "倉",
+    "onyomi": "ソウ",
+    "kunyomi": "くら storehouse",
+    "meaning": "storehouse"
+  },
+  {
+    "id": 94,
+    "kanji": "施",
+    "onyomi": "シ   セ",
+    "kunyomi": "ほどこす to carry out, to give, to bestow",
+    "meaning": "carry out"
+  },
+  {
+    "id": 95,
+    "kanji": "嫌",
+    "onyomi": "ケン   ゲン",
+    "kunyomi": "いや disagreeable   きらう to dislike",
+    "meaning": "disagreeable"
+  },
+  {
+    "id": 96,
+    "kanji": "継",
+    "onyomi": "ケイ",
+    "kunyomi": "つぐ to follow, succeed to, inherit",
+    "meaning": "follow"
+  },
+  {
+    "id": 97,
+    "kanji": "障",
+    "onyomi": "ショウ",
+    "kunyomi": "さわる to hinder, hamper",
+    "meaning": "hinder"
+  },
+  {
+    "id": 98,
+    "kanji": "貴",
+    "onyomi": "キ",
+    "kunyomi": "たっとい   とうとい precious, valuable   たっとぶ   とうとぶ value, esteem, respect",
+    "meaning": "precious"
+  },
+  {
     "id": 99,
     "kanji": "整",
     "onyomi": "セイ",
     "kunyomi": "ととのえる to put in order   ととのう to be put in order, to be prepared",
-    "meaning": "put in order, arrange, adjust"
+    "meaning": "put in order"
+  },
+  {
+    "id": 100,
+    "kanji": "衆",
+    "onyomi": "シュウ   シュ",
+    "kunyomi": "",
+    "meaning": "populace"
+  },
+  {
+    "id": 101,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 102,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 103,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 104,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 105,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 106,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 107,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 108,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 109,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 110,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 111,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 112,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 113,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 114,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 115,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 116,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 117,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 118,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
   },
   {
     "id": 119,
@@ -537,6 +831,13 @@
     "onyomi": "キュウ",
     "kunyomi": "",
     "meaning": "class, rank"
+  },
+  {
+    "id": 120,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
   },
   {
     "id": 283,
