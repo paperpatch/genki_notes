@@ -1226,174 +1226,748 @@
   },
   {
     "id": 176,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "続",
+    "onyomi": "ゾク",
+    "kunyomi": "つづく to continue   つづける to carry on with",
+    "meaning": "continue"
   },
   {
     "id": 177,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "石",
+    "onyomi": "セキ   シャク   コク",
+    "kunyomi": "いし stone",
+    "meaning": "stone"
   },
   {
     "id": 178,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "進",
+    "onyomi": "シン",
+    "kunyomi": "すすむ to advance   すすめる to promote, push",
+    "meaning": "advance"
   },
   {
     "id": 179,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "伝",
+    "onyomi": "デン",
+    "kunyomi": "つたえる to tell, transmit   つたわる to be handed down   つたう to go along",
+    "meaning": "tell"
   },
   {
     "id": 180,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "加",
+    "onyomi": "カ",
+    "kunyomi": "くわえる to add to   くわわる to join, to be added to",
+    "meaning": "add"
   },
   {
     "id": 181,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "助",
+    "onyomi": "ジョ",
+    "kunyomi": "すけ help   たすける to help, save   たすかる to be helped",
+    "meaning": "help"
   },
   {
     "id": 182,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "点",
+    "onyomi": "テン",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "spot"
   },
   {
     "id": 183,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "産",
+    "onyomi": "サン",
+    "kunyomi": "giving birth; products   うむ to give birth to   うまれる to be born   うぶ- newborn",
+    "meaning": "giving birth"
   },
   {
     "id": 184,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "務",
+    "onyomi": "ム",
+    "kunyomi": "つとめる to work   つとまる to be fit for",
+    "meaning": "work"
   },
   {
     "id": 185,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "件",
+    "onyomi": "ケン",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "affair"
   },
   {
     "id": 186,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "命",
+    "onyomi": "メイ   ミョウ",
+    "kunyomi": "life; fate   いのち life",
+    "meaning": "life"
   },
   {
     "id": 187,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "番",
+    "onyomi": "バン",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "turn"
   },
   {
     "id": 188,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "落",
+    "onyomi": "ラク",
+    "kunyomi": "おちる to fall   おとす to drop (something)",
+    "meaning": "fall"
   },
   {
     "id": 189,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "付",
+    "onyomi": "フ",
+    "kunyomi": "つける to put in place, affix   つく to adhere to",
+    "meaning": "put in place"
   },
   {
     "id": 190,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "得",
+    "onyomi": "トク",
+    "kunyomi": "える   うる to acquire",
+    "meaning": "profit"
   },
   {
     "id": 191,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "好",
+    "onyomi": "コウ",
+    "kunyomi": "このむ   すく to like",
+    "meaning": "like"
   },
   {
     "id": 192,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "違",
+    "onyomi": "イ",
+    "kunyomi": "ちがう to be different   ちがえる to change, alter, vary",
+    "meaning": "different"
   },
   {
     "id": 193,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "殺",
+    "onyomi": "サツ   サイ   セツ",
+    "kunyomi": "ころす to kill",
+    "meaning": "kill"
   },
   {
     "id": 194,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "置",
+    "onyomi": "チ",
+    "kunyomi": "おく to put",
+    "meaning": "put"
   },
   {
     "id": 195,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "返",
+    "onyomi": "ヘン",
+    "kunyomi": "かえる to return, to come back   かえす to return (something)",
+    "meaning": "return"
   },
   {
     "id": 196,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "論",
+    "onyomi": "ロン",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "thesis"
   },
   {
     "id": 197,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "際",
+    "onyomi": "サイ",
+    "kunyomi": "きわ   -ぎわ edge",
+    "meaning": "occasion"
   },
   {
     "id": 198,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "歳",
+    "onyomi": "サイ   セイ",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "years old"
   },
   {
     "id": 199,
+    "kanji": "反",
+    "onyomi": "ハン   ホン   タン",
+    "kunyomi": "anti-   そらす to bend, to warp   そる to be warped, curved",
+    "meaning": "anti"
+  },
+  {
+    "id": 200,
+    "kanji": "形",
+    "onyomi": "ケイ   ギョウ",
+    "kunyomi": "かたち   かた    shape, form",
+    "meaning": "shape"
+  },
+  {
+    "id": 201,
     "kanji": "",
     "onyomi": "",
     "kunyomi": "",
     "meaning": ""
   },
   {
-    "id": 200,
+    "id": 202,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 203,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 204,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 205,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 206,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 207,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 208,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 209,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 210,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 211,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 212,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 213,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 214,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 215,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 216,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 217,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 218,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 219,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 220,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 221,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 222,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 223,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 224,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 225,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 226,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 227,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 228,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 229,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 230,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 231,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 232,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 233,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 234,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 235,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 236,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 237,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 238,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 239,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 240,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 241,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 242,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 243,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 244,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 245,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 246,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 247,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 248,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 249,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 250,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 251,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 252,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 253,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 254,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 255,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 256,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 257,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 258,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 259,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 260,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 261,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 262,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 263,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 264,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 265,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 266,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 267,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 268,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 269,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 270,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 271,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 272,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 273,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 274,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 275,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 276,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 277,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 278,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 279,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 280,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 281,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 282,
     "kanji": "",
     "onyomi": "",
     "kunyomi": "",
@@ -1405,6 +1979,615 @@
     "onyomi": "チョウ   テイ",
     "kunyomi": "",
     "meaning": "block, street, ward"
+  },
+  {
+    "id": 284,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 285,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 286,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 287,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 288,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 289,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 290,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 291,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 292,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 293,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 294,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 295,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 296,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 297,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 298,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 299,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 300,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 301,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 302,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 303,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 304,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 305,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 306,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 307,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 308,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 309,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 310,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 311,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 312,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 313,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 314,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 315,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 316,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 317,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 318,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 319,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 320,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 321,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 322,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 323,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 324,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 325,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 326,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 327,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 328,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 329,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 330,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 331,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 332,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 333,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 334,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 335,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 336,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 337,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 338,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 339,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 340,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 341,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 342,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 343,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 344,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 345,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 346,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 347,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 348,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 349,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 350,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 351,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 352,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 353,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 354,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 355,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 356,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 357,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 358,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 359,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 360,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 361,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 362,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 363,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 364,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 365,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 366,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 367,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 368,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 369,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
+  },
+  {
+    "id": 370,
+    "kanji": "",
+    "onyomi": "",
+    "kunyomi": "",
+    "meaning": ""
   },
   {
     "id": 396,
