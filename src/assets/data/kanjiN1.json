@@ -1226,178 +1226,178 @@
   },
   {
     "id": 176,
-    "kanji": "続",
-    "onyomi": "ゾク",
-    "kunyomi": "つづく to continue   つづける to carry on with",
-    "meaning": "continue"
+    "kanji": "露",
+    "onyomi": "ロ   ロウ",
+    "kunyomi": "public, open   つゆ dew",
+    "meaning": "public, dew"
   },
   {
     "id": 177,
-    "kanji": "石",
-    "onyomi": "セキ   シャク   コク",
-    "kunyomi": "いし stone",
-    "meaning": "stone"
+    "kanji": "矢",
+    "onyomi": "シ",
+    "kunyomi": "や arrow",
+    "meaning": "arrow"
   },
   {
     "id": 178,
-    "kanji": "進",
-    "onyomi": "シン",
-    "kunyomi": "すすむ to advance   すすめる to promote, push",
-    "meaning": "advance"
+    "kanji": "握",
+    "onyomi": "アク",
+    "kunyomi": "にぎる to grasp",
+    "meaning": "grasp"
   },
   {
     "id": 179,
-    "kanji": "伝",
-    "onyomi": "デン",
-    "kunyomi": "つたえる to tell, transmit   つたわる to be handed down   つたう to go along",
-    "meaning": "tell"
+    "kanji": "儀",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "meaning": "ceremony"
   },
   {
     "id": 180,
-    "kanji": "加",
-    "onyomi": "カ",
-    "kunyomi": "くわえる to add to   くわわる to join, to be added to",
-    "meaning": "add"
+    "kanji": "聴",
+    "onyomi": "チョウ",
+    "kunyomi": "きく to listen",
+    "meaning": "listen"
   },
   {
     "id": 181,
-    "kanji": "助",
-    "onyomi": "ジョ",
-    "kunyomi": "すけ help   たすける to help, save   たすかる to be helped",
-    "meaning": "help"
+    "kanji": "襲",
+    "onyomi": "シュウ",
+    "kunyomi": "おそう to attack",
+    "meaning": "attack"
   },
   {
     "id": 182,
-    "kanji": "点",
-    "onyomi": "テン",
+    "kanji": "徴",
+    "onyomi": "チョウ",
     "kunyomi": "",
-    "meaning": "spot"
+    "meaning": "sign"
   },
   {
     "id": 183,
-    "kanji": "産",
-    "onyomi": "サン",
-    "kunyomi": "giving birth; products   うむ to give birth to   うまれる to be born   うぶ- newborn",
-    "meaning": "giving birth"
+    "kanji": "丁",
+    "onyomi": "チョウ   テイ",
+    "kunyomi": "",
+    "meaning": "block"
   },
   {
     "id": 184,
-    "kanji": "務",
-    "onyomi": "ム",
-    "kunyomi": "つとめる to work   つとまる to be fit for",
-    "meaning": "work"
+    "kanji": "憲",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "constitution"
   },
   {
     "id": 185,
-    "kanji": "件",
-    "onyomi": "ケン",
+    "kanji": "閣",
+    "onyomi": "カク",
     "kunyomi": "",
-    "meaning": "affair"
+    "meaning": "tower"
   },
   {
     "id": 186,
-    "kanji": "命",
-    "onyomi": "メイ   ミョウ",
-    "kunyomi": "life; fate   いのち life",
-    "meaning": "life"
+    "kanji": "救",
+    "onyomi": "キュウ",
+    "kunyomi": "すくう to rescue, save",
+    "meaning": "rescue"
   },
   {
     "id": 187,
-    "kanji": "番",
-    "onyomi": "バン",
-    "kunyomi": "",
-    "meaning": "turn"
+    "kanji": "陰",
+    "onyomi": "イン",
+    "kunyomi": "かげ shadow   かげる to darken, to get dark",
+    "meaning": "shadow"
   },
   {
     "id": 188,
-    "kanji": "落",
-    "onyomi": "ラク",
-    "kunyomi": "おちる to fall   おとす to drop (something)",
-    "meaning": "fall"
+    "kanji": "繰",
+    "onyomi": "",
+    "kunyomi": "くる to wind, reel, spin",
+    "meaning": "to wind"
   },
   {
     "id": 189,
-    "kanji": "付",
-    "onyomi": "フ",
-    "kunyomi": "つける to put in place, affix   つく to adhere to",
-    "meaning": "put in place"
+    "kanji": "那",
+    "onyomi": "ナ",
+    "kunyomi": "",
+    "meaning": "what?"
   },
   {
     "id": 190,
-    "kanji": "得",
-    "onyomi": "トク",
-    "kunyomi": "える   うる to acquire",
-    "meaning": "profit"
+    "kanji": "操",
+    "onyomi": "ソウ",
+    "kunyomi": "あやつる to control   みさお chastity, faith",
+    "meaning": "control"
   },
   {
     "id": 191,
-    "kanji": "好",
-    "onyomi": "コウ",
-    "kunyomi": "このむ   すく to like",
-    "meaning": "like"
+    "kanji": "騒",
+    "onyomi": "ソウ",
+    "kunyomi": "さわぐ to make a noise",
+    "meaning": "noise"
   },
   {
     "id": 192,
-    "kanji": "違",
-    "onyomi": "イ",
-    "kunyomi": "ちがう to be different   ちがえる to change, alter, vary",
-    "meaning": "different"
+    "kanji": "己",
+    "onyomi": "コ   キ",
+    "kunyomi": "おのれ self",
+    "meaning": "self"
   },
   {
     "id": 193,
-    "kanji": "殺",
-    "onyomi": "サツ   サイ   セツ",
-    "kunyomi": "ころす to kill",
-    "meaning": "kill"
+    "kanji": "魔",
+    "onyomi": "マ",
+    "kunyomi": "",
+    "meaning": "witch"
   },
   {
     "id": 194,
-    "kanji": "置",
-    "onyomi": "チ",
-    "kunyomi": "おく to put",
-    "meaning": "put"
+    "kanji": "撮",
+    "onyomi": "サツ",
+    "kunyomi": "とる to take (a picture)",
+    "meaning": "take a picture"
   },
   {
     "id": 195,
-    "kanji": "返",
-    "onyomi": "ヘン",
-    "kunyomi": "かえる to return, to come back   かえす to return (something)",
-    "meaning": "return"
+    "kanji": "携",
+    "onyomi": "ケイ",
+    "kunyomi": "たずさえる to carry in one's hands   たずさわる to engage in",
+    "meaning": "carry"
   },
   {
     "id": 196,
-    "kanji": "論",
-    "onyomi": "ロン",
-    "kunyomi": "",
-    "meaning": "thesis"
+    "kanji": "隣",
+    "onyomi": "リン",
+    "kunyomi": "となり next door, neighboring   となる to neighbor",
+    "meaning": "next door"
   },
   {
     "id": 197,
-    "kanji": "際",
-    "onyomi": "サイ",
-    "kunyomi": "きわ   -ぎわ edge",
-    "meaning": "occasion"
+    "kanji": "宣",
+    "onyomi": "セン",
+    "kunyomi": "",
+    "meaning": "announcement"
   },
   {
     "id": 198,
-    "kanji": "歳",
-    "onyomi": "サイ   セイ",
-    "kunyomi": "",
-    "meaning": "years old"
+    "kanji": "遣",
+    "onyomi": "ケン",
+    "kunyomi": "つかう to use, to employ   つかわす to dispatch",
+    "meaning": "use"
   },
   {
     "id": 199,
-    "kanji": "反",
-    "onyomi": "ハン   ホン   タン",
-    "kunyomi": "anti-   そらす to bend, to warp   そる to be warped, curved",
-    "meaning": "anti"
+    "kanji": "訴",
+    "onyomi": "ソ",
+    "kunyomi": "うったえる to accuse, to sue; to appeal to, to resort to",
+    "meaning": "accuse"
   },
   {
     "id": 200,
-    "kanji": "形",
-    "onyomi": "ケイ   ギョウ",
-    "kunyomi": "かたち   かた    shape, form",
-    "meaning": "shape"
+    "kanji": "茂",
+    "onyomi": "モ",
+    "kunyomi": "しげる to grow thickly",
+    "meaning": "overgrown"
   },
   {
     "id": 201,
