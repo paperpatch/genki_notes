@@ -4677,52 +4677,52 @@
   },
   {
     "id": 669,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
-  },
-  {
-    "id": 670,
     "kanji": "拍",
     "onyomi": "ハク   ヒョウ",
     "kunyomi": "",
     "meaning": "clap"
   },
   {
-    "id": 671,
+    "id": 670,
     "kanji": "稽",
     "onyomi": "ケイ",
     "kunyomi": "",
     "meaning": "think"
   },
   {
+    "id": 671,
+    "kanji": "礎",
+    "onyomi": "ソ",
+    "kunyomi": "いしずえ cornerstone, foundation",
+    "meaning": "cornerstone"
+  },
+  {
     "id": 672,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "遭",
+    "onyomi": "ソウ",
+    "kunyomi": "あう to meet (often with negative nuance); to encounter",
+    "meaning": "meet"
   },
   {
     "id": 673,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "掌",
+    "onyomi": "ショウ",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "palm"
   },
   {
     "id": 674,
-    "kanji": "",
+    "kanji": "鍋",
     "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kunyomi": "なべ pot",
+    "meaning": "pot"
   },
   {
     "id": 675,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "弓",
+    "onyomi": "キュウ",
+    "kunyomi": "ゆみ a bow",
+    "meaning": "bow"
   },
   {
     "id": 676,
