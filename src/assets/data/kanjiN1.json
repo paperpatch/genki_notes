@@ -5321,108 +5321,108 @@
   },
   {
     "id": 761,
-    "kanji": "珠",
-    "onyomi": "シュ",
-    "kunyomi": "",
-    "meaning": "pearl"
-  },
-  {
-    "id": 762,
-    "kanji": "蓄",
-    "onyomi": "チク",
-    "kunyomi": "",
-    "meaning": "store"
-  },
-  {
-    "id": 763,
-    "kanji": "拓",
-    "onyomi": "タク",
-    "kunyomi": "",
-    "meaning": "clear the way"
-  },
-  {
-    "id": 764,
-    "kanji": "鼓",
-    "onyomi": "コ",
-    "kunyomi": "",
-    "meaning": "hand drum"
-  },
-  {
-    "id": 765,
     "kanji": "謙",
     "onyomi": "ケン",
     "kunyomi": "",
     "meaning": "self-effacing"
   },
   {
-    "id": 766,
+    "id": 762,
     "kanji": "珠",
     "onyomi": "シュ",
     "kunyomi": "",
     "meaning": "pearl"
   },
   {
-    "id": 767,
+    "id": 763,
     "kanji": "蓄",
     "onyomi": "チク",
-    "kunyomi": "たくわえる to store, to save",
+    "kunyomi": "",
     "meaning": "store"
   },
   {
-    "id": 768,
+    "id": 764,
     "kanji": "拓",
     "onyomi": "タク",
     "kunyomi": "",
     "meaning": "clear the way"
   },
   {
+    "id": 765,
+    "kanji": "鼓",
+    "onyomi": "コ",
+    "kunyomi": "",
+    "meaning": "hand drum"
+  },
+  {
+    "id": 766,
+    "kanji": "謙",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "self-effacing"
+  },
+  {
+    "id": 767,
+    "kanji": "珠",
+    "onyomi": "シュ",
+    "kunyomi": "",
+    "meaning": "pearl"
+  },
+  {
+    "id": 768,
+    "kanji": "蓄",
+    "onyomi": "チク",
+    "kunyomi": "たくわえる to store, to save",
+    "meaning": "store"
+  },
+  {
     "id": 769,
+    "kanji": "拓",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "clear the way"
+  },
+  {
+    "id": 770,
     "kanji": "鼓",
     "onyomi": "コ",
     "kunyomi": "つづみ hand drum",
     "meaning": "hand drum"
   },
   {
-    "id": 770,
+    "id": 771,
     "kanji": "粋",
     "onyomi": "スイ",
     "kunyomi": "purity, essence, elegance   いき chic, style",
     "meaning": "purity"
   },
-    {
-    "id": 771,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
-  },
   {
     "id": 772,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "尉",
+    "onyomi": "イ",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "military officer"
   },
   {
     "id": 773,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "后",
+    "onyomi": "コウ",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "empress"
   },
   {
     "id": 774,
-    "kanji": "",
-    "onyomi": "",
-    "kunyomi": "",
-    "meaning": ""
+    "kanji": "粘",
+    "onyomi": "ネン",
+    "kunyomi": "ねばる to be sticky, tenacious",
+    "meaning": "sticky"
   },
   {
     "id": 775,
-    "kanji": "",
-    "onyomi": "",
+    "kanji": "披",
+    "onyomi": "ヒ",
     "kunyomi": "",
-    "meaning": ""
+    "meaning": "exposed"
   },
   {
     "id": 776,
